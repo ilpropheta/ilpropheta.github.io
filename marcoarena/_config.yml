@@ -1,0 +1,13 @@
+# Site settings
+title: Marco Arena
+email: marco@italiancpp.org
+description: > # this means to ignore newlines until "baseurl:"
+  Some pages about Marco Arena.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://italiancpp.org" # the base hostname & protocol for your site
+twitter_username: italiancpp
+github_username:  ilpropheta
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
