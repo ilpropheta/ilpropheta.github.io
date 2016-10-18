@@ -16,7 +16,7 @@ Here is a professional list of my past and current activities (**sorted from the
 
 For most of the day, my C++ has been serving an **Italian Formula 1 Racing Team** since 2011.
 
-Apart from private life, I love spending time (and some nights) on other activities I’m trying to collect here. Summing them up:
+Apart from private life, I love spending time (and nights) on other activities I’m collecting here:
 
  - I have shaped [++it, the Italian C++ Community](http://italiancpp.org/), or the C++ landmark in Italy. I moderate the online community, I organize events, meetups, etc.
 
@@ -24,11 +24,11 @@ Apart from private life, I love spending time (and some nights) on other activit
  
  - I love experimenting and prototying – here is my [GitHub page](http://github.com/ilpropheta/).
 
- - I often [blog](http://marcoarena.wordpress.com) and [speak](#talks-workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*.
+ - I often [blog](http://marcoarena.wordpress.com) and [speak](#talks-workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay* and *Future Decoded*.
  
  - In 2016 Microsoft gave me the **MVP award** for [my activies related to Visual C++](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
  
- - In the last 2 years, I’ve turned into a **Competitive Programming** aficionado. Here is my [HackerRank profile](https://www.hackerrank.com/ilpropheta). Related: I also moderate collaborative programming puzzles evening and workshops.
+ - In the last years, I’ve turned into a **Competitive Programming** aficionado. Here is my [HackerRank profile](https://www.hackerrank.com/ilpropheta). To share this passion, I  moderate collaborative [coding dojos](#coding-dojos) at local user group meetings.
 
 ___
 My activites:
@@ -58,7 +58,12 @@ For an overview of the feedback I got check out my [Joind.in public profile](htt
 Speaking to 150+ people at Codemotion Milan 2015
 
 ###2016
-**[With great C++ comes great responsibility](http://www.italiancpp.org/eventi/sessioni-conference-2016/#responsibility)** (60')
+**[Cambiamo il C++ con Microsoft GSL & Guidelines Checkers](www.communitydays.it/events/2016/dev06/)** (60')
+[Full description and demo project](https://github.com/ilpropheta/giesseelle).
+30+ attendees. 
+@[Future Decoded 2016](https://www.microsoft.com/italy/futuredecoded) -- October 2016/Milan (Italy)
+
+*[With great C++ comes great responsibility](http://www.italiancpp.org/eventi/sessioni-conference-2016/#responsibility)** (60')
 100+ attendees. [Feedback <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>](https://joind.in/event/italian-c-conference-2016/da-un-grande-c-derivano-grandi-responsabilit)
 @[Italian C++ Conference 2016](http://www.italiancpp.org/event/conference-2016/) -- May 2016/Milan (Italy)
 
