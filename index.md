@@ -58,44 +58,57 @@ For an overview of the feedback I got check out my [Joind.in public profile](htt
 Speaking to 150+ people at Codemotion Milan 2015
 
 ###2016
+**[C++17 for the daily job](http://www.italiancpp.org/sessioni-cppday16/#cpp17)** (60')
+[Slides in ENG](http://www.italiancpp.org/wp-content/uploads/2016/10/Cpp17-for-the-daily-job.pdf)
+80+ attendees
+@[C++ Day 2016](italiancpp.org/event/cppday16) -- October 2016/Florence (Italy)
+
 **[Cambiamo il C++ con Microsoft GSL & Guidelines Checkers](www.communitydays.it/events/2016/dev06/)** (60')
-[Full description and demo project](https://github.com/ilpropheta/giesseelle).
-30+ attendees. 
+[Full description and demo project](https://github.com/ilpropheta/giesseelle)
+30+ attendees
 @[Future Decoded 2016](https://www.microsoft.com/italy/futuredecoded) -- October 2016/Milan (Italy)
 
-*[With great C++ comes great responsibility](http://www.italiancpp.org/eventi/sessioni-conference-2016/#responsibility)** (60')
+**[With great C++ comes great responsibility](http://www.italiancpp.org/eventi/sessioni-conference-2016/#responsibility)** (60')
+[Slides in ENG](http://www.italiancpp.org/wp-content/uploads/2016/05/Marco-Arena-With-great-C-comes-great-responsibility.pdf)
 100+ attendees. [Feedback <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>](https://joind.in/event/italian-c-conference-2016/da-un-grande-c-derivano-grandi-responsabilit)
 @[Italian C++ Conference 2016](http://www.italiancpp.org/event/conference-2016/) -- May 2016/Milan (Italy)
 
 **[Grafici bellissimi plug & play](http://www.qtday.it/events/arena/)** (60')
-30+ attendees. 
+About how to use [QCustomPlot](qcustomplot.com/) ([demo project shown](https://github.com/ilpropheta/anvedi))
+30+ attendees
 @[QtDay 2016](http://www.qtday.it) -- April 2016/Florence (Italy)
 
 ###2015
 
 **[Perché nel 2015 parliamo ancora di C++?](http://milan2015.codemotionworld.com/talk-detail/?detail=1785)** (60')
+*C++ in 2015. Why should we still care about?*
 150+ attendees. [Feedback <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>](https://joind.in/event/codemotion-milan-2015/perch-nel-2015-parliamo-ancora-di-c)
 @[Codemotion Milan 2015](http://milan2015.codemotionworld.com/) -- November 2015/Milan (Italy)
 
 **[\[Workshop\] C++ dal '90 ad oggi](http://www.communitydays.it/events/2014/cpp01/)** (120')
+*Refactoring legacy C++ code to modern C++.*
 25+ attendees. Co-Speaker: [Marco Foco](https://twitter.com/marcofoco)
 @[Microsoft Community Days 2015](http://www.communitydays.it/events/2015) – March 2015/Milan (Italy)
 
 **[Perché nel 2015 parliamo ancora di C++?](http://www.italiancpp.org/eventi/dettagli-meetup-pordenone-2015/#keynote)** (90')
+*C++ in 2015. Why should we still care about?*
 80+ attendees. [Feedback <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>](https://joind.in/event/italian-c-community-meetup-pordenone/keynote-perch-nel-2015-parliamo-ancora-di-c)
 @[Italian C++ Community Meetup](http://italiancpp.org/event/meetup-pordenone-2015/) -- February 2015/Pordenone (Italy)
 
 ###2014
 
 **[\[Workshop\] C++ from '90 to '14](http://www.agileday.it/front/sessioni-2014/#c_piu_piu)** (120')
+*Refactoring legacy C++ code to modern C++.*
 25+ attendees. Co-Speakers: [Gianluca Padovani](https://twitter.com/GPad619), [Marco Foco](https://twitter.com/marcofoco)
 @[Italian Agile Day 2014](http://www.agileday.it/2014/) – November 2014/Ancona (Italy)
 
 **[Meet the Rule of Zero](http://www.italiancpp.org/eventi/dettagli-meetup-bologna-2014/#zero)** (60′)
+[Slides in ENG](http://www.italiancpp.org/wp-content/uploads/2014/11/Meet-the-Rule-of-Zero-Marco-Arena.pptx)
 50+ attendees. [Feedback <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>](https://joind.in/event/italian-c-community-meetup-bologna/meet-the-rule-of-zero)
 @[Italian C++ Community Meetup](http://www.italiancpp.org/event/meetup-bologna-2014/) – November 2014/Bologna (Italy)
 
 **[Il nuovo C++? Torniamo alle basi](http://www.communitydays.it/events/2014-Roma/cpp01/)** (60′)
+*The new C++? Let's go back to basics*
 20+ attendees.
  @[Microsoft Community Days Rome 2014](http://www.communitydays.it/events/2014-Roma/) – September 2014/Rome (Italy)
 
@@ -119,13 +132,55 @@ As the leader of the [Italian C++ Community](http://italiancpp.org/), I coordina
 
 ###2016
 
+####[C++ Day 2016](www.italiancpp.org/event/cppday16)
+
+<img src="http://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/06/DSC01377.jpg?resize=600%2C450" alt="C++ Day 2016" width="600">
+
+Florence, October 2016.
+
+The 1st edition of the **C++ Day**, an event fully dedicated to C++ made by the Italian C++ Community. The event took place at Hotel Londra, in Florence. 
+
+Sponsors: [Develer](http://develer.com) and [Soft 2000](http://soft2000sas.it)
+**80+ attendees** (100+ registered people - ~20% drop).
+
+[Pictures on Facebook](https://www.facebook.com/photo.php?fbid=10154194953011057&set=oa.793589927442664&type=3&theater)
+
+Information are also on isocpp.org: https://isocpp.org/blog/2016/10/cpday16
+
+My staff included: Raffaele RIaldi, Franco Milicchio, Stefano Saraulli, Gian Lorenzo Meocci, Marco Foco.
+
+**Highlights:**
+
+- 6x60' talks
+- 1x45' Q/A panel
+- 1x60' coding dojo
+- 1x135' workshop
+- Networking breaks and lunch.
+
+**Topics:**
+
+- C++17: what's new for the daily job
+- High Performance Streaming with Kafka & C++
+- Qt Graphics Stack
+- Data Oriented Design in C++
+- Modern C++ for the Windows Runtime (probably the first public talk about this topic after Kenny Kerr's one at CppCon!)
+- API Design
+
+
+Additional references:
+
+- [Wrap-up article](http://www.italiancpp.org/2016/11/04/cppday16/)
+- [Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LW9rB8rKxV0WNP6hNIUgjI4)
+
+
 ####[Italian C++ Conference 2016](www.italiancpp.org/event/conference-2016/)
 
-<img src="https://scontent-frt3-1.xx.fbcdn.net/t31.0-8/13064633_10154195051711057_1396556734127202012_o.jpg" alt="Italian C++ Conference 2016" width="600">
+<img src="http://i2.wp.com/scontent-frt3-1.xx.fbcdn.net/t31.0-8/13064633_10154195051711057_1396556734127202012_o.jpg?resize=610%2C407&ssl=1" alt="Italian C++ Conference 2016" width="600">
 
 Milan, May 2016. [Feedback](http://joind.in/event/italian-c-conference-2016/schedule).
 
 The 1st edition of the **Italian C++ Conference**, the first and only Italian conference fully dedicated to C++. The event took place at University "Bicocca". 
+
 Special guest: [James McNellis](https://twitter.com/JamesMcNellis)
 Sponsor: [RogueWave Software](http://roguewave.com)
 **100+ attendees** (130+ registered people - ~22% drop).
@@ -182,7 +237,7 @@ Co-organizer: [Franco Milicchio](http://fmilicchio.bitbucket.org/)
 
 ####[Italian C++ Community Meetup Florence](http://www.italiancpp.org/event/meetup-firenze-2015)
 
-<img src="https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/10660264_10153446874931057_5306211327490024817_n.jpg?oh=529c03bb087cf3e8cbd992b0fbc549c3&oe=57DE24B6" alt="Italian C++ Meetup Florence 2015" width="600">
+<img src="http://i0.wp.com/www.italiancpp.org/wp-content/uploads/2015/03/WP_001479.jpg?w=718" alt="Italian C++ Meetup Florence 2015" width="600">
 
 Florence, June 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-firenze/details).
 Co-Organizer: [Mena Marotta](https://www.develer.com/) (Develer srl)
@@ -293,9 +348,11 @@ Attendees work in pair to solve three programming challenges I propose at the me
 Popular posts
 -------------
 
-In **2012**, I was the first Italian at publishing articles on [isocpp.org](http://isocpp.org/), the official C++ Standard Foundation website. 
+In **2012**, I was the first Italian who published articles on [isocpp.org](http://isocpp.org/), the official C++ Standard Foundation website. 
 
 In **2014** I have joined the staff of isocpp.org editors and I have started helping to moderate the international C++ online community.
+
+My professional blogging activity started in **2011**.
 
 ###isocpp.org Publications
 
@@ -361,4 +418,4 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 ----
 
-*Last Update*: **October 2016**
+*Last Update*: **November 2016**
