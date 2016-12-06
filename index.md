@@ -2,7 +2,7 @@ Marco Arena in action
 =======
 
 
-Here is a professional list of my past and current activities (**sorted from the newest**). For further detail of each activity please follow the corresponding link.
+Here is a professional list of my past and current activities (**sorted from the newest**). For further detail of each activity please open the corresponding link.
 
 **Quick links:**
 
@@ -16,9 +16,9 @@ Here is a professional list of my past and current activities (**sorted from the
 
 For most of the day, my C++ has been serving an **Italian Formula 1 Racing Team** since 2011.
 
-Apart from private life, I love spending time (and nights) on other activities I’m collecting here:
+Apart from private life, I love spending time (and nights) on other activities I’m gathering here:
 
- - I have shaped [++it, the Italian C++ Community](http://italiancpp.org/), or the C++ landmark in Italy. I moderate the online community, I organize events, meetups, etc.
+ - I have shaped [++it, the Italian C++ Community](http://italiancpp.org/), or the C++ landmark in Italy. I moderate the online community, I organize events and meetups, etc.
 
  - I have been an **editor** of [isocpp.org](http://isocpp.org/) since 2014. I help moderate the International C++ online community.
  
@@ -46,25 +46,25 @@ Talks & Workshops
 
 > Feedback by **Andrea Baruzzo** at **Meetup Pordenone 2015**
 
-I love telling *stories*. I spice up my stories with some **humor** and I try to **interact** a lot with my attendees. My stories are not only about *technical* things but also about *personal development* and lessons I learned.
+I love telling *stories* which I spice up with **humor**, **interacting** with people attending. My stories are not only about *technical* things but also about *personal development* and lessons I have learned.
 
-I have given talks at many famous events, such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*.
+I have given talks at many famous events, such as *Microsoft Community Days*, *Future Decoded*, *Italian Agile Day*, *Codemotion*, *QtDay*. I have also spoken at events made by my own community, the *Italian C++ Community*.
 
-Whenever possible **feedback and rating** (generally from 1 to 5 <i class="icon-star"></i>) I got for the corresponding talk are linked. 
+Whenever possible, I link the public **feedback and rating** (generally from 1 to 5 <i class="icon-star"></i>) I have got for the corresponding talk. 
 
-For an overview of the feedback I got check out my [Joind.in public profile](https://joind.in/user/ilpropheta).
+For an overview of the public feedback I have got check out my [Joind.in public profile](https://joind.in/user/ilpropheta).
 
 <img src="http://i1.wp.com/www.italiancpp.org/wp-content/uploads/2015/11/C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved-Images_12273560_1026450354043939_1786806679044325217_o.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600">
-Speaking to 150+ people at Codemotion Milan 2015
+Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ###2016
 **[C++17 for the daily job](http://www.italiancpp.org/sessioni-cppday16/#cpp17)** (60')
 [Slides in ENG](http://www.italiancpp.org/wp-content/uploads/2016/10/Cpp17-for-the-daily-job.pdf)
 80+ attendees
-@[C++ Day 2016](italiancpp.org/event/cppday16) -- October 2016/Florence (Italy)
+@[C++ Day 2016](http://italiancpp.org/event/cppday16) -- October 2016/Florence (Italy)
 
-**[Cambiamo il C++ con Microsoft GSL & Guidelines Checkers](www.communitydays.it/events/2016/dev06/)** (60')
-[Full description and demo project](https://github.com/ilpropheta/giesseelle)
+**[Cambiamo il C++ con Microsoft GSL & Guidelines Checkers](http://www.communitydays.it/events/2016/dev06/)** (60')
+[Full description and demo project in ENG](https://github.com/ilpropheta/giesseelle)
 30+ attendees
 @[Future Decoded 2016](https://www.microsoft.com/italy/futuredecoded) -- October 2016/Milan (Italy)
 
@@ -74,7 +74,7 @@ Speaking to 150+ people at Codemotion Milan 2015
 @[Italian C++ Conference 2016](http://www.italiancpp.org/event/conference-2016/) -- May 2016/Milan (Italy)
 
 **[Grafici bellissimi plug & play](http://www.qtday.it/events/arena/)** (60')
-About how to use [QCustomPlot](qcustomplot.com/) ([demo project shown](https://github.com/ilpropheta/anvedi))
+About how to use [QCustomPlot](http://qcustomplot.com/) ([demo project shown](https://github.com/ilpropheta/anvedi))
 30+ attendees
 @[QtDay 2016](http://www.qtday.it) -- April 2016/Florence (Italy)
 
@@ -359,6 +359,8 @@ My professional blogging activity started in **2011**.
 ###isocpp.org Publications
 
 Some of my blog posts from my [tech blog](https://marcoarena.wordpress.com) have been published also on isocpp.org:
+
+- [Peeking into the latest ISO C++ Standard Meeting for a half-day](https://isocpp.org/blog/2016/11/peeking-into-the-latest-iso-cpp-standard-meeting-for-a-half-day-marco-arena) -- November **2016**
 
 - [C++ in Competitive Programming (blog series)](https://isocpp.org/search/google?q=competitive%20programming) -- since February **2016**
 
