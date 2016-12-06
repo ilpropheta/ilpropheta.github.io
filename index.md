@@ -132,7 +132,7 @@ As the leader of the [Italian C++ Community](http://italiancpp.org/), I coordina
 
 ###2016
 
-####[C++ Day 2016](www.italiancpp.org/event/cppday16)
+####[C++ Day 2016](http://www.italiancpp.org/event/cppday16)
 
 <img src="http://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/06/DSC01377.jpg?resize=600%2C450" alt="C++ Day 2016" width="600">
 
@@ -173,7 +173,7 @@ Additional references:
 - [Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LW9rB8rKxV0WNP6hNIUgjI4)
 
 
-####[Italian C++ Conference 2016](www.italiancpp.org/event/conference-2016/)
+####[Italian C++ Conference 2016](http://www.italiancpp.org/event/conference-2016/)
 
 <img src="http://i2.wp.com/scontent-frt3-1.xx.fbcdn.net/t31.0-8/13064633_10154195051711057_1396556734127202012_o.jpg?resize=610%2C407&ssl=1" alt="Italian C++ Conference 2016" width="600">
 
@@ -343,6 +343,8 @@ Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-
 Since **2016** I have started organizing monthly **Coding Dojos** hosted by local user groups (e.g. [XPUG Bologna](http://www.eventbrite.it/e/biglietti-incontro-di-febbraio-xpug-bologna-21448465939) and [LUG Modena "Conoscere Linux"](http://conoscerelinux.org/category/coding/)). 
 
 Attendees work in pair to solve three programming challenges I propose at the meeting. After 30' I moderate a 10-15' retrospective and at the end of the event I summarize the lessons learned.
+
+[Here is the list](http://www.italiancpp.org/coding-dojos/) of the previous and next coding dojos I have organized.
 
 ---
 Popular posts
