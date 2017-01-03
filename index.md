@@ -360,6 +360,8 @@ My professional blogging activity started in **2011**.
 
 Some of my blog posts from my [tech blog](https://marcoarena.wordpress.com) have been published also on isocpp.org:
 
+- [string_view odi et amo](https://isocpp.org/blog/2017/01/string-view-odi-et-amo) -- January **2017**
+
 - [Peeking into the latest ISO C++ Standard Meeting for a half-day](https://isocpp.org/blog/2016/11/peeking-into-the-latest-iso-cpp-standard-meeting-for-a-half-day-marco-arena) -- November **2016**
 
 - [C++ in Competitive Programming (blog series)](https://isocpp.org/search/google?q=competitive%20programming) -- since February **2016**
