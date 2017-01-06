@@ -1,6 +1,7 @@
 Marco Arena in action
 =======
 
+<img src="https://github.com/ilpropheta/ilpropheta.github.io/blob/master/me.png?raw=true" alt="Modena Coding Dojo" width="200">
 
 Here is a professional list of my past and current activities (**sorted from the newest**). For further detail of each activity please open the corresponding link.
 
@@ -26,7 +27,7 @@ Apart from private life, I love spending time (and nights) on other activities I
 
  - I often [blog](http://marcoarena.wordpress.com) and [speak](#talks-workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay* and *Future Decoded*.
  
- - In 2016 Microsoft gave me the **MVP award** for [my activies related to Visual C++](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
+ - In 2016 and 2017 Microsoft gave me the **MVP award** for [my activies related to Visual C++](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
  
  - In the last years, I’ve turned into a **Competitive Programming** aficionado. Here is my [HackerRank profile](https://www.hackerrank.com/ilpropheta). To share this passion, I  moderate collaborative [coding dojos](#coding-dojos) at local user group meetings.
 
@@ -175,7 +176,7 @@ Additional references:
 
 ####[Italian C++ Conference 2016](http://www.italiancpp.org/event/conference-2016/)
 
-<img src="http://i2.wp.com/scontent-frt3-1.xx.fbcdn.net/t31.0-8/13064633_10154195051711057_1396556734127202012_o.jpg?resize=610%2C407&ssl=1" alt="Italian C++ Conference 2016" width="600">
+<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/05/DSC_2600.jpg?resize=768%2C512" alt="Italian C++ Conference 2016" width="600">
 
 Milan, May 2016. [Feedback](http://joind.in/event/italian-c-conference-2016/schedule).
 
@@ -215,7 +216,7 @@ Additional references:
 
 ####[Italian C++ Community Meetup Rome](http://www.italiancpp.org/event/meetup-roma-2015)
 
-<img src="https://scontent-frt3-1.xx.fbcdn.net/t31.0-8/12028760_10153718596866057_2177107785573433435_o.jpg" alt="Italian C++ Meetup Rome 2015" width="600">
+<img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/11988392_10153718634416057_7565035884289304660_n.jpg?oh=9c1645261a5d62f677ea9faef25742ec&oe=591C6B88" alt="Italian C++ Meetup Rome 2015" width="600">
 
 Rome, October 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-roma/details).
 Co-organizer: [Franco Milicchio](http://fmilicchio.bitbucket.org/)
@@ -265,7 +266,7 @@ Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).
 
 ####[Italian C++ Community Meetup Pordenone](http://www.italiancpp.org/event/meetup-pordenone-2015)
 
-<img src="https://scontent-frt3-1.xx.fbcdn.net/t31.0-8/s960x960/10981369_10153114852666057_33286398354028885_o.jpg" alt="Italian C++ Meetup Pordenone 2015" width="600">
+<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2014/11/20150207_091856.jpg?resize=600%2C337" alt="Italian C++ Meetup Pordenone 2015" width="600">
 
 Pordenone, February 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-pordenone/details).
 Co-Organizer: [Marco Parenzan](https://twitter.com/marco_parenzan)
@@ -295,7 +296,7 @@ Co-Organizer: [Marco Parenzan](https://twitter.com/marco_parenzan)
 
 ####[Italian C++ Community Meetup Bologna](http://www.italiancpp.org/event/meetup-bologna-2014/)
 
-<img src="https://scontent-frt3-1.xx.fbcdn.net/t31.0-8/10710297_10152888837921057_6920741317633427530_o.jpg" alt="Italian C++ Meetup Bologna 2014" width="600">
+<img src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2014/09/panoramica.jpg?w=1024" alt="Italian C++ Meetup Bologna 2014" width="600">
 
 Bologna, November 2014. [Feedback](https://joind.in/event/italian-c-community-meetup-bologna/details).
 Co-Organizer: [Gianluca Padovani](https://twitter.com/GPad619)
@@ -318,7 +319,7 @@ Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).
 
 ####[Italian C++ Community Meetup Milan](http://www.italiancpp.org/event/meetup-milano/)
 
-<img src="https://scontent-frt3-1.xx.fbcdn.net/t31.0-8/1907801_10152577306611057_938914791478651912_o.jpg" alt="Italian C++ Meetup Milan 2014" width="600">
+<img src="https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/06/meetup-people.jpg?resize=1024%2C683" alt="Italian C++ Meetup Milan 2014" width="600">
 
 Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-milano/details)
 **30+ attendees.** 
@@ -338,7 +339,7 @@ Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-
 
 ###Coding Dojos
 
-<img src="https://scontent-frt3-1.xx.fbcdn.net/t31.0-8/13047736_10154142653056057_6952303036440369864_o.jpg" alt="Modena Coding Dojo" width="600">
+<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/04/WP_20161130_21_59_49_Pro.jpg?fit=1146%2C440" alt="Modena Coding Dojo" width="600">
 
 Since **2016** I have started organizing monthly **Coding Dojos** hosted by local user groups (e.g. [XPUG Bologna](http://www.eventbrite.it/e/biglietti-incontro-di-febbraio-xpug-bologna-21448465939) and [LUG Modena "Conoscere Linux"](http://conoscerelinux.org/category/coding/)). 
 
