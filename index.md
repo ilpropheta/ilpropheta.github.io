@@ -58,6 +58,12 @@ For an overview of the public feedback I have got check out my [Joind.in public 
 <img src="http://i1.wp.com/www.italiancpp.org/wp-content/uploads/2015/11/C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved-Images_12273560_1026450354043939_1786806679044325217_o.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600">
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
+###2017
+**[Interactive discussion: C++17 for the daily job](http://www.italiancpp.org/sessioni-cppday16/#cpp17)** (120')
+[Contents and examples](http://italiancpp.org/cpp17)
+16+ attendees
+@[Mini-Meetup February / Modena](http://italiancpp.org/event/meetup-febbraio2017) -- February 2017/Modena (Italy)
+
 ###2016
 **[C++17 for the daily job](http://www.italiancpp.org/sessioni-cppday16/#cpp17)** (60')
 [Slides in ENG](http://www.italiancpp.org/wp-content/uploads/2016/10/Cpp17-for-the-daily-job.pdf)
@@ -130,6 +136,20 @@ Meetups & Events
 -------------------
 
 As the leader of the [Italian C++ Community](http://italiancpp.org/), I coordinate the organization of meetups and events and I support other user groups and conferences.
+
+###2017
+
+####[Mini-Meetup February / Modena](www.italiancpp.org/event/meetup-febbraio2017/)
+
+<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2017/01/IMG_4476.jpg?fit=1460%2C721" alt="Mini-Meetup Modena Feb 2017" width="600">
+
+Modena, February 2017.
+
+I moderated the first "evening mini-meetup" of the Italian C++ Community, hosted by [Conoscere Linux](http://conoscerelinux.org), in Modena.
+**16+ attendees**.
+
+I moderated an interactive discussion on **C++17 for the daily job**, by showing live examples of the most interesting features of C++17 online-compiled and run on GCC, Clang and Visual C++. 
+I wrapped up the contents [here](http://italiancpp.org/cpp17).
 
 ###2016
 
@@ -337,13 +357,15 @@ Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-
 - C++ lambdas
 - Functional Programming in C++
 
-###Coding Dojos
+###Coding Dojos/Coding Gyms
 
 <img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/04/WP_20161130_21_59_49_Pro.jpg?fit=1146%2C440" alt="Modena Coding Dojo" width="600">
 
 Since **2016** I have started organizing monthly **Coding Dojos** hosted by local user groups (e.g. [XPUG Bologna](http://www.eventbrite.it/e/biglietti-incontro-di-febbraio-xpug-bologna-21448465939) and [LUG Modena "Conoscere Linux"](http://conoscerelinux.org/category/coding/)). 
 
 Attendees work in pair to solve three programming challenges I propose at the meeting. After 30' I moderate a 10-15' retrospective and at the end of the event I summarize the lessons learned.
+
+In **March 2017** "Coding Dojos" turned to "**Coding Gyms**", in order not to confuse with "Coder Dojos" for children.
 
 [Here is the list](http://www.italiancpp.org/coding-dojos/) of the previous and next coding dojos I have organized.
 
@@ -425,4 +447,4 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 ----
 
-*Last Update*: **January 2017**
+*Last Update*: **March 2017**
