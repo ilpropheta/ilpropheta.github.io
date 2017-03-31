@@ -139,6 +139,18 @@ As the leader of the [Italian C++ Community](http://italiancpp.org/), I coordina
 
 ###2017
 
+####[Mini-Meetup March / Bologna](www.italiancpp.org/event/meetup-marzo2017/)
+
+<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2017/01/IMG_20170321_191845.jpg?fit=1146%2C482" alt="Mini-Meetup Modena Feb 2017" width="600">
+
+Bologna, March 2017.
+
+I moderated an "evening mini-meetup" of the Italian C++ Community, hosted by [XPUG Bologna](https://www.eventbrite.it/o/xpug-bologna-8536358133), in Bologna.
+**20+ attendees**.
+
+I moderated an interactive discussion on **C++17 for the daily job**, by showing live examples of the most interesting features of C++17 online-compiled and run on GCC, Clang and Visual C++. 
+I wrapped up the contents [here](http://italiancpp.org/cpp17).
+
 ####[Mini-Meetup February / Modena](www.italiancpp.org/event/meetup-febbraio2017/)
 
 <img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2017/01/IMG_4476.jpg?fit=1460%2C721" alt="Mini-Meetup Modena Feb 2017" width="600">
@@ -373,9 +385,9 @@ In **March 2017** "Coding Dojos" turned to "**Coding Gyms**", in order not to co
 Popular posts
 -------------
 
-In **2012**, I was the first Italian who published articles on [isocpp.org](http://isocpp.org/), the official C++ Standard Foundation website. 
+In **2012**, I was the first Italian to publish an article on [isocpp.org](http://isocpp.org/), the official C++ Standard Foundation website. 
 
-In **2014** I have joined the staff of isocpp.org editors and I have started helping to moderate the international C++ online community.
+Since **2014** I have joined the staff of isocpp.org editors and I have started helping to moderate the international C++ online community.
 
 My professional blogging activity started in **2011**.
 
