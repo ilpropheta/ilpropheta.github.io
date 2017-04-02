@@ -139,7 +139,7 @@ As the leader of the [Italian C++ Community](http://italiancpp.org/), I coordina
 
 ###2017
 
-####[Mini-Meetup March / Bologna](www.italiancpp.org/event/meetup-marzo2017/)
+####[Mini-Meetup March / Bologna](http://www.italiancpp.org/event/meetup-marzo2017/)
 
 <img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2017/01/IMG_20170321_191845.jpg?fit=1146%2C482" alt="Mini-Meetup Modena Feb 2017" width="600">
 
@@ -151,7 +151,7 @@ I moderated an "evening mini-meetup" of the Italian C++ Community, hosted by [XP
 I moderated an interactive discussion on **C++17 for the daily job**, by showing live examples of the most interesting features of C++17 online-compiled and run on GCC, Clang and Visual C++. 
 I wrapped up the contents [here](http://italiancpp.org/cpp17).
 
-####[Mini-Meetup February / Modena](www.italiancpp.org/event/meetup-febbraio2017/)
+####[Mini-Meetup February / Modena](http://www.italiancpp.org/event/meetup-febbraio2017/)
 
 <img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2017/01/IMG_4476.jpg?fit=1460%2C721" alt="Mini-Meetup Modena Feb 2017" width="600">
 
