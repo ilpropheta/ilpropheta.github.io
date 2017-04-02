@@ -59,7 +59,12 @@ For an overview of the public feedback I have got check out my [Joind.in public 
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ###2017
-**[Interactive discussion: C++17 for the daily job](http://www.italiancpp.org/sessioni-cppday16/#cpp17)** (120')
+**[Interactive discussion: C++17 for the daily job](http://italiancpp.org/event/meetup-marzo2017)** (120')
+[Contents and examples](http://italiancpp.org/cpp17)
+16+ attendees
+@[Mini-Meetup March / Bologna](http://italiancpp.org/event/meetup-marzo2017) -- March 2017/Bologna (Italy)
+
+**[Interactive discussion: C++17 for the daily job](http://italiancpp.org/event/meetup-febbraio2017)** (120')
 [Contents and examples](http://italiancpp.org/cpp17)
 16+ attendees
 @[Mini-Meetup February / Modena](http://italiancpp.org/event/meetup-febbraio2017) -- February 2017/Modena (Italy)
