@@ -61,7 +61,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 ###2017
 **The C++ Triad: Iterators, containers and algorithms** (120')
 [Contents and examples](http://italiancpp.org/triad)
-20+ attendees
+15+ attendees
 @[Mini-Meetup May / Modena](http://italiancpp.org/event/meetup-maggio2017/) -- May 2017/Modena (Italy)
 
 **Interactive discussion: C++17 for the daily job** (120')
@@ -71,7 +71,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 **Interactive discussion: C++17 for the daily job** (120')
 [Contents and examples](http://italiancpp.org/cpp17)
-16+ attendees
+15+ attendees
 @[Mini-Meetup February / Modena](http://italiancpp.org/event/meetup-febbraio2017) -- February 2017/Modena (Italy)
 
 ###2016
@@ -180,7 +180,7 @@ I wrapped up the contents [here](http://italiancpp.org/cpp17).
 Modena, February 2017.
 
 I moderated the first "evening mini-meetup" of the Italian C++ Community, hosted by [Conoscere Linux](http://conoscerelinux.org), in Modena.
-**16+ attendees**.
+**15+ attendees**.
 
 I moderated an interactive discussion on **C++17 for the daily job**, by showing live examples of the most interesting features of C++17 online-compiled and run on GCC, Clang and Visual C++. 
 I wrapped up the contents [here](http://italiancpp.org/cpp17).
