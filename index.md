@@ -59,6 +59,11 @@ For an overview of the public feedback I have got check out my [Joind.in public 
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ###2017
+**The C++ Triad: Iterators, containers and algorithms** (120')
+[Contents and examples](http://italiancpp.org/triad)
+20+ attendees
+@[Mini-Meetup May / Modena](http://italiancpp.org/event/meetup-maggio2017/) -- May 2017/Modena (Italy)
+
 **Interactive discussion: C++17 for the daily job** (120')
 [Contents and examples](http://italiancpp.org/cpp17)
 20+ attendees
@@ -144,9 +149,21 @@ As the leader of the [Italian C++ Community](http://italiancpp.org/), I coordina
 
 ###2017
 
+####[Mini-Meetup May / Modena](http://www.italiancpp.org/event/meetup-maggio2017/)
+
+<img src="https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2017/04/IMG_4628.jpg?fit=1460%2C721" alt="Mini-Meetup Modena May 2017" width="600">
+
+Modena, May 2017.
+
+I moderated an "evening mini-meetup" of the Italian C++ Community, hosted by [Conoscere Linux](http://conoscerelinux.org), in Modena.
+**15+ attendees**.
+
+I moderated an interactive discussion on **The C++ Triad: iterators, containers and algorithms**, by explaining the basic concepts and solving live programming challenges.
+I wrapped up the contents [here](http://italiancpp.org/triad).
+
 ####[Mini-Meetup March / Bologna](http://www.italiancpp.org/event/meetup-marzo2017/)
 
-<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2017/01/IMG_20170321_191845.jpg?fit=1146%2C482" alt="Mini-Meetup Modena Feb 2017" width="600">
+<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2017/01/IMG_20170321_191845.jpg?fit=1146%2C482" alt="Mini-Meetup Bologna March 2017" width="600">
 
 Bologna, March 2017.
 
@@ -464,4 +481,4 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 ----
 
-*Last Update*: **March 2017**
+*Last Update*: **May 2017**
