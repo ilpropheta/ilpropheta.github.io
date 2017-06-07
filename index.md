@@ -149,6 +149,15 @@ As the leader of the [Italian C++ Community](http://italiancpp.org/), I coordina
 
 ###2017
 
+####[The Future of Programming with Bartosz Milewski / Modena](http://www.italiancpp.org/event/the-future-of-programming/)
+
+<img src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2017/05/WP_20170606_20_46_50_Pro.jpg" alt="The Future of Programming, June 2017" width="600">
+
+Modena, June 2017.
+
+I organized a meetup with the special guest Bartosz Milewski, hosted by [Conoscere Linux](http://conoscerelinux.org), in Modena. Bartosz shared his vision and predictions on "the Future of Programming".
+**45+ attendees**.
+
 ####[Mini-Meetup May / Modena](http://www.italiancpp.org/event/meetup-maggio2017/)
 
 <img src="https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2017/04/IMG_4628.jpg?fit=1460%2C721" alt="Mini-Meetup Modena May 2017" width="600">
@@ -481,4 +490,4 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 ----
 
-*Last Update*: **May 2017**
+*Last Update*: **June 2017**
