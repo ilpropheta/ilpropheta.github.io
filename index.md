@@ -3,11 +3,12 @@ Marco Arena in action
 
 <img src="https://github.com/ilpropheta/ilpropheta.github.io/blob/master/me.png?raw=true" alt="Modena Coding Dojo" width="200">
 
-Here is a professional list of my past and current activities (**sorted from the newest**). For further detail of each activity please open the corresponding link.
+Here is a professional list of my past and current activities, **sorted from the newest**.
 
 **Quick links:**
 
 - [My blog "Growing Up"](http://marcoarena.wordpress.com)
+- [Italian C++ Community](http://italiancpp.org)
 - [My Linkedin profile](https://www.linkedin.com/in/marcoarena)
 
 ----------
@@ -17,19 +18,19 @@ Here is a professional list of my past and current activities (**sorted from the
 
 For most of the day, my C++ has been serving an **Italian Formula 1 Racing Team** since 2011.
 
-Apart from private life, I love spending time (and nights) on other activities I’m gathering here:
+Apart from private life, I love spending my spare time on other activities I’m gathering here:
 
- - I have shaped [++it, the Italian C++ Community](http://italiancpp.org/), or the C++ landmark in Italy. I moderate the online community, I organize events and meetups, etc.
+ - I have shaped [++it, the Italian C++ Community](http://italiancpp.org/), or the C++ landmark in Italy. I moderate the online community, I organize events and meetups, etc;
 
- - I have been an **editor** of [isocpp.org](http://isocpp.org/) since 2014. I help moderate the International C++ online community.
+ - I have been an **editor** of [isocpp.org](http://isocpp.org/) since 2014. I help moderate the International C++ online community;
  
- - I love experimenting and prototying – here is my [GitHub page](http://github.com/ilpropheta/).
+ - I love experimenting and prototying – here is my [GitHub page](http://github.com/ilpropheta/);
 
- - I often [blog](http://marcoarena.wordpress.com) and [speak](#talks-workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay* and *Future Decoded*.
+ - I often [blog](http://marcoarena.wordpress.com) and [speak](#talks-workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay* and *Future Decoded*;
  
- - In 2016 and 2017 Microsoft gave me the **MVP award** for [my activies related to Visual C++](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
+ - In 2016 and 2017 Microsoft gave me the **MVP award** for [my community activies related to Visual C++](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena);
  
- - In the last years, I’ve turned into a **Competitive Programming** aficionado. Here is my [HackerRank profile](https://www.hackerrank.com/ilpropheta). To share this passion, I  moderate collaborative [coding dojos](#coding-dojos) at local user group meetings.
+ - In the last years, I’ve turned into a **Competitive Programming** aficionado. Here is my [HackerRank profile](https://www.hackerrank.com/ilpropheta). To share this passion, I have created an activity called [Coding Gym](#coding-gyms), consisting in collaborative coding dojos hosted at local user group meetings. I moderate a coding gym per month.
 
 ___
 My activites:
@@ -47,13 +48,13 @@ Talks & Workshops
 
 > Feedback by **Andrea Baruzzo** at **Meetup Pordenone 2015**
 
-I love telling *stories* which I spice up with **humor**, **interacting** with people attending. My stories are not only about *technical* things but also about *personal development* and lessons I have learned.
+I love telling *stories*, I love interacting with people attending. My stories are not only about *technical* things but also about *personal development* and lessons I have learned.
 
-I have given talks at many famous events, such as *Microsoft Community Days*, *Future Decoded*, *Italian Agile Day*, *Codemotion*, *QtDay*. I have also spoken at events made by my own community, the *Italian C++ Community*.
+I have given talks at many famous events, such as *Microsoft Community Days*, *Future Decoded*, *Italian Agile Day*, *Codemotion*, *QtDay*. I'm also used to speaking at events organized by my own community, the *Italian C++ Community*.
 
-Whenever possible, I link the public **feedback and rating** (generally from 1 to 5 <i class="icon-star"></i>) I have got for the corresponding talk. 
+For some of the talks that follow I got some feedback (generally from 1 to 5 <i class="icon-star"></i>). For the others, the event did not have a way to rate talks or the results are not public.
 
-For an overview of the public feedback I have got check out my [Joind.in public profile](https://joind.in/user/ilpropheta).
+Some events I spoke at provided a joind.in page. You can check out my [Joind.in public profile](https://joind.in/user/ilpropheta) for a quick overview.
 
 <img src="http://i1.wp.com/www.italiancpp.org/wp-content/uploads/2015/11/C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved-Images_12273560_1026450354043939_1786806679044325217_o.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600">
 Speaking about C++ to 150+ people at Codemotion Milan 2015
@@ -76,7 +77,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ###2016
 **[C++17 for the daily job](http://www.italiancpp.org/sessioni-cppday16/#cpp17)** (60')
-[Slides in ENG](http://www.italiancpp.org/wp-content/uploads/2016/10/Cpp17-for-the-daily-job.pdf)
+[Slides (ENG)](http://www.italiancpp.org/wp-content/uploads/2016/10/Cpp17-for-the-daily-job.pdf) - [Video (ITA)](https://www.youtube.com/watch?v=sRdAvQkFjXY)
 80+ attendees
 @[C++ Day 2016](http://italiancpp.org/event/cppday16) -- October 2016/Florence (Italy)
 
@@ -86,12 +87,12 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 @[Future Decoded 2016](https://www.microsoft.com/italy/futuredecoded) -- October 2016/Milan (Italy)
 
 **[With great C++ comes great responsibility](http://www.italiancpp.org/eventi/sessioni-conference-2016/#responsibility)** (60')
-[Slides in ENG](http://www.italiancpp.org/wp-content/uploads/2016/05/Marco-Arena-With-great-C-comes-great-responsibility.pdf)
+[Slides (ENG)](http://www.italiancpp.org/wp-content/uploads/2016/05/Marco-Arena-With-great-C-comes-great-responsibility.pdf) - [Video (ITA)](https://www.youtube.com/watch?v=GuNSstZevr4)
 100+ attendees. [Feedback <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>](https://joind.in/event/italian-c-conference-2016/da-un-grande-c-derivano-grandi-responsabilit)
 @[Italian C++ Conference 2016](http://www.italiancpp.org/event/conference-2016/) -- May 2016/Milan (Italy)
 
-**[Grafici bellissimi plug & play](http://www.qtday.it/events/arena/)** (60')
-About how to use [QCustomPlot](http://qcustomplot.com/) ([demo project shown](https://github.com/ilpropheta/anvedi))
+**[Grafici bellissimi plug & play](https://2017.qtday.it/it/edizioni-precedenti/)** (60')
+About how to use [QCustomPlot](http://qcustomplot.com/) ([demo project shown](https://github.com/ilpropheta/anvedi)) - [Slides (ITA)](https://www.dropbox.com/s/t6skwfomgxij1ah/arena.pdf)
 30+ attendees
 @[QtDay 2016](http://www.qtday.it) -- April 2016/Florence (Italy)
 
@@ -108,7 +109,7 @@ About how to use [QCustomPlot](http://qcustomplot.com/) ([demo project shown](ht
 @[Microsoft Community Days 2015](http://www.communitydays.it/events/2015) – March 2015/Milan (Italy)
 
 **[Perché nel 2015 parliamo ancora di C++?](http://www.italiancpp.org/eventi/dettagli-meetup-pordenone-2015/#keynote)** (90')
-*C++ in 2015. Why should we still care about?*
+*C++ in 2015. Why should we still care about?* - [Slides (ITA)](http://www.italiancpp.org/wp-content/uploads/2015/02/Perch%C3%A9-nel-2015-parliamo-ancora-di-Cpp.pdf)
 80+ attendees. [Feedback <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>](https://joind.in/event/italian-c-community-meetup-pordenone/keynote-perch-nel-2015-parliamo-ancora-di-c)
 @[Italian C++ Community Meetup](http://italiancpp.org/event/meetup-pordenone-2015/) -- February 2015/Pordenone (Italy)
 
@@ -120,16 +121,17 @@ About how to use [QCustomPlot](http://qcustomplot.com/) ([demo project shown](ht
 @[Italian Agile Day 2014](http://www.agileday.it/2014/) – November 2014/Ancona (Italy)
 
 **[Meet the Rule of Zero](http://www.italiancpp.org/eventi/dettagli-meetup-bologna-2014/#zero)** (60′)
-[Slides in ENG](http://www.italiancpp.org/wp-content/uploads/2014/11/Meet-the-Rule-of-Zero-Marco-Arena.pptx)
+[Slides (ENG)](http://www.italiancpp.org/wp-content/uploads/2014/11/Meet-the-Rule-of-Zero-Marco-Arena.pptx)
 50+ attendees. [Feedback <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>](https://joind.in/event/italian-c-community-meetup-bologna/meet-the-rule-of-zero)
 @[Italian C++ Community Meetup](http://www.italiancpp.org/event/meetup-bologna-2014/) – November 2014/Bologna (Italy)
 
 **[Il nuovo C++? Torniamo alle basi](http://www.communitydays.it/events/2014-Roma/cpp01/)** (60′)
-*The new C++? Let's go back to basics*
+[Slides (ITA)](http://www.communitydays.it/content/downloads/2014-Roma/cpp01_slides.zip) - [Video (ITA)](https://www.youtube.com/watch?v=OVmw8kJ0lZA)
 20+ attendees.
  @[Microsoft Community Days Rome 2014](http://www.communitydays.it/events/2014-Roma/) – September 2014/Rome (Italy)
 
 **[C++11 in Action](http://www.communitydays.it/events/2014/cpp01/)** (60′)
+[Slides (ITA)](http://www.communitydays.it/content/downloads/2014/cpp01_slides.zip) - [Video (ITA)](https://vimeo.com/88206167)
 60+ attendees.
 @[Microsoft Community Days 2014](http://www.communitydays.it/events/2014/) – February 2014/Milan (Italy)
 
@@ -142,12 +144,53 @@ Co-Speaker: [Paolo Polce](https://twitter.com/paolopolce)
 
 ---
 
-Meetups & Events
+Events & Meetups
 -------------------
 
-As the leader of the [Italian C++ Community](http://italiancpp.org/), I coordinate the organization of meetups and events and I support other user groups and conferences.
+As the leader of the [Italian C++ Community](http://italiancpp.org/), I coordinate the organization of events and meetups and I support other user groups and conferences.
 
 ###2017
+
+####[Italian C++ Conference 2017](http://www.italiancpp.org/itcppcon17)
+
+<img src="http://www.italiancpp.org/wp-content/uploads/2013/06/WP_20170617_09_59_10_Pro.jpg" alt="Italian C++ Conference 2016" width="700">
+
+Milan, June 2017.
+
+I coordinated the organization of the second edition of the Italian C++ Conference, the only conference in Italy entirely dedicated to C++. The event took place at University "Bicocca" of Milan. This event was the biggest and the most important I have ever organized.
+**160 attendees** (220 registered people - ~28% drop).
+
+*Keynote speaker*: Michael Wong.
+*International speakers*: Bartosz Milewski, Phil Nash, Jens Weller, Dietmar Kühl.
+*Italian speakers*: Davide Di Gennaro, Raffaele Rialdi, Carlo Pescio, Paola Presutto, Stefano Cristiano.
+
+Sponsors: Bloomberg, JetBrains, KDAB, Recognition Robotics, Think-Cell, Abaco Group, JFrog
+
+My staff included: Raffaele Rialdi, Franco Milicchio, Alessandro Vergani, Gian Lorenzo Meocci, Marco Foco, Guido Pederzini.
+
+**Highlights:**
+
+- 1x75' keynote
+- 9x60' talks
+- 1x20' panel on Diversity moderated by Bloomberg
+- Networking breaks and lunch.
+- This was the first community-event in Italy where **Microsoft Italy** has been hosted to talk about *Diversity* and *Inclusion*.
+
+
+**Topics:**
+
+- Executors and the future of Heterogeneous Programming in C++
+- Functional Programming in C++ and Monads in C++
+- Diversity and Inclusion
+- Bridging C# and Javascript with C++
+- Boost and Qt communities
+- Networking framework inspired by NodeJS written in C++
+- An overly simple C++ idiomatic pattern language for message-based product families 
+
+Additional references:
+
+- [Wrap-up article (including feedback and statistics)](http://www.italiancpp.org/2017/07/04/itcppcon17/)
+- [Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWoGAOd9wKvdb1fEqj2olBz)
 
 ####[The Future of Programming with Bartosz Milewski / Modena](http://www.italiancpp.org/event/the-future-of-programming/)
 
@@ -155,7 +198,7 @@ As the leader of the [Italian C++ Community](http://italiancpp.org/), I coordina
 
 Modena, June 2017.
 
-I organized a meetup with the special guest Bartosz Milewski, hosted by [Conoscere Linux](http://conoscerelinux.org), in Modena. Bartosz shared his vision and predictions on "the Future of Programming".
+I organized a meetup with the special guest **Bartosz Milewski**, hosted by [Conoscere Linux](http://conoscerelinux.org), in Modena. Bartosz shared his vision and predictions on "the Future of Programming".
 **45+ attendees**.
 
 ####[Mini-Meetup May / Modena](http://www.italiancpp.org/event/meetup-maggio2017/)
@@ -279,7 +322,7 @@ Additional references:
 
 ####[Italian C++ Community Meetup Rome](http://www.italiancpp.org/event/meetup-roma-2015)
 
-<img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/11988392_10153718634416057_7565035884289304660_n.jpg?oh=9c1645261a5d62f677ea9faef25742ec&oe=591C6B88" alt="Italian C++ Meetup Rome 2015" width="600">
+<img src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2015/09/cornice.jpg" alt="Italian C++ Meetup Rome 2015" width="600">
 
 Rome, October 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-roma/details).
 Co-organizer: [Franco Milicchio](http://fmilicchio.bitbucket.org/)
@@ -400,17 +443,24 @@ Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-
 - C++ lambdas
 - Functional Programming in C++
 
-###Coding Dojos/Coding Gyms
+###Coding Gyms
 
 <img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/04/WP_20161130_21_59_49_Pro.jpg?fit=1146%2C440" alt="Modena Coding Dojo" width="600">
 
-Since **2016** I have started organizing monthly **Coding Dojos** hosted by local user groups (e.g. [XPUG Bologna](http://www.eventbrite.it/e/biglietti-incontro-di-febbraio-xpug-bologna-21448465939) and [LUG Modena "Conoscere Linux"](http://conoscerelinux.org/category/coding/)). 
+In **2014** I took a strong interest in solving programming challenges online. I have been practicing on websistes like *HackerRank*, *LeetCode* and *CodingGame*. I discovered a new practical and entertaining way to improve myself and my coding skills. I had to share this with other people.
 
-Attendees work in pair to solve three programming challenges I propose at the meeting. After 30' I moderate a 10-15' retrospective and at the end of the event I summarize the lessons learned.
+That's why in **2016** I created **Coding Gym** (originally *Coding Dojo*, later changed in order not to confuse with "Coder Dojos" for children), an activity tailored to help people improve coding skills and discover new kind of programming problems and patterns.
 
-In **March 2017** "Coding Dojos" turned to "**Coding Gyms**", in order not to confuse with "Coder Dojos" for children.
+Basically, attendees **work in pair** to solve three programming challenges I propose at the gym session. After each problem (~30 minutes) I moderate a 10-minute **retrospective** asking people to show their solutions and discussing. At the end of the event I summarize the lessons learned.
 
-[Here is the list](http://www.italiancpp.org/coding-dojos/) of the previous and next coding dojos I have organized.
+Coding Gyms are **independent from the programming language** **and** **from the paradigm**. 
+Challenges are hosted on [HackerRank](http://hackerrank.com), such that people can write and test code directly into a web browser.
+The problems topics vary, including, among others: arrays, sequences, greedy, numbers, strings, sorting, search. The difficulty level is easy or medium, rarely hard.
+Sometimes problems are **constrained** in order to cut the space of solutions or to force people to think differently.
+
+I facilitated the very first session at [XPUG Bologna](http://www.eventbrite.it/e/biglietti-incontro-di-febbraio-xpug-bologna-21448465939) in Februrary 2016. Since March 2016, I have organized a Coding Gym per month at [MakeIt Modena](http://www.comune.modena.it/makeitmodena), hosted by the association [Conoscere Linux (Modena LUG)](http://conoscerelinux.org/). 
+
+[Here is the list](http://www.italiancpp.org/coding-gyms/) of the previous and next coding gyms I have organized.
 
 ---
 Popular posts
@@ -490,4 +540,4 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 ----
 
-*Last Update*: **June 2017**
+*Last Update*: **August 2017**
