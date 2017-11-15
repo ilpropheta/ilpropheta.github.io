@@ -16,7 +16,7 @@ Here is a professional list of my past and current activities, **sorted from the
 
 ## TL;DR -- in a nutshell
 
-For most of the day, my C++ has been serving an **Italian Formula 1 Racing Team** since 2011.
+For most of the day, my C++ has been serving the **Ferrari F1 Racing Team (Scuderia Ferrari)** since 2011.
 
 Apart from private life, I love spending my spare time on other activities I’m gathering here:
 
@@ -445,9 +445,14 @@ Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-
 
 ###Coding Gyms
 
-<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/04/WP_20161130_21_59_49_Pro.jpg?fit=1146%2C440" alt="Modena Coding Dojo" width="600">
+<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/04/WP_20170124_21_20_08_Pro.jpg" alt="Modena Coding Dojo" width="650">
+<figcaption><center>Coding Gym Modena - Jan 2017
+<br/>
+
+<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/04/coding-gym.png" alt="Modena Coding Dojo" width="200" align="left">
 
 In **2014** I took a strong interest in solving programming challenges online. I have been practicing on websistes like *HackerRank*, *LeetCode* and *CodingGame*. I discovered a new practical and entertaining way to improve myself and my coding skills. I had to share this with other people.
+<br/><br/><br/>
 
 That's why in **2016** I created **Coding Gym** (originally *Coding Dojo*, later changed in order not to confuse with "Coder Dojos" for children), an activity tailored to help people improve coding skills and discover new kind of programming problems and patterns.
 
@@ -500,6 +505,9 @@ Some of my blog posts from my [tech blog](https://marcoarena.wordpress.com) have
 
 - [Learn how to capture by move](https://isocpp.org/blog/2012/11/learn-how-to-capture-by-move) – November **2012**
 
+<br/>
+Every post below have been published on isocpp.org too:
+
 ###C++ in Competitive Programming
 
 In **2016**, I started the blog series *C++ in Competitive Programming*, about algorithms, idioms and usage of C++ for solving programming challenges. Current installments:
@@ -510,6 +518,7 @@ In **2016**, I started the blog series *C++ in Competitive Programming*, about a
 - [String basics](https://marcoarena.wordpress.com/2016/06/05/cpp-in-competitive-programming-string-basics/)
 - [Associative containers](https://marcoarena.wordpress.com/2016/07/20/cpp-in-competitive-programming-associative-containers/)
 - [Compromises](https://marcoarena.wordpress.com/2016/09/30/cpp-in-competitive-programming-compromises/)
+- [A hidden gem: inner_product](https://marcoarena.wordpress.com/2017/11/14/a-hidden-gem-inner_product/)
 
 ---
 
@@ -540,4 +549,4 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 ----
 
-*Last Update*: **August 2017**
+*Last Update*: **November 2017**
