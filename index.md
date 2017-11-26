@@ -3,13 +3,15 @@ Marco Arena in action
 
 <img src="https://github.com/ilpropheta/ilpropheta.github.io/blob/master/me.png?raw=true" alt="Modena Coding Dojo" width="200">
 
-Here is a professional list of my past and current activities, **sorted from the newest**.
+Here is a professional list of my past and current activities.
 
 **Quick links:**
 
 - [My blog "Growing Up"](http://marcoarena.wordpress.com)
 - [Italian C++ Community](http://italiancpp.org)
 - [My Linkedin profile](https://www.linkedin.com/in/marcoarena)
+
+**Get in touch**: *marco* [at] *italiancpp* [dot] *org*
 
 ----------
 
@@ -18,7 +20,7 @@ Here is a professional list of my past and current activities, **sorted from the
 
 For most of the day, my C++ has been serving the **Ferrari F1 Racing Team (Scuderia Ferrari)** since 2011.
 
-Apart from private life, I love spending my spare time on other activities I’m gathering here:
+Apart from private life, I love spending my spare time on some activities:
 
  - I have shaped [++it, the Italian C++ Community](http://italiancpp.org/), or the C++ landmark in Italy. I moderate the online community, I organize events and meetups, etc;
 
@@ -26,7 +28,7 @@ Apart from private life, I love spending my spare time on other activities I’m
  
  - I love experimenting and prototying – here is my [GitHub page](http://github.com/ilpropheta/);
 
- - I often [blog](http://marcoarena.wordpress.com) and [speak](#talks-workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay* and *Future Decoded*;
+ - I often [blog](http://marcoarena.wordpress.com) and [speak](#talks-workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded* and *NoSlidesConf*;
  
  - In 2016 and 2017 Microsoft gave me the **MVP award** for [my community activies related to Visual C++](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena);
  
@@ -60,6 +62,11 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ###2017
+**Competitive Programming for fun and self-improvement** (45')
+[Contents and examples](http://github.com/ilpropheta/noslidesconf17)
+60+ attendees
+@[NoSlidesConf 2017](http://www.noslidesconf.net) -- November 2017/Bologna (Italy)
+
 **The C++ Triad: Iterators, containers and algorithms** (120')
 [Contents and examples](http://italiancpp.org/triad)
 15+ attendees
@@ -449,14 +456,14 @@ Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-
 <figcaption><center>Coding Gym Modena - Jan 2017
 <br/>
 
-<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/04/coding-gym.png" alt="Modena Coding Dojo" width="200" align="left">
+<center><img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/04/coding-gym.png" alt="Modena Coding Dojo" width="150">
 
 In **2014** I took a strong interest in solving programming challenges online. I have been practicing on websistes like *HackerRank*, *LeetCode* and *CodingGame*. I discovered a new practical and entertaining way to improve myself and my coding skills. I had to share this with other people.
 <br/><br/><br/>
 
 That's why in **2016** I created **Coding Gym** (originally *Coding Dojo*, later changed in order not to confuse with "Coder Dojos" for children), an activity tailored to help people improve coding skills and discover new kind of programming problems and patterns.
 
-Basically, attendees **work in pair** to solve three programming challenges I propose at the gym session. After each problem (~30 minutes) I moderate a 10-minute **retrospective** asking people to show their solutions and discussing. At the end of the event I summarize the lessons learned.
+Basically, attendees **work in pair** to solve three programming challenges I propose at the gym session. After each problem (~30 minutes) I moderate a 10-minute **retrospective** asking people to show their solutions and discussing. At the end of the event I summarize the lessons learned. Some questions and ideas for the retrospective [here](http://github.com/ilpropheta/noslidesconf17).
 
 Coding Gyms are **independent from the programming language** **and** **from the paradigm**. 
 Challenges are hosted on [HackerRank](http://hackerrank.com), such that people can write and test code directly into a web browser.
