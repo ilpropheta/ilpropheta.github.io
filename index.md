@@ -158,9 +158,44 @@ As the leader of the [Italian C++ Community](http://italiancpp.org/), I coordina
 
 ###2017
 
+####[C++ Day 2017](http://www.italiancpp.org/cppday17)
+
+<img src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2017/12/24879884_1903167203331320_2007379116413815425_o.jpg" alt="C++ Day 2017" width="700">
+
+Modena, December 2017.
+
+I coordinated the organization of the second edition of the C++ Day, a free event entirely dedicated to C++ in the italian language. The event took place at "Centro Culturale Giacomo Alberione", an historical location in the lovely center of Modena.
+**110 attendees** (120 registered people - ~8% drop).
+
+*Speakers*: Carlo Pescio, Daniele Pallastrelli, Stefano Cristiano, Alberto Bignotti, Sebastiano Galazzo.
+
+Sponsors: Recognition Robotics, Sigeo srl, Elettric80.
+
+My staff included: Guido Pederzini, Alessandro Vergani, Illya Dudchenko.
+
+**Highlights:**
+
+- 5x60' talks
+- Networking breaks and lunch.
+- Hosted a talk about Artificial Intelligence given by Sebastiano Galazzo, (on the day of the event) the only Italian person holding a Microsoft MVP title on "AI" category.
+
+
+**Topics:**
+
+- (Slightly) Smarter Smart Pointers
+- C++ and UI: un unorthodox approach
+- Immediate Mode Graphical User Interfaces in C++
+- C/C++ interoperability with other languages
+- Artificial Intelligence Today
+
+Additional references:
+
+- [Wrap-up article (including feedback and statistics)](http://www.italiancpp.org/2017/12/11/cppday17/)
+- [Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWK086XR-QgAKchfclBOL7O)
+
 ####[Italian C++ Conference 2017](http://www.italiancpp.org/itcppcon17)
 
-<img src="http://www.italiancpp.org/wp-content/uploads/2013/06/WP_20170617_09_59_10_Pro.jpg" alt="Italian C++ Conference 2016" width="700">
+<img src="http://www.italiancpp.org/wp-content/uploads/2013/06/WP_20170617_09_59_10_Pro.jpg" alt="Italian C++ Conference 2017" width="700">
 
 Milan, June 2017.
 
@@ -173,7 +208,7 @@ I coordinated the organization of the second edition of the Italian C++ Conferen
 
 Sponsors: Bloomberg, JetBrains, KDAB, Recognition Robotics, Think-Cell, Abaco Group, JFrog
 
-My staff included: Raffaele Rialdi, Franco Milicchio, Alessandro Vergani, Gian Lorenzo Meocci, Marco Foco, Guido Pederzini.
+My staff included: Raffaele Rialdi, Franco Milicchio, Alessandro Vergani, Gian Lorenzo Meocci, Marco Foco, Guido Pederzini, Illya Dudchenko.
 
 **Highlights:**
 
@@ -556,4 +591,4 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 ----
 
-*Last Update*: **November 2017**
+*Last Update*: **December 2017**
