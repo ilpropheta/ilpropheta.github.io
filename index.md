@@ -63,7 +63,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ###2017
 **Competitive Programming for fun and self-improvement** (45')
-[Contents and examples](http://github.com/ilpropheta/noslidesconf17)
+[Contents and examples](http://github.com/ilpropheta/noslidesconf17) - [Video (ITA)](https://www.youtube.com/watch?v=6dEcHr6gieM)
 60+ attendees
 @[NoSlidesConf 2017](http://www.noslidesconf.net) -- November 2017/Bologna (Italy)
 
