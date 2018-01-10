@@ -32,7 +32,7 @@ Apart from private life, I love spending my spare time on some activities:
  
  - In 2016 and 2017 Microsoft gave me the **MVP award** for [my community activies related to Visual C++](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena);
  
- - In the last years, I’ve turned into a **Competitive Programming** aficionado. Here is my [HackerRank profile](https://www.hackerrank.com/ilpropheta). To share this passion, I have created an activity called [Coding Gym](#coding-gyms), consisting in collaborative coding dojos hosted at local user group meetings. I moderate a coding gym per month.
+ - In the last years, I’ve turned into a **Competitive Programming** aficionado. Here is my [HackerRank profile](https://www.hackerrank.com/ilpropheta). To share this passion, I have created an monthly laboratory called [Coding Gym](#coding-gyms), consisting in collaborative coding dojos hosted at local user group meetings. I moderate a coding gym per month.
 
 ___
 My activites:
@@ -60,6 +60,13 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 
 <img src="http://i1.wp.com/www.italiancpp.org/wp-content/uploads/2015/11/C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved-Images_12273560_1026450354043939_1786806679044325217_o.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600">
 Speaking about C++ to 150+ people at Codemotion Milan 2015
+
+###2018
+**Coding Gym: divertirsi e migliorarsi a colpi di algoritmi** (120')
+About [Coding Gym](http://coding-gym.com), by examples.
+[Challenges](https://www.hackerrank.com/xpug-jan-2018/challenges) - [Video (ITA)]()
+15+ attendees
+@[XPUG Bologna Monthly](https://www.eventbrite.it/e/biglietti-coding-gym-divertirsi-e-migliorarsi-a-colpi-di-algoritmi-marco-arena-41569884644#) -- January 2018/Bologna (Italy)
 
 ###2017
 **Competitive Programming for fun and self-improvement** (45')
@@ -487,8 +494,9 @@ Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-
 
 ###Coding Gyms
 
-<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/04/WP_20170124_21_20_08_Pro.jpg" alt="Modena Coding Dojo" width="650">
+<center><img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/04/WP_20170124_21_20_08_Pro.jpg" alt="Modena Coding Dojo" width="650">
 <figcaption><center>Coding Gym Modena - Jan 2017
+</center>
 <br/>
 
 <center><img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/04/coding-gym.png" alt="Modena Coding Dojo" width="150">
@@ -498,7 +506,7 @@ In **2014** I took a strong interest in solving programming challenges online. I
 
 That's why in **2016** I created **Coding Gym** (originally *Coding Dojo*, later changed in order not to confuse with "Coder Dojos" for children), an activity tailored to help people improve coding skills and discover new kind of programming problems and patterns.
 
-Basically, attendees **work in pair** to solve three programming challenges I propose at the gym session. After each problem (~30 minutes) I moderate a 10-minute **retrospective** asking people to show their solutions and discussing. At the end of the event I summarize the lessons learned. Some questions and ideas for the retrospective [here](http://github.com/ilpropheta/noslidesconf17).
+Basically, attendees **work in pair** to solve three programming challenges I propose at the gym session. After each problem (~30 minutes) I moderate a 10-minute **retrospective** asking people to show their solutions and discussing. At the end of the event I summarize the lessons learned.
 
 Coding Gyms are **independent from the programming language** **and** **from the paradigm**. 
 Challenges are hosted on [HackerRank](http://hackerrank.com), such that people can write and test code directly into a web browser.
@@ -507,7 +515,7 @@ Sometimes problems are **constrained** in order to cut the space of solutions or
 
 I facilitated the very first session at [XPUG Bologna](http://www.eventbrite.it/e/biglietti-incontro-di-febbraio-xpug-bologna-21448465939) in Februrary 2016. Since March 2016, I have organized a Coding Gym per month at [MakeIt Modena](http://www.comune.modena.it/makeitmodena), hosted by the association [Conoscere Linux (Modena LUG)](http://conoscerelinux.org/). 
 
-[Here is the list](http://www.italiancpp.org/coding-gyms/) of the previous and next coding gyms I have organized.
+[Coding Gym website](http://www.italiancpp.org/coding-gyms/), including more details, next and past events, pictures.
 
 ---
 Popular posts
@@ -591,4 +599,4 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 ----
 
-*Last Update*: **December 2017**
+*Last Update*: **January 2018**
