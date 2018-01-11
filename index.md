@@ -64,7 +64,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 ###2018
 **Coding Gym: divertirsi e migliorarsi a colpi di algoritmi** (120')
 About [Coding Gym](http://coding-gym.com), by examples.
-[Challenges](https://www.hackerrank.com/xpug-jan-2018/challenges) - [Video (ITA)]()
+[Challenges](https://www.hackerrank.com/xpug-jan-2018/challenges) - [Video (ITA)](https://www.youtube.com/watch?v=SqIHAuqzj5A)
 15+ attendees
 @[XPUG Bologna Monthly](https://www.eventbrite.it/e/biglietti-coding-gym-divertirsi-e-migliorarsi-a-colpi-di-algoritmi-marco-arena-41569884644#) -- January 2018/Bologna (Italy)
 
