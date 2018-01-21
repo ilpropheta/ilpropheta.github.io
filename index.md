@@ -163,6 +163,32 @@ Events & Meetups
 
 As the leader of the [Italian C++ Community](http://italiancpp.org/), I coordinate the organization of events and meetups and I support other user groups and conferences.
 
+###2018
+
+####[Modena Tech Summit 2018](http://modenatechscene.it/summit2018/)
+
+<img src="https://pbs.twimg.com/media/DT-nldbX0AAxZZS.jpg" alt="Modena Tech Summit 2018" width="700">
+
+Modena, January 2018.
+
+I co-organized the first Modena Tech Summit, the first free conference in Modena about IT and Tech where professionals, companies and local communities meet and share knowledge. The event took place at "Centro Culturale Giacomo Alberione", an historical location in the lovely center of Modena.
+**75 attendees** (100 registered people - ~25% drop).
+
+**Highlights:**
+
+- 6x50' talks
+- 1x20' Q/A panel about "women in tech"
+- networking breaks and lunch
+
+**Topics:**
+
+- Reactive Programming
+- Wordpress
+- Test in Javascript
+- Knowledge graphs
+- Projects cost estimation
+- Computational Design & open-source
+
 ###2017
 
 ####[C++ Day 2017](http://www.italiancpp.org/cppday17)
@@ -294,7 +320,7 @@ I wrapped up the contents [here](http://italiancpp.org/cpp17).
 
 Florence, October 2016.
 
-The 1st edition of the **C++ Day**, an event fully dedicated to C++ made by the Italian C++ Community. The event took place at Hotel Londra, in Florence. 
+I coordinated the organization of the 1st edition of the **C++ Day**, an event fully dedicated to C++ made by the Italian C++ Community. The event took place at Hotel Londra, in Florence. 
 
 Sponsors: [Develer](http://develer.com) and [Soft 2000](http://soft2000sas.it)
 **80+ attendees** (100+ registered people - ~20% drop).
@@ -335,7 +361,7 @@ Additional references:
 
 Milan, May 2016. [Feedback](http://joind.in/event/italian-c-conference-2016/schedule).
 
-The 1st edition of the **Italian C++ Conference**, the first and only Italian conference fully dedicated to C++. The event took place at University "Bicocca". 
+I coordinated the organization of the 1st edition of the **Italian C++ Conference**, the first and only Italian conference fully dedicated to C++. The event took place at University "Bicocca". 
 
 Special guest: [James McNellis](https://twitter.com/JamesMcNellis)
 Sponsor: [RogueWave Software](http://roguewave.com)
@@ -373,6 +399,7 @@ Additional references:
 
 <img src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2015/09/cornice.jpg" alt="Italian C++ Meetup Rome 2015" width="600">
 
+I coordinated the organization of a half-day C++ meetup in Rome.
 Rome, October 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-roma/details).
 Co-organizer: [Franco Milicchio](http://fmilicchio.bitbucket.org/)
 **30+ attendees.**
@@ -395,6 +422,7 @@ Co-organizer: [Franco Milicchio](http://fmilicchio.bitbucket.org/)
 
 <img src="http://i0.wp.com/www.italiancpp.org/wp-content/uploads/2015/03/WP_001479.jpg?w=718" alt="Italian C++ Meetup Florence 2015" width="600">
 
+I coordinated the organization of a full-day C++ meetup in Florence.
 Florence, June 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-firenze/details).
 Co-Organizer: [Mena Marotta](https://www.develer.com/) (Develer srl)
 Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).
@@ -423,8 +451,8 @@ Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).
 
 <img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2014/11/20150207_091856.jpg?resize=600%2C337" alt="Italian C++ Meetup Pordenone 2015" width="600">
 
+I co-organized a full-day C++ meetup in Pordenone with [Marco Parenzan](https://twitter.com/marco_parenzan).
 Pordenone, February 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-pordenone/details).
-Co-Organizer: [Marco Parenzan](https://twitter.com/marco_parenzan)
 **80+ attendees.**
 
 [Social story (tweets, pictures, etc).](https://storify.com/intoinside/porden)
@@ -453,8 +481,8 @@ Co-Organizer: [Marco Parenzan](https://twitter.com/marco_parenzan)
 
 <img src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2014/09/panoramica.jpg?w=1024" alt="Italian C++ Meetup Bologna 2014" width="600">
 
+I co-organized a C++ meetup in Bologna with [Gianluca Padovani](https://twitter.com/GPad619).
 Bologna, November 2014. [Feedback](https://joind.in/event/italian-c-community-meetup-bologna/details).
-Co-Organizer: [Gianluca Padovani](https://twitter.com/GPad619)
 Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).
 **50+ attendees.** 
 
@@ -476,6 +504,7 @@ Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).
 
 <img src="https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/06/meetup-people.jpg?resize=1024%2C683" alt="Italian C++ Meetup Milan 2014" width="600">
 
+I organized the first meetup about C++ in Italy.
 Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-milano/details)
 **30+ attendees.** 
 
@@ -492,7 +521,7 @@ Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-
 - C++ lambdas
 - Functional Programming in C++
 
-###Coding Gyms
+###Coding Gym
 
 <center><img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/04/WP_20170124_21_20_08_Pro.jpg" alt="Modena Coding Dojo" width="650">
 <figcaption><center>Coding Gym Modena - Jan 2017
@@ -502,7 +531,7 @@ Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-
 <center><img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/04/coding-gym.png" alt="Modena Coding Dojo" width="150">
 
 In **2014** I took a strong interest in solving programming challenges online. I have been practicing on websistes like *HackerRank*, *LeetCode* and *CodingGame*. I discovered a new practical and entertaining way to improve myself and my coding skills. I had to share this with other people.
-<br/><br/><br/>
+<br/><br/>
 
 That's why in **2016** I created **Coding Gym** (originally *Coding Dojo*, later changed in order not to confuse with "Coder Dojos" for children), an activity tailored to help people improve coding skills and discover new kind of programming problems and patterns.
 
@@ -515,7 +544,7 @@ Sometimes problems are **constrained** in order to cut the space of solutions or
 
 I facilitated the very first session at [XPUG Bologna](http://www.eventbrite.it/e/biglietti-incontro-di-febbraio-xpug-bologna-21448465939) in Februrary 2016. Since March 2016, I have organized a Coding Gym per month at [MakeIt Modena](http://www.comune.modena.it/makeitmodena), hosted by the association [Conoscere Linux (Modena LUG)](http://conoscerelinux.org/). 
 
-[Coding Gym website](http://www.italiancpp.org/coding-gyms/), including more details, next and past events, pictures.
+[Coding Gym website](http://coding-gym.org), including more details, next and past events, pictures.
 
 ---
 Popular posts
