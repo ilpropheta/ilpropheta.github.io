@@ -161,7 +161,7 @@ As the leader of the [Italian C++ Community](http://italiancpp.org/), I coordina
 
 Modena, January 2018.
 
-I co-organized the first Modena Tech Summit, the first free conference in Modena about IT and Tech where professionals, companies and local communities meet and share knowledge. The event took place at "Centro Culturale Giacomo Alberione", an historical location in the lovely center of Modena.
+I co-organized the first Modena Tech Summit, the first free conference in Modena about IT and Tech where professionals, companies and local communities meet and share knowledge. The event took place at "Centro Culturale Giacomo Alberione", an historical location in the lovely center of Modena.<br/>
 **75 attendees** (100 registered people - ~25% drop).
 
 **Highlights:**
@@ -187,7 +187,7 @@ I co-organized the first Modena Tech Summit, the first free conference in Modena
 
 Modena, December 2017.
 
-I coordinated the organization of the second edition of the C++ Day, a free event entirely dedicated to C++ in the italian language. The event took place at "Centro Culturale Giacomo Alberione", an historical location in the lovely center of Modena.
+I coordinated the organization of the second edition of the C++ Day, a free event entirely dedicated to C++ in the italian language. The event took place at "Centro Culturale Giacomo Alberione", an historical location in the lovely center of Modena.<br/>
 **110 attendees** (120 registered people - ~8% drop).
 
 *Speakers*: Carlo Pescio, Daniele Pallastrelli, Stefano Cristiano, Alberto Bignotti, Sebastiano Galazzo.
@@ -222,7 +222,7 @@ Additional references:
 
 Milan, June 2017.
 
-I coordinated the organization of the second edition of the Italian C++ Conference, the only conference in Italy entirely dedicated to C++. The event took place at University "Bicocca" of Milan. This event was the biggest and the most important I have ever organized.
+I coordinated the organization of the second edition of the Italian C++ Conference, the only conference in Italy entirely dedicated to C++. The event took place at University "Bicocca" of Milan. This event was the biggest and the most important I have ever organized.<br/>
 **160 attendees** (220 registered people - ~28% drop).
 
 *Keynote speaker*: Michael Wong.
@@ -304,15 +304,14 @@ I wrapped up the contents [here](http://italiancpp.org/cpp17).
 
 ## 2016
 
-### C++ Day 2016](http://www.italiancpp.org/event/cppday16)
+### [C++ Day 2016](http://www.italiancpp.org/event/cppday16)
 
 <img src="http://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/06/DSC01377.jpg?resize=600%2C450" alt="C++ Day 2016" width="600">
 
 Florence, October 2016.
 
-I coordinated the organization of the 1st edition of the **C++ Day**, an event fully dedicated to C++ made by the Italian C++ Community. The event took place at Hotel Londra, in Florence. 
-
-Sponsors: [Develer](http://develer.com) and [Soft 2000](http://soft2000sas.it)
+I coordinated the organization of the 1st edition of the **C++ Day**, an event fully dedicated to C++ made by the Italian C++ Community. The event took place at Hotel Londra, in Florence. <br/>
+Sponsors: [Develer](http://develer.com) and [Soft 2000](http://soft2000sas.it)<br/>
 **80+ attendees** (100+ registered people - ~20% drop).
 
 [Pictures on Facebook](https://www.facebook.com/photo.php?fbid=10154194953011057&set=oa.793589927442664&type=3&theater)
@@ -349,12 +348,12 @@ Additional references:
 
 <img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/05/DSC_2600.jpg?resize=768%2C512" alt="Italian C++ Conference 2016" width="600">
 
-Milan, May 2016. [Feedback](http://joind.in/event/italian-c-conference-2016/schedule).
+Milan, May 2016. [Feedback](http://joind.in/event/italian-c-conference-2016/schedule).<br/>
 
-I coordinated the organization of the 1st edition of the **Italian C++ Conference**, the first and only Italian conference fully dedicated to C++. The event took place at University "Bicocca". 
+I coordinated the organization of the 1st edition of the **Italian C++ Conference**, the first and only Italian conference fully dedicated to C++. The event took place at University "Bicocca". <br/>
 
-Special guest: [James McNellis](https://twitter.com/JamesMcNellis)
-Sponsor: [RogueWave Software](http://roguewave.com)
+Special guest: [James McNellis](https://twitter.com/JamesMcNellis)<br/>
+Sponsor: [RogueWave Software](http://roguewave.com)<br/>
 **100+ attendees** (130+ registered people - ~22% drop).
 
 [Social story (tweets, pictures, etc).](https://storify.com/italiancpp/itcppcon2016)
@@ -389,9 +388,9 @@ Additional references:
 
 <img src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2015/09/cornice.jpg" alt="Italian C++ Meetup Rome 2015" width="600">
 
-I coordinated the organization of a half-day C++ meetup in Rome.
-Rome, October 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-roma/details).
-Co-organizer: [Franco Milicchio](http://fmilicchio.bitbucket.org/)
+I coordinated the organization of a half-day C++ meetup in Rome.<br/>
+Rome, October 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-roma/details).<br/>
+Co-organizer: [Franco Milicchio](http://fmilicchio.bitbucket.org/)<br/>
 **30+ attendees.**
 
 **Highlights:**
@@ -412,10 +411,10 @@ Co-organizer: [Franco Milicchio](http://fmilicchio.bitbucket.org/)
 
 <img src="http://i0.wp.com/www.italiancpp.org/wp-content/uploads/2015/03/WP_001479.jpg?w=718" alt="Italian C++ Meetup Florence 2015" width="600">
 
-I coordinated the organization of a full-day C++ meetup in Florence.
-Florence, June 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-firenze/details).
-Co-Organizer: [Mena Marotta](https://www.develer.com/) (Develer srl)
-Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).
+I coordinated the organization of a full-day C++ meetup in Florence.<br/>
+Florence, June 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-firenze/details).<br/>
+Co-Organizer: [Mena Marotta](https://www.develer.com/) (Develer srl)<br/>
+Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).<br/>
 **50+ attendees.** 
 
 [Social story (tweets, pictures, etc).](https://storify.com/italiancpp/italiancpp-meetup-firenze-2015)
@@ -441,8 +440,8 @@ Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).
 
 <img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2014/11/20150207_091856.jpg?resize=600%2C337" alt="Italian C++ Meetup Pordenone 2015" width="600">
 
-I co-organized a full-day C++ meetup in Pordenone with [Marco Parenzan](https://twitter.com/marco_parenzan).
-Pordenone, February 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-pordenone/details).
+I co-organized a full-day C++ meetup in Pordenone with [Marco Parenzan](https://twitter.com/marco_parenzan).<br/>
+Pordenone, February 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-pordenone/details).<br/>
 **80+ attendees.**
 
 [Social story (tweets, pictures, etc).](https://storify.com/intoinside/porden)
@@ -471,8 +470,8 @@ Pordenone, February 2015. [Feedback](https://joind.in/event/italian-c-community-
 
 <img src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2014/09/panoramica.jpg?w=1024" alt="Italian C++ Meetup Bologna 2014" width="600">
 
-I co-organized a C++ meetup in Bologna with [Gianluca Padovani](https://twitter.com/GPad619).
-Bologna, November 2014. [Feedback](https://joind.in/event/italian-c-community-meetup-bologna/details).
+I co-organized a C++ meetup in Bologna with [Gianluca Padovani](https://twitter.com/GPad619).<br/>
+Bologna, November 2014. [Feedback](https://joind.in/event/italian-c-community-meetup-bologna/details).<br/>
 Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).
 **50+ attendees.** 
 
