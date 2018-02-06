@@ -26,11 +26,11 @@ Apart from private life, I love spending my spare time on some activities:
  
  - I love experimenting and prototying – here is my [GitHub page](http://github.com/ilpropheta/);
 
- - I often [blog](http://marcoarena.wordpress.com) and [speak](#talks-workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded* and *NoSlidesConf*;
+ - I often [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded* and *NoSlidesConf*;
  
  - In 2016 and 2017 Microsoft gave me the **MVP award** for [my community activies related to Visual C++](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena);
  
- - In the last years, I’ve turned into a **Competitive Programming** aficionado. Here is my [HackerRank profile](https://www.hackerrank.com/ilpropheta). To share this passion, I have created an monthly laboratory called [Coding Gym](#coding-gyms), consisting in collaborative coding dojos hosted at local user group meetings. I moderate a coding gym per month.
+ - In the last years, I’ve turned into a **Competitive Programming** aficionado. Here is my [HackerRank profile](https://www.hackerrank.com/ilpropheta). To share this passion, I have created a monthly laboratory called [Coding Gym](#coding-gym), consisting in collaborative coding dojos hosted at local user group meetings. I moderate a coding gym per month.
 
 ___
 My activites:
