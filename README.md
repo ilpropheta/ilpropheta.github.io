@@ -410,7 +410,7 @@ Co-organizer: [Franco Milicchio](http://fmilicchio.bitbucket.org/)<br/>
 
 ### [Italian C++ Community Meetup Florence](http://www.italiancpp.org/event/meetup-firenze-2015)
 
-<img src="http://i0.wp.com/www.italiancpp.org/wp-content/uploads/2015/03/WP_001479.jpg?w=718" alt="Italian C++ Meetup Florence 2015" width="600">
+<img src="http://i0.wp.com/www.italiancpp.org/wp-content/uploads/2015/03/WP_001479.jpg" alt="Italian C++ Meetup Florence 2015" width="600">
 
 I coordinated the organization of a full-day C++ meetup in Florence.<br/>
 Florence, June 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-firenze/details).<br/>
@@ -439,7 +439,7 @@ Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).<br/>
 
 ### [Italian C++ Community Meetup Pordenone](http://www.italiancpp.org/event/meetup-pordenone-2015)
 
-<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2014/11/20150207_091856.jpg?resize=600%2C337" alt="Italian C++ Meetup Pordenone 2015" width="600">
+<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2014/11/20150207_091856.jpg" alt="Italian C++ Meetup Pordenone 2015" width="600">
 
 I co-organized a full-day C++ meetup in Pordenone with [Marco Parenzan](https://twitter.com/marco_parenzan).<br/>
 Pordenone, February 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-pordenone/details).<br/>
@@ -469,7 +469,7 @@ Pordenone, February 2015. [Feedback](https://joind.in/event/italian-c-community-
 
 ### [Italian C++ Community Meetup Bologna](http://www.italiancpp.org/event/meetup-bologna-2014/)
 
-<img src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2014/09/panoramica.jpg?w=1024" alt="Italian C++ Meetup Bologna 2014" width="600">
+<img src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2014/09/panoramica.jpg" alt="Italian C++ Meetup Bologna 2014" width="600">
 
 I co-organized a C++ meetup in Bologna with [Gianluca Padovani](https://twitter.com/GPad619).<br/>
 Bologna, November 2014. [Feedback](https://joind.in/event/italian-c-community-meetup-bologna/details).<br/>
@@ -492,7 +492,7 @@ Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).
 
 ### [Italian C++ Community Meetup Milan](http://www.italiancpp.org/event/meetup-milano/)
 
-<img src="https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/06/meetup-people.jpg?resize=1024%2C683" alt="Italian C++ Meetup Milan 2014" width="600">
+<img src="https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/06/meetup-people.jpg" alt="Italian C++ Meetup Milan 2014" width="600">
 
 I organized the first meetup about C++ in Italy.
 Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-milano/details)
