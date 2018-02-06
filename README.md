@@ -6,6 +6,7 @@ Here is a professional list of my past and current activities.
 
 - [My blog "Growing Up"](http://marcoarena.wordpress.com)
 - [Italian C++ Community](http://italiancpp.org)
+- [Coding Gym](http://coding-gym.org)
 - [My Linkedin profile](https://www.linkedin.com/in/marcoarena)
 
 **Get in touch**: *marco* [at] *italiancpp* [dot] *org*
