@@ -307,7 +307,7 @@ I wrapped up the contents [here](http://italiancpp.org/cpp17).
 
 ### [C++ Day 2016](http://www.italiancpp.org/event/cppday16)
 
-<img src="http://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/06/DSC01377.jpg?resize=600%2C450" alt="C++ Day 2016" width="600">
+<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/06/DSC01377.jpg?resize=600%2C450" alt="C++ Day 2016" width="600">
 
 Florence, October 2016.
 
@@ -410,7 +410,7 @@ Co-organizer: [Franco Milicchio](http://fmilicchio.bitbucket.org/)<br/>
 
 ### [Italian C++ Community Meetup Florence](http://www.italiancpp.org/event/meetup-firenze-2015)
 
-<img src="http://i0.wp.com/www.italiancpp.org/wp-content/uploads/2015/03/WP_001479.jpg" alt="Italian C++ Meetup Florence 2015" width="600">
+<img src="https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2015/03/WP_001479.jpg" alt="Italian C++ Meetup Florence 2015" width="600">
 
 I coordinated the organization of a full-day C++ meetup in Florence.<br/>
 Florence, June 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-firenze/details).<br/>
