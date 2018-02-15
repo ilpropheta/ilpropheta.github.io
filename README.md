@@ -282,7 +282,7 @@ I wrapped up the contents [here](http://italiancpp.org/triad).
 
 ### [Mini-Meetup March / Bologna](http://www.italiancpp.org/event/meetup-marzo2017/)
 
-<img src="/pics/meetup-bo-mar17.jpg" alt="Mini-Meetup Bologna March 2017" width="600">
+<img src="/pics/meetup-bo-mar17.png" alt="Mini-Meetup Bologna March 2017" width="600">
 
 Bologna, March 2017.
 
