@@ -348,7 +348,7 @@ Additional references:
 
 ### [Italian C++ Conference 2016](http://www.italiancpp.org/event/conference-2016/)
 
-<img src="/pics/icppcon16.png" alt="Italian C++ Conference 2016" width="600">
+<img src="/pics/itcppcon16.png" alt="Italian C++ Conference 2016" width="600">
 
 Milan, May 2016. [Feedback](http://joind.in/event/italian-c-conference-2016/schedule).<br/>
 
