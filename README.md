@@ -52,7 +52,7 @@ For some of the talks that follow I got some feedback (generally from 1 to 5 <i 
 
 Some events I spoke at provided a joind.in page. You can check out my [Joind.in public profile](https://joind.in/user/ilpropheta) for a quick overview.
 
-<img src="http://i1.wp.com/www.italiancpp.org/wp-content/uploads/2015/11/C__Data_Users_DefApps_AppData_INTERNETEXPLORER_Temp_Saved-Images_12273560_1026450354043939_1786806679044325217_o.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600">
+<img src="/pics/talks-cover.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600"><br/>
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2018
@@ -185,7 +185,7 @@ I co-organized the first Modena Tech Summit, the first free conference in Modena
 
 ### [C++ Day 2017](http://www.italiancpp.org/cppday17)
 
-<img src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2017/12/24879884_1903167203331320_2007379116413815425_o.jpg" alt="C++ Day 2017" width="700">
+<img src="/pics/cppday17.png" alt="C++ Day 2017" width="700">
 
 Modena, December 2017.
 
@@ -220,7 +220,7 @@ Additional references:
 
 ### [Italian C++ Conference 2017](http://www.italiancpp.org/itcppcon17)
 
-<img src="http://www.italiancpp.org/wp-content/uploads/2013/06/WP_20170617_09_59_10_Pro.jpg" alt="Italian C++ Conference 2017" width="700">
+<img src="/pics/itcppcon17.png" alt="Italian C++ Conference 2017" width="700">
 
 Milan, June 2017.
 
@@ -261,7 +261,7 @@ Additional references:
 
 ### [The Future of Programming with Bartosz Milewski / Modena](http://www.italiancpp.org/event/the-future-of-programming/)
 
-<img src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2017/05/WP_20170606_20_46_50_Pro.jpg" alt="The Future of Programming, June 2017" width="600">
+<img src="/pics/bartosz-mo-17.png" alt="The Future of Programming, June 2017" width="600">
 
 Modena, June 2017.
 
@@ -270,7 +270,7 @@ I organized a meetup with the special guest **Bartosz Milewski**, hosted by [Con
 
 ### [Mini-Meetup May / Modena](http://www.italiancpp.org/event/meetup-maggio2017/)
 
-<img src="https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2017/04/IMG_4628.jpg?fit=1460%2C721" alt="Mini-Meetup Modena May 2017" width="600">
+<img src="/pics/meetup-mo-may17.png" alt="Mini-Meetup Modena May 2017" width="600">
 
 Modena, May 2017.
 
@@ -282,7 +282,7 @@ I wrapped up the contents [here](http://italiancpp.org/triad).
 
 ### [Mini-Meetup March / Bologna](http://www.italiancpp.org/event/meetup-marzo2017/)
 
-<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2017/01/IMG_20170321_191845.jpg?fit=1146%2C482" alt="Mini-Meetup Bologna March 2017" width="600">
+<img src="/pics/meetup-bo-mar17.jpg" alt="Mini-Meetup Bologna March 2017" width="600">
 
 Bologna, March 2017.
 
@@ -294,7 +294,7 @@ I wrapped up the contents [here](http://italiancpp.org/cpp17).
 
 ### [Mini-Meetup February / Modena](http://www.italiancpp.org/event/meetup-febbraio2017/)
 
-<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2017/01/IMG_4476.jpg?fit=1460%2C721" alt="Mini-Meetup Modena Feb 2017" width="600">
+<img src="/pics/meetup-mo-feb17.png" alt="Mini-Meetup Modena Feb 2017" width="600">
 
 Modena, February 2017.
 
@@ -308,7 +308,7 @@ I wrapped up the contents [here](http://italiancpp.org/cpp17).
 
 ### [C++ Day 2016](http://www.italiancpp.org/event/cppday16)
 
-<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/06/DSC01377.jpg?resize=600%2C450" alt="C++ Day 2016" width="600">
+<img src="/pics/cppday16.png" alt="C++ Day 2016" width="600">
 
 Florence, October 2016.
 
@@ -348,7 +348,7 @@ Additional references:
 
 ### [Italian C++ Conference 2016](http://www.italiancpp.org/event/conference-2016/)
 
-<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/05/DSC_2600.jpg?resize=768%2C512" alt="Italian C++ Conference 2016" width="600">
+<img src="/pics/icppcon16.png" alt="Italian C++ Conference 2016" width="600">
 
 Milan, May 2016. [Feedback](http://joind.in/event/italian-c-conference-2016/schedule).<br/>
 
@@ -388,7 +388,7 @@ Additional references:
 
 ### [Italian C++ Community Meetup Rome](http://www.italiancpp.org/event/meetup-roma-2015)
 
-<img src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2015/09/cornice.jpg" alt="Italian C++ Meetup Rome 2015" width="600">
+<img src="/pics/meetup-roma15.png" alt="Italian C++ Meetup Rome 2015" width="600">
 
 I coordinated the organization of a half-day C++ meetup in Rome.<br/>
 Rome, October 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-roma/details).<br/>
@@ -411,7 +411,7 @@ Co-organizer: [Franco Milicchio](http://fmilicchio.bitbucket.org/)<br/>
 
 ### [Italian C++ Community Meetup Florence](http://www.italiancpp.org/event/meetup-firenze-2015)
 
-<img src="https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2015/03/WP_001479.jpg" alt="Italian C++ Meetup Florence 2015" width="600">
+<img src="/pics/meetup-firenze15.png" alt="Italian C++ Meetup Florence 2015" width="600">
 
 I coordinated the organization of a full-day C++ meetup in Florence.<br/>
 Florence, June 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-firenze/details).<br/>
@@ -440,7 +440,7 @@ Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).<br/>
 
 ### [Italian C++ Community Meetup Pordenone](http://www.italiancpp.org/event/meetup-pordenone-2015)
 
-<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2014/11/20150207_091856.jpg" alt="Italian C++ Meetup Pordenone 2015" width="600">
+<img src="/pics/meetup-pn15.png" alt="Italian C++ Meetup Pordenone 2015" width="600">
 
 I co-organized a full-day C++ meetup in Pordenone with [Marco Parenzan](https://twitter.com/marco_parenzan).<br/>
 Pordenone, February 2015. [Feedback](https://joind.in/event/italian-c-community-meetup-pordenone/details).<br/>
@@ -470,7 +470,7 @@ Pordenone, February 2015. [Feedback](https://joind.in/event/italian-c-community-
 
 ### [Italian C++ Community Meetup Bologna](http://www.italiancpp.org/event/meetup-bologna-2014/)
 
-<img src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2014/09/panoramica.jpg" alt="Italian C++ Meetup Bologna 2014" width="600">
+<img src="/pics/meetup-bo14.png" alt="Italian C++ Meetup Bologna 2014" width="600">
 
 I co-organized a C++ meetup in Bologna with [Gianluca Padovani](https://twitter.com/GPad619).<br/>
 Bologna, November 2014. [Feedback](https://joind.in/event/italian-c-community-meetup-bologna/details).<br/>
@@ -493,7 +493,7 @@ Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).
 
 ### [Italian C++ Community Meetup Milan](http://www.italiancpp.org/event/meetup-milano/)
 
-<img src="https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/06/meetup-people.jpg" alt="Italian C++ Meetup Milan 2014" width="600">
+<img src="/pics/meetup-mi14.png" alt="Italian C++ Meetup Milan 2014" width="600">
 
 I organized the first meetup about C++ in Italy.
 Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-milano/details)
@@ -514,7 +514,7 @@ Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-
 
 # Coding Gym
 
-<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2016/04/WP_20170124_21_20_08_Pro.jpg" alt="Modena Coding Gym" width="650"/>
+<img src="/pics/coding-gym.png" alt="Modena Coding Gym" width="650"/>
 <br/>
 
 In **2016** I created [Coding Gym](http://coding-gym.org), a programming lab format targeting anyone is keen on improving proficiency in designing and coding algorithms. I have developed such format for people to:
