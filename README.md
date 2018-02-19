@@ -161,13 +161,14 @@ First of all as the leader of the [Italian C++ Community](http://italiancpp.org/
 
 <img src="/pics/meetup-mo2018.png" alt="Meetup Modena - Feb 2018" width="700">
 
-I have organized and promoted monthly meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).
+I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).
 
-Every meetup consists in 2 hours of technical contents (up to the speaker) and networking dinner afterwards.
+Every meetup consisted in 2 hours of technical contents (up to the speaker) and networking dinner afterwards.
 
 List of meetups, including guests and topics discussed:
 
-- <strong>8 February</strong>: <strong>Alberto Bignotti</strong> speaking about <i>Web interfaction through libcurl</i>
+- **Feb 8**: **Alberto Bignotti** speaking about *Web interfaction with libcurl*;
+- Next meetup: **March 15**
 
 <br/>
 
