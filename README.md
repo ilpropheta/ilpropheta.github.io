@@ -167,7 +167,7 @@ Every meetup consisted in 2 hours of technical contents (up to the speaker) and 
 
 List of meetups, including guests and topics discussed:
 
-- **Feb 8**: **Alberto Bignotti** speaking about *Web interfaction with libcurl*;
+- **Feb 8**: **Alberto Bignotti** speaking about [Web interfaction with libcurl](http://italiancpp.org/event/meetup-febbraio2018);
 - Next meetup: **March 15**
 
 <br/>
