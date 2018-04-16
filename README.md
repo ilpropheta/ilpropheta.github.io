@@ -56,6 +56,12 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2018
+**Coding Gym: divertirsi e migliorarsi a colpi di algoritmi** (40')<br/>
+About [Coding Gym](http://coding-gym.com), by examples.
+[Slides](https://) - [Video (ITA)](https://)<br/>
+200 attendees.<br/>
+@[Codemotion Rome 2018](https://rome2018.codemotionworld.com/talk-detail/?detail=7902) -- April 2018/Rome (Italy)
+
 **Coding Gym: divertirsi e migliorarsi a colpi di algoritmi** (120')<br/>
 About [Coding Gym](http://coding-gym.com), by examples.
 [Challenges](https://www.hackerrank.com/xpug-jan-2018/challenges) - [Video (ITA)](https://www.youtube.com/watch?v=SqIHAuqzj5A)<br/>
