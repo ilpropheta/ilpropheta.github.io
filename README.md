@@ -177,6 +177,8 @@ List of meetups, including guests and topics discussed:
   10 attendees.
 - **March 15**: **Yuri Valentini** speaking about [Testing and Google Test](http://www.italiancpp.org/event/meetup-marzo2018); <br/>
   22 attendees.
+- **April 19**: **Yuri Valentini** speaking about [Mocking with Google Mock](http://www.italiancpp.org/event/meetup-aprile2018); <br/>
+  12 attendees. 
 
 <br/>
 
