@@ -165,7 +165,7 @@ First of all as the leader of the [Italian C++ Community](http://italiancpp.org/
 
 ### [Modena C++ Meetups - Season 2018](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
 
-<img src="/pics/meetup-mo2018.png" alt="Meetup Modena - Feb 2018" width="700">
+<img src="/pics/meetup-mo0318.png" alt="Meetup Modena - Feb 2018" width="700">
 
 I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).
 
