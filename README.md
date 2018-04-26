@@ -568,11 +568,13 @@ My professional blogging activity started in **2011**.
 
 Some of my blog posts from my [tech blog](https://marcoarena.wordpress.com) have been published on isocpp.org too:
 
-- [string_view odi et amo](https://isocpp.org/blog/2017/01/string-view-odi-et-amo) -- January **2017**
+- [Just be aware of std::size and static C-strings](https://marcoarena.wordpress.com/2018/04/25/just-be-aware-of-stdsize-and-static-c-strings/) - April **2018**
 
-- [Peeking into the latest ISO C++ Standard Meeting for a half-day](https://isocpp.org/blog/2016/11/peeking-into-the-latest-iso-cpp-standard-meeting-for-a-half-day-marco-arena) -- November **2016**
+- [string_view odi et amo](https://isocpp.org/blog/2017/01/string-view-odi-et-amo) - January **2017**
 
-- [C++ in Competitive Programming (blog series)](https://isocpp.org/search/google?q=competitive%20programming) -- since February **2016**
+- [Peeking into the latest ISO C++ Standard Meeting for a half-day](https://isocpp.org/blog/2016/11/peeking-into-the-latest-iso-cpp-standard-meeting-for-a-half-day-marco-arena) - November **2016**
+
+- [C++ in Competitive Programming (blog series)](https://isocpp.org/search/google?q=competitive%20programming) - since February **2016**
 
 - [Pay attention to unformatted nature of getline](https://isocpp.org/blog/2015/11/pay-attention-to-unformatted-nature-of-getline) – November **2015**
 
@@ -599,13 +601,13 @@ Every post below have been published on isocpp.org too:
 
 In **2016**, I started the blog series *C++ in Competitive Programming*, about algorithms, idioms and usage of C++ for solving programming challenges. Current installments:
 
-- [Introduction](https://marcoarena.wordpress.com/2016/02/15/cpp-in-competitive-programming-intro/)
-- [Input and Output](https://marcoarena.wordpress.com/2016/03/13/cpp-competitive-programming-io/)
-- [Warmup](https://marcoarena.wordpress.com/2016/04/14/cpp-in-competitive-programming-warmup/)
-- [String basics](https://marcoarena.wordpress.com/2016/06/05/cpp-in-competitive-programming-string-basics/)
-- [Associative containers](https://marcoarena.wordpress.com/2016/07/20/cpp-in-competitive-programming-associative-containers/)
-- [Compromises](https://marcoarena.wordpress.com/2016/09/30/cpp-in-competitive-programming-compromises/)
-- [A hidden gem: inner_product](https://marcoarena.wordpress.com/2017/11/14/a-hidden-gem-inner_product/)
+- [Introduction](https://marcoarena.wordpress.com/2016/02/15/cpp-in-competitive-programming-intro/) - February **2016**
+- [Input and Output](https://marcoarena.wordpress.com/2016/03/13/cpp-competitive-programming-io/) - March **2016** 
+- [Warmup](https://marcoarena.wordpress.com/2016/04/14/cpp-in-competitive-programming-warmup/) - April **2016**
+- [String basics](https://marcoarena.wordpress.com/2016/06/05/cpp-in-competitive-programming-string-basics/) - June **2016**
+- [Associative containers](https://marcoarena.wordpress.com/2016/07/20/cpp-in-competitive-programming-associative-containers/) - July **2016**
+- [Compromises](https://marcoarena.wordpress.com/2016/09/30/cpp-in-competitive-programming-compromises/) - September **2016**
+- [A hidden gem: inner_product](https://marcoarena.wordpress.com/2017/11/14/a-hidden-gem-inner_product/) - November **2017**
 
 # Projects and Repos
 
