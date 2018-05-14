@@ -58,7 +58,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 ## 2018
 **Coding Gym: divertirsi e migliorarsi a colpi di algoritmi** (40')<br/>
 About [Coding Gym](http://coding-gym.com), by examples.
-[Slides](https://) - [Video (ITA)](https://youtu.be/eQsemDIpLQY)<br/>
+[Slides](https://www.slideshare.net/Codemotion/coding-gym-divertirsi-e-migliorarsi-a-colpi-di-algoritmi-by-marco-arena) - [Video (ITA)](https://youtu.be/eQsemDIpLQY)<br/>
 200 attendees.<br/>
 @[Codemotion Rome 2018](https://rome2018.codemotionworld.com/talk-detail/?detail=7902) -- April 2018/Rome (Italy)
 
