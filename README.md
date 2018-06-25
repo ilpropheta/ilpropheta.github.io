@@ -56,6 +56,11 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2018
+**\[Workshop\] Post-Modern C++ Refactoring** (120')<br/>
+[Workshop on tech.io](http://tinyurl.com/post-modern-cpp)
+16 attendees.<br/>
+@[Monthly Italian C++ Meetups Modena](http://www.italiancpp.org/event/meetup-giugno2018/) -- June 2018/Modena (Italy)
+
 **Coding Gym: divertirsi e migliorarsi a colpi di algoritmi** (40')<br/>
 About [Coding Gym](http://coding-gym.com), by examples.
 [Slides](https://www.slideshare.net/Codemotion/coding-gym-divertirsi-e-migliorarsi-a-colpi-di-algoritmi-by-marco-arena) - [Video (ITA)](https://youtu.be/eQsemDIpLQY)<br/>
@@ -182,6 +187,8 @@ List of meetups, including guests and topics discussed:
   12 attendees.
 - **May 10**: **Roberto Bettazzoni** moderating an interactive discussions about [Teach Me How to Test in C++](http://www.italiancpp.org/event/meetup-maggio2018); <br/>
   11 attendees.
+- **June 14**: **Marco Arena** facilitating a workshop about [Post-Modern C++ Refactoring](http://www.italiancpp.org/event/meetup-giugno2018); <br/>
+  16 attendees.
 
 <br/>
 
