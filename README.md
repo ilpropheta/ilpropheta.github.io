@@ -57,7 +57,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2018
 **\[Workshop\] Post-Modern C++ Refactoring** (120')<br/>
-[Workshop on tech.io](http://tinyurl.com/post-modern-cpp)
+[Workshop on tech.io](http://tinyurl.com/post-modern-cpp)<br/>
 16 attendees.<br/>
 @[Monthly Italian C++ Meetups Modena](http://www.italiancpp.org/event/meetup-giugno2018/) -- June 2018/Modena (Italy)
 
