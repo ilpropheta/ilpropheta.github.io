@@ -1,36 +1,38 @@
-<img src="https://github.com/ilpropheta/ilpropheta.github.io/blob/master/me.png?raw=true" alt="Modena Coding Dojo" width="200">
+<img src="https://github.com/ilpropheta/ilpropheta.github.io/blob/master/me.png?raw=true" alt="Marco Arena" width="200">
 
 Here is a professional list of my past and current activities.
 
 **Quick links:**
 
 - [My blog "Growing Up"](http://marcoarena.wordpress.com)
-- [Italian C++ Community](http://italiancpp.org)
-- [Coding Gym](http://coding-gym.org)
+- [Italian C++ Community](https://italiancpp.org)
+- [Coding Gym](https://coding-gym.org)
 - [My Linkedin profile](https://www.linkedin.com/in/marcoarena)
+- [My Youtube Channel](https://www.youtube.com/channel/UCK-K0NhTAWJWdNIYkR18maQ)
 
 **Get in touch**: *marco* [at] *italiancpp* [dot] *org*
 
 ----------
 
-
 # TL;DR -- in a nutshell
 
-For most of the day, my C++ has been serving the **Ferrari F1 Racing Team (Scuderia Ferrari)** since 2011.
+I am a Computer Engineer from Rome, specialized in high performance and critical software development in C++. For most of the day, my C++ has been serving the **Ferrari F1 Racing Team (Scuderia Ferrari)** since 2011. Behind the scenes, I define myself a "Community Hacker" because I'm very active in the tech communities ecosystem in Italy and abroad.
 
-Apart from private life, I love spending my spare time on some activities:
+Apart from private life, I love spending my spare time on several activities gathered here below:
 
- - I have shaped [++it, the Italian C++ Community](http://italiancpp.org/), or the C++ landmark in Italy. I moderate the online community, I organize events and meetups, etc;
+- in 2013, I founded [++it, the Italian C++ Community](http://italiancpp.org/), or the C++ landmark in Italy. I moderate the online community, I organize events and meetups, etc;
 
- - I have been an **editor** of [isocpp.org](http://isocpp.org/) since 2014. I help moderate the International C++ online community;
+- in 2016, I created [Coding Gym](#coding-gym), a monthly programming laboratory format and community currently active in Modena, Pauda, Milan and Barcelona;
+
+- I have been an **editor** of [isocpp.org](http://isocpp.org/) since 2014. I help moderate the International C++ online community;
+
+- I have joined [ConoscereLinux](https://conoscerelinux.org) staff since 2016;
+
+- I often [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, local meetups and, clearly, at *Italian C++ Community* events;
  
- - I love experimenting and prototying – here is my [GitHub page](http://github.com/ilpropheta/);
-
- - I often [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded* and *NoSlidesConf*;
+- I love experimenting and prototying – here is my [GitHub page](http://github.com/ilpropheta/);
  
- - In 2016 I created [Coding Gym](#coding-gym), a programming lab format targeting anyone is keen on improving proficiency in designing and coding algorithms;
- 
- - In 2016 and 2017 Microsoft gave me the **MVP award** for [my community activies related to Visual C++](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
+- Since 2016 I have received (3 times) the **Microsoft MVP award** for [my community activies](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
 
 ___
 My activites:
@@ -202,9 +204,10 @@ I coordinated the organization of the third edition of the Italian C++ Conferenc
 **200 attendees** (250 registered people - ~20% drop).
 
 *Keynote speaker*: Peter Sommerlad.
+
 *Speakers*: Alberto Barbati, Anastasia Kazakova, Diego Rodriguez Losada, Paolo Severini, Vittorio Romeo, Denis Panin, Felix Petriconi, Emanuele Bartolesi, Raffele Rialdi.
 
-Sponsors: Bloomberg, JFrog/CONAN, AIV, JetBrains, Aresys, KDAB, Recognition Robotics, Sigeo, Develer, COMELZ.
+**Sponsors**: Bloomberg, JFrog/CONAN, AIV, JetBrains, Aresys, KDAB, Recognition Robotics, Sigeo, Develer, COMELZ.
 
 My staff included: Alessandro Vergani, Gian Lorenzo Meocci, Marco Foco, Guido Pederzini, Illya Dudchenko, Raffaele Rialdi.
 
@@ -270,7 +273,7 @@ I coordinated the organization of the second edition of the C++ Day, a free even
 
 *Speakers*: Carlo Pescio, Daniele Pallastrelli, Stefano Cristiano, Alberto Bignotti, Sebastiano Galazzo.
 
-Sponsors: Recognition Robotics, Sigeo srl, Elettric80.
+**Sponsors**: Recognition Robotics, Sigeo srl, Elettric80.
 
 My staff included: Guido Pederzini, Alessandro Vergani, Illya Dudchenko.
 
@@ -305,10 +308,12 @@ I coordinated the organization of the second edition of the Italian C++ Conferen
 **160 attendees** (220 registered people - ~28% drop).
 
 *Keynote speaker*: Michael Wong.
+
 *International speakers*: Bartosz Milewski, Phil Nash, Jens Weller, Dietmar Kühl.
+
 *Italian speakers*: Davide Di Gennaro, Raffaele Rialdi, Carlo Pescio, Paola Presutto, Stefano Cristiano.
 
-Sponsors: Bloomberg, JetBrains, KDAB, Recognition Robotics, Think-Cell, Abaco Group, JFrog
+**Sponsors**: Bloomberg, JetBrains, KDAB, Recognition Robotics, Think-Cell, Abaco Group, JFrog
 
 My staff included: Raffaele Rialdi, Franco Milicchio, Alessandro Vergani, Gian Lorenzo Meocci, Marco Foco, Guido Pederzini, Illya Dudchenko.
 
@@ -390,7 +395,7 @@ I wrapped up the contents [here](http://italiancpp.org/cpp17).
 Florence, October 2016.
 
 I coordinated the organization of the 1st edition of the **C++ Day**, an event fully dedicated to C++ made by the Italian C++ Community. The event took place at Hotel Londra, in Florence. <br/>
-Sponsors: [Develer](http://develer.com) and [Soft 2000](http://soft2000sas.it)<br/>
+**Sponsors**: [Develer](http://develer.com) and [Soft 2000](http://soft2000sas.it)<br/>
 **80+ attendees** (100+ registered people - ~20% drop).
 
 [Pictures on Facebook](https://www.facebook.com/photo.php?fbid=10154194953011057&set=oa.793589927442664&type=3&theater)
@@ -666,6 +671,8 @@ In **2016**, I started the blog series *C++ in Competitive Programming*, about a
 Refer to my [Github page](https://github.com/ilpropheta) for more details.
 
 Some of my projects/experiments follow:
+
+- Obbelisco (TBR) - Unity3D racing game set in Rome EUR, inspired by Italian movie: "Velocità Massima". Co-developed with a friend of mine who wants to stay anonymous.
 
 - [anvedi](https://github.com/ilpropheta/anvedi) – Prototypal **Qt** Data Viewer made with [QCustomPlot](http://qcustomplot.com)
 
