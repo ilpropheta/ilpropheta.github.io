@@ -192,6 +192,47 @@ List of meetups, including guests and topics discussed:
 
 <br/>
 
+### [Italian C++ Conference 2018](http://www.italiancpp.org/itcppcon18)
+
+<img src="/pics/itcppcon18.png" alt="Italian C++ Conference 2018" width="700">
+
+Milan, June 2018.
+
+I coordinated the organization of the third edition of the Italian C++ Conference, the only conference in Italy entirely dedicated to C++. The event took place at University "Bicocca" of Milan. This event was the biggest and the most important I have ever organized.<br/>
+**200 attendees** (250 registered people - ~20% drop).
+
+*Keynote speaker*: Peter Sommerlad.
+*Speakers*: Alberto Barbati, Anastasia Kazakova, Diego Rodriguez Losada, Paolo Severini, Vittorio Romeo, Denis Panin, Felix Petriconi, Emanuele Bartolesi, Raffele Rialdi.
+
+Sponsors: Bloomberg, JFrog/CONAN, AIV, JetBrains, Aresys, KDAB, Recognition Robotics, Sigeo, Develer, COMELZ.
+
+My staff included: Alessandro Vergani, Gian Lorenzo Meocci, Marco Foco, Guido Pederzini, Illya Dudchenko, Raffaele Rialdi.
+
+**Highlights:**
+
+- 1x90' keynote
+- 8x50' talks
+- 2x20' short talks
+- Networking (3 hours) breaks and lunch.
+
+**Topics:**
+
+- Time-Travel Debugging in Windows
+- WebAssembly
+- Debug without Running
+- Coroutines
+- Channels
+- CONAN C/C++ Package Manager
+- Writing and using compile-time heterogeneous hash table in C++17
+- Zero-allocation & no type erasure futures
+- Work with C++ on Mac Linux and Windows with Visual Studio Code
+- CppWinRT and the future of Windows Desktop development
+
+Additional references:
+
+- [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2018/07/08/itcppcon18/)
+- [Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LW0zKJBvemhJ0YWIF1Fezd6)
+
 ### [Modena Tech Summit 2018](http://modenatechscene.it/summit2018/)
 
 <img src="https://pbs.twimg.com/media/DT-nldbX0AAxZZS.jpg" alt="Modena Tech Summit 2018" width="700">
@@ -259,7 +300,8 @@ Additional references:
 
 Milan, June 2017.
 
-I coordinated the organization of the second edition of the Italian C++ Conference, the only conference in Italy entirely dedicated to C++. The event took place at University "Bicocca" of Milan. This event was the biggest and the most important I have ever organized.<br/>
+I coordinated the organization of the second edition of the Italian C++ Conference, the only conference in Italy entirely dedicated to C++. The event took place at University "Bicocca" of Milan. 
+<br/>
 **160 attendees** (220 registered people - ~28% drop).
 
 *Keynote speaker*: Michael Wong.
