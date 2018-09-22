@@ -191,6 +191,8 @@ List of meetups, including guests and topics discussed:
   11 attendees.
 - **June 14**: **Marco Arena** facilitating a workshop about [Post-Modern C++ Refactoring](http://www.italiancpp.org/event/meetup-giugno2018); <br/>
   16 attendees.
+- **September 13**: **Silvio Pioli** speaking about [Introduction to QML and Integration with C++](http://www.italiancpp.org/event/meetup-settembre2018); <br/>
+  21 attendees.
 
 <br/>
 
