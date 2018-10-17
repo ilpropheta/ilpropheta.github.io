@@ -193,6 +193,8 @@ List of meetups, including guests and topics discussed:
   16 attendees.
 - **September 13**: **Silvio Pioli** speaking about [Introduction to QML and Integration with C++](http://www.italiancpp.org/event/meetup-settembre2018); <br/>
   21 attendees.
+- **October 11**: **Alberto Bignotti** speaking about [GIS in C++](http://www.italiancpp.org/event/meetup-ottobre2018); <br/>
+  16 attendees.
 
 <br/>
 
@@ -687,6 +689,8 @@ Some of my projects/experiments follow:
 # Podcasts
 
 I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.com), the popular Italian website dedicated to Microsoft technologies:
+
+- [Coding Gym](http://dotnetpodcast.com/show/card/191) -- September **2018**
 
 - [Perché nel 2015 parliamo ancora di C++?](http://www.dotnetpodcast.com/show/card/52) -- July **2015**
 
