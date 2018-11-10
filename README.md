@@ -195,6 +195,8 @@ List of meetups, including guests and topics discussed:
   21 attendees.
 - **October 11**: **Alberto Bignotti** speaking about [GIS in C++](http://www.italiancpp.org/event/meetup-ottobre2018); <br/>
   16 attendees.
+- **November 8**: **Yuri Valentini** speaking about [Asynchronous Programming with PPL and CppRestSDK](http://www.italiancpp.org/event/meetup-novembre2018); <br/>
+  12 attendees.
 
 <br/>
 
