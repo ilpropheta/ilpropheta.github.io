@@ -197,6 +197,50 @@ List of meetups, including guests and topics discussed:
   16 attendees.
 - **November 8**: **Yuri Valentini** speaking about [Asynchronous Programming with PPL and CppRestSDK](http://www.italiancpp.org/event/meetup-novembre2018); <br/>
   12 attendees.
+- **December 13**: **Federico Ficarelli** speaking about [Profiling & micro-benchmarking with Google Benchmark](https://conoscerelinux.org/courses/meetupcpp_dic18/); <br/>
+  16 attendees.
+
+<br/>
+
+### [C++ Day 2018](http://www.italiancpp.org/cppday18)
+
+<img src="/pics/cppday18.png" alt="Italian C++ Conference 2018" width="700">
+
+Pavia, November 2018.
+
+I coordinated the organization of the third edition of the C++ Day, an event fully dedicated to C++. The event took place at University of Pavia and was co-organized with Riccardo Brugo, Federico Pasqua and the Physics Department of University of Pavia.<br/>
+**110 attendees** (150 registered people - ~26% drop).
+
+*Keynote speaker*: John Biddiscombe.
+
+*Speakers*: Alberto Barbati, Alberto Bignotti, Manlio Morini, Fabrizio Radaelli, Giorgio Zoppi, Michele Caini, Sebastiano Galazzo, Federico Pasqua, Alfio Lazzaro.
+
+**Sponsors**: Accenture, Bartek Stories.
+
+**Highlights:**
+
+- 1x90' keynote
+- 8x50' talks
+- 2x20' short talks
+- Networking (3 hours) breaks and lunch.
+
+**Topics:**
+
+- HPX
+- C++20
+- GIS in C++
+- Reflection
+- Template Metaprogramming
+- C++/Python integration with Cython 
+- AI and Microsoft Cognitive Services
+- IoT with RTI DDS Connext
+- Convex Optimization
+- Evolutionary Algorithms
+
+Additional references:
+
+- [https://www.italiancpp.org/2018/12/08/cppday18/)
+- [Videos - TBA]()
 
 <br/>
 
