@@ -239,7 +239,7 @@ I coordinated the organization of the third edition of the C++ Day, an event ful
 
 Additional references:
 
-- [https://www.italiancpp.org/2018/12/08/cppday18/)
+- [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2018/12/08/cppday18/)
 - [Videos - TBA]()
 
 <br/>
