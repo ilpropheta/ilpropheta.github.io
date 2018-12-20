@@ -20,9 +20,9 @@ I am a Computer Engineer from Rome, specialized in high performance and critical
 
 Apart from private life, I love spending my spare time on several activities gathered here below:
 
-- in 2013, I founded [++it, the Italian C++ Community](http://italiancpp.org/), or the C++ landmark in Italy. I moderate the online community, I organize events and meetups, etc;
+- in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), or the C++ landmark in Italy. I moderate the online community, I organize events and meetups, etc;
 
-- in 2016, I created [Coding Gym](#coding-gym), a monthly programming laboratory format and community currently active in Modena, Pauda, Milan and Barcelona;
+- in 2016, I created [Coding Gym](#coding-gym), a monthly programming laboratory format and community currently active in Modena, Pauda, Milan, Rome, Turin, Bari and Barcelona;
 
 - I have been an **editor** of [isocpp.org](http://isocpp.org/) since 2014. I help moderate the International C++ online community;
 
@@ -649,19 +649,21 @@ Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-
 <img src="/pics/coding-gym.png" alt="Modena Coding Gym" width="650"/>
 <br/>
 
-In **2016** I created [Coding Gym](http://coding-gym.org), a programming lab format targeting anyone is keen on improving proficiency in designing and coding algorithms. I have developed such format for people to:
+In **2016** I created [Coding Gym](http://coding-gym.org), a monthly programming lab format developed to practice programming and soft-skills.
 
-- improve problem analysis and solving skills
-- improve fluency with the standard library and the idioms of known programming languages
-- practice understanding and balancing programming compromises
+When people ask me "what is Coding Gym?", I'm used to answer "at Coding Gym, we practice expressing ourselves through programming and collaboration".
+
+People who has attended Coding Gym for some years tell that Coding Gym is a friendly environment to:
+
+- practice and improve problem solving skills
+- practice collaborating, speaking, exchanging ideas with other people
+- practice understanding and balancing compromises in programming and software development
 - learn new algorithms, data structures and coding patterns
-- practice unknown programming languages and paradigms
+- experiment with programming languages and paradigms they are not fluent with
 
-Coding Gym is **independent from the programming language** **and** **from the paradigm**. 
+In 2016, I started Coding Gym in Modena and since 2018 I have been working to bring it in other cities by founding a community of "trainers". Currently, Coding Gym is active in Modena, Rome, Milan, Turn, Padua, Bari and Barcelona.
 
-Coding Gym is hosted monthly in Modena.
-
-The [Coding Gym website](http://coding-gym.org) includes more details, next and past events and pictures.
+The [Coding Gym website](https://coding-gym.org) contains more details, next and past events, and pictures.
 
 # Popular posts
 
