@@ -661,9 +661,9 @@ People who has attended Coding Gym for some years tell that Coding Gym is a frie
 - learn new algorithms, data structures and coding patterns
 - experiment with programming languages and paradigms they are not fluent with
 
-In 2016, I started Coding Gym in Modena and since 2018 I have been working to bring it in other cities by founding a community of "trainers". Currently, Coding Gym is active in Modena, Rome, Milan, Turn, Padua, Bari and Barcelona.
+In 2016, I started Coding Gym in Modena and since 2018 I have been working to bring it in other cities by founding and leading a community of "trainers". Currently, Coding Gym is active in Modena, Rome, Milan, Turn, Padua, Bari and Barcelona.
 
-The [Coding Gym website](https://coding-gym.org) contains more details, next and past events, and pictures.
+[The official website](https://coding-gym.org) contains more details, next and past events, and pictures.
 
 # Popular posts
 
@@ -744,6 +744,73 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 - [Overview dell'Italian C++ Community](http://www.dotnetpodcast.com/show/card/41) -- May **2015**
 
+# Timeline
+
+Here is a list of *some* notable events happened in my professional life:
+
+- 2000
+  - written my first line of Pascal, at school
+  - written my first line of HTML, at school
+- 2004
+  - seen some C++ code, from a classmate who was developing an RPG
+- 2005
+  - started Computer Engineering BSC
+  - written my first line of Java
+- 2006
+  - attended *Java Day 2006* - my first software conference ever
+- 2007
+  - written my first line of C
+  - installed and used a Linux distribution for the first time
+- 2008
+  - studied object oriented patterns (GoF and GRASP) for the first time
+  - discovered Functional Programming, practiced OCaml for some months passed an exam with full score at university
+  - got my BSC in Computer Engineering, Rome
+  - started Computer Engineering MSC
+- 2009 
+  - practiced with OpenGL and graphics programming
+  - written my first line of C++
+- 2010
+  - used Qt and boost for the first time
+  - got my MSC in Computer Engineering, Rome
+- 2011
+  - started a [professional blog](https://marcoarena.wordpress.com)
+  - started working at Reply
+  - quit Reply
+  - started working at Scuderia Ferrari
+  - started developing in C++ professionally
+  - written my first line of C#
+  - my first time working at the track, in Abu Dhabi
+- 2012
+  - founded Facebook and LinkedIn groups: **++it, Italian C++ Community**
+- 2013
+  - founded [++it (Italian C++ Community)](https://italiancpp.org)
+  - given my first talk at a professional event (*AgileDay 2013*) about C++
+- 2014
+  - organized my first meetup - the first Italian C++ Community meetup, in Milan 
+  - attended *Meeting C++* for the first time - my first C++ event ever
+- 2015
+  - given my first keynote session ever, at *Italian C++ Meetup in Pordenone*
+- 2016
+  - received the [Microsoft MVP Award](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena)
+  - created [Coding Gym](https://coding-gym.org) and organized the very first session in Bologna
+  - started monthly Coding Gym sessions in Modena
+  - organized the first "big" [conference about C++ in Italy](http://www.italiancpp.org/event/conference-2016/)
+  - organized the first [C++ Day](http://www.italiancpp.org/event/cppday16)
+  - my first time as a staff member at *Meeting C++*
+  - went to my first MVP Global Summit in Redmond - my first time in USA
+- 2017
+  - given my first talk about Coding Gym at *NoSlidesConf 2017*
+- 2018
+  - started working on Coding Gym as a "distributed format"
+  - co-organized and co-moderated the first Coding Gym outside Modena in Padua
+  - co-organized the first Coding Gym in Barcelona
+  - co-organized and co-moderated the first Coding Gym in Milan
+  - hosted the first "Coding Gym Trainers Summit" in Modena
+  - co-organized and co-moderated the first Coding Gym in Rome and Turin
+  - co-organized the first Coding Gym in Bari
+  
+<br/>
+
 ----
 
-*Last Update*: **January 2018**
+*Last Update*: **December 2018**
