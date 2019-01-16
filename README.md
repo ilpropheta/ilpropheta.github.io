@@ -57,6 +57,12 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 <img src="/pics/talks-cover.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600"><br/>
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
+## 2019
+**Se Bruce Lee fosse stato un programmatore avrebbe adorato il C++** (120')<br/>
+[Session on tech.io](http://tinyurl.com/brucecpp)<br/> - [Video (ITA)](https://www.youtube.com/watch?v=5YWKtleLexM)<br/>
+20 attendees.<br/>
+@[XPUG Bologna Monthly](https://www.eventbrite.it/e/biglietti-se-bruce-lee-fosse-stato-un-programmatore-avrebbe-adorato-il-c-marco-arena-54399331866) -- January 2019/Bologna (Italy)
+
 ## 2018
 **\[Workshop\] Post-Modern C++ Refactoring** (120')<br/>
 [Workshop on tech.io](http://tinyurl.com/post-modern-cpp)<br/>
