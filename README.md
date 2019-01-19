@@ -246,7 +246,7 @@ I coordinated the organization of the third edition of the C++ Day, an event ful
 Additional references:
 
 - [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2018/12/08/cppday18/)
-- [Videos - TBA]()
+- [Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWco9qjTuwzQtLB2FjGkfHo)
 
 <br/>
 
@@ -819,4 +819,4 @@ Here is a list of *some* notable events happened in my professional life:
 
 ----
 
-*Last Update*: **December 2018**
+*Last Update*: **January 2019**
