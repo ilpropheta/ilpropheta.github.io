@@ -59,7 +59,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2019
 **Bruce Lee per programmatori C++** (120')<br/>
-[Slides](http://) - [Video (ITA)](https://www.youtube.com/watch?v=ttcHSm-5dv4)<br/>
+[Slides](https://conoscerelinux.org/wp-content/uploads/2019/01/Bruce-Lee-for-C-programmers-Marco-Arena.pdf) - [Video (ITA)](https://www.youtube.com/watch?v=ttcHSm-5dv4)<br/>
 22 attendees.<br/>
 @[Monthly Italian C++ Meetups Modena](http://www.italiancpp.org/event/meetup-febbraio2019/) -- February 2019/Modena (Italy)
 
