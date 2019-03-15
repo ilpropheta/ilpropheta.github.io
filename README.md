@@ -195,6 +195,9 @@ List of meetups, including guests and topics discussed:
 - **Feb 21**: **Marco Arena** speaking about [Bruce Lee for C++ Programmers](https://www.italiancpp.org/event/meetup-febbraio2019/);<br/>
   22 attendees.
 
+- **Mar 14**: **Alberto Bignotti** speaking about [Git-Powered Docs](https://www.italiancpp.org/event/meetup-marzo2019/);<br/>
+  22 attendees.
+
 ## 2018
 
 ### [Modena C++ Meetups - Season 2018](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
