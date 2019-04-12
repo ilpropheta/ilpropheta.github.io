@@ -198,6 +198,9 @@ List of meetups, including guests and topics discussed:
 - **Mar 14**: **Alberto Bignotti** speaking about [Git-Powered Docs](https://www.italiancpp.org/event/meetup-marzo2019/);<br/>
   22 attendees.
 
+- **Apr 11**: **Yuri Valentini** speaking about [Real-Time communication with WebRTC in C++](https://www.italiancpp.org/event/meetup-aprile2019/);<br/>
+  25 attendees.
+
 ## 2018
 
 ### [Modena C++ Meetups - Season 2018](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
