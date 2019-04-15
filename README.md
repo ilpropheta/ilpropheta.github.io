@@ -22,7 +22,7 @@ Apart from private life, I love spending my spare time on several activities gat
 
 - in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), or the C++ landmark in Italy. I moderate the online community, I organize events and meetups, etc;
 
-- in 2016, I created [Coding Gym](#coding-gym), a monthly programming laboratory format and community currently active in Modena, Pauda, Milan, Rome, Turin, Bari and Barcelona;
+- in 2016, I created [Coding Gym](#coding-gym), a monthly programming laboratory format and community currently active in Modena, Pauda, Milan, Rome, Turin and Bari;
 
 - I have been an **editor** of [isocpp.org](http://isocpp.org/) since 2014. I help moderate the International C++ online community;
 
