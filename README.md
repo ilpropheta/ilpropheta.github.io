@@ -216,20 +216,28 @@ List of meetups, including guests and topics discussed:
 
 - **Feb 8**: **Alberto Bignotti** speaking about [Web interaction with libcurl](http://italiancpp.org/event/meetup-febbraio2018);<br/>
   10 attendees.
+  
 - **March 15**: **Yuri Valentini** speaking about [Testing and Google Test](http://www.italiancpp.org/event/meetup-marzo2018); <br/>
   22 attendees.
+  
 - **April 19**: **Yuri Valentini** speaking about [Mocking with Google Mock](http://www.italiancpp.org/event/meetup-aprile2018); <br/>
   12 attendees.
+  
 - **May 10**: **Roberto Bettazzoni** moderating an interactive discussions about [Teach Me How to Test in C++](http://www.italiancpp.org/event/meetup-maggio2018); <br/>
   11 attendees.
+  
 - **June 14**: **Marco Arena** facilitating a workshop about [Post-Modern C++ Refactoring](http://www.italiancpp.org/event/meetup-giugno2018); <br/>
   16 attendees.
+  
 - **September 13**: **Silvio Pioli** speaking about [Introduction to QML and Integration with C++](http://www.italiancpp.org/event/meetup-settembre2018); <br/>
   21 attendees.
+  
 - **October 11**: **Alberto Bignotti** speaking about [GIS in C++](http://www.italiancpp.org/event/meetup-ottobre2018); <br/>
   16 attendees.
+  
 - **November 8**: **Yuri Valentini** speaking about [Asynchronous Programming with PPL and CppRestSDK](http://www.italiancpp.org/event/meetup-novembre2018); <br/>
   12 attendees.
+  
 - **December 13**: **Federico Ficarelli** speaking about [Profiling & micro-benchmarking with Google Benchmark](https://conoscerelinux.org/courses/meetupcpp_dic18/); <br/>
   16 attendees.
 
