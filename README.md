@@ -201,6 +201,9 @@ List of meetups, including guests and topics discussed:
 - **Apr 11**: **Yuri Valentini** speaking about [Real-Time communication with WebRTC in C++](https://www.italiancpp.org/event/meetup-aprile2019/);<br/>
   25 attendees.
 
+- **May 9**: **Federico Ficarelli** speaking about [Programming GPUs with modern C++](https://www.italiancpp.org/event/meetup-maggio2019/);<br/>
+  23 attendees.
+
 ## 2018
 
 ### [Modena C++ Meetups - Season 2018](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
