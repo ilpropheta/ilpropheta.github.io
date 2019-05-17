@@ -28,6 +28,8 @@ Apart from private life, I love spending my spare time on several activities gat
 
 - I have joined [ConoscereLinux](https://conoscerelinux.org) staff since 2016;
 
+- in 2018, I have co-founded [Community Crumbs](https://communitycrumbs.org/), a non-profit organization patronizing all my community activities;
+
 - I often [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, local meetups and, clearly, at *Italian C++ Community* events;
  
 - I love experimenting and prototying – here is my [GitHub page](http://github.com/ilpropheta/);
