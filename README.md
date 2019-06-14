@@ -731,6 +731,8 @@ My professional blogging activity started in **2011**.
 
 Some of my blog posts from my [tech blog](https://marcoarena.wordpress.com) have been published on isocpp.org too:
 
+- [Kadane in next-gen C++](https://isocpp.org/blog/2019/06/kadane-in-next-gen-cpp) - June **2019**
+
 - [Just be aware of std::size and static C-strings](https://marcoarena.wordpress.com/2018/04/25/just-be-aware-of-stdsize-and-static-c-strings/) - April **2018**
 
 - [string_view odi et amo](https://isocpp.org/blog/2017/01/string-view-odi-et-amo) - January **2017**
