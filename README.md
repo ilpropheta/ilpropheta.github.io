@@ -60,6 +60,11 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2019
+**Thinking in patterns - Come allenarsi e diventare cintura nera di STL** (120')<br/>
+[Slides - TBD](http://) - [Video (ITA)](https://www.youtube.com/watch?v=bSqa4gWYZg4)<br/>
+21 attendees.<br/>
+@[Monthly Italian C++ Meetups Modena](http://www.italiancpp.org/event/meetup-giugno2019/) -- June 2019/Modena (Italy)
+
 **Bruce Lee per programmatori C++** (120')<br/>
 [Slides](https://conoscerelinux.org/wp-content/uploads/2019/01/Bruce-Lee-for-C-programmers-Marco-Arena.pdf) - [Video (ITA)](https://www.youtube.com/watch?v=ttcHSm-5dv4)<br/>
 22 attendees.<br/>
