@@ -210,6 +210,9 @@ List of meetups, including guests and topics discussed:
 
 - **May 9**: **Federico Ficarelli** speaking about [Programming GPUs with modern C++](https://www.italiancpp.org/event/meetup-maggio2019/);<br/>
   23 attendees.
+  
+- **June 13**: **Marco Arena** speaking about [Thinking in Patterns - How to master the STL](https://www.italiancpp.org/event/meetup-giugno2019/);<br/>
+  21 attendees.
 
 ## 2018
 
