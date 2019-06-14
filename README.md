@@ -28,7 +28,7 @@ Apart from private life, I love spending my spare time on several activities gat
 
 - I have joined [ConoscereLinux](https://conoscerelinux.org) staff since 2016;
 
-- in 2018, I have co-founded [Community Crumbs](https://communitycrumbs.org/), a non-profit organization patronizing all my community activities;
+- in 2018, I have co-founded [Community Crumbs](https://communitycrumbs.org/) a non-profit organization patronizing all my community activities;
 
 - I often [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, local meetups and, clearly, at *Italian C++ Community* events;
  
@@ -837,7 +837,7 @@ Here is a list of *some* notable events happened in my professional life:
   - written my first line of C#
   - my first time working at the track, in Abu Dhabi
 - 2012
-  - founded Facebook and LinkedIn groups: **++it, Italian C++ Community**
+  - founded two Facebook and LinkedIn groups: **++it, Italian C++ Community**
 - 2013
   - founded [++it (Italian C++ Community)](https://italiancpp.org)
   - given my first talk at a professional event (*AgileDay 2013*) about C++
@@ -846,10 +846,12 @@ Here is a list of *some* notable events happened in my professional life:
   - attended *Meeting C++* for the first time - my first C++ event ever
 - 2015
   - given my first keynote session ever, at *Italian C++ Meetup in Pordenone*
+  - given a talk in front of *more than 150 people*, at Codemotion Milan
 - 2016
   - received the [Microsoft MVP Award](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena)
   - created [Coding Gym](https://coding-gym.org) and organized the very first session in Bologna
   - started monthly Coding Gym sessions in Modena
+  - joined the staff of [ConoscereLinux](http://conoscerelinux.it)
   - organized the first "big" [conference about C++ in Italy](http://www.italiancpp.org/event/conference-2016/)
   - organized the first [C++ Day](http://www.italiancpp.org/event/cppday16)
   - my first time as a staff member at *Meeting C++*
@@ -857,16 +859,19 @@ Here is a list of *some* notable events happened in my professional life:
 - 2017
   - given my first talk about Coding Gym at *NoSlidesConf 2017*
 - 2018
-  - started working on Coding Gym as a "distributed format"
+  - started developing Coding Gym as a "distributed format"
+  - co-organized [Modena Tech Summit](#Modena-Tech-Summit-2018), 
   - co-organized and co-moderated the first Coding Gym outside Modena in Padua
   - co-organized the first Coding Gym in Barcelona
   - co-organized and co-moderated the first Coding Gym in Milan
   - hosted the first "Coding Gym Trainers Summit" in Modena
+  - officially joined the board of [ConoscereLinux](http://conoscerelinux.it) as a council member
   - co-organized and co-moderated the first Coding Gym in Rome and Turin
   - co-organized the first Coding Gym in Bari
+  - co-founded [Community Crumbs](https://communitycrumbs.org), a not-for-profit association
   
 <br/>
 
 ----
 
-*Last Update*: **January 2019**
+*Last Update*: **June 2019**
