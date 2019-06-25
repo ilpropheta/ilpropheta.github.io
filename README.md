@@ -214,6 +214,44 @@ List of meetups, including guests and topics discussed:
 - **June 13**: **Marco Arena** speaking about [Thinking in Patterns - How to master the STL](https://www.italiancpp.org/event/meetup-giugno2019/);<br/>
   21 attendees.
 
+### [Italian C++ Conference 2019](http://www.italiancpp.org/itcppcon19)
+
+<img src="/pics/itcppcon19.png" alt="Italian C++ Conference 2019" width="700">
+
+Milan, June 2019.
+
+I coordinated the organization of the fourth edition of the Italian C++ Conference, the only conference in Italy entirely dedicated to C++. The event took place at "Politecnico di Milano". This event was the biggest and the most important I have ever organized.<br/>
+**240 attendees** (310 registered people - ~23% drop).
+
+*Keynote speaker*: Andrei Alexandrescu.
+
+*Speakers*: Rainer Grimm, Marc Goodner, Davide Bianchi, Nicolò Valigi, Javier Garcia Sogo, Dmitry Kozhenikov, James Turner, Alberto Barbati, Michele Caini, Roberto De Ioris.
+
+**Sponsors**: JFrog/CONAN, AIV, JetBrains, KDAB, Sigeo, Develer, Hexagon.
+
+My staff included: Alessandro Vergani, Gian Lorenzo Meocci, Guido Pederzini, Illya Dudchenko, Federico Ficarelli, Raffaele Rialdi.
+
+**Highlights:**
+
+- 1x90' keynote
+- 8x50' talks
+- 2x30' short talks
+- 1x20' featured talk
+- Networking (3 hours) breaks and lunch.
+
+**Topics:**
+
+- C++20: Concepts, Modules and Coroutines
+- Cross-platform code with Microsoft tools
+- Link Time and Profile Guided Optimization
+- CONAN C/C++ Package Manager
+- Entity Component System Pattern
+
+Additional references:
+
+- [Wrap-up article (including feedback and statistics) - WIP](https://)
+- [Videos](https://www.youtube.com/watch?v=zxwKAX7p8GE&list=PLsCm1Hs016LU5PDVL3Hxgtuim_IIN4ajw)
+
 ## 2018
 
 ### [Modena C++ Meetups - Season 2018](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
@@ -304,7 +342,8 @@ Additional references:
 
 Milan, June 2018.
 
-I coordinated the organization of the third edition of the Italian C++ Conference, the only conference in Italy entirely dedicated to C++. The event took place at University "Bicocca" of Milan. This event was the biggest and the most important I have ever organized.<br/>
+I coordinated the organization of the third edition of the Italian C++ Conference, the only conference in Italy entirely dedicated to C++. The event took place at University "Bicocca" of Milan.
+<br/>
 **200 attendees** (250 registered people - ~20% drop).
 
 *Keynote speaker*: Peter Sommerlad.
