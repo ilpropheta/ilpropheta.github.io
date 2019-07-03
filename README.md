@@ -34,7 +34,7 @@ Apart from private life, I love spending my spare time on several activities gat
  
 - I love experimenting and prototying – here is my [GitHub page](http://github.com/ilpropheta/);
  
-- Since 2016 I have received (3 times) the **Microsoft MVP award** for [my community activies](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
+- Since 2016 I have received (4 times in a row) the **Microsoft MVP award** for [my community activies](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
 
 ___
 My activites:
