@@ -770,6 +770,8 @@ My professional blogging activity started in **2011**.
 
 Some of my blog posts from my [tech blog](https://marcoarena.wordpress.com) have been published on isocpp.org too:
 
+- [Maximum Drawdown in next-gen C++](https://isocpp.org/blog/2019/07/maximum-drawdown-in-next-gen-cpp1) - July **2019**
+
 - [Kadane in next-gen C++](https://isocpp.org/blog/2019/06/kadane-in-next-gen-cpp) - June **2019**
 
 - [Just be aware of std::size and static C-strings](https://marcoarena.wordpress.com/2018/04/25/just-be-aware-of-stdsize-and-static-c-strings/) - April **2018**
