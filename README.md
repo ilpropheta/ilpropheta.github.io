@@ -249,7 +249,7 @@ My staff included: Alessandro Vergani, Gian Lorenzo Meocci, Guido Pederzini, Ill
 
 Additional references:
 
-- [Wrap-up article (including feedback and statistics) - WIP](https://)
+- [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2019/07/16/itcppcon19/)
 - [Videos](https://www.youtube.com/watch?v=zxwKAX7p8GE&list=PLsCm1Hs016LU5PDVL3Hxgtuim_IIN4ajw)
 
 ## 2018
