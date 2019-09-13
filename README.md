@@ -214,6 +214,9 @@ List of meetups, including guests and topics discussed:
 - **June 13**: **Marco Arena** speaking about [Thinking in Patterns - How to master the STL](https://www.italiancpp.org/event/meetup-giugno2019/);<br/>
   21 attendees.
 
+- **September 12**: **Yuri Valentini** speaking about [Experiments with Domain Driven Design in C++](https://www.italiancpp.org/event/meetup-settembre2019/);<br/>
+  22 attendees.
+
 ### [Italian C++ Conference 2019](http://www.italiancpp.org/itcppcon19)
 
 <img src="/pics/itcppcon19.png" alt="Italian C++ Conference 2019" width="700">
