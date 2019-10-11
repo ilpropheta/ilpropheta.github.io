@@ -217,6 +217,9 @@ List of meetups, including guests and topics discussed:
 - **September 12**: **Yuri Valentini** speaking about [Experiments with Domain Driven Design in C++](https://www.italiancpp.org/event/meetup-settembre2019/);<br/>
   22 attendees.
 
+- **October 10**: **Michele Mischitelli** speaking about [Unreal Engine 4](https://www.italiancpp.org/event/meetup-ottobre2019/);<br/>
+  22 attendees.
+
 ### [Italian C++ Conference 2019](http://www.italiancpp.org/itcppcon19)
 
 <img src="/pics/itcppcon19.png" alt="Italian C++ Conference 2019" width="700">
