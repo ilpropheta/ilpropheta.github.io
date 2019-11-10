@@ -224,6 +224,9 @@ List of meetups, including guests and topics discussed:
 - **October 10**: **Michele Mischitelli** speaking about [Unreal Engine 4](https://www.italiancpp.org/event/meetup-ottobre2019/);<br/>
   22 attendees.
 
+- **November 7**: **Michele Mischitelli** speaking about [Unreal Engine 4: delegates, async and subsystems](https://www.italiancpp.org/event/meetup-novembre2019/);<br/>
+  10 attendees.
+
 ### [Italian C++ Conference 2019](http://www.italiancpp.org/itcppcon19)
 
 <img src="/pics/itcppcon19.png" alt="Italian C++ Conference 2019" width="700">
