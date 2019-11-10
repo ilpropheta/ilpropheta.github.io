@@ -60,6 +60,10 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2019
+**\[Workshop\] Coding Gym: una palestra, ma non solo di programmazione** (120')<br/>
+10 attendees.<br/> Facilitated with: [Alessandro Pezzato](https://twitter.com/alepezzato) and [Roberto Peruzzo](https://twitter.com/robertoperuzzo)<br/>
+@[Agile Day 2019](https://www.agileday.it/front/programma-iad-2019/) -- November 2019/Modena (Italy)
+
 **Thinking in patterns - Come allenarsi e diventare cintura nera di STL** (120')<br/>
 [Slides](https://conoscerelinux.org/wp-content/uploads/2019/05/Mastering-STL.pdf) - [Video (ITA)](https://www.youtube.com/watch?v=bSqa4gWYZg4)<br/>
 21 attendees.<br/>
@@ -144,7 +148,7 @@ About how to use [QCustomPlot](http://qcustomplot.com/) ([demo project shown](ht
 
 **[\[Workshop\] C++ dal '90 ad oggi](http://www.communitydays.it/events/2014/cpp01/)** (120')<br/>
 *Refactoring legacy C++ code to modern C++.*<br/>
-25+ attendees. Co-Speaker: [Marco Foco](https://twitter.com/marcofoco)<br/>
+25+ attendees. Facilitated with: [Marco Foco](https://twitter.com/marcofoco)<br/>
 @[Microsoft Community Days 2015](http://www.communitydays.it/events/2015) – March 2015/Milan (Italy)
 
 **[Perché nel 2015 parliamo ancora di C++?](http://www.italiancpp.org/eventi/dettagli-meetup-pordenone-2015/#keynote)** (90')<br/>
@@ -156,7 +160,7 @@ About how to use [QCustomPlot](http://qcustomplot.com/) ([demo project shown](ht
 
 **[\[Workshop\] C++ from '90 to '14](http://www.agileday.it/front/sessioni-2014/#c_piu_piu)** (120')<br/>
 *Refactoring legacy C++ code to modern C++.*<br/>
-25+ attendees. Co-Speakers: [Gianluca Padovani](https://twitter.com/GPad619), [Marco Foco](https://twitter.com/marcofoco)<br/>
+25+ attendees. Facilitated with: [Gianluca Padovani](https://twitter.com/GPad619), [Marco Foco](https://twitter.com/marcofoco)<br/>
 @[Italian Agile Day 2014](http://www.agileday.it/2014/) – November 2014/Ancona (Italy)
 
 **[Meet the Rule of Zero](http://www.italiancpp.org/eventi/dettagli-meetup-bologna-2014/#zero)** (60′)<br/>
