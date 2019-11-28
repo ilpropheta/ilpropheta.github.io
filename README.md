@@ -783,6 +783,8 @@ My professional blogging activity started in **2011**.
 
 Some of my blog posts from my [tech blog](https://marcoarena.wordpress.com) have been published on isocpp.org too:
 
+- [Tale of an insight](https://isocpp.org/blog/2019/11/tale-of-an-insight) - November **2019**
+
 - [Maximum Drawdown in next-gen C++](https://isocpp.org/blog/2019/07/maximum-drawdown-in-next-gen-cpp1) - July **2019**
 
 - [Kadane in next-gen C++](https://isocpp.org/blog/2019/06/kadane-in-next-gen-cpp) - June **2019**
