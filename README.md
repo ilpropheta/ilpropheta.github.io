@@ -227,6 +227,43 @@ List of meetups, including guests and topics discussed:
 - **November 7**: **Michele Mischitelli** speaking about [Unreal Engine 4: delegates, async and subsystems](https://www.italiancpp.org/event/meetup-novembre2019/);<br/>
   10 attendees.
 
+### [C++ Day 2019](http://www.italiancpp.org/cppday19)
+
+<img src="/pics/itcppcon19.png" alt="Italian C++ Conference 2019" width="700">
+
+Parma, November 2019.
+
+I coordinated the organization of the fourth edition of the C++ Day, an italian event dedicated to C++, co-organized with [Elettric80](https://www.elettric80.com/). The event took place at the University of Parma.
+**170 attendees** (200 registered people - ~15% drop).
+
+**Sponsors**: Elettric80, Beckhoff, Leica.
+
+My staff included: Alessandro Vergani, Illya Dudchenko, Federico Ficarelli.
+
+**Highlights:**
+
+- 8x50' talks
+- 2x30' short talks
+- 1x45' interactive Q&A panel
+- Networking (3 hours) breaks and lunch.
+
+**Topics:**
+
+- *Main Theme*: C++ in Industrial Automation
+- Cross-compilation in C and C++
+- Python bindings in C++
+- STL algorithms design
+- TBB Dataflow
+- Design patterns and idioms in C++ use cases
+- MISRA C++
+- Monte Carlo Tree Search algorithms in C++
+- From iterators to ranges
+
+Additional references:
+
+- [Wrap-up article (including feedback and statistics)]()
+- [Videos]()
+
 ### [Italian C++ Conference 2019](http://www.italiancpp.org/itcppcon19)
 
 <img src="/pics/itcppcon19.png" alt="Italian C++ Conference 2019" width="700">
