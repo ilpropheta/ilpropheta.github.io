@@ -890,6 +890,8 @@ Some of my projects/experiments follow:
 
 I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.com), the popular Italian website dedicated to Microsoft technologies:
 
+- [Intervista su Coding Gym per Officina Agile](https://www.youtube.com/watch?v=U6p2Qxjrfjg) -- November **2019**
+
 - [Coding Gym](http://dotnetpodcast.com/show/card/191) -- September **2018**
 
 - [Perché nel 2015 parliamo ancora di C++?](http://www.dotnetpodcast.com/show/card/52) -- July **2015**
