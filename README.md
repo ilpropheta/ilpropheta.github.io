@@ -928,9 +928,9 @@ Here is a list of *some* notable events happened in my professional life:
   - got my MSC in Computer Engineering, Rome
 - 2011
   - started a [professional blog](https://marcoarena.wordpress.com)
-  - started working at Reply
-  - quit Reply
-  - started working at Scuderia Ferrari
+  - started working at *Reply*
+  - quit *Reply*
+  - started working at *Ferrari*
   - started developing in C++ professionally
   - written my first line of C#
   - my first time working at the track, in Abu Dhabi
@@ -967,7 +967,9 @@ Here is a list of *some* notable events happened in my professional life:
   - co-organized and co-moderated the first Coding Gym in Rome and Turin
   - co-organized the first Coding Gym in Bari
   - co-founded [Community Crumbs](https://communitycrumbs.org), a not-for-profit association
-  
+- 2019
+  - quit *Ferrari*
+  - started working at *Tetra Pak* 
 <br/>
 
 ----
