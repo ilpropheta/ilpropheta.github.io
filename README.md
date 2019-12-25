@@ -232,7 +232,7 @@ List of meetups, including guests and topics discussed:
 
 ### [C++ Day 2019](http://www.italiancpp.org/cppday19)
 
-<img src="/pics/itcppcon19.png" alt="Italian C++ Conference 2019" width="700">
+<img src="/pics/cppday19.png" alt="C++ Day 2019" width="700">
 
 Parma, November 2019.
 
