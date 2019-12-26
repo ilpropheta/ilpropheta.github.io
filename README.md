@@ -236,7 +236,7 @@ List of meetups, including guests and topics discussed:
 
 Parma, November 2019.
 
-I coordinated the organization of the fourth edition of the C++ Day, an italian event dedicated to C++, co-organized with [Elettric80](https://www.elettric80.com/). The event took place at the University of Parma.
+I coordinated the organization of the fourth edition of the C++ Day, an italian event dedicated to C++, co-organized with [Elettric80](https://www.elettric80.com/). The event took place at the University of Parma.<br/>
 **170 attendees** (200 registered people - ~15% drop).
 
 **Sponsors**: Elettric80, Beckhoff, Leica.
