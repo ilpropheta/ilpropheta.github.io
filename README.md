@@ -264,7 +264,7 @@ My staff included: Alessandro Vergani, Illya Dudchenko, Federico Ficarelli.
 
 Additional references:
 
-- [Wrap-up article (including feedback and statistics)]()
+- [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2019/12/26/cppday19/)
 - [Videos]()
 
 ### [Italian C++ Conference 2019](http://www.italiancpp.org/itcppcon19)
