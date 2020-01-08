@@ -16,7 +16,9 @@ Here is a professional list of my past and current activities.
 
 # TL;DR -- in a nutshell
 
-I am a Computer Engineer from Rome, specialized in high performance and critical software development in C++. For most of the day, my C++ has been serving the **Ferrari F1 Racing Team (Scuderia Ferrari)** since 2011. Behind the scenes, I define myself a "Community Hacker" because I'm very active in the tech communities ecosystem in Italy and abroad.
+I am a Computer Engineer from Rome, specialized in high performance and critical software development in C++. 
+Since the end of 2019, I have joined [Tetra Pak](http://tetrapak.com/) as an Automation and Digital Technology expert, focusing on equipment machine autonomy.
+From 2011 to 2019, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a Software Engineer an C++ Specialist. Behind the scenes, I define myself a "Community Hacker" because I'm very active in the tech communities ecosystem in Italy and abroad.
 
 Apart from private life, I love spending my spare time on several activities gathered here below:
 
