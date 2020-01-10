@@ -192,18 +192,34 @@ Co-Speaker: [Paolo Polce](https://twitter.com/paolopolce)<br/>
 I'm used to organizing events, meetups and other activities. <br/>
 First of all as the leader of the [Italian C++ Community](http://italiancpp.org/) and [Coding Gym](http://coding-gym.org), in addition, I'm involved in supporting and helping a few other user groups. I am a "worker" of [ConoscereLinux](http://conoscerelinux.org) and I am part of the leading staff of [Modena Tech Scene](http://modenatechscene.it).
 
-## 2019
+## 2020
 
-### [Modena C++ Meetups - Season 2019](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
+### [Modena C++ Meetups - Season 2020](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
 
-<img src="/pics/meetup-mo2019.png" alt="Meetup Modena - Feb 2018" width="700">
+<img src="/pics/meetup-mo2019.png" alt="Meetup Modena - Feb 2019" width="700">
 
 I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
 [Picures](https://www.facebook.com/1674843996163643/photos/?tab=album&album_id=1938357373145636)
 
 Every meetup consisted in 2 hours of technical contents (up to the speaker) and networking dinner afterwards.
 
-List of meetups, including guests and topics discussed:
+List of meetups, including speakers and topics discussed:
+
+- **Jan 9**: **Federico Barbieri** speaking about [Development of a 3D framework in Qt](https://www.italiancpp.org/event/meetup-0120/);<br/>
+  12 attendees.
+
+## 2019
+
+### [Modena C++ Meetups - Season 2019](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
+
+<img src="/pics/meetup-mo2019.png" alt="Meetup Modena - Feb 2019" width="700">
+
+I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
+[Picures](https://www.facebook.com/1674843996163643/photos/?tab=album&album_id=1938357373145636)
+
+Every meetup consisted in 2 hours of technical contents (up to the speaker) and networking dinner afterwards.
+
+List of meetups, including speakers and topics discussed:
 
 - **Feb 21**: **Marco Arena** speaking about [Bruce Lee for C++ Programmers](https://www.italiancpp.org/event/meetup-febbraio2019/);<br/>
   22 attendees.
@@ -318,7 +334,7 @@ I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](
 
 Every meetup consisted in 2 hours of technical contents (up to the speaker) and networking dinner afterwards.
 
-List of meetups, including guests and topics discussed:
+List of meetups, including speakers and topics discussed:
 
 - **Feb 8**: **Alberto Bignotti** speaking about [Web interaction with libcurl](http://italiancpp.org/event/meetup-febbraio2018);<br/>
   10 attendees.
