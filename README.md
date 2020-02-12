@@ -32,7 +32,7 @@ Apart from private life, I love spending my spare time on several activities gat
 
 - in 2018, I have co-founded [Community Crumbs](https://communitycrumbs.org/) a non-profit organization patronizing all my community activities;
 
-- in 2018, I have founded [ML Modena](https://mlmodena.it/) the only community about Machine Learning (and AI, in general) in Modena;
+- in 2020, I have founded [ML Modena](https://mlmodena.it/) the only community about Machine Learning (and AI, in general) in Modena;
 
 - I often [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, local meetups and, clearly, at *Italian C++ Community* events;
  
