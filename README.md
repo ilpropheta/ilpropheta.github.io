@@ -32,6 +32,8 @@ Apart from private life, I love spending my spare time on several activities gat
 
 - in 2018, I have co-founded [Community Crumbs](https://communitycrumbs.org/) a non-profit organization patronizing all my community activities;
 
+- in 2018, I have founded [ML Modena](https://mlmodena.it/) the only community about Machine Learning (and AI, in general) in Modena;
+
 - I often [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, local meetups and, clearly, at *Italian C++ Community* events;
  
 - I love experimenting and prototying – here is my [GitHub page](http://github.com/ilpropheta/);
@@ -987,7 +989,9 @@ Here is a list of *some* notable events happened in my professional life:
   - co-founded [Community Crumbs](https://communitycrumbs.org), a not-for-profit association
 - 2019
   - quit *Ferrari*
-  - started working at *Tetra Pak* 
+  - started working at *Tetra Pak*
+- 2020
+  - founded [ML Modena](https://mlmodena.it)  
 <br/>
 
 ----
