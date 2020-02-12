@@ -996,4 +996,4 @@ Here is a list of *some* notable events happened in my professional life:
 
 ----
 
-*Last Update*: **June 2019**
+*Last Update*: **February 2020**
