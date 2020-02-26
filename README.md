@@ -209,6 +209,9 @@ List of meetups, including speakers and topics discussed:
 
 - **Jan 9**: **Federico Barbieri** speaking about [Development of a 3D framework in Qt](https://www.italiancpp.org/event/meetup-0120/);<br/>
   12 attendees.
+  
+  - **Feb 13**: **Alberto Bignotti** speaking about [How to integrate a Telegram bot in an existing application](https://www.italiancpp.org/event/meetup-0220/);<br/>
+  13 attendees.
 
 ## 2019
 
