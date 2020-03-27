@@ -213,6 +213,9 @@ List of meetups, including speakers and topics discussed:
 - **Feb 13**: **Alberto Bignotti** speaking about [How to integrate a Telegram bot in an existing application](https://www.italiancpp.org/event/meetup-0220/);<br/>
 13 attendees.
 
+- **March 12**: **Lorenzo Veneri** speaking about [WebAssembly with C++ and Emscripten](https://www.italiancpp.org/event/meetup-0320/);<br/>[Online-only event due to COVID-19](https://www.youtube.com/watch?v=oN9qOut88rc)
+15 live attendees.
+
 ## 2019
 
 ### [Modena C++ Meetups - Season 2019](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
