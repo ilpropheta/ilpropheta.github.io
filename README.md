@@ -198,10 +198,10 @@ First of all as the leader of the [Italian C++ Community](http://italiancpp.org/
 
 ### [Modena C++ Meetups - Season 2020](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
 
-<img src="/pics/meetup-mo2019.png" alt="Meetup Modena - Feb 2019" width="700">
+<img src="/pics/meetup-mo2020.png" alt="Meetup Modena - Feb 2019" width="700">
 
 I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
-[Picures](https://www.facebook.com/1674843996163643/photos/?tab=album&album_id=1938357373145636)
+[Picures](https://www.facebook.com/italiancpp/photos/?tab=album&album_id=2466863940294974)
 
 Every meetup consisted in 2 hours of technical contents (up to the speaker) and networking dinner afterwards.
 
@@ -213,7 +213,7 @@ List of meetups, including speakers and topics discussed:
 - **Feb 13**: **Alberto Bignotti** speaking about [How to integrate a Telegram bot in an existing application](https://www.italiancpp.org/event/meetup-0220/);<br/>
 13 attendees.
 
-- **March 12**: **Lorenzo Veneri** speaking about [WebAssembly with C++ and Emscripten](https://www.italiancpp.org/event/meetup-0320/);<br/>[Online-only event due to COVID-19](https://www.youtube.com/watch?v=oN9qOut88rc)
+- **Mar 12**: **Lorenzo Veneri** speaking about [WebAssembly with C++ and Emscripten](https://www.italiancpp.org/event/meetup-0320/);<br/>[Online-only event due to COVID-19](https://www.youtube.com/watch?v=oN9qOut88rc)<br/>
 15 live attendees.
 
 ## 2019
@@ -223,7 +223,7 @@ List of meetups, including speakers and topics discussed:
 <img src="/pics/meetup-mo2019.png" alt="Meetup Modena - Feb 2019" width="700">
 
 I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
-[Picures](https://www.facebook.com/1674843996163643/photos/?tab=album&album_id=1938357373145636)
+[Picures](https://www.facebook.com/italiancpp/photos/?tab=album&album_id=2237022256612478)
 
 Every meetup consisted in 2 hours of technical contents (up to the speaker) and networking dinner afterwards.
 
@@ -241,19 +241,19 @@ List of meetups, including speakers and topics discussed:
 - **May 9**: **Federico Ficarelli** speaking about [Programming GPUs with modern C++](https://www.italiancpp.org/event/meetup-maggio2019/);<br/>
   23 attendees.
   
-- **June 13**: **Marco Arena** speaking about [Thinking in Patterns - How to master the STL](https://www.italiancpp.org/event/meetup-giugno2019/);<br/>
+- **Jun 13**: **Marco Arena** speaking about [Thinking in Patterns - How to master the STL](https://www.italiancpp.org/event/meetup-giugno2019/);<br/>
   21 attendees.
 
-- **September 12**: **Yuri Valentini** speaking about [Experiments with Domain Driven Design in C++](https://www.italiancpp.org/event/meetup-settembre2019/);<br/>
+- **Sep 12**: **Yuri Valentini** speaking about [Experiments with Domain Driven Design in C++](https://www.italiancpp.org/event/meetup-settembre2019/);<br/>
   22 attendees.
 
-- **October 10**: **Michele Mischitelli** speaking about [Unreal Engine 4](https://www.italiancpp.org/event/meetup-ottobre2019/);<br/>
+- **Oct 10**: **Michele Mischitelli** speaking about [Unreal Engine 4](https://www.italiancpp.org/event/meetup-ottobre2019/);<br/>
   22 attendees.
 
-- **November 7**: **Michele Mischitelli** speaking about [Unreal Engine 4: delegates, async and subsystems](https://www.italiancpp.org/event/meetup-novembre2019/);<br/>
+- **Nov 7**: **Michele Mischitelli** speaking about [Unreal Engine 4: delegates, async and subsystems](https://www.italiancpp.org/event/meetup-novembre2019/);<br/>
   10 attendees.
 
-- **December 12**: **Marcello Missiroli** speaking about [Pair Programming: analysis through four lenses](https://conoscerelinux.org/courses/meetupcpp_dic19/);<br/>
+- **Dec 12**: **Marcello Missiroli** speaking about [Pair Programming: analysis through four lenses](https://conoscerelinux.org/courses/meetupcpp_dic19/);<br/>
   8 attendees.
 
 ### [C++ Day 2019](http://www.italiancpp.org/cppday19)
@@ -347,28 +347,28 @@ List of meetups, including speakers and topics discussed:
 - **Feb 8**: **Alberto Bignotti** speaking about [Web interaction with libcurl](http://italiancpp.org/event/meetup-febbraio2018);<br/>
   10 attendees.
   
-- **March 15**: **Yuri Valentini** speaking about [Testing and Google Test](http://www.italiancpp.org/event/meetup-marzo2018); <br/>
+- **Mar 15**: **Yuri Valentini** speaking about [Testing and Google Test](http://www.italiancpp.org/event/meetup-marzo2018); <br/>
   22 attendees.
   
-- **April 19**: **Yuri Valentini** speaking about [Mocking with Google Mock](http://www.italiancpp.org/event/meetup-aprile2018); <br/>
+- **Apr 19**: **Yuri Valentini** speaking about [Mocking with Google Mock](http://www.italiancpp.org/event/meetup-aprile2018); <br/>
   12 attendees.
   
 - **May 10**: **Roberto Bettazzoni** moderating an interactive discussions about [Teach Me How to Test in C++](http://www.italiancpp.org/event/meetup-maggio2018); <br/>
   11 attendees.
   
-- **June 14**: **Marco Arena** facilitating a workshop about [Post-Modern C++ Refactoring](http://www.italiancpp.org/event/meetup-giugno2018); <br/>
+- **Jun 14**: **Marco Arena** facilitating a workshop about [Post-Modern C++ Refactoring](http://www.italiancpp.org/event/meetup-giugno2018); <br/>
   16 attendees.
   
-- **September 13**: **Silvio Pioli** speaking about [Introduction to QML and Integration with C++](http://www.italiancpp.org/event/meetup-settembre2018); <br/>
+- **Sep 13**: **Silvio Pioli** speaking about [Introduction to QML and Integration with C++](http://www.italiancpp.org/event/meetup-settembre2018); <br/>
   21 attendees.
   
-- **October 11**: **Alberto Bignotti** speaking about [GIS in C++](http://www.italiancpp.org/event/meetup-ottobre2018); <br/>
+- **Oct 11**: **Alberto Bignotti** speaking about [GIS in C++](http://www.italiancpp.org/event/meetup-ottobre2018); <br/>
   16 attendees.
   
-- **November 8**: **Yuri Valentini** speaking about [Asynchronous Programming with PPL and CppRestSDK](http://www.italiancpp.org/event/meetup-novembre2018); <br/>
+- **Nov 8**: **Yuri Valentini** speaking about [Asynchronous Programming with PPL and CppRestSDK](http://www.italiancpp.org/event/meetup-novembre2018); <br/>
   12 attendees.
   
-- **December 13**: **Federico Ficarelli** speaking about [Profiling & micro-benchmarking with Google Benchmark](https://conoscerelinux.org/courses/meetupcpp_dic18/); <br/>
+- **Dec 13**: **Federico Ficarelli** speaking about [Profiling & micro-benchmarking with Google Benchmark](https://conoscerelinux.org/courses/meetupcpp_dic18/); <br/>
   16 attendees.
 
 <br/>
