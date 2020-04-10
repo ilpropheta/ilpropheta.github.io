@@ -216,6 +216,9 @@ List of meetups, including speakers and topics discussed:
 - **Mar 12**: **Lorenzo Veneri** speaking about [WebAssembly with C++ and Emscripten](https://www.italiancpp.org/event/meetup-0320/);<br/>[Online-only event due to COVID-19](https://www.youtube.com/watch?v=oN9qOut88rc)<br/>
 15 live attendees.
 
+- **Apr 9**: **Yuri Valentini** speaking about [Property-based testing with RapidCheck](https://www.italiancpp.org/event/meetup-0420/);<br/>[Online-only event due to COVID-19](https://www.youtube.com/watch?v=BHNFFhf8LAY)<br/>
+15 live attendees.
+
 ## 2019
 
 ### [Modena C++ Meetups - Season 2019](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
