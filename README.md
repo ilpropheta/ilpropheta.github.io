@@ -219,6 +219,13 @@ List of meetups, including speakers and topics discussed:
 - **Apr 9**: **Yuri Valentini** speaking about [Property-based testing with RapidCheck](https://www.italiancpp.org/event/meetup-0420/);<br/>[Online-only event due to COVID-19](https://www.youtube.com/watch?v=BHNFFhf8LAY)<br/>
 15 live attendees.
 
+- **May 14**: **Gianluca Padovani** speaking about [TDD is not about testing](https://www.italiancpp.org/event/meetup-0520/);<br/>[Online-only event due to COVID-19](https://www.youtube.com/watch?v=Wn6fzBAl72E)<br/>
+21 live attendees.
+
+- **June 11**: **Augustin Popa (Microsoft)** speaking about [Using vcpkg at work to manage your C/C++ libraries](https://www.italiancpp.org/event/meetup-0620/);<br/>
+[Online-only event due to COVID-19](https://www.youtube.com/watch?v=UOP6JwUxl10)<br/>
+30 live attendees.
+
 ## 2019
 
 ### [Modena C++ Meetups - Season 2019](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
