@@ -1047,6 +1047,7 @@ Here is a list of *some* notable events happened in my professional life:
   - started working at *Tetra Pak*
 - 2020
   - founded [ML Modena](https://mlmodena.it)  
+  - organized my first online-only [international C++ conference](https://italiancpp.org/itcppcon20)
 <br/>
 
 ----
