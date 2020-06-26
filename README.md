@@ -226,6 +226,45 @@ List of meetups, including speakers and topics discussed:
 [Online-only event due to COVID-19](https://www.youtube.com/watch?v=UOP6JwUxl10)<br/>
 30 live attendees.
 
+### [Italian C++ Conference 2020](http://www.italiancpp.org/itcppcon20)
+
+<img src="/pics/itcppcon20.png" alt="Italian C++ Conference 2020" width="700">
+
+Online-only, June 2020.
+
+I coordinated the organization of the fifth edition of the Italian C++ Conference, the only conference in Italy entirely dedicated to C++. **Due to COVID-19 emergency, this event was online-only.**<br/>
+**415 virtual check-ins, 250 keynote live viewers** (502 registered people - ~18% drop).
+
+*Keynote speaker*: Nicolai Josuttis.
+
+*Speakers*: Alberto Barbati, Fabio Fracassi, Jens Weller, Nicolò Valigi, Ivan Čukić, Conor Hoekstra, Walter E. Brown, Julia Reid, Larry Bank, Franco Diaspro, Arno Schödl.
+
+**Sponsors**: AIV, Think-cell, LEICA/Hexagon.
+
+My staff included: Alessandro Vergani, Stefano Saraulli, Alessandro Pezzato, Mattia Verasani, Andrea Barbadoro, Philipp Lenk, Riccardo Brugo, Elvis Dukaj.
+
+**Highlights:**
+
+- 1x90' live keynote
+- Live Talks: 7x50'
+- Pre-recorded talks: 3x30', 1x45'
+- Networking and interaction on Discord server
+
+**Topics:**
+
+- Move semantics
+- C++20 in general and one talk focusing on text formatting
+- C++ Development with Visual Studio Code
+- Coding Patterns
+- Writing permant C++
+- The Silicon Valley coding interview
+- Current trends in the C++ Community
+
+Additional references:
+
+- [Wrap-up article (including feedback and statistics)](TBD)
+- [Videos](https://www.youtube.com/watch?v=OOLR96-GjsI&list=PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB)
+
 ## 2019
 
 ### [Modena C++ Meetups - Season 2019](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
