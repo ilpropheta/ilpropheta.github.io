@@ -256,7 +256,7 @@ My staff included: Alessandro Vergani, Stefano Saraulli, Alessandro Pezzato, Mat
 - C++20 in general and one talk focusing on text formatting
 - C++ Development with Visual Studio Code
 - Coding Patterns
-- Writing permant C++
+- Writing efficient C++
 - The Silicon Valley coding interview
 - Current trends in the C++ Community
 
