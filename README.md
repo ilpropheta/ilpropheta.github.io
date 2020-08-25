@@ -1,12 +1,13 @@
 <img src="https://github.com/ilpropheta/ilpropheta.github.io/blob/master/me.png?raw=true" alt="Marco Arena" width="200">
 
-Here is a professional list of my past and current activities.
+A professional list of my notable activities.
 
 **Quick links:**
 
 - [My blog "Growing Up"](http://marcoarena.wordpress.com)
 - [Italian C++ Community](https://italiancpp.org)
 - [Coding Gym](https://coding-gym.org)
+- [ML Modena](https://https://mlmodena.it)
 - [My Linkedin profile](https://www.linkedin.com/in/marcoarena)
 - [My Youtube Channel](https://www.youtube.com/channel/UCK-K0NhTAWJWdNIYkR18maQ)
 
@@ -38,7 +39,7 @@ Apart from private life, I love spending my spare time on several activities gat
  
 - I love experimenting and prototying – here is my [GitHub page](http://github.com/ilpropheta/);
  
-- Since 2016 I have received (4 times in a row) the **Microsoft MVP award** for [my community activies](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
+- Since 2016, I have received 5 times in a row the **Microsoft MVP award** for [my community activies](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
 
 ___
 My activites:
@@ -52,11 +53,11 @@ My activites:
 
 > Feedback by **Andrea Baruzzo** at **Meetup Pordenone 2015**
 
-I love telling *stories*, I love interacting with people attending. My stories are not only about *technical* things but also about *personal development* and lessons I have learned.
+I love telling *stories* and interacting with people. My stories are not only about *technical* things but also about *personal development* and lessons I have learned.
 
 I have given talks at many famous events, such as *Microsoft Community Days*, *Future Decoded*, *Italian Agile Day*, *Codemotion*, *QtDay*. I'm also used to speaking at events organized by my own community, the *Italian C++ Community*.
 
-For some of the talks that follow I got some feedback (generally from 1 to 5 <i class="icon-star"></i>). For the others, the event did not have a way to rate talks or the results are not public.
+For some of the talks that are listed in this page I got some feedback (generally from 1 to 5 <i class="icon-star"></i>). For the others, the event did not have a way to rate talks or the results have not been disclosed.
 
 Some events I spoke at provided a joind.in page. You can check out my [Joind.in public profile](https://joind.in/user/ilpropheta) for a quick overview.
 
@@ -198,7 +199,7 @@ First of all as the leader of the [Italian C++ Community](http://italiancpp.org/
 
 ### [Modena C++ Meetups - Season 2020](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
 
-<img src="/pics/meetup-mo2020.png" alt="Meetup Modena - Feb 2019" width="700">
+<img src="/pics/meetup-mo2020.png" alt="Meetup Modena - Feb 2020" width="700">
 
 I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
 [Picures](https://www.facebook.com/italiancpp/photos/?tab=album&album_id=2466863940294974)
@@ -262,7 +263,7 @@ My staff included: Alessandro Vergani, Stefano Saraulli, Alessandro Pezzato, Mat
 
 Additional references:
 
-- [Wrap-up article (including feedback and statistics)](TBD)
+- [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2020/08/24/itcppcon20/)
 - [Videos](https://www.youtube.com/watch?v=OOLR96-GjsI&list=PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB)
 
 ## 2019
@@ -975,7 +976,7 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 # Timeline
 
-Here is a list of *some* notable events happened in my professional life:
+Here is a list of *some* notable events possibly influencing my professional life (most of them are sort of "first time I did *X*"):
 
 - 2000
   - written my first line of Pascal, at school
@@ -992,7 +993,7 @@ Here is a list of *some* notable events happened in my professional life:
   - installed and used a Linux distribution for the first time
 - 2008
   - studied object oriented patterns (GoF and GRASP) for the first time
-  - discovered Functional Programming, practiced OCaml for some months passed an exam with full score at university
+  - discovered Functional Programming, practiced OCaml for some months, passed an exam with full score at university
   - got my BSC in Computer Engineering, Rome
   - started Computer Engineering MSC
 - 2009 
@@ -1016,12 +1017,14 @@ Here is a list of *some* notable events happened in my professional life:
   - given my first talk at a professional event (*AgileDay 2013*) about C++
 - 2014
   - organized my first meetup - the first Italian C++ Community meetup, in Milan 
+  - facilitated a workshop for the first time, at *AgileDay 2014*
   - attended *Meeting C++* for the first time - my first C++ event ever
+  - signed up for [HackerRank](https://www.hackerrank.com/) for the first time. Started practicing a bit
 - 2015
   - given my first keynote session ever, at *Italian C++ Meetup in Pordenone*
-  - given a talk in front of *more than 150 people*, at Codemotion Milan
+  - given a talk in front of *more than 150 people*, at Codemotion Milan 
 - 2016
-  - received the [Microsoft MVP Award](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena)
+  - received my first [Microsoft MVP Award](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena)
   - created [Coding Gym](https://coding-gym.org) and organized the very first session in Bologna
   - started monthly Coding Gym sessions in Modena
   - joined the staff of [ConoscereLinux](http://conoscerelinux.it)
@@ -1032,9 +1035,9 @@ Here is a list of *some* notable events happened in my professional life:
 - 2017
   - given my first talk about Coding Gym at *NoSlidesConf 2017*
 - 2018
-  - started developing Coding Gym as a "distributed format"
+  - started developing Coding Gym as a "delocalized format"
   - co-organized [Modena Tech Summit](#Modena-Tech-Summit-2018), 
-  - co-organized and co-moderated the first Coding Gym outside Modena in Padua
+  - co-organized and co-moderated the first Coding Gym outside Modena (in Padua)
   - co-organized the first Coding Gym in Barcelona
   - co-organized and co-moderated the first Coding Gym in Milan
   - hosted the first "Coding Gym Trainers Summit" in Modena
@@ -1052,4 +1055,4 @@ Here is a list of *some* notable events happened in my professional life:
 
 ----
 
-*Last Update*: **April 2020**
+*Last Update*: **August 2020**
