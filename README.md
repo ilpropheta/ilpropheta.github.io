@@ -64,6 +64,11 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 <img src="/pics/talks-cover.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600"><br/>
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
+## 2020
+**\[Panel\] Community Organizers Panel** (60')<br/>
+<br/> I have participated in the *CppCon 2020* [Community Organizers Panel](https://cppcon2020.sched.com/event/eRrc/community-organizers-panel) with other user group leaders to share my experience with community management and events organization.
+@[CppCon 2020](https://cppcon.org/program2020/) -- Septermber 2020/Online
+
 ## 2019
 **\[Workshop\] Coding Gym: una palestra, ma non solo di programmazione** (120')<br/>
 10 attendees.<br/> Facilitated with: [Alessandro Pezzato](https://twitter.com/alepezzato) and [Roberto Peruzzo](https://twitter.com/robertoperuzzo)<br/>
