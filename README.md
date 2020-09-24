@@ -232,6 +232,10 @@ List of meetups, including speakers and topics discussed:
 [Online-only event due to COVID-19](https://www.youtube.com/watch?v=UOP6JwUxl10)<br/>
 30 live attendees.
 
+- **September 24**: **Michele Caini** speaking about [EnTT and Entity Component System](https://www.italiancpp.org/event/meetup-0920/);<br/>
+[Online-only event due to COVID-19](https://www.youtube.com/watch?v=q0Dpm3IVVKA)<br/>
+25 live attendees.
+
 ### [Italian C++ Conference 2020](http://www.italiancpp.org/itcppcon20)
 
 <img src="/pics/itcppcon20.png" alt="Italian C++ Conference 2020" width="700">
