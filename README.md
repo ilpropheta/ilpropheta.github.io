@@ -75,17 +75,17 @@ I have participated in the *CppCon 2020* [Community Organizers Panel](https://cp
 @[Agile Day 2019](https://www.agileday.it/front/programma-iad-2019/) -- November 2019/Modena (Italy)
 
 **Thinking in patterns - Come allenarsi e diventare cintura nera di STL** (120')<br/>
-[Slides](https://conoscerelinux.org/wp-content/uploads/2019/05/Mastering-STL.pdf) - [Video (ITA)](https://www.youtube.com/watch?v=bSqa4gWYZg4)<br/>
+[Slides](https://conoscerelinux.org/wp-content/uploads/2019/05/Mastering-STL.pdf) - [📹 Video (ITA)](https://www.youtube.com/watch?v=bSqa4gWYZg4)<br/>
 21 attendees.<br/>
 @[Monthly Italian C++ Meetups Modena](http://www.italiancpp.org/event/meetup-giugno2019/) -- June 2019/Modena (Italy)
 
 **Bruce Lee per programmatori C++** (120')<br/>
-[Slides](https://conoscerelinux.org/wp-content/uploads/2019/01/Bruce-Lee-for-C-programmers-Marco-Arena.pdf) - [Video (ITA)](https://www.youtube.com/watch?v=ttcHSm-5dv4)<br/>
+[Slides](https://conoscerelinux.org/wp-content/uploads/2019/01/Bruce-Lee-for-C-programmers-Marco-Arena.pdf) - [📹 Video (ITA)](https://www.youtube.com/watch?v=ttcHSm-5dv4)<br/>
 22 attendees.<br/>
 @[Monthly Italian C++ Meetups Modena](http://www.italiancpp.org/event/meetup-febbraio2019/) -- February 2019/Modena (Italy)
 
 **Se Bruce Lee fosse stato un programmatore avrebbe adorato il C++** (120')<br/>
-[Session on tech.io](http://tinyurl.com/brucecpp) - [Video (ITA)](https://www.youtube.com/watch?v=5YWKtleLexM)<br/>
+[Session on tech.io](http://tinyurl.com/brucecpp) - [📹 Video (ITA)](https://www.youtube.com/watch?v=5YWKtleLexM)<br/>
 20 attendees.<br/>
 @[XPUG Bologna Monthly](https://www.eventbrite.it/e/biglietti-se-bruce-lee-fosse-stato-un-programmatore-avrebbe-adorato-il-c-marco-arena-54399331866) -- January 2019/Bologna (Italy)
 
@@ -97,19 +97,19 @@ I have participated in the *CppCon 2020* [Community Organizers Panel](https://cp
 
 **Coding Gym: divertirsi e migliorarsi a colpi di algoritmi** (40')<br/>
 About [Coding Gym](http://coding-gym.com), by examples.
-[Slides](https://www.slideshare.net/Codemotion/coding-gym-divertirsi-e-migliorarsi-a-colpi-di-algoritmi-by-marco-arena) - [Video (ITA)](https://youtu.be/eQsemDIpLQY)<br/>
+[Slides](https://www.slideshare.net/Codemotion/coding-gym-divertirsi-e-migliorarsi-a-colpi-di-algoritmi-by-marco-arena) - [📹 Video (ITA)](https://youtu.be/eQsemDIpLQY)<br/>
 200 attendees.<br/>
 @[Codemotion Rome 2018](https://rome2018.codemotionworld.com/talk-detail/?detail=7902) -- April 2018/Rome (Italy)
 
 **Coding Gym: divertirsi e migliorarsi a colpi di algoritmi** (120')<br/>
 About [Coding Gym](http://coding-gym.com), by examples.
-[Challenges](https://www.hackerrank.com/xpug-jan-2018/challenges) - [Video (ITA)](https://www.youtube.com/watch?v=SqIHAuqzj5A)<br/>
+[Challenges](https://www.hackerrank.com/xpug-jan-2018/challenges) - [📹 Video (ITA)](https://www.youtube.com/watch?v=SqIHAuqzj5A)<br/>
 15+ attendees.<br/>
 @[XPUG Bologna Monthly](https://www.eventbrite.it/e/biglietti-coding-gym-divertirsi-e-migliorarsi-a-colpi-di-algoritmi-marco-arena-41569884644#) -- January 2018/Bologna (Italy)
 
 ## 2017
 **Competitive Programming for fun and self-improvement** (45')<br/>
-[Contents and examples](http://github.com/ilpropheta/noslidesconf17) - [Video (ITA)](https://www.youtube.com/watch?v=6dEcHr6gieM) <br/>
+[Contents and examples](http://github.com/ilpropheta/noslidesconf17) - [📹 Video (ITA)](https://www.youtube.com/watch?v=6dEcHr6gieM) <br/>
 60+ attendees.<br/>
 @[NoSlidesConf 2017](http://www.noslidesconf.net) -- November 2017/Bologna (Italy)
 
@@ -130,7 +130,7 @@ About [Coding Gym](http://coding-gym.com), by examples.
 
 ## 2016
 **[C++17 for the daily job](http://www.italiancpp.org/sessioni-cppday16/#cpp17)** (60')<br/>
-[Slides (ENG)](http://www.italiancpp.org/wp-content/uploads/2016/10/Cpp17-for-the-daily-job.pdf) - [Video (ITA)](https://www.youtube.com/watch?v=sRdAvQkFjXY)<br/>
+[Slides (ENG)](http://www.italiancpp.org/wp-content/uploads/2016/10/Cpp17-for-the-daily-job.pdf) - [📹 Video (ITA)](https://www.youtube.com/watch?v=sRdAvQkFjXY)<br/>
 80+ attendees.<br/>
 @[C++ Day 2016](http://italiancpp.org/event/cppday16) -- October 2016/Florence (Italy)
 
@@ -140,7 +140,7 @@ About [Coding Gym](http://coding-gym.com), by examples.
 @[Future Decoded 2016](https://www.microsoft.com/italy/futuredecoded) -- October 2016/Milan (Italy)
 
 **[With great C++ comes great responsibility](http://www.italiancpp.org/eventi/sessioni-conference-2016/#responsibility)** (60')<br/>
-[Slides (ENG)](http://www.italiancpp.org/wp-content/uploads/2016/05/Marco-Arena-With-great-C-comes-great-responsibility.pdf) - [Video (ITA)](https://www.youtube.com/watch?v=GuNSstZevr4)<br/>
+[Slides (ENG)](http://www.italiancpp.org/wp-content/uploads/2016/05/Marco-Arena-With-great-C-comes-great-responsibility.pdf) - [📹 Video (ITA)](https://www.youtube.com/watch?v=GuNSstZevr4)<br/>
 100+ attendees. [Feedback <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>](https://joind.in/event/italian-c-conference-2016/da-un-grande-c-derivano-grandi-responsabilit)<br/>
 @[Italian C++ Conference 2016](http://www.italiancpp.org/event/conference-2016/) -- May 2016/Milan (Italy)
 
@@ -179,12 +179,12 @@ About how to use [QCustomPlot](http://qcustomplot.com/) ([demo project shown](ht
 @[Italian C++ Community Meetup](http://www.italiancpp.org/event/meetup-bologna-2014/) – November 2014/Bologna (Italy)
 
 **[Il nuovo C++? Torniamo alle basi](http://www.communitydays.it/events/2014-Roma/cpp01/)** (60′)<br/>
-[Slides (ITA)](http://www.communitydays.it/content/downloads/2014-Roma/cpp01_slides.zip) - [Video (ITA)](https://www.youtube.com/watch?v=OVmw8kJ0lZA)<br/>
+[Slides (ITA)](http://www.communitydays.it/content/downloads/2014-Roma/cpp01_slides.zip) - [📹 Video (ITA)](https://www.youtube.com/watch?v=OVmw8kJ0lZA)<br/>
 20+ attendees.<br/>
  @[Microsoft Community Days Rome 2014](http://www.communitydays.it/events/2014-Roma/) – September 2014/Rome (Italy)
 
 **[C++11 in Action](http://www.communitydays.it/events/2014/cpp01/)** (60′)<br/>
-[Slides (ITA)](http://www.communitydays.it/content/downloads/2014/cpp01_slides.zip) - [Video (ITA)](https://vimeo.com/88206167)<br/>
+[Slides (ITA)](http://www.communitydays.it/content/downloads/2014/cpp01_slides.zip) - [📹 Video (ITA)](https://vimeo.com/88206167)<br/>
 60+ attendees.<br/>
 @[Microsoft Community Days 2014](http://www.communitydays.it/events/2014/) – February 2014/Milan (Italy)
 
@@ -219,21 +219,21 @@ List of meetups, including speakers and topics discussed:
 - **Feb 13**: **Alberto Bignotti** speaking about [How to integrate a Telegram bot in an existing application](https://www.italiancpp.org/event/meetup-0220/);<br/>
 13 attendees.
 
-- **Mar 12**: **Lorenzo Veneri** speaking about [WebAssembly with C++ and Emscripten](https://www.italiancpp.org/event/meetup-0320/);<br/>[Online-only event due to COVID-19](https://www.youtube.com/watch?v=oN9qOut88rc)<br/>
+- **Mar 12**: **Lorenzo Veneri** speaking about [WebAssembly with C++ and Emscripten](https://www.italiancpp.org/event/meetup-0320/);<br/>[📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=oN9qOut88rc)<br/>
 15 live attendees.
 
-- **Apr 9**: **Yuri Valentini** speaking about [Property-based testing with RapidCheck](https://www.italiancpp.org/event/meetup-0420/);<br/>[Online-only event due to COVID-19](https://www.youtube.com/watch?v=BHNFFhf8LAY)<br/>
+- **Apr 9**: **Yuri Valentini** speaking about [Property-based testing with RapidCheck](https://www.italiancpp.org/event/meetup-0420/);<br/>[📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=BHNFFhf8LAY)<br/>
 15 live attendees.
 
-- **May 14**: **Gianluca Padovani** speaking about [TDD is not about testing](https://www.italiancpp.org/event/meetup-0520/);<br/>[Online-only event due to COVID-19](https://www.youtube.com/watch?v=Wn6fzBAl72E)<br/>
+- **May 14**: **Gianluca Padovani** speaking about [TDD is not about testing](https://www.italiancpp.org/event/meetup-0520/);<br/>[📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=Wn6fzBAl72E)<br/>
 21 live attendees.
 
 - **June 11**: **Augustin Popa (Microsoft)** speaking about [Using vcpkg at work to manage your C/C++ libraries](https://www.italiancpp.org/event/meetup-0620/);<br/>
-[Online-only event due to COVID-19](https://www.youtube.com/watch?v=UOP6JwUxl10)<br/>
+[📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=UOP6JwUxl10)<br/>
 30 live attendees.
 
 - **September 24**: **Michele Caini** speaking about [EnTT and Entity Component System](https://www.italiancpp.org/event/meetup-0920/);<br/>
-[Online-only event due to COVID-19](https://www.youtube.com/watch?v=q0Dpm3IVVKA)<br/>
+[📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=q0Dpm3IVVKA)<br/>
 25 live attendees.
 
 ### [Italian C++ Conference 2020](http://www.italiancpp.org/itcppcon20)
@@ -273,7 +273,7 @@ My staff included: Alessandro Vergani, Stefano Saraulli, Alessandro Pezzato, Mat
 Additional references:
 
 - [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2020/08/24/itcppcon20/)
-- [Videos](https://www.youtube.com/watch?v=OOLR96-GjsI&list=PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB)
+- [📹 Videos](https://www.youtube.com/watch?v=OOLR96-GjsI&list=PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB)
 
 ## 2019
 
@@ -350,7 +350,7 @@ My staff included: Alessandro Vergani, Illya Dudchenko, Federico Ficarelli.
 Additional references:
 
 - [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2019/12/26/cppday19/)
-- [Videos]()
+- [📹 Videos]()
 
 ### [Italian C++ Conference 2019](http://www.italiancpp.org/itcppcon19)
 
@@ -388,7 +388,7 @@ My staff included: Alessandro Vergani, Gian Lorenzo Meocci, Guido Pederzini, Ill
 Additional references:
 
 - [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2019/07/16/itcppcon19/)
-- [Videos](https://www.youtube.com/watch?v=zxwKAX7p8GE&list=PLsCm1Hs016LU5PDVL3Hxgtuim_IIN4ajw)
+- [📹 Videos](https://www.youtube.com/watch?v=zxwKAX7p8GE&list=PLsCm1Hs016LU5PDVL3Hxgtuim_IIN4ajw)
 
 ## 2018
 
@@ -470,7 +470,7 @@ I coordinated the organization of the third edition of the C++ Day, an event ful
 Additional references:
 
 - [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2018/12/08/cppday18/)
-- [Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWco9qjTuwzQtLB2FjGkfHo)
+- [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWco9qjTuwzQtLB2FjGkfHo)
 
 <br/>
 
@@ -515,7 +515,7 @@ My staff included: Alessandro Vergani, Gian Lorenzo Meocci, Marco Foco, Guido Pe
 Additional references:
 
 - [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2018/07/08/itcppcon18/)
-- [Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LW0zKJBvemhJ0YWIF1Fezd6)
+- [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LW0zKJBvemhJ0YWIF1Fezd6)
 
 ### [Modena Tech Summit 2018](http://modenatechscene.it/summit2018/)
 
@@ -576,7 +576,7 @@ My staff included: Guido Pederzini, Alessandro Vergani, Illya Dudchenko.
 Additional references:
 
 - [Wrap-up article (including feedback and statistics)](http://www.italiancpp.org/2017/12/11/cppday17/)
-- [Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWK086XR-QgAKchfclBOL7O)
+- [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWK086XR-QgAKchfclBOL7O)
 
 ### [Italian C++ Conference 2017](http://www.italiancpp.org/itcppcon17)
 
@@ -620,7 +620,7 @@ My staff included: Raffaele Rialdi, Franco Milicchio, Alessandro Vergani, Gian L
 Additional references:
 
 - [Wrap-up article (including feedback and statistics)](http://www.italiancpp.org/2017/07/04/itcppcon17/)
-- [Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWoGAOd9wKvdb1fEqj2olBz)
+- [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWoGAOd9wKvdb1fEqj2olBz)
 
 ### [The Future of Programming with Bartosz Milewski / Modena](http://www.italiancpp.org/event/the-future-of-programming/)
 
@@ -706,7 +706,7 @@ My staff included: Raffaele RIaldi, Franco Milicchio, Stefano Saraulli, Gian Lor
 Additional references:
 
 - [Wrap-up article](http://www.italiancpp.org/2016/11/04/cppday16/)
-- [Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LW9rB8rKxV0WNP6hNIUgjI4)
+- [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LW9rB8rKxV0WNP6hNIUgjI4)
 
 
 ### [Italian C++ Conference 2016](http://www.italiancpp.org/event/conference-2016/)
@@ -745,7 +745,7 @@ My staff included: Raffaele RIaldi, Franco Milicchio, Alessandro Vergani, Gian L
 Additional references:
 
 - [Wrap-up article](https://isocpp.org/blog/2016/05/italian-cpp-conference-2016)
-- [Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LUOIdOmvp2cOgMuaQlPsVZK)
+- [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LUOIdOmvp2cOgMuaQlPsVZK)
 
 ## 2015
 
