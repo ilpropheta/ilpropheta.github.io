@@ -214,9 +214,11 @@ Every meetup consisted in 2 hours of technical contents (up to the speaker) and 
 List of meetups, including speakers and topics discussed:
 
 - **Jan 9**: **Federico Barbieri** speaking about [Development of a 3D framework in Qt](https://www.italiancpp.org/event/meetup-0120/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=89YhaFSCuIw)<br/>
 12 attendees.
   
 - **Feb 13**: **Alberto Bignotti** speaking about [How to integrate a Telegram bot in an existing application](https://www.italiancpp.org/event/meetup-0220/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=tsUHES0ItvY)<br/>
 13 attendees.
 
 - **Mar 12**: **Lorenzo Veneri** speaking about [WebAssembly with C++ and Emscripten](https://www.italiancpp.org/event/meetup-0320/);<br/>[📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=oN9qOut88rc)<br/>
@@ -289,30 +291,38 @@ Every meetup consisted in 2 hours of technical contents (up to the speaker) and 
 List of meetups, including speakers and topics discussed:
 
 - **Feb 21**: **Marco Arena** speaking about [Bruce Lee for C++ Programmers](https://www.italiancpp.org/event/meetup-febbraio2019/);<br/>
+  [📹 Video (ITA)](https://www.youtube.com/watch?v=ttcHSm-5dv4)<br/>
   22 attendees.
 
 - **Mar 14**: **Alberto Bignotti** speaking about [Git-Powered Docs](https://www.italiancpp.org/event/meetup-marzo2019/);<br/>
   22 attendees.
 
 - **Apr 11**: **Yuri Valentini** speaking about [Real-Time communication with WebRTC in C++](https://www.italiancpp.org/event/meetup-aprile2019/);<br/>
+  [📹 Video (ITA)](https://www.youtube.com/watch?v=_LZK7wOa6_w)<br/>
   25 attendees.
 
 - **May 9**: **Federico Ficarelli** speaking about [Programming GPUs with modern C++](https://www.italiancpp.org/event/meetup-maggio2019/);<br/>
+  [📹 Video (ITA)](https://www.youtube.com/watch?v=c04Y9AUH-xU)<br/>
   23 attendees.
   
 - **Jun 13**: **Marco Arena** speaking about [Thinking in Patterns - How to master the STL](https://www.italiancpp.org/event/meetup-giugno2019/);<br/>
+  [📹 Video (ITA)](https://www.youtube.com/watch?v=bSqa4gWYZg4)<br/>
   21 attendees.
 
 - **Sep 12**: **Yuri Valentini** speaking about [Experiments with Domain Driven Design in C++](https://www.italiancpp.org/event/meetup-settembre2019/);<br/>
+  [📹 Video (ITA)](https://www.youtube.com/watch?v=zB6FCnlvIyk)<br/>
   22 attendees.
 
 - **Oct 10**: **Michele Mischitelli** speaking about [Unreal Engine 4](https://www.italiancpp.org/event/meetup-ottobre2019/);<br/>
+  [📹 Video (ITA)](https://www.youtube.com/watch?v=CTHQO2J8jWg)<br/>
   22 attendees.
 
 - **Nov 7**: **Michele Mischitelli** speaking about [Unreal Engine 4: delegates, async and subsystems](https://www.italiancpp.org/event/meetup-novembre2019/);<br/>
+  [📹 Video (ITA)](https://www.youtube.com/watch?v=mB6afDMzTjQ)<br/>
   10 attendees.
 
 - **Dec 12**: **Marcello Missiroli** speaking about [Pair Programming: analysis through four lenses](https://conoscerelinux.org/courses/meetupcpp_dic19/);<br/>
+  [📹 Video (ITA)](https://www.youtube.com/watch?v=JmfHG9B2D5M)<br/>
   8 attendees.
 
 ### [C++ Day 2019](http://www.italiancpp.org/cppday19)
