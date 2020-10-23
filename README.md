@@ -65,9 +65,14 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2020
+**Interoperable AI: ONNX & ONNXRuntime in C++** (90')<br/>
+[Slides](https://www.italiancpp.org/wp-content/uploads/2020/10/Interoperable-AI-Arena-Verasani.pdf) - [📹 Video (ITA)](https://www.youtube.com/watch?v=PV_BRa8E3g8) - [💻 Demo](https://github.com/ilpropheta/onnxruntime-demo)<br/>
+30 live attendees.<br/>
+@[Monthly Italian C++ Meetups Modena](http://www.italiancpp.org/event/meetup-1020) -- October 2020/Online
+
 **\[Panel\] Community Organizers Panel** (60')<br/>
 I have participated in the *CppCon 2020* [Community Organizers Panel](https://cppcon2020.sched.com/event/eRrc/community-organizers-panel) with other user group leaders to share my experience with community management and events organization. - [📹 Video](https://www.youtube.com/watch?v=s1zcypvXj2M)<br/>
-@[CppCon 2020](https://cppcon.org/program2020/) -- Septermber 2020/Online
+@[CppCon 2020](https://cppcon.org/program2020/) -- September 2020/Online
 
 ## 2019
 **\[Workshop\] Coding Gym: una palestra, ma non solo di programmazione** (120')<br/>
