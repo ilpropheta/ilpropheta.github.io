@@ -65,6 +65,11 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2020
+**Spontaneità: l'ingrediente segreto delle community** (20')<br/>
+[📹 Video (ITA)](https://www.youtube.com/)<br/>
+32 live attendees.<br/>
+@[Italian Community Manangers Summit](https://italiancommunitymanagers.it/) -- November 2020/Online
+
 **Interoperable AI: ONNX & ONNXRuntime in C++** (90')<br/>
 [Slides](https://www.italiancpp.org/wp-content/uploads/2020/10/Interoperable-AI-Arena-Verasani.pdf) - [📹 Video (ITA)](https://www.youtube.com/watch?v=PV_BRa8E3g8) - [💻 Demo](https://github.com/ilpropheta/onnxruntime-demo)<br/>
 30 live attendees.<br/>
