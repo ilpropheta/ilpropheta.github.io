@@ -65,6 +65,11 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2020
+**Talk a sorpresa...Implementiamo "Slowest Key" in next-gen C++** (90')<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=rXx57cp4G4U) - (snippets in video description)<br/>
+20 live attendees.<br/>
+@Monthly Italian C++ Meetups Modena (this was an improvised "mob programming" session because the scheduled speaker bailed out) -- November 2020/Online
+
 **Spontaneità: l'ingrediente segreto delle community** (20')<br/>
 [📹 Video (ITA)](https://www.youtube.com/)<br/>
 32 live attendees.<br/>
