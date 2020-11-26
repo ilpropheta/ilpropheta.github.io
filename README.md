@@ -257,6 +257,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=PV_BRa8E3g8)<br/>
 30 live attendees.
 
+- **November 19**: **Marco Arena** giving an unexpected talk about Implementing 'Slowest Key' problem in next-gen C++;<br/>
+[📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=rXx57cp4G4U)<br/>
+20 live attendees.
+
 ### [Italian C++ Conference 2020](http://www.italiancpp.org/itcppcon20)
 
 <img src="/pics/itcppcon20.png" alt="Italian C++ Conference 2020" width="700">
