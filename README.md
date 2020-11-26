@@ -1093,4 +1093,4 @@ Here is a list of *some* notable events possibly influencing my professional lif
 
 ----
 
-*Last Update*: **August 2020**
+*Last Update*: **November 2020**
