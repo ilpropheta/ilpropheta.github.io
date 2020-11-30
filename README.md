@@ -65,6 +65,11 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2020
+**Interoperable AI: ONNX & ONNXRuntime in C++** (90')<br/>
+[Slides](https://github.com/italiancpp/cppday20/blob/main/Interoperable%20AI%20-%20Marco%20Arena%2C%20Mattia%20Verasani.pdf) - [📹 Video (ENG)](https://www.youtube.com/watch?v=exsgNLf-MyY) - [💻 Demo](https://github.com/ilpropheta/onnxruntime-demo)<br/>
+50 live attendees.<br/>
+@[C++ Day 2020](http://www.italiancpp.org/cppday20) -- November 2020/Online
+
 **Talk a sorpresa...Implementiamo "Slowest Key" in next-gen C++** (90')<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=rXx57cp4G4U) - (snippets in video description)<br/>
 20 live attendees.<br/>
@@ -260,6 +265,39 @@ List of meetups, including speakers and topics discussed:
 - **November 19**: **Marco Arena** giving an unexpected talk about Implementing 'Slowest Key' problem in next-gen C++;<br/>
 [📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=rXx57cp4G4U)<br/>
 20 live attendees.
+
+### [C++ Day 2020](http://www.italiancpp.org/cppday20)
+
+<img src="/pics/cppday20.png" alt="C++ Day 2020" width="700">
+
+Online-only, November 2020.
+
+I coordinated the organization of the fifth edition of the C++ Day, one full-day of C++ made by the Italian C++ Community. **Due to COVID-19 emergency, this event was online-only.**<br/>
+**180 virtual check-ins** (440 registered people - ~60% drop).
+
+*Speakers*: Alberto Bignotti, Michele Mischitelli, Lorenzo Veneri, Kris van Rens, Gianluca Padovani, Yuri Valentini, Mattia Verasani, Marco Arena.
+
+My staff included: Stefano Saraulli and Riccardo Brugo.
+
+**Highlights:**
+
+- 7x50' live talks (YouTube and Remo)
+- Networking and interaction (on Remo)
+
+**Topics:**
+
+- How to design and develop a Telegram bot in C++
+- Gaame Development with Unreal Engine 4
+- Interoperable AI with ONNX and ONNXRuntime in C++
+- WebAssembly
+- TDD in C++
+- WebRTC in C++
+- Value categories in C++
+
+Additional references:
+
+- [Wrap-up article (including feedback and statistics)]()
+- [📹 Videos](https://www.youtube.com/watch?v=YsdEgfY9rwo&list=PLsCm1Hs016LX6l97Royt5DSYy7V05nZmS)
 
 ### [Italian C++ Conference 2020](http://www.italiancpp.org/itcppcon20)
 
