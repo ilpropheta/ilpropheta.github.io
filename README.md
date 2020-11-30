@@ -1058,6 +1058,8 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 Here is a list of *some* notable events possibly influencing my professional life (most of them are sort of "first time I did *X*"):
 
+- during '90s
+  - learned basics of computers and batch scripting
 - 2000
   - written my first line of Pascal, at school
   - written my first line of HTML, at school
@@ -1101,6 +1103,7 @@ Here is a list of *some* notable events possibly influencing my professional lif
   - attended *Meeting C++* for the first time - my first C++ event ever
   - signed up for [HackerRank](https://www.hackerrank.com/) for the first time. Started practicing a bit
 - 2015
+  - recorded my first *podcast*, for *dotNetPodcast*
   - given my first keynote session ever, at *Italian C++ Meetup in Pordenone*
   - given a talk in front of *more than 150 people*, at Codemotion Milan 
 - 2016
