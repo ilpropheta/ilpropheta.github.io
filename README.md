@@ -992,7 +992,7 @@ In 2016, I started Coding Gym in Modena and since 2018 I have been working to br
 
 In **2020** I have co-founded [ML Modena](https://mlmodena.it), the first (and only) open community about Artificial Intelligence in Modena. The community is part of the network of [IAML](https://iaml.it/), the Italian Association for Machine Learning.
 
-The very first event planned for February 2020 was canceled due to COVID-19 emergency and re-organized in December as [online-only event](#modena-c-meetups---season-2020).
+The very first event planned for February 2020 was canceled due to COVID-19 emergency and re-organized in December as [online-only event](#machine-learning-modena-kick-off-event).
 
 # Popular posts
 
