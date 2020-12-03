@@ -266,6 +266,24 @@ List of meetups, including speakers and topics discussed:
 [📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=rXx57cp4G4U)<br/>
 20 live attendees.
 
+### [Machine Learning Modena Kick-Off Event](https://mlmodena.it)
+
+<img src="/pics/mlmodena20.png" alt="ML Modena Kick-Off Event" width="700">
+
+Online-only, December 2020.
+
+I coordinated the organization of the kick-off event of [ML Modena (Machine Learning Modena)](https://mlmodena.it), the first (and only) open community on Artificial Intelligence in Modena. **Due to COVID-19 emergency, this event was online-only.**<br/>
+**120 virtual check-ins** (190 registered people - ~37% drop).
+
+**Highlights:**
+
+- 1x20' live intro and 1x60' technical session
+- Networking and live interaction on Remo
+
+Additional references:
+
+- [📹 Videos](https://www.youtube.com/playlist?list=PL0yWIbKoA6BrGsSDSWYkgSETlE8iNWQQf)
+
 ### [C++ Day 2020](http://www.italiancpp.org/cppday20)
 
 <img src="/pics/cppday20.png" alt="C++ Day 2020" width="700">
@@ -282,7 +300,7 @@ My staff included: Stefano Saraulli and Riccardo Brugo.
 **Highlights:**
 
 - 7x50' live talks (YouTube and Remo)
-- Networking and interaction (on Remo)
+- Networking and live interaction on Remo
 
 **Topics:**
 
@@ -966,6 +984,15 @@ People who has attended Coding Gym for some years tell that Coding Gym is a frie
 In 2016, I started Coding Gym in Modena and since 2018 I have been working to bring it in other cities by founding and leading a community of "trainers". Currently, Coding Gym is active in Modena, Rome, Milan, Turn, Padua, Bari and Barcelona.
 
 [The official website](https://coding-gym.org) contains more details, next and past events, and pictures.
+
+# Machine Learning Modena (ML Modena)
+
+<img src="/pics/mlmodena20.png" alt="ML Modena First Event" width="650"/>
+<br/>
+
+In **2020** I have co-founded [ML Modena](https://mlmodena.it), the first (and only) open community about Artificial Intelligence in Modena. The community is part of the network of [IAML](https://iaml.it/), the Italian Association for Machine Learning.
+
+The very first event planned for February 2020 was canceled due to COVID-19 emergency and re-organized in December as [online-only event](#modena-c-meetups---season-2020).
 
 # Popular posts
 
