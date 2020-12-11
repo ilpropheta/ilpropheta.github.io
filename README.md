@@ -1165,4 +1165,4 @@ Here is a list of *some* notable events possibly influencing my professional lif
 
 ----
 
-*Last Update*: **November 2020**
+*Last Update*: **December 2020**
