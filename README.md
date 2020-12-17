@@ -1093,7 +1093,7 @@ Here is a list of *some* notable events possibly influencing my professional lif
 - 2004
   - seen some C++ code, from a classmate who was developing an RPG
 - 2005
-  - started Computer Engineering BSC
+  - started Computer Engineering BSc
   - written my first line of Java
 - 2006
   - attended *Java Day 2006* - my first software conference ever
@@ -1102,15 +1102,15 @@ Here is a list of *some* notable events possibly influencing my professional lif
   - installed and used a Linux distribution for the first time
 - 2008
   - studied object oriented patterns (GoF and GRASP) for the first time
-  - discovered Functional Programming, practiced OCaml for some months, passed an exam with full score at university
-  - got my BSC in Computer Engineering, Rome
-  - started Computer Engineering MSC
+  - discovered Functional Programming: practiced with OCaml for a few months and taken an exam with full mark
+  - got my BSc in Computer Engineering in Rome
+  - started Computer Engineering MSc
 - 2009 
   - practiced with OpenGL and graphics programming
   - written my first line of C++
 - 2010
   - used Qt and boost for the first time
-  - got my MSC in Computer Engineering, Rome
+  - got my MSc in Computer Engineering in Rome
 - 2011
   - started a [professional blog](https://marcoarena.wordpress.com)
   - started working at *Reply*
@@ -1123,7 +1123,7 @@ Here is a list of *some* notable events possibly influencing my professional lif
   - founded two Facebook and LinkedIn groups: **++it, Italian C++ Community**
 - 2013
   - founded [++it (Italian C++ Community)](https://italiancpp.org)
-  - given my first talk at a professional event (*AgileDay 2013*) about C++
+  - given my first talk at a professional conference (*AgileDay 2013*)
 - 2014
   - organized my first meetup - the first Italian C++ Community meetup, in Milan 
   - facilitated a workshop for the first time, at *AgileDay 2014*
@@ -1161,6 +1161,7 @@ Here is a list of *some* notable events possibly influencing my professional lif
 - 2020
   - founded [ML Modena](https://mlmodena.it)  
   - organized my first online-only [international C++ conference](https://italiancpp.org/itcppcon20)
+  - given a talk at an *online-only* conference for the first time (*Italian Community Managers Summit 2020*)
 <br/>
 
 ----
