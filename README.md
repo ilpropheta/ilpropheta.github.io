@@ -18,24 +18,24 @@ A professional list of my notable activities.
 # TL;DR -- in a nutshell
 
 I am a Computer Engineer from Rome, specialized in high performance and critical software development in C++. 
-Since the end of 2019, I have joined [Tetra Pak](http://tetrapak.com/) as an Automation and Digital Technology expert, focusing on equipment machine autonomy.
-From 2011 to 2019, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a Software Engineer an C++ Specialist. Behind the scenes, I define myself a "Community Hacker": I'm very active in the tech communities ecosystem in Italy and abroad.
+Since the end of 2019, I have joined [Tetra Pak](http://tetrapak.com/) as an Automation and Digital Technology expert, focusing on scouting and developing AI-based software solutions for the company needs.
+From 2011 to 2019, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a Software Engineer and C++ Specialist. Behind the scenes, I define myself a "Community Hacker": I'm very active in the tech communities ecosystem in Italy and abroad.
 
-Apart from private life, I love spending my spare time on several activities gathered here below:
+Apart from private life, I am committed to community activities summarized here below:
 
-- in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), or the C++ landmark in Italy. I moderate the online community, I organize events and meetups, etc;
+- in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), or the C++ landmark in Italy, one of the most active C++ communities in Europe. I moderate the online community, I organize events and meetups, etc;
 
-- in 2016, I created [Coding Gym](#coding-gym), a monthly programming laboratory format and community currently active in Modena, Pauda, Milan, Rome, Turin and Bari;
+- in 2016, I created [Coding Gym](#coding-gym), a programming laboratory format and community. Started by me in Modena, it's now active in some other cities ran by other amazing people;
 
 - I have been an **editor** of [isocpp.org](http://isocpp.org/) since 2014. I help moderate the International C++ online community;
 
-- I have joined [ConoscereLinux](https://conoscerelinux.org) staff since 2016;
+- since 2016, I have joined the council and staff of [ConoscereLinux](https://conoscerelinux.org), a non-profit organization making divulgation in the Modena area;
 
-- in 2018, I have co-founded [Community Crumbs](https://communitycrumbs.org/) a non-profit organization patronizing all my community activities;
+- in 2018, I co-founded [Community Crumbs](https://communitycrumbs.org/), a non-profit organization patronizing all my community activities. This adventure ended in 2020;
 
-- in 2020, I have founded [ML Modena](https://mlmodena.it/) the only community about Machine Learning (and AI, in general) in Modena;
+- in 2020, I co-founded [ML Modena](https://mlmodena.it/), the only community about Machine Learning (and AI, in general) in Modena;
 
-- I often [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops) about *stories* (not only tech) I think they are worth telling. I have given talks at many famous events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, local meetups and, clearly, at *Italian C++ Community* events;
+- sometimes I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops) about things I think are worth telling. I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and, clearly, at *Italian C++ Community* events;
  
 - I love experimenting and prototying – here is my [GitHub page](http://github.com/ilpropheta/);
  
@@ -1166,4 +1166,4 @@ Here is a list of *some* notable events possibly influencing my professional lif
 
 ----
 
-*Last Update*: **December 2020**
+*Last Update*: **January 2021**
