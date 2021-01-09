@@ -314,7 +314,7 @@ My staff included: Stefano Saraulli and Riccardo Brugo.
 
 Additional references:
 
-- [Wrap-up article (including feedback and statistics)]()
+- [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2020/12/28/cppday20/)
 - [📹 Videos](https://www.youtube.com/watch?v=YsdEgfY9rwo&list=PLsCm1Hs016LX6l97Royt5DSYy7V05nZmS)
 
 ### [Italian C++ Conference 2020](http://www.italiancpp.org/itcppcon20)
