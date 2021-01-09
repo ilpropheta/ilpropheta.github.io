@@ -86,7 +86,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 @[Monthly Italian C++ Meetups Modena](http://www.italiancpp.org/event/meetup-1020) -- October 2020/Online
 
 **\[Panel\] Community Organizers Panel** (60')<br/>
-I have participated in the *CppCon 2020* [Community Organizers Panel](https://cppcon2020.sched.com/event/eRrc/community-organizers-panel) with other user group leaders to share my experience with community management and events organization. - [📹 Video](https://www.youtube.com/watch?v=s1zcypvXj2M)<br/>
+I have participated in the *CppCon 2020* [Community Organizers Panel](https://cppcon2020.sched.com/event/eRrc/community-organizers-panel) with other user group leaders to share my experience with community management and events organization. - [📹 Video](https://youtu.be/wdumaKkCR5E)<br/>
 @[CppCon 2020](https://cppcon.org/program2020/) -- September 2020/Online
 
 ## 2019
