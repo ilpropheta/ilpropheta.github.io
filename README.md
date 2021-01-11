@@ -76,7 +76,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 @Monthly Italian C++ Meetups Modena (this was an improvised "mob programming" session because the scheduled speaker bailed out) -- November 2020/Online
 
 **Spontaneità: l'ingrediente segreto delle community** (20')<br/>
-[📹 Video (ITA)](https://www.youtube.com/)<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=ViTvnI1yTgE)<br/>
 32 live attendees.<br/>
 @[Italian Community Manangers Summit](https://italiancommunitymanagers.it/) -- November 2020/Online
 
