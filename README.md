@@ -218,7 +218,7 @@ Co-Speaker: [Paolo Polce](https://twitter.com/paolopolce)<br/>
 # Events & Meetups
 
 I'm used to organizing events, meetups and other activities. <br/>
-First of all as the leader of the [Italian C++ Community](http://italiancpp.org/) and [Coding Gym](http://coding-gym.org), in addition, I'm involved in supporting and helping a few other user groups. I am a "worker" of [ConoscereLinux](http://conoscerelinux.org) and I am part of the leading staff of [Modena Tech Scene](http://modenatechscene.it).
+In addition to my community activities ([Italian C++ Community](http://italiancpp.org/), [Coding Gym](http://coding-gym.org) and [ML Modena](https://mlmodena.it)), I'm happy to help other user groups. For example, I am a regular "worker" of [ConoscereLinux](http://conoscerelinux.org).
 
 ## 2021
 
@@ -226,7 +226,7 @@ First of all as the leader of the [Italian C++ Community](http://italiancpp.org/
 
 <img src="/pics/meetup-mo2021.png" alt="Meetup Online - Jan 2021" width="700">
 
-I have organized and promoted monthly C++ online meetups, hosted one [Remo](https://remo.co/) and [YouTube](https://www.youtube.com/playlist?list=PLsCm1Hs016LWsjNbgHWGPq4Fk2lyoUML7).<br/>
+I have organized and promoted monthly C++ online meetups, hosted on [Remo](https://remo.co/) and [YouTube](https://www.youtube.com/playlist?list=PLsCm1Hs016LWsjNbgHWGPq4Fk2lyoUML7).<br/>
 
 Every meetup consisted in 1-hour technical session + online networking.<br/>
 [📹 YouTube Playlist here](https://www.youtube.com/playlist?list=PLsCm1Hs016LWsjNbgHWGPq4Fk2lyoUML7)
