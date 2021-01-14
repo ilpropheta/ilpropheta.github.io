@@ -220,6 +220,23 @@ Co-Speaker: [Paolo Polce](https://twitter.com/paolopolce)<br/>
 I'm used to organizing events, meetups and other activities. <br/>
 First of all as the leader of the [Italian C++ Community](http://italiancpp.org/) and [Coding Gym](http://coding-gym.org), in addition, I'm involved in supporting and helping a few other user groups. I am a "worker" of [ConoscereLinux](http://conoscerelinux.org) and I am part of the leading staff of [Modena Tech Scene](http://modenatechscene.it).
 
+## 2021
+
+### [Online C++ Meetups - Season 2021](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
+
+<img src="/pics/meetup-mo2021.png" alt="Meetup Online - Jan 2021" width="700">
+
+I have organized and promoted monthly C++ online meetups, hosted one [Remo](https://remo.co/) and [YouTube](https://www.youtube.com/playlist?list=PLsCm1Hs016LWsjNbgHWGPq4Fk2lyoUML7).<br/>
+
+Every meetup consisted in 1-hour technical session + online networking.<br/>
+[📹 YouTube Playlist here](https://www.youtube.com/playlist?list=PLsCm1Hs016LWsjNbgHWGPq4Fk2lyoUML7)
+
+List of meetups, including speakers and topics discussed:
+
+- **Jan 14**: **Michele Mischitelli** speaking about [Our first game using Unreal Engine 4 and C++](https://www.italiancpp.org/event/meetup-0121/);<br/>
+[📹 Video (ITA)](https://youtu.be/MaS_CLtdAPU)<br/>
+20 attendees.
+
 ## 2020
 
 ### [Modena C++ Meetups - Season 2020](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
@@ -229,7 +246,8 @@ First of all as the leader of the [Italian C++ Community](http://italiancpp.org/
 I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
 [Picures](https://www.facebook.com/italiancpp/photos/?tab=album&album_id=2466863940294974)
 
-Every meetup consisted in 2 hours of technical contents (up to the speaker) and networking dinner afterwards.
+Every meetup consisted in 2 hours of technical contents (up to the speaker) and networking dinner afterwards.<br/>
+[📹 YouTube Playlist here](https://www.youtube.com/watch?v=89YhaFSCuIw&list=PLsCm1Hs016LW8gzRLE7zt5bDfxo8otetb)
 
 List of meetups, including speakers and topics discussed:
 
@@ -365,7 +383,8 @@ Additional references:
 I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
 [Picures](https://www.facebook.com/italiancpp/photos/?tab=album&album_id=2237022256612478)
 
-Every meetup consisted in 2 hours of technical contents (up to the speaker) and networking dinner afterwards.
+Every meetup consisted in 2 hours of technical contents (up to the speaker) and networking dinner afterwards.<br/>
+[📹 YouTube Playlist here](https://www.youtube.com/watch?v=ttcHSm-5dv4&list=PLsCm1Hs016LUK7VPwkNGmmpNDa6u9QQ9e)
 
 List of meetups, including speakers and topics discussed:
 
