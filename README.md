@@ -7,7 +7,7 @@ A professional list of my notable activities.
 - [My blog "Growing Up"](http://marcoarena.wordpress.com)
 - [Italian C++ Community](https://italiancpp.org)
 - [Coding Gym](https://coding-gym.org)
-- [ML Modena](https://https://mlmodena.it)
+- [ML Modena](https://mlmodena.it)
 - [My Linkedin profile](https://www.linkedin.com/in/marcoarena)
 - [My Youtube Channel](https://www.youtube.com/channel/UCK-K0NhTAWJWdNIYkR18maQ)
 
