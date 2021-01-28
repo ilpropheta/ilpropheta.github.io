@@ -249,7 +249,7 @@ Every meetup consisted in 1-hour technical session + online networking.<br/>
 List of meetups, including speakers and topics discussed:
 
 - **Jan 27**: **Francesco Trovò** & **Alberto Maria Metelli** speaking about [From Multi-Armed bandit to Reinforcement Learning.... and beyond!](https://www.eventbrite.it/e/biglietti-machine-learning-modena-meetup-gennaio-2021-136401345095#);<br/>
-[📹 Video (ITA)]()<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=NA0gg_9yQog)<br/>
 70 attendees.
 
 ## 2020
