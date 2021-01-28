@@ -224,7 +224,7 @@ In addition to my community activities ([Italian C++ Community](http://italiancp
 
 ### [Online C++ Meetups - Season 2021](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
 
-<img src="/pics/meetup-mo2021.png" alt="Meetup Online - Jan 2021" width="700">
+<img src="/pics/meetup-mo2021.png" alt="Italian C++ Meetup Online - Jan 2021" width="700">
 
 I have organized and promoted monthly C++ online meetups, hosted on [Remo](https://remo.co/) and [YouTube](https://www.youtube.com/playlist?list=PLsCm1Hs016LWsjNbgHWGPq4Fk2lyoUML7).<br/>
 
@@ -236,6 +236,21 @@ List of meetups, including speakers and topics discussed:
 - **Jan 14**: **Michele Mischitelli** speaking about [Our first game using Unreal Engine 4 and C++](https://www.italiancpp.org/event/meetup-0121/);<br/>
 [📹 Video (ITA)](https://youtu.be/MaS_CLtdAPU)<br/>
 20 attendees.
+
+### [Online ML Modena Meetups - Season 2021](https://mlmodena.it)
+
+<img src="/pics/meetup-mlmo2021.png" alt="ML Modena Meetup Online - Jan 2021" width="700">
+
+I have organized and promoted monthly Artificial Intelligence online meetups, hosted on [AirMeet](https://www.airmeet.com/).<br/>
+
+Every meetup consisted in 1-hour technical session + online networking.<br/>
+[📹 YouTube Playlist here](https://www.youtube.com/playlist?list=PL0yWIbKoA6BozPd7HalEAgZY-OZBXLi3p)
+
+List of meetups, including speakers and topics discussed:
+
+- **Jan 27**: **Francesco Trovò** & **Alberto Maria Metelli** speaking about [From Multi-Armed bandit to Reinforcement Learning.... and beyond!](https://www.eventbrite.it/e/biglietti-machine-learning-modena-meetup-gennaio-2021-136401345095#);<br/>
+[📹 Video (ITA)]()<br/>
+70 attendees.
 
 ## 2020
 
