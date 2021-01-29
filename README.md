@@ -474,6 +474,7 @@ Additional references:
 
 - [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2019/12/26/cppday19/)
 - [📹 Videos]()
+- [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.2426964104284958)
 
 ### [Italian C++ Conference 2019](http://www.italiancpp.org/itcppcon19)
 
@@ -512,6 +513,7 @@ Additional references:
 
 - [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2019/07/16/itcppcon19/)
 - [📹 Videos](https://www.youtube.com/watch?v=zxwKAX7p8GE&list=PLsCm1Hs016LU5PDVL3Hxgtuim_IIN4ajw)
+- [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.2288400491474654)
 
 ## 2018
 
@@ -594,6 +596,7 @@ Additional references:
 
 - [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2018/12/08/cppday18/)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWco9qjTuwzQtLB2FjGkfHo)
+- [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.2140877512893620)
 
 <br/>
 
@@ -639,6 +642,7 @@ Additional references:
 
 - [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2018/07/08/itcppcon18/)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LW0zKJBvemhJ0YWIF1Fezd6)
+- [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.2023344447980261)
 
 ### [Modena Tech Summit 2018](http://modenatechscene.it/summit2018/)
 
@@ -700,6 +704,7 @@ Additional references:
 
 - [Wrap-up article (including feedback and statistics)](http://www.italiancpp.org/2017/12/11/cppday17/)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWK086XR-QgAKchfclBOL7O)
+- [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.1903164429998264)
 
 ### [Italian C++ Conference 2017](http://www.italiancpp.org/itcppcon17)
 
@@ -744,6 +749,7 @@ Additional references:
 
 - [Wrap-up article (including feedback and statistics)](http://www.italiancpp.org/2017/07/04/itcppcon17/)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWoGAOd9wKvdb1fEqj2olBz)
+- [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.1819002205081154)
 
 ### [The Future of Programming with Bartosz Milewski / Modena](http://www.italiancpp.org/event/the-future-of-programming/)
 
@@ -802,8 +808,6 @@ I coordinated the organization of the 1st edition of the **C++ Day**, an event f
 **Sponsors**: [Develer](http://develer.com) and [Soft 2000](http://soft2000sas.it)<br/>
 **80+ attendees** (100+ registered people - ~20% drop).
 
-[Pictures on Facebook](https://www.facebook.com/photo.php?fbid=10154194953011057&set=oa.793589927442664&type=3&theater)
-
 Information are also on isocpp.org: https://isocpp.org/blog/2016/10/cpday16
 
 My staff included: Raffaele RIaldi, Franco Milicchio, Stefano Saraulli, Gian Lorenzo Meocci, Marco Foco.
@@ -825,12 +829,11 @@ My staff included: Raffaele RIaldi, Franco Milicchio, Stefano Saraulli, Gian Lor
 - Modern C++ for the Windows Runtime (probably the first public talk about this topic after Kenny Kerr's one at CppCon!)
 - API Design
 
-
 Additional references:
 
 - [Wrap-up article](http://www.italiancpp.org/2016/11/04/cppday16/)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LW9rB8rKxV0WNP6hNIUgjI4)
-
+- [📸 Pictures](https://www.facebook.com/media/set/?set=oa.883545501780439&type=3)
 
 ### [Italian C++ Conference 2016](http://www.italiancpp.org/event/conference-2016/)
 
@@ -869,6 +872,7 @@ Additional references:
 
 - [Wrap-up article](https://isocpp.org/blog/2016/05/italian-cpp-conference-2016)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LUOIdOmvp2cOgMuaQlPsVZK)
+- [📸 Pictures](https://www.facebook.com/media/set/?set=oa.793589927442664&type=3)
 
 ## 2015
 
@@ -894,6 +898,8 @@ Co-organizer: [Franco Milicchio](http://fmilicchio.bitbucket.org/)<br/>
 - Mobile Development in C++ and C# with Xamarin
 - Js integration through Google V8
 - Porting iOS/Android apps to Windows via Microsoft Bridge
+
+[📸 Pictures](https://www.facebook.com/media/set/?set=oa.702494899885501&type=3)
 
 ### [Italian C++ Community Meetup Florence](http://www.italiancpp.org/event/meetup-firenze-2015)
 
@@ -924,6 +930,8 @@ Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).<br/>
 - Solving Constraint Satisfaction Problem using monads with Bartosz Milewski
 - Boost.SIMD and best practices for running C++ code fast
 
+[📸 Pictures](https://www.facebook.com/media/set/?set=oa.654492274685764&type=3)
+
 ### [Italian C++ Community Meetup Pordenone](http://www.italiancpp.org/event/meetup-pordenone-2015)
 
 <img src="/pics/meetup-pn15.png" alt="Italian C++ Meetup Pordenone 2015" width="600">
@@ -952,6 +960,8 @@ Pordenone, February 2015. [Feedback](https://joind.in/event/italian-c-community-
 - Data Access in Modern C++ (sqlpp11 & ODB)
 - Chromium as a framework to write desktop apps in C++
 
+[📸 Pictures](https://www.facebook.com/media/set/?set=oa.585553418246317&type=3)
+
 ## 2014
 
 ### [Italian C++ Community Meetup Bologna](http://www.italiancpp.org/event/meetup-bologna-2014/)
@@ -977,6 +987,8 @@ Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).
 - Developing a C++ Testing Framework
 - Dependency Injection in C++
 
+[📸 Pictures](https://www.facebook.com/media/set/?set=oa.539742672827392&type=3)
+
 ### [Italian C++ Community Meetup Milan](http://www.italiancpp.org/event/meetup-milano/)
 
 <img src="/pics/meetup-mi14.png" alt="Italian C++ Meetup Milan 2014" width="600">
@@ -997,6 +1009,8 @@ Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-
 - Actor model in C++
 - C++ lambdas
 - Functional Programming in C++
+
+[📸 Pictures](https://www.facebook.com/media/set/?set=oa.477428019058858&type=3)
 
 # Coding Gym
 
