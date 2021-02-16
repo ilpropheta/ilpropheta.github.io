@@ -237,6 +237,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://youtu.be/MaS_CLtdAPU)<br/>
 20 attendees.
 
+- **Feb 15**: **Michele Caini** speaking about [Static polymorphism: to poly or not to poly](https://www.italiancpp.org/event/meetup-0221/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=DjCsGPESGEc)<br/>
+25 attendees.
+
 ### [Online ML Modena Meetups - Season 2021](https://mlmodena.it)
 
 <img src="/pics/meetup-mlmo2021.png" alt="ML Modena Meetup Online - Jan 2021" width="700">
