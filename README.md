@@ -256,6 +256,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=NA0gg_9yQog)<br/>
 70 attendees.
 
+- **March 4**: **Mattia Verasani** speaking about [No more batch normalization?](http://mlmodena0321.eventbrite.it/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=gf7LTPtkQoM)<br/>
+40 attendees.
+
 ## 2020
 
 ### [Modena C++ Meetups - Season 2020](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
