@@ -241,6 +241,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=DjCsGPESGEc)<br/>
 25 attendees.
 
+- **March 17**: **Nicolai Grodzitski** speaking about [SObjectizer: a C++ tool for Concurrent Programming](https://www.italiancpp.org/event/meetup-0321/);<br/>
+[📹 Video (ENG)](https://www.youtube.com/watch?v=cSja6JcTn1A)<br/>
+22 attendees.
+
 ### [Online ML Modena Meetups - Season 2021](https://mlmodena.it)
 
 <img src="/pics/meetup-mlmo2021.png" alt="ML Modena Meetup Online - Jan 2021" width="700">
