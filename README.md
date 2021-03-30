@@ -264,6 +264,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=gf7LTPtkQoM)<br/>
 40 attendees.
 
+- **March 30**: **Vincenzo Lomonaco** speaking about [Sustainable AI through Continual Learning](https://mlmodena-03bis21.eventbrite.it/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=GbwAJTqndz4)<br/>
+30 attendees.
+
 ## 2020
 
 ### [Modena C++ Meetups - Season 2020](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
@@ -1226,4 +1230,4 @@ Here is a list of *some* notable events possibly influencing my professional lif
 
 ----
 
-*Last Update*: **January 2021**
+*Last Update*: **March 2021**
