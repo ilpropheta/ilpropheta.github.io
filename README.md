@@ -245,6 +245,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ENG)](https://www.youtube.com/watch?v=cSja6JcTn1A)<br/>
 22 attendees.
 
+- **April 15**: **Lorenzo Veneri** speaking about [C++ and Relational Database Connections](https://www.italiancpp.org/event/meetup-0421/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=WS_qrHjpl88)<br/>
+20 attendees.
+
 ### [Online ML Modena Meetups - Season 2021](https://mlmodena.it)
 
 <img src="/pics/meetup-mlmo2021.png" alt="ML Modena Meetup Online - Jan 2021" width="700">
@@ -1230,4 +1234,4 @@ Here is a list of *some* notable events possibly influencing my professional lif
 
 ----
 
-*Last Update*: **March 2021**
+*Last Update*: **April 2021**
