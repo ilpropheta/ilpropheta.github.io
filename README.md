@@ -1037,9 +1037,9 @@ Milan, June 2014. [Feedback.](https://joind.in/event/italian-c-community-meetup-
 <img src="/pics/coding-gym.png" alt="Modena Coding Gym" width="650"/>
 <br/>
 
-In **2016** I created [Coding Gym](http://coding-gym.org), a monthly programming lab format developed to practice programming and soft-skills.
+In **2016** I created [Coding Gym](http://coding-gym.org), a monthly programming lab format developed to practice programming and soft-skills. If you want to know more about the story of Coding Gym, please check out [this page](https://coding-gym.org/story/).
 
-When people ask me "what is Coding Gym?", I'm used to answer "at Coding Gym, we practice expressing ourselves through programming and collaboration".
+When people ask me "what is Coding Gym?", I usually answer "at Coding Gym, we practice expressing ourselves through programming and collaboration".
 
 People who has attended Coding Gym for some years tell that Coding Gym is a friendly environment to:
 
@@ -1049,7 +1049,7 @@ People who has attended Coding Gym for some years tell that Coding Gym is a frie
 - learn new algorithms, data structures and coding patterns
 - experiment with programming languages and paradigms they are not fluent with
 
-In 2016, I started Coding Gym in Modena and since 2018 I have been working to bring it in other cities by founding and leading a community of "trainers". Currently, Coding Gym is active in Modena, Rome, Milan, Turn, Padua, Bari and Barcelona.
+In 2016, I started up Coding Gym in Modena, and since 2018 I have developed a format that has been adopted by other "trainers" to bring Coding Gym in new places. For coordinating this, I have been leading the community of "trainers" of Coding Gym that operates behind the scenes. Currently, Coding Gym is active in Modena, Padua, Milan, Turin, Bari, Bassano del Grappa, and Rome.
 
 [The official website](https://coding-gym.org) contains more details, next and past events, and pictures.
 
@@ -1058,7 +1058,7 @@ In 2016, I started Coding Gym in Modena and since 2018 I have been working to br
 <img src="/pics/mlmodena20.png" alt="ML Modena First Event" width="650"/>
 <br/>
 
-In **2020** I have co-founded [ML Modena](https://mlmodena.it), the first (and only) open community about Artificial Intelligence in Modena. The community is part of the network of [IAML](https://iaml.it/), the Italian Association for Machine Learning.
+In **2020** I co-founded [ML Modena](https://mlmodena.it), the first open community about Artificial Intelligence in the Modena area. The community is part of the network of [IAML](https://iaml.it/), the Italian Association for Machine Learning.
 
 The very first event planned for February 2020 was canceled due to COVID-19 emergency and re-organized in December as [online-only event](#machine-learning-modena-kick-off-event).
 
@@ -1127,7 +1127,7 @@ Refer to my [Github page](https://github.com/ilpropheta) for more details.
 
 Some of my projects/experiments follow:
 
-- Obbelisco (TBR) - Unity3D racing game set in Rome EUR, inspired by Italian movie: "Velocità Massima". Co-developed with a friend of mine who wants to stay anonymous.
+- Obbelisco (not public, ask me for details if you are curious) - Unity3D/C# racing game set in Rome EUR, inspired by Italian movie: "Velocità Massima". Co-developed with a friend of mine who wants to stay anonymous.
 
 - [anvedi](https://github.com/ilpropheta/anvedi) – Prototypal **Qt** Data Viewer made with [QCustomPlot](http://qcustomplot.com)
 
@@ -1136,6 +1136,8 @@ Some of my projects/experiments follow:
 - [QShell](https://github.com/ilpropheta/anvedi/tree/master/QShell) – **Qt** shell-like control
 
 - [daje](https://github.com/ilpropheta/daje) – Collection of Algorithms and Data Structures
+
+- [PPL Agents](https://github.com/ilpropheta/PPL-Agents) - Some abstractions built on top of Microsoft's PPL `agents`
 
 # Podcasts
 
