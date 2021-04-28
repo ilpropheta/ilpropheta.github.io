@@ -260,17 +260,21 @@ Every meetup consisted in 1-hour technical session + online networking.<br/>
 
 List of meetups, including speakers and topics discussed:
 
-- **Jan 27**: **Francesco Trovò** & **Alberto Maria Metelli** speaking about [From Multi-Armed bandit to Reinforcement Learning.... and beyond!](https://www.eventbrite.it/e/biglietti-machine-learning-modena-meetup-gennaio-2021-136401345095#);<br/>
+- **Jan 27**: **Francesco Trovò** & **Alberto Maria Metelli** speaking about [From Multi-Armed bandit to Reinforcement Learning.... and beyond!](https://mlmodena.it/eventi/2021-01-30-from-MAB-to-RL-and-beyond/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=NA0gg_9yQog)<br/>
 70 attendees.
 
-- **March 4**: **Mattia Verasani** speaking about [No more batch normalization?](http://mlmodena0321.eventbrite.it/);<br/>
+- **March 4**: **Mattia Verasani** speaking about [No more batch normalization?](https://mlmodena.it/eventi/2021-03-04-no-more-batch-normalization/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=gf7LTPtkQoM)<br/>
 40 attendees.
 
-- **March 30**: **Vincenzo Lomonaco** speaking about [Sustainable AI through Continual Learning](https://mlmodena-03bis21.eventbrite.it/);<br/>
+- **March 30**: **Vincenzo Lomonaco** speaking about [Sustainable AI through Continual Learning](https://mlmodena.it/eventi/2021-03-30-sustainable-AI-through-continual-learning/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=GbwAJTqndz4)<br/>
 30 attendees.
+
+- **April 28**: **Paolo Galeone** speaking about [Train and deploy TensorFlow models in Go](https://mlmodena.it/eventi/2021-04-28-train-and-deploy-tensorflow-models-in-go/);<br/>
+[📹 Video (ITA)](https://youtu.be/SI0J9JBrH-s)<br/>
+25 attendees.
 
 ## 2020
 
@@ -319,7 +323,7 @@ List of meetups, including speakers and topics discussed:
 [📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=rXx57cp4G4U)<br/>
 20 live attendees.
 
-### [Machine Learning Modena Kick-Off Event](https://mlmodena.it)
+### [Machine Learning Modena Kick-Off Event](https://mlmodena.it/eventi/2020-12-02-introduzione-alla-community/)
 
 <img src="/pics/mlmodena20.png" alt="ML Modena Kick-Off Event" width="700">
 
