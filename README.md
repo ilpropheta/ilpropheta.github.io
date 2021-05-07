@@ -66,8 +66,8 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2021
 **Corso Base C++** (3x120')<br/>
-I have co-chaired a 3-lesson C++ beginner class with Marcello Missiroli (who was the main teacher). The class was hosted online on BigBlueButton by [ConoscereLinux](https://conoscerelinux.org/) and was totally free to attend.
-[Class Page](https://conoscerelinux.org/courses/corso-cpp/)<br/>
+I have co-chaired a 3-lesson C++ beginner class with Marcello Missiroli (who was the main teacher). The class was hosted online on BigBlueButton by [ConoscereLinux](https://conoscerelinux.org/) and was totally free to attend.<br/>
+[Class Page with slides (ITA)](https://conoscerelinux.org/courses/corso-cpp/)<br/>
 [📹 Lesson 1 (ITA)](https://youtu.be/YT_b4ShnA7I)<br/>
 [📹 Lesson 2 (ITA)](https://youtu.be/kV6WCfQd1gY)<br/>
 [📹 Lesson 3 (ITA)]()<br/>
