@@ -64,6 +64,16 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 <img src="/pics/talks-cover.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600"><br/>
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
+## 2021
+**Corso Base C++** (3x120')<br/>
+I have co-chaired a 3-lesson C++ beginner class with Marcello Missiroli (who was the main teacher). The class was hosted online on BigBlueButton by [ConoscereLinux](https://conoscerelinux.org/) and was totally free to attend.
+[Class Page](https://conoscerelinux.org/courses/corso-cpp/)<br/>
+[📹 Lesson 1 (ITA)](https://youtu.be/YT_b4ShnA7I)<br/>
+[📹 Lesson 2 (ITA)](https://youtu.be/kV6WCfQd1gY)<br/>
+[📹 Lesson 3 (ITA)]()<br/>
+26 live attendees.<br/>
+April-May 2021/Online
+
 ## 2020
 **Interoperable AI: ONNX & ONNXRuntime in C++** (90')<br/>
 [Slides](https://github.com/italiancpp/cppday20/blob/main/Interoperable%20AI%20-%20Marco%20Arena%2C%20Mattia%20Verasani.pdf) - [📹 Video (ENG)](https://www.youtube.com/watch?v=exsgNLf-MyY) - [💻 Demo](https://github.com/ilpropheta/onnxruntime-demo)<br/>
@@ -219,6 +229,8 @@ Co-Speaker: [Paolo Polce](https://twitter.com/paolopolce)<br/>
 
 I'm used to organizing events, meetups and other activities. <br/>
 In addition to my community activities ([Italian C++ Community](http://italiancpp.org/), [Coding Gym](http://coding-gym.org) and [ML Modena](https://mlmodena.it)), I'm happy to help other user groups. For example, I am a regular "worker" of [ConoscereLinux](http://conoscerelinux.org).
+
+Every meetup and event I have organized was **totally free to attend**.
 
 ## 2021
 
@@ -1157,10 +1169,11 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 # Timeline
 
-Here is a list of *some* notable events possibly influencing my professional life (most of them are sort of "first time I did *X*"):
+Here is a list of *some* notable events/milestones possibly influencing my professional life (most of them are sort of "first time I did *X*"). This is mostly a reminder for myself.
 
-- during '90s
+- During '90s
   - learned basics of computers and batch scripting
+  - attended an intermediate/advanced class on the Office Suite at school
 - 2000
   - written my first line of Pascal, at school
   - written my first line of HTML, at school
@@ -1236,8 +1249,10 @@ Here is a list of *some* notable events possibly influencing my professional lif
   - founded [ML Modena](https://mlmodena.it)  
   - organized my first online-only [international C++ conference](https://italiancpp.org/itcppcon20)
   - given a talk at an *online-only* conference for the first time (*Italian Community Managers Summit 2020*)
+- 2021
+  - co-chaired my first [C++ class](https://conoscerelinux.org/courses/corso-cpp/) for beginners
 <br/>
 
 ----
 
-*Last Update*: **April 2021**
+*Last Update*: **May 2021**
