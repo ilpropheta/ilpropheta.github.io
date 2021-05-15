@@ -70,7 +70,7 @@ I have co-chaired a 3-lesson C++ beginner class with Marcello Missiroli (who was
 [Class Page with slides (ITA)](https://conoscerelinux.org/courses/corso-cpp/)<br/>
 [📹 Lesson 1 (ITA)](https://youtu.be/YT_b4ShnA7I)<br/>
 [📹 Lesson 2 (ITA)](https://youtu.be/kV6WCfQd1gY)<br/>
-[📹 Lesson 3 (ITA)]()<br/>
+[📹 Lesson 3 (ITA)](https://youtu.be/RsP7XaAMRIU)<br/>
 26 live attendees.<br/>
 April-May 2021/Online
 
