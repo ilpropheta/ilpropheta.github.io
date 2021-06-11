@@ -65,6 +65,11 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2021
+**É facile usare i range, se sai come farlo** (90')<br/>
+[Slides (ENG)](https://conoscerelinux.org/wp-content/uploads/2021/06/Ranges-lite.pdf) - [📹 Video (ITA)](https://www.youtube.com/)<br/>
+31 live attendees.<br/>
+@[Monthly Italian C++ Meetups Modena](http://www.italiancpp.org/event/meetup-0621) -- June 2021/Online
+
 **Corso Base C++** (3x120')<br/>
 I have co-chaired a 3-lesson C++ beginner class with Marcello Missiroli (who was the main teacher). The class was hosted online on BigBlueButton by [ConoscereLinux](https://conoscerelinux.org/) and was totally free to attend.<br/>
 [Class Page with slides (ITA)](https://conoscerelinux.org/courses/corso-cpp/)<br/>
@@ -1255,8 +1260,9 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
   - given a talk at an *online-only* conference for the first time (*Italian Community Managers Summit 2020*)
 - 2021
   - co-chaired my first [C++ class](https://conoscerelinux.org/courses/corso-cpp/) for beginners
+  - given my [first talk](http://www.italiancpp.org/event/meetup-0621) supported by a few basic concepts of game-based learning
 <br/>
 
 ----
 
-*Last Update*: **May 2021**
+*Last Update*: **June 2021**
