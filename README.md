@@ -66,7 +66,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2021
 **É facile usare i range, se sai come farlo** (90')<br/>
-[Slides (ENG)](https://conoscerelinux.org/wp-content/uploads/2021/06/Ranges-lite.pdf) - [📹 Video (ITA)](https://www.youtube.com/)<br/>
+[Slides (ENG)](https://conoscerelinux.org/wp-content/uploads/2021/06/Ranges-lite.pdf) - [📹 Video (ITA)](https://www.youtube.com/watch?v=yfy9VmfvuIA)<br/>
 31 live attendees.<br/>
 @[Monthly Italian C++ Meetups Modena](http://www.italiancpp.org/event/meetup-0621) -- June 2021/Online
 
