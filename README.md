@@ -270,6 +270,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=fOf5sxZtxJ8)<br/>
 12 attendees.
 
+- **June 10**: **Marco Arena** giving an interactive talk about [It's easy to use ranges, if you know how](https://www.italiancpp.org/event/meetup-0621);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=yfy9VmfvuIA)<br/>
+31 attendees.
+
 ### [Online ML Modena Meetups - Season 2021](https://mlmodena.it)
 
 <img src="/pics/meetup-mlmo2021.png" alt="ML Modena Meetup Online - Jan 2021" width="700">
@@ -296,6 +300,43 @@ List of meetups, including speakers and topics discussed:
 - **April 28**: **Paolo Galeone** speaking about [Train and deploy TensorFlow models in Go](https://mlmodena.it/eventi/2021-04-28-train-and-deploy-tensorflow-models-in-go/);<br/>
 [📹 Video (ITA)](https://youtu.be/SI0J9JBrH-s)<br/>
 25 attendees.
+
+### [Italian C++ Conference 2021](http://www.italiancpp.org/itcppcon21)
+
+<img src="/pics/itcppcon21.png" alt="Italian C++ Conference 2021" width="700">
+
+Online-only, June 2021.
+
+I coordinated the organization of the sixth edition of the Italian C++ Conference, the biggest C++ event C++ made by the Italian C++ Community. The conference has been co-organized with Alessandro Vergani, Stefano Saraulli and Riccardo Brugo. **Due to COVID-19 emergency, this event was online-only.**<br/>
+**152 virtual check-ins** (401 registered people - ~62% drop).
+
+*Keynote speaker*: Sean Parent.
+
+*Speakers*: Victor Ciura, Walter E Brown, Paolo Severini, Sandor Dargo, Roland Grinis, Yuri Minaev, Mattia Verasani, Eric Tondelli, Marek Krajewski, Kris van Rens, Kris van Rens, Marcos Rojas, Clare Macrae, Roi Barkan.
+
+**Highlights:**
+
+- 1x90' live keynote
+- 10x50' live talks (YouTube and Remo)
+- 2x30' live short talks (YouTube and Remo)
+- Networking and live interaction on Remo
+
+**Topics:**
+
+- WebAssembly
+- Crash handling
+- Refactoring and tools
+- Static analyser concepts
+- Two talks on AI
+- Two talks on the language (templates, concepts, constness)
+- Polymorphic resource allocators
+- The Hook Library
+- An enlightening talk about `min`, `max` and `operator<`
+
+Additional references:
+
+- [Wrap-up article (including feedback and statistics)]()
+- [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LV9BRKIqrNWEXfa5ggpiyki)
 
 ## 2020
 
@@ -383,7 +424,7 @@ My staff included: Stefano Saraulli and Riccardo Brugo.
 **Topics:**
 
 - How to design and develop a Telegram bot in C++
-- Gaame Development with Unreal Engine 4
+- Game Development with Unreal Engine 4
 - Interoperable AI with ONNX and ONNXRuntime in C++
 - WebAssembly
 - TDD in C++
