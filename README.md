@@ -301,6 +301,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://youtu.be/SI0J9JBrH-s)<br/>
 25 attendees.
 
+- **June 23**: **Gisele Gurgel** speaking about [How traditional marketing struggles to implement ML](https://mlmodena.it/eventi/2021-06-23-how-traditional-marketing-struggles-to-implement-ML/);<br/>
+[📹 Video (ENG)](https://www.youtube.com/watch?v=x4xp_L14X3Y)<br/>
+19 attendees.
+
 ### [Italian C++ Conference 2021](http://www.italiancpp.org/itcppcon21)
 
 <img src="/pics/itcppcon21.png" alt="Italian C++ Conference 2021" width="700">
