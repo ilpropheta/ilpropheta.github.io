@@ -1144,6 +1144,8 @@ My professional blogging activity started in **2011**.
 
 Some of my blog posts from my [tech blog](https://marcoarena.wordpress.com) have been published on isocpp.org too:
 
+- [All rotations of a string with ranges](https://isocpp.org/blog/2021/07/all-rotations-of-a-string-with-ranges-marco-arena) - July **2021**
+
 - [Reversing words of a string with ranges](https://isocpp.org/blog/2021/06/reversing-words-of-a-string-with-ranges-marco-arena) - June **2021**
 
 - [Tale of an insight](https://isocpp.org/blog/2019/11/tale-of-an-insight) - November **2019**
@@ -1312,4 +1314,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **June 2021**
+*Last Update*: **July 2021**
