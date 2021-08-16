@@ -339,7 +339,7 @@ I coordinated the organization of the sixth edition of the Italian C++ Conferenc
 
 Additional references:
 
-- [Wrap-up article (including feedback and statistics)]()
+- [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2021/08/16/itcppcon21/)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LV9BRKIqrNWEXfa5ggpiyki)
 
 ## 2020
@@ -1314,4 +1314,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **July 2021**
+*Last Update*: **August 2021**
