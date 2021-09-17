@@ -274,6 +274,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=yfy9VmfvuIA)<br/>
 31 attendees.
 
+- **September 16**: **Mattia Verasani** & **Eric Tondelli** speaking about [Ai4Prod:  bringing AI to production in C++](https://www.italiancpp.org/event/meetup-0921);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=kkhmdoNe0h8)<br/>
+13 in person + 10 online attendees.
+
 ### [Online ML Modena Meetups - Season 2021](https://mlmodena.it)
 
 <img src="/pics/meetup-mlmo2021.png" alt="ML Modena Meetup Online - Jan 2021" width="700">
@@ -1314,4 +1318,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **August 2021**
+*Last Update*: **September 2021**
