@@ -239,11 +239,11 @@ Every meetup and event I have organized was **totally free to attend**.
 
 ## 2021
 
-### [Online C++ Meetups - Season 2021](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
+### [Online and Hybrid C++ Meetups - Season 2021](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
 
 <img src="/pics/meetup-mo2021.png" alt="Italian C++ Meetup Online - Jan 2021" width="700">
 
-I have organized and promoted monthly C++ online meetups, hosted on [Remo](https://remo.co/) and [YouTube](https://www.youtube.com/playlist?list=PLsCm1Hs016LWsjNbgHWGPq4Fk2lyoUML7).<br/>
+I have organized and promoted monthly C++ meetups, hosted online only during the first half of the year (on [Remo](https://remo.co/) and [YouTube](https://www.youtube.com/playlist?list=PLsCm1Hs016LWsjNbgHWGPq4Fk2lyoUML7)) and hosted in person and online from September.<br/>
 
 Every meetup consisted in 1-hour technical session + online networking.<br/>
 [📹 YouTube Playlist here](https://www.youtube.com/playlist?list=PLsCm1Hs016LWsjNbgHWGPq4Fk2lyoUML7)
@@ -274,7 +274,7 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=yfy9VmfvuIA)<br/>
 31 attendees.
 
-- **September 16**: **Mattia Verasani** & **Eric Tondelli** speaking about [Ai4Prod:  bringing AI to production in C++](https://www.italiancpp.org/event/meetup-0921);<br/>
+- **September 16**: (first hybrid meetup after the start of the emergency) **Mattia Verasani** & **Eric Tondelli** speaking about [Ai4Prod:  bringing AI to production in C++](https://www.italiancpp.org/event/meetup-0921);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=kkhmdoNe0h8)<br/>
 13 in person + 10 online attendees.
 
