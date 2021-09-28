@@ -343,12 +343,12 @@ I coordinated the organization of the sixth edition of the Italian C++ Conferenc
 
 Additional references:
 
-- [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2021/08/16/itcppcon21/)
+- [Wrap-up article (including feedback and statistics)](https://italiancpp.org/posts/2021-08-16-itcppcon21/)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LV9BRKIqrNWEXfa5ggpiyki)
 
 ## 2020
 
-### [Modena C++ Meetups - Season 2020](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
+### Modena C++ Meetups - Season 2020
 
 <img src="/pics/meetup-mo2020.png" alt="Meetup Modena - Feb 2020" width="700">
 
@@ -360,36 +360,36 @@ Every meetup consisted in 2 hours of technical contents (up to the speaker) and 
 
 List of meetups, including speakers and topics discussed:
 
-- **Jan 9**: **Federico Barbieri** speaking about [Development of a 3D framework in Qt](https://www.italiancpp.org/event/meetup-0120/);<br/>
+- **Jan 9**: **Federico Barbieri** speaking about [Development of a 3D framework in Qt](https://italiancpp.org/eventi/2020-01-09-qt3d/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=89YhaFSCuIw)<br/>
 12 attendees.
   
-- **Feb 13**: **Alberto Bignotti** speaking about [How to integrate a Telegram bot in an existing application](https://www.italiancpp.org/event/meetup-0220/);<br/>
+- **Feb 13**: **Alberto Bignotti** speaking about [How to integrate a Telegram bot in an existing application](https://italiancpp.org/eventi/2020-02-13-telegram/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=tsUHES0ItvY)<br/>
 13 attendees.
 
-- **Mar 12**: **Lorenzo Veneri** speaking about [WebAssembly with C++ and Emscripten](https://www.italiancpp.org/event/meetup-0320/);<br/>[📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=oN9qOut88rc)<br/>
+- **Mar 12**: **Lorenzo Veneri** speaking about [WebAssembly with C++ and Emscripten](https://italiancpp.org/eventi/2020-03-12-webassembly);<br/>[📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=oN9qOut88rc)<br/>
 15 live attendees.
 
-- **Apr 9**: **Yuri Valentini** speaking about [Property-based testing with RapidCheck](https://www.italiancpp.org/event/meetup-0420/);<br/>[📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=BHNFFhf8LAY)<br/>
+- **Apr 9**: **Yuri Valentini** speaking about [Property-based testing with RapidCheck](https://italiancpp.org/eventi/2020-04-09-rapidcheck/);<br/>[📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=BHNFFhf8LAY)<br/>
 15 live attendees.
 
-- **May 14**: **Gianluca Padovani** speaking about [TDD is not about testing](https://www.italiancpp.org/event/meetup-0520/);<br/>[📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=Wn6fzBAl72E)<br/>
+- **May 14**: **Gianluca Padovani** speaking about [TDD is not about testing](https://italiancpp.org/eventi/2020-05-14-tdd/);<br/>[📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=Wn6fzBAl72E)<br/>
 21 live attendees.
 
-- **June 11**: **Augustin Popa (Microsoft)** speaking about [Using vcpkg at work to manage your C/C++ libraries](https://www.italiancpp.org/event/meetup-0620/);<br/>
+- **June 11**: **Augustin Popa (Microsoft)** speaking about [Using vcpkg at work to manage your C/C++ libraries](https://italiancpp.org/eventi/2020-06-11-vcpkg/);<br/>
 [📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=UOP6JwUxl10)<br/>
 30 live attendees.
 
-- **September 24**: **Michele Caini** speaking about [EnTT and Entity Component System](https://www.italiancpp.org/event/meetup-0920/);<br/>
+- **September 24**: **Michele Caini** speaking about [EnTT and Entity Component System](https://italiancpp.org/eventi/2020-09-24-entt-perf/);<br/>
 [📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=q0Dpm3IVVKA)<br/>
 25 live attendees.
 
-- **October 22**: **Marco Arena** & **Mattia Verasani** speaking about [Interoperable AI: ONNX & ONNXRuntime in C++](https://www.italiancpp.org/event/meetup-1020/);<br/>
+- **October 22**: **Marco Arena** & **Mattia Verasani** speaking about [Interoperable AI: ONNX & ONNXRuntime in C++](https://italiancpp.org/eventi/2020-10-22-onnx/);<br/>
 [📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=PV_BRa8E3g8)<br/>
 30 live attendees.
 
-- **November 19**: **Marco Arena** giving an unexpected talk about Implementing 'Slowest Key' problem in next-gen C++;<br/>
+- **November 19**: **Marco Arena** giving an unexpected talk about [Implementing 'Slowest Key' problem in next-gen C++](https://italiancpp.org/eventi/2020-11-19-slowest-key/)<br/>
 [📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=rXx57cp4G4U)<br/>
 20 live attendees.
 
