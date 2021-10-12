@@ -98,7 +98,7 @@ April-May 2021/Online
 **Interoperable AI: ONNX & ONNXRuntime in C++** (90')<br/>
 [Slides](https://www.italiancpp.org/wp-content/uploads/2020/10/Interoperable-AI-Arena-Verasani.pdf) - [📹 Video (ITA)](https://www.youtube.com/watch?v=PV_BRa8E3g8) - [💻 Demo](https://github.com/ilpropheta/onnxruntime-demo)<br/>
 30 live attendees.<br/>
-@[Monthly Italian C++ Meetups Modena](http://www.italiancpp.org/event/meetup-1020) -- October 2020/Online
+@[Monthly Italian C++ Meetups Modena](https://italiancpp.org/eventi/2020-10-22-onnx/) -- October 2020/Online
 
 **\[Panel\] Community Organizers Panel** (60')<br/>
 I have participated in the *CppCon 2020* [Community Organizers Panel](https://cppcon2020.sched.com/event/eRrc/community-organizers-panel) with other user group leaders to share my experience with community management and events organization. - [📹 Video](https://youtu.be/wdumaKkCR5E)<br/>
@@ -112,12 +112,12 @@ I have participated in the *CppCon 2020* [Community Organizers Panel](https://cp
 **Thinking in patterns - Come allenarsi e diventare cintura nera di STL** (120')<br/>
 [Slides](https://conoscerelinux.org/wp-content/uploads/2019/05/Mastering-STL.pdf) - [📹 Video (ITA)](https://www.youtube.com/watch?v=bSqa4gWYZg4)<br/>
 21 attendees.<br/>
-@[Monthly Italian C++ Meetups Modena](http://www.italiancpp.org/event/meetup-giugno2019/) -- June 2019/Modena (Italy)
+@[Monthly Italian C++ Meetups Modena](https://italiancpp.org/eventi/2019-06-13-stl/) -- June 2019/Modena (Italy)
 
 **Bruce Lee per programmatori C++** (120')<br/>
 [Slides](https://conoscerelinux.org/wp-content/uploads/2019/01/Bruce-Lee-for-C-programmers-Marco-Arena.pdf) - [📹 Video (ITA)](https://www.youtube.com/watch?v=ttcHSm-5dv4)<br/>
 22 attendees.<br/>
-@[Monthly Italian C++ Meetups Modena](http://www.italiancpp.org/event/meetup-febbraio2019/) -- February 2019/Modena (Italy)
+@[Monthly Italian C++ Meetups Modena](https://italiancpp.org/eventi/2019-02-21-bruce-lee/) -- February 2019/Modena (Italy)
 
 **Se Bruce Lee fosse stato un programmatore avrebbe adorato il C++** (120')<br/>
 [Session on tech.io](http://tinyurl.com/brucecpp) - [📹 Video (ITA)](https://www.youtube.com/watch?v=5YWKtleLexM)<br/>
@@ -128,7 +128,7 @@ I have participated in the *CppCon 2020* [Community Organizers Panel](https://cp
 **\[Workshop\] Post-Modern C++ Refactoring** (120')<br/>
 [Workshop on tech.io](http://tinyurl.com/post-modern-cpp)<br/>
 16 attendees.<br/>
-@[Monthly Italian C++ Meetups Modena](http://www.italiancpp.org/event/meetup-giugno2018/) -- June 2018/Modena (Italy)
+@[Monthly Italian C++ Meetups Modena](https://italiancpp.org/eventi/2018-06-14-refactoring/) -- June 2018/Modena (Italy)
 
 **Coding Gym: divertirsi e migliorarsi a colpi di algoritmi** (40')<br/>
 About [Coding Gym](http://coding-gym.com), by examples.
@@ -151,35 +151,35 @@ About [Coding Gym](http://coding-gym.com), by examples.
 **The C++ Triad: Iterators, containers and algorithms** (120')<br/>
 [Contents and examples](http://italiancpp.org/triad)<br/>
 15+ attendees.<br/>
-@[Mini-Meetup May / Modena](http://italiancpp.org/event/meetup-maggio2017/) -- May 2017/Modena (Italy)
+@[Mini-Meetup May / Modena](https://italiancpp.org/eventi/2017-05-15-triad/) -- May 2017/Modena (Italy)
 
 **Interactive discussion: C++17 for the daily job** (120')<br/>
 [Contents and examples](http://italiancpp.org/cpp17)<br/>
 20+ attendees<br/>
-@[Mini-Meetup March / Bologna](http://italiancpp.org/event/meetup-marzo2017) -- March 2017/Bologna (Italy)
+@[Mini-Meetup March / Bologna](https://italiancpp.org/eventi/2017-03-15-cpp17/) -- March 2017/Bologna (Italy)
 
 **Interactive discussion: C++17 for the daily job** (120')<br/>
 [Contents and examples](http://italiancpp.org/cpp17)<br/>
 15+ attendees.<br/>
-@[Mini-Meetup February / Modena](http://italiancpp.org/event/meetup-febbraio2017) -- February 2017/Modena (Italy)
+@[Mini-Meetup February / Modena](https://italiancpp.org/eventi/2017-02-15-cpp17/) -- February 2017/Modena (Italy)
 
 ## 2016
-**[C++17 for the daily job](http://www.italiancpp.org/sessioni-cppday16/#cpp17)** (60')<br/>
+**C++17 for the daily job** (60')<br/>
 [Slides (ENG)](http://www.italiancpp.org/wp-content/uploads/2016/10/Cpp17-for-the-daily-job.pdf) - [📹 Video (ITA)](https://www.youtube.com/watch?v=sRdAvQkFjXY)<br/>
 80+ attendees.<br/>
-@[C++ Day 2016](http://italiancpp.org/event/cppday16) -- October 2016/Florence (Italy)
+@[C++ Day 2016](http://italiancpp.org/cppday16) -- October 2016/Florence (Italy)
 
-**[Cambiamo il C++ con Microsoft GSL & Guidelines Checkers](http://www.communitydays.it/events/2016/dev06/)** (60')<br/>
+**Cambiamo il C++ con Microsoft GSL & Guidelines Checkers** (60')<br/>
 [Full description and demo project in ENG](https://github.com/ilpropheta/giesseelle)<br/>
 30+ attendees<br/>
 @[Future Decoded 2016](https://www.microsoft.com/italy/futuredecoded) -- October 2016/Milan (Italy)
 
-**[With great C++ comes great responsibility](http://www.italiancpp.org/eventi/sessioni-conference-2016/#responsibility)** (60')<br/>
+**With great C++ comes great responsibility** (60')<br/>
 [Slides (ENG)](http://www.italiancpp.org/wp-content/uploads/2016/05/Marco-Arena-With-great-C-comes-great-responsibility.pdf) - [📹 Video (ITA)](https://www.youtube.com/watch?v=GuNSstZevr4)<br/>
 100+ attendees. [Feedback <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>](https://joind.in/event/italian-c-conference-2016/da-un-grande-c-derivano-grandi-responsabilit)<br/>
-@[Italian C++ Conference 2016](http://www.italiancpp.org/event/conference-2016/) -- May 2016/Milan (Italy)
+@[Italian C++ Conference 2016](http://www.italiancpp.org/itcppcon16) -- May 2016/Milan (Italy)
 
-**[Grafici bellissimi plug & play](https://2017.qtday.it/it/edizioni-precedenti/)** (60')<br/>
+**Grafici bellissimi plug & play** (60')<br/>
 About how to use [QCustomPlot](http://qcustomplot.com/) ([demo project shown](https://github.com/ilpropheta/anvedi)) - [Slides (ITA)](https://www.dropbox.com/s/t6skwfomgxij1ah/arena.pdf)<br/>
 30+ attendees<br/>
 @[QtDay 2016](http://www.qtday.it) -- April 2016/Florence (Italy)
@@ -199,7 +199,7 @@ About how to use [QCustomPlot](http://qcustomplot.com/) ([demo project shown](ht
 **[Perché nel 2015 parliamo ancora di C++?](http://www.italiancpp.org/eventi/dettagli-meetup-pordenone-2015/#keynote)** (90')<br/>
 *C++ in 2015. Why should we still care about?* - [Slides (ITA)](http://www.italiancpp.org/wp-content/uploads/2015/02/Perch%C3%A9-nel-2015-parliamo-ancora-di-Cpp.pdf)<br/>
 80+ attendees. [Feedback <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>](https://joind.in/event/italian-c-community-meetup-pordenone/keynote-perch-nel-2015-parliamo-ancora-di-c)<br/>
-@[Italian C++ Community Meetup](http://italiancpp.org/event/meetup-pordenone-2015/) -- February 2015/Pordenone (Italy)
+@[Italian C++ Community Meetup](https://italiancpp.org/eventi/2015-02-07-meetup-pordenone/) -- February 2015/Pordenone (Italy)
 
 ## 2014
 
@@ -211,7 +211,7 @@ About how to use [QCustomPlot](http://qcustomplot.com/) ([demo project shown](ht
 **[Meet the Rule of Zero](http://www.italiancpp.org/eventi/dettagli-meetup-bologna-2014/#zero)** (60′)<br/>
 [Slides (ENG)](http://www.italiancpp.org/wp-content/uploads/2014/11/Meet-the-Rule-of-Zero-Marco-Arena.pptx)<br/>
 50+ attendees. [Feedback <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>](https://joind.in/event/italian-c-community-meetup-bologna/meet-the-rule-of-zero)<br/>
-@[Italian C++ Community Meetup](http://www.italiancpp.org/event/meetup-bologna-2014/) – November 2014/Bologna (Italy)
+@[Italian C++ Community Meetup](https://italiancpp.org/eventi/2014-11-08-meetup-bologna/) – November 2014/Bologna (Italy)
 
 **[Il nuovo C++? Torniamo alle basi](http://www.communitydays.it/events/2014-Roma/cpp01/)** (60′)<br/>
 [Slides (ITA)](http://www.communitydays.it/content/downloads/2014-Roma/cpp01_slides.zip) - [📹 Video (ITA)](https://www.youtube.com/watch?v=OVmw8kJ0lZA)<br/>
@@ -250,31 +250,31 @@ Every meetup consisted in 1-hour technical session + online networking.<br/>
 
 List of meetups, including speakers and topics discussed:
 
-- **Jan 14**: **Michele Mischitelli** speaking about [Our first game using Unreal Engine 4 and C++](https://www.italiancpp.org/event/meetup-0121/);<br/>
+- **Jan 14**: **Michele Mischitelli** speaking about [Our first game using Unreal Engine 4 and C++](https://italiancpp.org/eventi/2021-01-14-ue4/);<br/>
 [📹 Video (ITA)](https://youtu.be/MaS_CLtdAPU)<br/>
 20 attendees.
 
-- **Feb 15**: **Michele Caini** speaking about [Static polymorphism: to poly or not to poly](https://www.italiancpp.org/event/meetup-0221/);<br/>
+- **Feb 15**: **Michele Caini** speaking about [Static polymorphism: to poly or not to poly](https://italiancpp.org/eventi/2021-02-15-static-poly/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=DjCsGPESGEc)<br/>
 25 attendees.
 
-- **March 17**: **Nicolai Grodzitski** speaking about [SObjectizer: a C++ tool for Concurrent Programming](https://www.italiancpp.org/event/meetup-0321/);<br/>
+- **March 17**: **Nicolai Grodzitski** speaking about [SObjectizer: a C++ tool for Concurrent Programming](https://italiancpp.org/eventi/2021-03-17-sobjectizer/);<br/>
 [📹 Video (ENG)](https://www.youtube.com/watch?v=cSja6JcTn1A)<br/>
 22 attendees.
 
-- **April 15**: **Lorenzo Veneri** speaking about [C++ and Relational Database Connections](https://www.italiancpp.org/event/meetup-0421/);<br/>
+- **April 15**: **Lorenzo Veneri** speaking about [C++ and Relational Database Connections](https://italiancpp.org/eventi/2021-04-15-db/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=WS_qrHjpl88)<br/>
 20 attendees.
 
-- **May 20**: **Yuri Valentini** speaking about [Approval Tests in C++](https://www.italiancpp.org/event/meetup-0521/);<br/>
+- **May 20**: **Yuri Valentini** speaking about [Approval Tests in C++](https://italiancpp.org/eventi/2021-05-20-approval-tests/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=fOf5sxZtxJ8)<br/>
 12 attendees.
 
-- **June 10**: **Marco Arena** giving an interactive talk about [It's easy to use ranges, if you know how](https://www.italiancpp.org/event/meetup-0621);<br/>
+- **June 10**: **Marco Arena** giving an interactive talk about [It's easy to use ranges, if you know how](https://italiancpp.org/eventi/2021-06-16-ranges/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=yfy9VmfvuIA)<br/>
 31 attendees.
 
-- **September 16**: (first hybrid meetup after the start of the emergency) **Mattia Verasani** & **Eric Tondelli** speaking about [Ai4Prod:  bringing AI to production in C++](https://www.italiancpp.org/event/meetup-0921);<br/>
+- **September 16**: (first hybrid meetup after the start of the emergency) **Mattia Verasani** & **Eric Tondelli** speaking about [Ai4Prod:  bringing AI to production in C++](https://italiancpp.org/eventi/2021-09-16-ai4prod/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=kkhmdoNe0h8)<br/>
 13 in person + 10 online attendees.
 
@@ -441,7 +441,7 @@ My staff included: Stefano Saraulli and Riccardo Brugo.
 
 Additional references:
 
-- [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2020/12/28/cppday20/)
+- [Wrap-up article (including feedback and statistics)](https://italiancpp.org/posts/2020-12-28-cppday20)
 - [📹 Videos](https://www.youtube.com/watch?v=YsdEgfY9rwo&list=PLsCm1Hs016LX6l97Royt5DSYy7V05nZmS)
 
 ### [Italian C++ Conference 2020](http://www.italiancpp.org/itcppcon20)
@@ -480,7 +480,7 @@ My staff included: Alessandro Vergani, Stefano Saraulli, Alessandro Pezzato, Mat
 
 Additional references:
 
-- [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2020/08/24/itcppcon20/)
+- [Wrap-up article (including feedback and statistics)](https://italiancpp.org/posts/2020-08-24-itcppcon20)
 - [📹 Videos](https://www.youtube.com/watch?v=OOLR96-GjsI&list=PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB)
 
 ## 2019
@@ -497,38 +497,38 @@ Every meetup consisted in 2 hours of technical contents (up to the speaker) and 
 
 List of meetups, including speakers and topics discussed:
 
-- **Feb 21**: **Marco Arena** speaking about [Bruce Lee for C++ Programmers](https://www.italiancpp.org/event/meetup-febbraio2019/);<br/>
+- **Feb 21**: **Marco Arena** speaking about [Bruce Lee for C++ Programmers](https://italiancpp.org/eventi/2019-02-21-bruce-lee/);<br/>
   [📹 Video (ITA)](https://www.youtube.com/watch?v=ttcHSm-5dv4)<br/>
   22 attendees.
 
-- **Mar 14**: **Alberto Bignotti** speaking about [Git-Powered Docs](https://www.italiancpp.org/event/meetup-marzo2019/);<br/>
+- **Mar 14**: **Alberto Bignotti** speaking about [Git-Powered Docs](https://italiancpp.org/eventi/2019-03-14-git-docs/);<br/>
   22 attendees.
 
-- **Apr 11**: **Yuri Valentini** speaking about [Real-Time communication with WebRTC in C++](https://www.italiancpp.org/event/meetup-aprile2019/);<br/>
+- **Apr 11**: **Yuri Valentini** speaking about [Real-Time communication with WebRTC in C++](https://italiancpp.org/eventi/2019-04-11-webrtc/);<br/>
   [📹 Video (ITA)](https://www.youtube.com/watch?v=_LZK7wOa6_w)<br/>
   25 attendees.
 
-- **May 9**: **Federico Ficarelli** speaking about [Programming GPUs with modern C++](https://www.italiancpp.org/event/meetup-maggio2019/);<br/>
+- **May 9**: **Federico Ficarelli** speaking about [Programming GPUs with modern C++](https://italiancpp.org/eventi/2019-05-09-gpu/);<br/>
   [📹 Video (ITA)](https://www.youtube.com/watch?v=c04Y9AUH-xU)<br/>
   23 attendees.
   
-- **Jun 13**: **Marco Arena** speaking about [Thinking in Patterns - How to master the STL](https://www.italiancpp.org/event/meetup-giugno2019/);<br/>
+- **Jun 13**: **Marco Arena** speaking about [Thinking in Patterns - How to master the STL](https://italiancpp.org/eventi/2019-06-13-stl/);<br/>
   [📹 Video (ITA)](https://www.youtube.com/watch?v=bSqa4gWYZg4)<br/>
   21 attendees.
 
-- **Sep 12**: **Yuri Valentini** speaking about [Experiments with Domain Driven Design in C++](https://www.italiancpp.org/event/meetup-settembre2019/);<br/>
+- **Sep 12**: **Yuri Valentini** speaking about [Experiments with Domain Driven Design in C++](https://italiancpp.org/eventi/2019-09-12-ddd/);<br/>
   [📹 Video (ITA)](https://www.youtube.com/watch?v=zB6FCnlvIyk)<br/>
   22 attendees.
 
-- **Oct 10**: **Michele Mischitelli** speaking about [Unreal Engine 4](https://www.italiancpp.org/event/meetup-ottobre2019/);<br/>
+- **Oct 10**: **Michele Mischitelli** speaking about [Unreal Engine 4](https://italiancpp.org/eventi/2019-10-10-ue4/);<br/>
   [📹 Video (ITA)](https://www.youtube.com/watch?v=CTHQO2J8jWg)<br/>
   22 attendees.
 
-- **Nov 7**: **Michele Mischitelli** speaking about [Unreal Engine 4: delegates, async and subsystems](https://www.italiancpp.org/event/meetup-novembre2019/);<br/>
+- **Nov 7**: **Michele Mischitelli** speaking about [Unreal Engine 4: delegates, async and subsystems](https://italiancpp.org/eventi/2019-11-07-ue4/);<br/>
   [📹 Video (ITA)](https://www.youtube.com/watch?v=mB6afDMzTjQ)<br/>
   10 attendees.
 
-- **Dec 12**: **Marcello Missiroli** speaking about [Pair Programming: analysis through four lenses](https://conoscerelinux.org/courses/meetupcpp_dic19/);<br/>
+- **Dec 12**: **Marcello Missiroli** speaking about [Pair Programming: analysis through four lenses](https://italiancpp.org/eventi/2019-12-12-pair-programming/);<br/>
   [📹 Video (ITA)](https://www.youtube.com/watch?v=JmfHG9B2D5M)<br/>
   8 attendees.
 
@@ -566,7 +566,7 @@ My staff included: Alessandro Vergani, Illya Dudchenko, Federico Ficarelli.
 
 Additional references:
 
-- [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2019/12/26/cppday19/)
+- [Wrap-up article (including feedback and statistics)](https://italiancpp.org/posts/2019-12-26-cppday19)
 - [📹 Videos]()
 - [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.2426964104284958)
 
@@ -605,7 +605,7 @@ My staff included: Alessandro Vergani, Gian Lorenzo Meocci, Guido Pederzini, Ill
 
 Additional references:
 
-- [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2019/07/16/itcppcon19/)
+- [Wrap-up article (including feedback and statistics)](https://italiancpp.org/posts/2019-07-16-itcppcon19)
 - [📹 Videos](https://www.youtube.com/watch?v=zxwKAX7p8GE&list=PLsCm1Hs016LU5PDVL3Hxgtuim_IIN4ajw)
 - [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.2288400491474654)
 
@@ -622,31 +622,31 @@ Every meetup consisted in 2 hours of technical contents (up to the speaker) and 
 
 List of meetups, including speakers and topics discussed:
 
-- **Feb 8**: **Alberto Bignotti** speaking about [Web interaction with libcurl](http://italiancpp.org/event/meetup-febbraio2018);<br/>
+- **Feb 8**: **Alberto Bignotti** speaking about [Web interaction with libcurl](https://italiancpp.org/eventi/2018-02-08-web/);<br/>
   10 attendees.
   
-- **Mar 15**: **Yuri Valentini** speaking about [Testing and Google Test](http://www.italiancpp.org/event/meetup-marzo2018); <br/>
+- **Mar 15**: **Yuri Valentini** speaking about [Testing and Google Test](https://italiancpp.org/eventi/2018-03-15-gtest/); <br/>
   22 attendees.
   
-- **Apr 19**: **Yuri Valentini** speaking about [Mocking with Google Mock](http://www.italiancpp.org/event/meetup-aprile2018); <br/>
+- **Apr 19**: **Yuri Valentini** speaking about [Mocking with Google Mock](https://italiancpp.org/eventi/2018-04-19-gmock/); <br/>
   12 attendees.
   
-- **May 10**: **Roberto Bettazzoni** moderating an interactive discussions about [Teach Me How to Test in C++](http://www.italiancpp.org/event/meetup-maggio2018); <br/>
+- **May 10**: **Roberto Bettazzoni** moderating an interactive discussions about [Teach Me How to Test in C++](https://italiancpp.org/eventi/2018-05-10-test/); <br/>
   11 attendees.
   
-- **Jun 14**: **Marco Arena** facilitating a workshop about [Post-Modern C++ Refactoring](http://www.italiancpp.org/event/meetup-giugno2018); <br/>
+- **Jun 14**: **Marco Arena** facilitating a workshop about [Post-Modern C++ Refactoring](https://italiancpp.org/eventi/2018-06-14-refactoring/); <br/>
   16 attendees.
   
-- **Sep 13**: **Silvio Pioli** speaking about [Introduction to QML and Integration with C++](http://www.italiancpp.org/event/meetup-settembre2018); <br/>
+- **Sep 13**: **Silvio Pioli** speaking about [Introduction to QML and Integration with C++](https://italiancpp.org/eventi/2018-09-13-qml/); <br/>
   21 attendees.
   
-- **Oct 11**: **Alberto Bignotti** speaking about [GIS in C++](http://www.italiancpp.org/event/meetup-ottobre2018); <br/>
+- **Oct 11**: **Alberto Bignotti** speaking about [GIS in C++](https://italiancpp.org/eventi/2018-10-11-gis/); <br/>
   16 attendees.
   
-- **Nov 8**: **Yuri Valentini** speaking about [Asynchronous Programming with PPL and CppRestSDK](http://www.italiancpp.org/event/meetup-novembre2018); <br/>
+- **Nov 8**: **Yuri Valentini** speaking about [Asynchronous Programming with PPL and CppRestSDK](https://italiancpp.org/eventi/2018-11-08-ppl/); <br/>
   12 attendees.
   
-- **Dec 13**: **Federico Ficarelli** speaking about [Profiling & micro-benchmarking with Google Benchmark](https://conoscerelinux.org/courses/meetupcpp_dic18/); <br/>
+- **Dec 13**: **Federico Ficarelli** speaking about [Profiling & micro-benchmarking with Google Benchmark](https://italiancpp.org/eventi/2018-12-13-bench/); <br/>
   16 attendees.
 
 <br/>
@@ -688,7 +688,7 @@ I coordinated the organization of the third edition of the C++ Day, an event ful
 
 Additional references:
 
-- [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2018/12/08/cppday18/)
+- [Wrap-up article (including feedback and statistics)](https://italiancpp.org/posts/2018-12-08-cppday18)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWco9qjTuwzQtLB2FjGkfHo)
 - [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.2140877512893620)
 
@@ -734,7 +734,7 @@ My staff included: Alessandro Vergani, Gian Lorenzo Meocci, Marco Foco, Guido Pe
 
 Additional references:
 
-- [Wrap-up article (including feedback and statistics)](https://www.italiancpp.org/2018/07/08/itcppcon18/)
+- [Wrap-up article (including feedback and statistics)](https://italiancpp.org/posts/2018-07-08-itcppcon18)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LW0zKJBvemhJ0YWIF1Fezd6)
 - [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.2023344447980261)
 
@@ -796,7 +796,7 @@ My staff included: Guido Pederzini, Alessandro Vergani, Illya Dudchenko.
 
 Additional references:
 
-- [Wrap-up article (including feedback and statistics)](http://www.italiancpp.org/2017/12/11/cppday17/)
+- [Wrap-up article (including feedback and statistics)](https://italiancpp.org/posts/2017-12-11-cppday17)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWK086XR-QgAKchfclBOL7O)
 - [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.1903164429998264)
 
@@ -841,11 +841,11 @@ My staff included: Raffaele Rialdi, Franco Milicchio, Alessandro Vergani, Gian L
 
 Additional references:
 
-- [Wrap-up article (including feedback and statistics)](http://www.italiancpp.org/2017/07/04/itcppcon17/)
+- [Wrap-up article (including feedback and statistics)](https://italiancpp.org/posts/2017-07-04-itcppcon17)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWoGAOd9wKvdb1fEqj2olBz)
 - [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.1819002205081154)
 
-### [The Future of Programming with Bartosz Milewski / Modena](http://www.italiancpp.org/event/the-future-of-programming/)
+### [The Future of Programming with Bartosz Milewski / Modena](https://conoscerelinux.org/courses/the-future-of-programming-con-bartosz-milewski/)
 
 <img src="/pics/bartosz-mo-17.png" alt="The Future of Programming, June 2017" width="600">
 
@@ -854,7 +854,7 @@ Modena, June 2017.
 I organized a meetup with the special guest **Bartosz Milewski**, hosted by [Conoscere Linux](http://conoscerelinux.org), in Modena. Bartosz shared his vision and predictions on "the Future of Programming".
 **45+ attendees**.
 
-### [Mini-Meetup May / Modena](http://www.italiancpp.org/event/meetup-maggio2017/)
+### [Mini-Meetup May / Modena](https://italiancpp.org/eventi/2017-02-15-cpp17/)
 
 <img src="/pics/meetup-mo-may17.png" alt="Mini-Meetup Modena May 2017" width="600">
 
@@ -866,7 +866,7 @@ I moderated an "evening mini-meetup" of the Italian C++ Community, hosted by [Co
 I moderated an interactive discussion on **The C++ Triad: iterators, containers and algorithms**, by explaining the basic concepts and solving live programming challenges.
 I wrapped up the contents [here](http://italiancpp.org/triad).
 
-### [Mini-Meetup March / Bologna](http://www.italiancpp.org/event/meetup-marzo2017/)
+### [Mini-Meetup March / Bologna](https://italiancpp.org/eventi/2017-03-15-cpp17/)
 
 <img src="/pics/meetup-bo-mar17.png" alt="Mini-Meetup Bologna March 2017" width="600">
 
@@ -878,7 +878,7 @@ I moderated an "evening mini-meetup" of the Italian C++ Community, hosted by [XP
 I moderated an interactive discussion on **C++17 for the daily job**, by showing live examples of the most interesting features of C++17 online-compiled and run on GCC, Clang and Visual C++. 
 I wrapped up the contents [here](http://italiancpp.org/cpp17).
 
-### [Mini-Meetup February / Modena](http://www.italiancpp.org/event/meetup-febbraio2017/)
+### [Mini-Meetup February / Modena](https://italiancpp.org/eventi/2017-02-15-cpp17/)
 
 <img src="/pics/meetup-mo-feb17.png" alt="Mini-Meetup Modena Feb 2017" width="600">
 
@@ -888,11 +888,11 @@ I moderated the first "evening mini-meetup" of the Italian C++ Community, hosted
 **15+ attendees**.
 
 I moderated an interactive discussion on **C++17 for the daily job**, by showing live examples of the most interesting features of C++17 online-compiled and run on GCC, Clang and Visual C++. 
-I wrapped up the contents [here](http://italiancpp.org/cpp17).
+I wrapped up the contents [here](https://github.com/italiancpp/meetup17/blob/master/md.md).
 
 ## 2016
 
-### [C++ Day 2016](http://www.italiancpp.org/event/cppday16)
+### [C++ Day 2016](http://www.italiancpp.org/cppday16)
 
 <img src="/pics/cppday16.png" alt="C++ Day 2016" width="600">
 
@@ -925,11 +925,11 @@ My staff included: Raffaele RIaldi, Franco Milicchio, Stefano Saraulli, Gian Lor
 
 Additional references:
 
-- [Wrap-up article](http://www.italiancpp.org/2016/11/04/cppday16/)
+- [Wrap-up article](https://italiancpp.org/posts/2016-11-04-cppday16)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LW9rB8rKxV0WNP6hNIUgjI4)
 - [📸 Pictures](https://www.facebook.com/media/set/?set=oa.883545501780439&type=3)
 
-### [Italian C++ Conference 2016](http://www.italiancpp.org/event/conference-2016/)
+### [Italian C++ Conference 2016](http://www.italiancpp.org/itcppcon16)
 
 <img src="/pics/itcppcon16.png" alt="Italian C++ Conference 2016" width="600">
 
@@ -964,13 +964,13 @@ My staff included: Raffaele RIaldi, Franco Milicchio, Alessandro Vergani, Gian L
 
 Additional references:
 
-- [Wrap-up article](https://isocpp.org/blog/2016/05/italian-cpp-conference-2016)
+- [Wrap-up article](https://italiancpp.org/posts/2016-05-20-conf-2016)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LUOIdOmvp2cOgMuaQlPsVZK)
 - [📸 Pictures](https://www.facebook.com/media/set/?set=oa.793589927442664&type=3)
 
 ## 2015
 
-### [Italian C++ Community Meetup Rome](http://www.italiancpp.org/event/meetup-roma-2015)
+### [Italian C++ Community Meetup Rome](https://italiancpp.org/eventi/2015-10-24-meetup-roma/)
 
 <img src="/pics/meetup-roma15.png" alt="Italian C++ Meetup Rome 2015" width="600">
 
@@ -995,7 +995,7 @@ Co-organizer: [Franco Milicchio](http://fmilicchio.bitbucket.org/)<br/>
 
 [📸 Pictures](https://www.facebook.com/media/set/?set=oa.702494899885501&type=3)
 
-### [Italian C++ Community Meetup Florence](http://www.italiancpp.org/event/meetup-firenze-2015)
+### [Italian C++ Community Meetup Florence](https://italiancpp.org/eventi/2015-06-20-meetup-firenze/)
 
 <img src="/pics/meetup-firenze15.png" alt="Italian C++ Meetup Florence 2015" width="600">
 
@@ -1026,7 +1026,7 @@ Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).<br/>
 
 [📸 Pictures](https://www.facebook.com/media/set/?set=oa.654492274685764&type=3)
 
-### [Italian C++ Community Meetup Pordenone](http://www.italiancpp.org/event/meetup-pordenone-2015)
+### [Italian C++ Community Meetup Pordenone](https://italiancpp.org/eventi/2015-02-07-meetup-pordenone/)
 
 <img src="/pics/meetup-pn15.png" alt="Italian C++ Meetup Pordenone 2015" width="600">
 
@@ -1058,7 +1058,7 @@ Pordenone, February 2015. [Feedback](https://joind.in/event/italian-c-community-
 
 ## 2014
 
-### [Italian C++ Community Meetup Bologna](http://www.italiancpp.org/event/meetup-bologna-2014/)
+### [Italian C++ Community Meetup Bologna](https://italiancpp.org/eventi/2014-11-08-meetup-bologna/)
 
 <img src="/pics/meetup-bo14.png" alt="Italian C++ Meetup Bologna 2014" width="600">
 
@@ -1083,7 +1083,7 @@ Special guest: [Bartosz Milewski](https://twitter.com/BartoszMilewski).
 
 [📸 Pictures](https://www.facebook.com/media/set/?set=oa.539742672827392&type=3)
 
-### [Italian C++ Community Meetup Milan](http://www.italiancpp.org/event/meetup-milano/)
+### [Italian C++ Community Meetup Milan](https://italiancpp.org/eventi/2014-06-28-meetup-milano/)
 
 <img src="/pics/meetup-mi14.png" alt="Italian C++ Meetup Milan 2014" width="600">
 
