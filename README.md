@@ -278,6 +278,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=kkhmdoNe0h8)<br/>
 13 in person + 10 online attendees.
 
+- **October 14**: **Diego Rodriguez-Losada Gonzalez** (from home) speaking about [Conan Package Manager for C++ in Practice](https://italiancpp.org/eventi/2021-10-14-conan-package-manager/);<br/>
+[📹 Video (ENG)](https://www.youtube.com/watch?v=VzUJQw89U7o)<br/>
+11 in person + 12 online attendees.
+
 ### [Online ML Modena Meetups - Season 2021](https://mlmodena.it)
 
 <img src="/pics/meetup-mlmo2021.png" alt="ML Modena Meetup Online - Jan 2021" width="700">
