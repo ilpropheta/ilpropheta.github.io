@@ -1152,6 +1152,8 @@ My professional blogging activity started in **2011**.
 
 Some of my blog posts from my [tech blog](https://marcoarena.wordpress.com) have been published on isocpp.org too:
 
+- [The Self-Growing Builder](https://isocpp.org/blog/2021/10/the-self-growing-builder) - October **2021**
+
 - [All rotations of a string with ranges](https://isocpp.org/blog/2021/07/all-rotations-of-a-string-with-ranges-marco-arena) - July **2021**
 
 - [Reversing words of a string with ranges](https://isocpp.org/blog/2021/06/reversing-words-of-a-string-with-ranges-marco-arena) - June **2021**
