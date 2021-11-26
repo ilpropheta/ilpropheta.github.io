@@ -30,6 +30,8 @@ Apart from private life, I am committed to community activities summarized here 
 
 - since 2016, I have joined the staff of [ConoscereLinux](https://conoscerelinux.org), a non-profit organization making divulgation in the Modena area;
 
+- since 2016, I have joined the staff of [Meeting C++](https://meetingcpp.com/), volounteering at the conference every year since then;
+
 - in 2018, I co-founded [Community Crumbs](https://communitycrumbs.org/), a non-profit organization patronizing all my community activities. This adventure ended in 2020;
 
 - in 2020, I co-founded [ML Modena](https://mlmodena.it/), the first (and currently unique) community about Artificial Intelligence in the Modena area. Every month we organize a meetup hosting 25-30 people;
@@ -1293,6 +1295,7 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
   - given a talk in front of *more than 150 people*, at Codemotion Milan 
 - 2016
   - received my first [Microsoft MVP Award](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena)
+  - joined the staff of [Meeting C++](https://meetingcpp.com/)
   - created [Coding Gym](https://coding-gym.org) and organized the very first session in Bologna
   - started monthly Coding Gym sessions in Modena
   - joined the staff of [ConoscereLinux](http://conoscerelinux.it)
