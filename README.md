@@ -27,7 +27,7 @@ Behind the scenes, I define myself a "Community Hacker":
 
 - in 2016, I created [Coding Gym](#coding-gym), a programming laboratory format open to any language. Started by me in Modena, it's now active in some other cities ran by other amazing people. Every month we organize a moderated and inclusive session hosting 25-30 people who work in pair and collaboratively share ideas and solutions;
 
-- in 2020, I co-founded [ML Modena](https://mlmodena.it/), the first (and currently unique) community about Artificial Intelligence in the Modena area. Every month we organize a meetup hosting 25-30 people;
+- in 2020, I co-founded [ML Modena](https://mlmodena.it/), the first (and currently unique) community about Artificial Intelligence in the Modena area. Every month we organize a meetup hosting 25-30 people.
 
 Also, I am involved in some other community activities:
 
@@ -37,9 +37,9 @@ Also, I am involved in some other community activities:
 
 - since 2016, I have joined the staff of [Meeting C++](https://meetingcpp.com/), volounteering at the conference every year since then;
 
-- in 2018, I co-founded [Community Crumbs](https://communitycrumbs.org/), a non-profit organization patronizing all my community activities. This adventure ended in 2020;
+- in 2018, I co-founded [Community Crumbs](https://communitycrumbs.org/), a non-profit organization patronizing all my community activities. This adventure ended in 2020.
 
-Sometimes, I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops). I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and at some *Italian C++ Community* events (however, I tend to avoid going onstage at my own community's conferences to let other people share their stories);
+Sometimes, I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops). I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and at some *Italian C++ Community* events (however, I tend to avoid going onstage at my own community's conferences to let other people share their stories).
 
 Since 2016, I have received (6 times in a row) the **Microsoft MVP award** for [my community activies](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
 
