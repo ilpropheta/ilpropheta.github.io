@@ -17,29 +17,28 @@ A professional list of my notable activities.
 
 # TL;DR -- in a nutshell
 
-I am a Computer Engineer from Rome, specialized in high performance and critical software development in C++. 
-Since the end of 2019, I have joined [Tetra Pak](http://tetrapak.com/) as an Automation and Digital Technology expert, focusing on scouting and developing AI-based software solutions for the company needs.
-From 2011 to 2019, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a Software Engineer and C++ Specialist. Behind the scenes, I define myself a "Community Hacker": I'm very active in the tech communities ecosystem in Italy and abroad.
+I am a 10+ years experienced Computer Engineer from Rome, specialized in C++ software development. 
+Since the end of 2019, I have worked at [Tetra Pak](http://tetrapak.com/), pioneering AI software engineering and building applications for real-time automatic quality checks on the production line. Previously, from 2011 to 2019, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a Software Engineer and C++ Specialist, working on mission-critical internal products and APIs. Behind the scenes, I define myself a "Community Hacker" since I have created from scratch and led a few tech communities.
 
 Apart from private life, I am committed to community activities summarized here below:
 
-- in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), or the C++ landmark in Italy, one of the most active C++ communities in Europe. I moderate the online community, I organize events and meetups, etc;
+- in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), or the C++ landmark in Italy, one of the most active non-profit C++ community on the planet, with 400+ Slack users, 200+ attendees at on-site events, and a newsletter targeting 1500+ people. The community hosts a local meetup every month in Modena (hosting 20-25 people), and also two international conferences every year;
 
-- in 2016, I created [Coding Gym](#coding-gym), a programming laboratory format and community. Started by me in Modena, it's now active in some other cities ran by other amazing people;
+- in 2016, I created [Coding Gym](#coding-gym), a programming laboratory format open to any language. Started by me in Modena, it's now active in some other cities ran by other amazing people. Every month we organize a moderated and inclusive session hosting 25-30 people who work in pair and collaboratively share ideas and solutions;
 
 - I have been an **editor** of [isocpp.org](http://isocpp.org/) since 2014. I help moderate the International C++ online community;
 
-- since 2016, I have joined the council and staff of [ConoscereLinux](https://conoscerelinux.org), a non-profit organization making divulgation in the Modena area;
+- since 2016, I have joined the staff of [ConoscereLinux](https://conoscerelinux.org), a non-profit organization making divulgation in the Modena area;
 
 - in 2018, I co-founded [Community Crumbs](https://communitycrumbs.org/), a non-profit organization patronizing all my community activities. This adventure ended in 2020;
 
-- in 2020, I co-founded [ML Modena](https://mlmodena.it/), the only community about Machine Learning (and AI, in general) in Modena;
+- in 2020, I co-founded [ML Modena](https://mlmodena.it/), the first (and currently unique) community about Artificial Intelligence in the Modena area. Every month we organize a meetup hosting 25-30 people;
 
-- sometimes I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops) about things I think are worth telling. I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and, clearly, at *Italian C++ Community* events;
+- sometimes I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops) about things I think are worth telling. I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and at some *Italian C++ Community* events (however, I tend to avoid going onstage at my own community's conferences to let other people share their stories);
  
 - I love experimenting and prototying – here is my [GitHub page](http://github.com/ilpropheta/);
  
-- Since 2016, I have received 5 times in a row the **Microsoft MVP award** for [my community activies](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
+- Since 2016, I have received (6 times in a row) the **Microsoft MVP award** for [my community activies](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
 
 ___
 My activites:
@@ -281,6 +280,10 @@ List of meetups, including speakers and topics discussed:
 - **October 14**: **Diego Rodriguez-Losada Gonzalez** (from home) speaking about [Conan Package Manager for C++ in Practice](https://italiancpp.org/eventi/2021-10-14-conan-package-manager/);<br/>
 [📹 Video (ENG)](https://www.youtube.com/watch?v=VzUJQw89U7o)<br/>
 11 in person + 12 online attendees.
+
+- **November 18**: **Sebastian Theophil** (from home) speaking about [Windows, macOS and the Web: Lessons from cross-platform development](https://italiancpp.org/eventi/2021-11-18-cross-platform/);<br/>
+[📹 Video (ENG)](https://www.youtube.com/watch?v=ssb4Uhs1y1w)<br/>
+12 in person + 10 online attendees.
 
 ### [Online ML Modena Meetups - Season 2021](https://mlmodena.it)
 
@@ -1293,8 +1296,8 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
   - created [Coding Gym](https://coding-gym.org) and organized the very first session in Bologna
   - started monthly Coding Gym sessions in Modena
   - joined the staff of [ConoscereLinux](http://conoscerelinux.it)
-  - organized the first "big" [conference about C++ in Italy](http://www.italiancpp.org/event/conference-2016/)
-  - organized the first [C++ Day](http://www.italiancpp.org/event/cppday16)
+  - organized the first "big" [conference about C++ in Italy](https://italiancpp.org/itcppcon16)
+  - organized the first [C++ Day](http://www.italiancpp.org/cppday16)
   - my first time as a staff member at *Meeting C++*
   - went to my first MVP Global Summit in Redmond - my first time in USA
 - 2017
@@ -1320,8 +1323,9 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 - 2021
   - co-chaired my first [C++ class](https://conoscerelinux.org/courses/corso-cpp/) for beginners
   - given my [first talk](http://www.italiancpp.org/event/meetup-0621) supported by a few basic concepts of game-based learning
+  - organized my first [hybrid meetup](https://italiancpp.org/eventi/2021-10-14-conan-package-manager/)
 <br/>
 
 ----
 
-*Last Update*: **September 2021**
+*Last Update*: **November 2021**
