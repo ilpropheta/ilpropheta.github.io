@@ -4,12 +4,13 @@ A professional list of my notable activities.
 
 **Quick links:**
 
-- [My blog "Growing Up"](http://marcoarena.wordpress.com)
+- [My technical blog "Growing Up"](http://marcoarena.wordpress.com)
 - [Italian C++ Community](https://italiancpp.org)
 - [Coding Gym](https://coding-gym.org)
 - [ML Modena](https://mlmodena.it)
 - [My Linkedin profile](https://www.linkedin.com/in/marcoarena)
 - [My Youtube Channel](https://www.youtube.com/channel/UCK-K0NhTAWJWdNIYkR18maQ)
+- [My GitHub page](http://github.com/ilpropheta/)
 
 **Get in touch**: *marco* [at] *italiancpp* [dot] *org*
 
@@ -17,14 +18,18 @@ A professional list of my notable activities.
 
 # TL;DR -- in a nutshell
 
-I am a 10+ years experienced Computer Engineer from Rome, specialized in C++ software development. 
-Since the end of 2019, I have worked at [Tetra Pak](http://tetrapak.com/), pioneering AI software engineering and building applications for real-time automatic quality checks on the production line. Previously, from 2011 to 2019, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a Software Engineer and C++ Specialist, working on mission-critical internal products and APIs. Behind the scenes, I define myself a "Community Hacker" since I have created from scratch and led a few tech communities.
+I am a 10+ years experienced Computer Engineer from Rome, specialized in **C++ software development**.
+Since the end of **2019**, I have worked at [Tetra Pak](http://tetrapak.com/), pioneering AI software engineering and building applications for real-time automatic quality checks on the production line. Previously, **from 2011 to 2019**, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a Software Engineer and C++ Specialist, working on mission-critical internal products and APIs.
 
-Apart from private life, I am committed to community activities summarized here below:
+Behind the scenes, I define myself a "Community Hacker":
 
 - in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), or the C++ landmark in Italy, one of the most active non-profit C++ community on the planet, with 400+ Slack users, 200+ attendees at on-site events, and a newsletter targeting 1500+ people. The community hosts a local meetup every month in Modena (hosting 20-25 people), and also two international conferences every year;
 
 - in 2016, I created [Coding Gym](#coding-gym), a programming laboratory format open to any language. Started by me in Modena, it's now active in some other cities ran by other amazing people. Every month we organize a moderated and inclusive session hosting 25-30 people who work in pair and collaboratively share ideas and solutions;
+
+- in 2020, I co-founded [ML Modena](https://mlmodena.it/), the first (and currently unique) community about Artificial Intelligence in the Modena area. Every month we organize a meetup hosting 25-30 people;
+
+Also, I am involved in some other community activities:
 
 - I have been an **editor** of [isocpp.org](http://isocpp.org/) since 2014. I help moderate the International C++ online community;
 
@@ -34,13 +39,9 @@ Apart from private life, I am committed to community activities summarized here 
 
 - in 2018, I co-founded [Community Crumbs](https://communitycrumbs.org/), a non-profit organization patronizing all my community activities. This adventure ended in 2020;
 
-- in 2020, I co-founded [ML Modena](https://mlmodena.it/), the first (and currently unique) community about Artificial Intelligence in the Modena area. Every month we organize a meetup hosting 25-30 people;
+Sometimes, I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops). I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and at some *Italian C++ Community* events (however, I tend to avoid going onstage at my own community's conferences to let other people share their stories);
 
-- sometimes I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops) about things I think are worth telling. I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and at some *Italian C++ Community* events (however, I tend to avoid going onstage at my own community's conferences to let other people share their stories);
- 
-- I love experimenting and prototying – here is my [GitHub page](http://github.com/ilpropheta/);
- 
-- Since 2016, I have received (6 times in a row) the **Microsoft MVP award** for [my community activies](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
+Since 2016, I have received (6 times in a row) the **Microsoft MVP award** for [my community activies](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
 
 ___
 My activites:
