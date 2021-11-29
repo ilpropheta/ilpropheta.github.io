@@ -23,7 +23,7 @@ Since the end of **2019**, I have worked at [Tetra Pak](http://tetrapak.com/), p
 
 Behind the scenes, I define myself a "Community Hacker":
 
-- in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), or the C++ landmark in Italy, one of the most active non-profit C++ community on the planet, with 400+ Slack users, 200+ attendees at on-site events, and a newsletter targeting 1500+ people. The community hosts a local meetup every month in Modena (hosting 20-25 people), and also two international conferences every year;
+- in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), or the C++ landmark in Italy, hosting 400+ users on Slack, 300+ subscribers on a dedicated [subreddit](https://reddit.com/r/cppit), 200+ attendees at on-site events, and sending a monthly newsletter targeting 1500+ people. The community hosts monthly local meetups in Modena (hosting 20-25 people), and also two international conferences every year;
 
 - in 2016, I created [Coding Gym](#coding-gym), a programming laboratory format open to any language. Started by me in Modena, it's now active in some other cities ran by other amazing people. Every month we organize a moderated and inclusive session hosting 25-30 people who work in pair and collaboratively share ideas and solutions;
 
