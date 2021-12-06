@@ -320,7 +320,7 @@ List of meetups, including speakers and topics discussed:
 19 attendees.
 
 - **December 2**: **Matteo Lucchi** speaking about [Deep Reinforcement Learning for robot control](https://mlmodena.it/eventi/2021-12-02-rl-robotics/);<br/>
-[📹 Video (ENG)](https://www.youtube.com/watch?v=FpytSuRhFwY)<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=FpytSuRhFwY)<br/>
 20 in person + 19 online attendees.
 
 ### [Italian C++ Conference 2021](http://www.italiancpp.org/itcppcon21)
@@ -1336,4 +1336,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **November 2021**
+*Last Update*: **December 2021**
