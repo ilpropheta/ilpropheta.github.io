@@ -288,7 +288,7 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ENG)](https://www.youtube.com/watch?v=ssb4Uhs1y1w)<br/>
 12 in person + 10 online attendees.
 
-### [Online ML Modena Meetups - Season 2021](https://mlmodena.it)
+### [Online and Hybrid ML Modena Meetups - Season 2021](https://mlmodena.it)
 
 <img src="/pics/meetup-mlmo2021.png" alt="ML Modena Meetup Online - Jan 2021" width="700">
 
@@ -318,6 +318,10 @@ List of meetups, including speakers and topics discussed:
 - **June 23**: **Gisele Gurgel** speaking about [How traditional marketing struggles to implement ML](https://mlmodena.it/eventi/2021-06-23-how-traditional-marketing-struggles-to-implement-ML/);<br/>
 [📹 Video (ENG)](https://www.youtube.com/watch?v=x4xp_L14X3Y)<br/>
 19 attendees.
+
+- **December 2**: **Matteo Lucchi** speaking about [Deep Reinforcement Learning for robot control](https://mlmodena.it/eventi/2021-12-02-rl-robotics/);<br/>
+[📹 Video (ENG)](https://www.youtube.com/watch?v=FpytSuRhFwY)<br/>
+20 in person + 19 online attendees.
 
 ### [Italian C++ Conference 2021](http://www.italiancpp.org/itcppcon21)
 
