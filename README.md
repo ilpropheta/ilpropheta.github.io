@@ -288,6 +288,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ENG)](https://www.youtube.com/watch?v=ssb4Uhs1y1w)<br/>
 12 in person + 10 online attendees.
 
+- **December 15**: **Ruzena Gurkaynak** (from home) speaking about [Getting started with the Reader Monad in C++](https://italiancpp.org/eventi/2021-12-15-monads/);<br/>
+[📹 Video (ENG)](https://www.youtube.com/watch?v=FpGaZ8jwdSE)<br/>
+4 in person + 10 online attendees.
+
 ### [Online and Hybrid ML Modena Meetups - Season 2021](https://mlmodena.it)
 
 <img src="/pics/meetup-mlmo2021.png" alt="ML Modena Meetup Online - Jan 2021" width="700">
