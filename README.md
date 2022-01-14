@@ -243,7 +243,7 @@ Every meetup and event I have organized was **totally free to attend**.
 
 ### Hybrid C++ Meetups - Season 2022
 
-<img src="/pics/meetup-mo2022.png" alt="Italian C++ Meetup Hybrid - Jan 2022" width="700">
+<img src="/pics/meetup_mo2022.png" alt="Italian C++ Meetup Hybrid - Jan 2022" width="700">
 
 I have organized and promoted monthly hybrid C++ meetups, hosted in person at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
 
