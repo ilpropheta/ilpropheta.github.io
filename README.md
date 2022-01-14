@@ -241,18 +241,18 @@ Every meetup and event I have organized was **totally free to attend**.
 
 ## 2022
 
-### Online and Hybrid C++ Meetups - Season 2022
+### Hybrid C++ Meetups - Season 2022
 
-<img src="/pics/meetup-mo2021.png" alt="Italian C++ Meetup Online - Jan 2021" width="700">
+<img src="/pics/meetup-mo2022.png" alt="Italian C++ Meetup Hybrid - Jan 2022" width="700">
 
-I have organized and promoted monthly hybrid C++ meetups, hosted in person at MakeIt Modena<br/>
+I have organized and promoted monthly hybrid C++ meetups, hosted in person at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
 
 Every meetup consisted in 1-hour technical session + networking.<br/>
 [📹 YouTube Playlist here](https://www.youtube.com/watch?v=59g4SkJuGNQ&list=PLsCm1Hs016LU_uCKIrFvXNa22KtXAlOQ4)
 
 List of meetups, including speakers and topics discussed:
 
-- **Jan 13**: **Daniele Pallastrelli** speaking about [Add an interactive command line to your applications](https://italiancpp.org/eventi/2022-01-13-cli/);<br/>
+- **Jan 13**: **Daniele Pallastrelli** (from home) speaking about [Add an interactive command line to your applications](https://italiancpp.org/eventi/2022-01-13-cli/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=59g4SkJuGNQ)<br/>
 5 in person + 15 online attendees.
 
