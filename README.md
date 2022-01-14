@@ -239,9 +239,26 @@ In addition to my community activities ([Italian C++ Community](http://italiancp
 
 Every meetup and event I have organized was **totally free to attend**.
 
+## 2022
+
+### Online and Hybrid C++ Meetups - Season 2022
+
+<img src="/pics/meetup-mo2021.png" alt="Italian C++ Meetup Online - Jan 2021" width="700">
+
+I have organized and promoted monthly hybrid C++ meetups, hosted in person at MakeIt Modena<br/>
+
+Every meetup consisted in 1-hour technical session + networking.<br/>
+[📹 YouTube Playlist here](https://www.youtube.com/watch?v=59g4SkJuGNQ&list=PLsCm1Hs016LU_uCKIrFvXNa22KtXAlOQ4)
+
+List of meetups, including speakers and topics discussed:
+
+- **Jan 13**: **Daniele Pallastrelli** speaking about [Add an interactive command line to your applications](https://italiancpp.org/eventi/2022-01-13-cli/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=59g4SkJuGNQ)<br/>
+5 in person + 15 online attendees.
+
 ## 2021
 
-### [Online and Hybrid C++ Meetups - Season 2021](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
+### Online and Hybrid C++ Meetups - Season 2021
 
 <img src="/pics/meetup-mo2021.png" alt="Italian C++ Meetup Online - Jan 2021" width="700">
 
@@ -503,7 +520,7 @@ Additional references:
 
 ## 2019
 
-### [Modena C++ Meetups - Season 2019](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
+### Modena C++ Meetups - Season 2019
 
 <img src="/pics/meetup-mo2019.png" alt="Meetup Modena - Feb 2019" width="700">
 
@@ -629,7 +646,7 @@ Additional references:
 
 ## 2018
 
-### [Modena C++ Meetups - Season 2018](http://www.italiancpp.org/eventi/categoria/meetup/elenco/?tribe_paged=1&tribe_event_display=past)
+### Modena C++ Meetups - Season 2018
 
 <img src="/pics/meetup-mo0318.png" alt="Meetup Modena - Feb 2018" width="700">
 
@@ -1340,4 +1357,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **December 2021**
+*Last Update*: **January 2022**
