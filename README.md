@@ -256,6 +256,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=59g4SkJuGNQ)<br/>
 5 in person + 15 online attendees.
 
+- **Feb 17**: **Davide Di Gennaro** (from home) speaking about [C++ Micro Problems](https://italiancpp.org/eventi/2022-02-17-micro-problems/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=xrh_Dn5glU8)<br/>
+8 in person + 15 online attendees.
+
 ## 2021
 
 ### Online and Hybrid C++ Meetups - Season 2021
