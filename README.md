@@ -66,7 +66,7 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 <img src="/pics/talks-cover.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600"><br/>
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
-##2022
+## 2022
 **C++20 for the daily job** (90')<br/>
 [Slides & Snippets (ENG)](https://github.com/ilpropheta/cpp20-for-the-daily-job) - [📹 Video (ITA)](https://www.youtube.com/watch?v=-Zuftu_Fpqo)<br/>
 26 attendees.<br/>
