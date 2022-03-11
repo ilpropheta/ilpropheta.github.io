@@ -66,11 +66,17 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 <img src="/pics/talks-cover.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600"><br/>
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
+##2022
+**C++20 for the daily job** (90')<br/>
+[Slides & Snippets (ENG)](https://github.com/ilpropheta/cpp20-for-the-daily-job) - [📹 Video (ITA)](https://www.youtube.com/watch?v=-Zuftu_Fpqo)<br/>
+26 attendees.<br/>
+@[Monthly Italian C++ Meetups Modena](https://italiancpp.org/eventi/2022-03-10-cpp20/) -- March 2022
+
 ## 2021
 **É facile usare i range, se sai come farlo** (90')<br/>
 [Slides (ENG)](https://conoscerelinux.org/wp-content/uploads/2021/06/Ranges-lite.pdf) - [📹 Video (ITA)](https://www.youtube.com/watch?v=yfy9VmfvuIA)<br/>
 31 live attendees.<br/>
-@[Monthly Italian C++ Meetups Modena](http://www.italiancpp.org/event/meetup-0621) -- June 2021/Online
+@[Monthly Italian C++ Meetups Modena](https://italiancpp.org/eventi/2021-06-16-ranges/) -- June 2021/Online
 
 **Corso Base C++** (3x120')<br/>
 I have co-chaired a 3-lesson C++ beginner class with Marcello Missiroli (who was the main teacher). The class was hosted online on BigBlueButton by [ConoscereLinux](https://conoscerelinux.org/) and was totally free to attend.<br/>
@@ -259,6 +265,10 @@ List of meetups, including speakers and topics discussed:
 - **Feb 17**: **Davide Di Gennaro** (from home) speaking about [C++ Micro Problems](https://italiancpp.org/eventi/2022-02-17-micro-problems/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=xrh_Dn5glU8)<br/>
 8 in person + 15 online attendees.
+
+- **Mar 10**: **Marco Arena** speaking about [C++20 for the daily job](https://italiancpp.org/eventi/2022-03-10-cpp20/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=-Zuftu_Fpqo)<br/>
+6 in person + 20 online attendees.
 
 ## 2021
 
