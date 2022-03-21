@@ -1293,7 +1293,7 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 - 2004
   - seen some C++ code, from a classmate who was developing an RPG
 - 2005
-  - started Computer Engineering BSc
+  - started BSc in Computer Engineering
   - written my first line of Java
 - 2006
   - attended *Java Day 2006* - my first software conference ever
@@ -1303,8 +1303,8 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 - 2008
   - studied object oriented patterns (GoF and GRASP) for the first time
   - discovered Functional Programming: practiced with OCaml for a few months and taken an exam with full mark
-  - got my BSc in Computer Engineering in Rome
-  - started Computer Engineering MSc
+  - got my BSc in Computer Engineering
+  - started MSc in Computer Engineering
 - 2009 
   - practiced with OpenGL and graphics programming
   - written my first line of C++
@@ -1313,6 +1313,7 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
   - got my MSc in Computer Engineering in Rome
 - 2011
   - started a [professional blog](https://marcoarena.wordpress.com)
+  - had my first job interview
   - started working at *Reply*
   - quit *Reply*
   - started working at *Ferrari*
@@ -1371,4 +1372,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **January 2022**
+*Last Update*: **March 2022**
