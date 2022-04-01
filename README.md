@@ -253,7 +253,7 @@ Every meetup and event I have organized was **totally free to attend**.
 
 I have organized and promoted monthly hybrid C++ meetups, hosted in person at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
 
-Every meetup consisted in 1-hour technical session + networking.<br/>
+Every meetup consisted in 1-hour technical session + pizza and networking.<br/>
 [📹 YouTube Playlist here](https://www.youtube.com/watch?v=59g4SkJuGNQ&list=PLsCm1Hs016LU_uCKIrFvXNa22KtXAlOQ4)
 
 List of meetups, including speakers and topics discussed:
@@ -269,6 +269,21 @@ List of meetups, including speakers and topics discussed:
 - **March 10**: **Marco Arena** speaking about [C++20 for the daily job](https://italiancpp.org/eventi/2022-03-10-cpp20/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=-Zuftu_Fpqo)<br/>
 6 in person + 20 online attendees.
+
+### [Hybrid ML Modena Meetups - Season 2022](https://mlmodena.it)
+
+<img src="/pics/ml-modena-2022.png" alt="ML Modena Meetups" width="700">
+
+I have organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/channel/UCRPDGO4UQk-rdhjSgG_Q0Tg) and [AirMeet](https://www.airmeet.com/).<br/>
+
+Every meetup consisted in 1-hour technical session + pizza and networking.<br/>
+[📹 YouTube Playlist here](https://www.youtube.com/watch?v=pIcUhgDJ2Ag&list=PL0yWIbKoA6BoVzyQxXgqFt8A7rDWgRRwB)
+
+List of meetups, including speakers and topics discussed:
+
+- **March 31**: **Paolo Bertellini** speaking about [Plantations remote sensing using visible spectrum satellite images](https://mlmodena.it/eventi/2022-03-31-plantation-remote-sensing-using-visible-spectrum-satellite-images/);<br/>
+[📹 Video (ITA)](**https://www.youtube.com/watch?v=NA0gg_9yQog**)<br/>
+50 in person + 10 online attendees.
 
 ## 2021
 
