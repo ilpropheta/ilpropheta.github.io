@@ -19,15 +19,15 @@ A professional list of my notable activities.
 # TL;DR -- in a nutshell
 
 I am a 10+ years experienced Computer Engineer from Rome, specialized in **C++ software development**.
-Since the end of **2019**, I have worked at [Tetra Pak](http://tetrapak.com/), pioneering AI software engineering and building applications for real-time automatic quality checks on the production line. Previously, **from 2011 to 2019**, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a Software Engineer and C++ Specialist, working on mission-critical internal products and APIs.
+Since the end of **2019**, I have worked at [Tetra Pak](http://tetrapak.com/) as one of the technical leaders of the *AI Software Team*, pioneering the development of AI-based applications and kits, like one for real-time automatic quality checks on the production line. Previously, **from 2011 to 2019**, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a *Performance Software Engineer* and *C++ Specialist*, working on mission-critical internal products, and also driving the adoption of modern C++ and latest standards.
 
 Behind the scenes, I define myself a "Community Hacker":
 
-- in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), or the C++ landmark in Italy, hosting 400+ users on Slack, 300+ subscribers on a dedicated [subreddit](https://reddit.com/r/cppit), 200+ attendees at on-site events, and sending a monthly newsletter targeting 1500+ people. The community hosts monthly local meetups in Modena (hosting 20-25 people), and also two international conferences every year;
+- in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), or the C++ landmark in Italy, hosting 500+ users on Slack, 300+ subscribers on a dedicated [subreddit](https://reddit.com/r/cppit), 200+ attendees at on-site events, and sending a monthly newsletter targeting 1500+ people. The community hosts monthly local meetups in Modena (hosting 20-25 people), and also two international conferences every year;
 
-- in 2016, I created [Coding Gym](#coding-gym), a programming laboratory format open to any language. Started by me in Modena, it's now active in some other cities ran by other amazing people. Every month we organize a moderated and inclusive session hosting 25-30 people who work in pair and collaboratively share ideas and solutions;
+- in 2016, I created [Coding Gym](#coding-gym), a programming laboratory format open to any language. Started by me in Modena, I am also leading a group of amazing people who host the very same format in other cities. Every month, we organize a moderated and inclusive session hosting 25-30 people who work in pair and collaboratively share ideas and solutions;
 
-- in 2020, I co-founded [ML Modena](https://mlmodena.it/), the first (and currently unique) community about Artificial Intelligence in the Modena area. Every month we organize a meetup hosting 25-30 people.
+- in 2020, I co-founded [ML Modena](https://mlmodena.it/), the first (and currently unique) community about Artificial Intelligence in the Modena area. Every month we organize a meetup hosting 40-50 people.
 
 Also, I am involved in some other community activities:
 
@@ -1387,4 +1387,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **March 2022**
+*Last Update*: **April 2022**
