@@ -1271,7 +1271,7 @@ Refer to my [Github page](https://github.com/ilpropheta) for more details.
 
 Some of my projects/experiments follow:
 
-- Obbelisco (not public, ask me for details if you are curious) - Unity3D/C# racing game set in Rome EUR, inspired by Italian movie: "Velocità Massima". Co-developed with a friend of mine who wants to stay anonymous.
+- [Obbelisco](https://ilpropheta.github.io/obbelisco) - Unity3D/C# racing game set in Rome EUR, inspired by Italian movie: "Velocità Massima". Co-developed with a friend of mine who wants to stay anonymous.
 
 - [anvedi](https://github.com/ilpropheta/anvedi) – Prototypal **Qt** Data Viewer made with [QCustomPlot](http://qcustomplot.com)
 
