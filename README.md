@@ -279,7 +279,7 @@ List of meetups, including speakers and topics discussed:
 
 <img src="/pics/meetup-milano0522.png" alt="Italian C++ Meetup Milano - May 2022" width="700">
 
-I have organized an [Italian C++ Meetup in Milan](https://italiancpp.org/eventi/2022-05-31-milano/), hosted at Microsoft House. The meetup consisted on an interactive session about C++20 with technical contents, games, and quizzes. Afterwards, pizza and networking nearby.<br/>
+I have organized an [Italian C++ Meetup in Milan](https://italiancpp.org/eventi/2022-05-31-milano/), hosted at Microsoft House. The meetup consisted in an interactive session about C++20 with technical contents, games, and quizzes. Afterwards, pizza and networking nearby.<br/>
 40+ attendees.<br/>
 📸 Some pictures [here](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.3201893330125361).
 
