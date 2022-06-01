@@ -67,6 +67,11 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2022
+**C++20 per impazienti** (90')<br/>
+[Slides & Snippets (ENG)](https://github.com/italiancpp/meetups/blob/main/C%2B%2B20%20per%20impazienti.pdf) <br/>
+40+ attendees.<br/>
+@[Italian C++ Meetup Milan at Microsoft House]([https://italiancpp.org/eventi/2022-03-10-cpp20/](https://italiancpp.org/eventi/2022-05-31-milano/)) -- May 2022
+
 **C++20 for the daily job** (90')<br/>
 [Slides & Snippets (ENG)](https://github.com/ilpropheta/cpp20-for-the-daily-job) - [📹 Video (ITA)](https://www.youtube.com/watch?v=-Zuftu_Fpqo)<br/>
 26 attendees.<br/>
@@ -269,6 +274,14 @@ List of meetups, including speakers and topics discussed:
 - **March 10**: **Marco Arena** speaking about [C++20 for the daily job](https://italiancpp.org/eventi/2022-03-10-cpp20/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=-Zuftu_Fpqo)<br/>
 6 in person + 20 online attendees.
+
+### Italian C++ Meetup at Microsoft House
+
+<img src="/pics/meetup-milano0522.png" alt="Italian C++ Meetup Milano - May 2022" width="700">
+
+I have organized an [Italian C++ Meetup in Milan](https://italiancpp.org/eventi/2022-05-31-milano/), hosted at Microsoft House. The meetup consisted on an interactive session about C++20 with technical contents, games, and quizzes. Afterwards, pizza and networking nearby.<br/>
+40+ attendees.<br/>
+📸 Some pictures [here](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.3201893330125361).
 
 ### [Hybrid ML Modena Meetups - Season 2022](https://mlmodena.it)
 
@@ -1387,4 +1400,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **April 2022**
+*Last Update*: **June 2022**
