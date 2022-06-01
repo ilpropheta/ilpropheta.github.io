@@ -70,7 +70,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 **C++20 per impazienti** (90')<br/>
 [Slides & Snippets (ENG)](https://github.com/italiancpp/meetups/blob/main/C%2B%2B20%20per%20impazienti.pdf) <br/>
 40+ attendees.<br/>
-@[Italian C++ Meetup Milan at Microsoft House]([https://italiancpp.org/eventi/2022-03-10-cpp20/](https://italiancpp.org/eventi/2022-05-31-milano/)) -- May 2022
+@[Italian C++ Meetup Milan at Microsoft House](https://italiancpp.org/eventi/2022-05-31-milano/) -- May 2022
 
 **C++20 for the daily job** (90')<br/>
 [Slides & Snippets (ENG)](https://github.com/ilpropheta/cpp20-for-the-daily-job) - [📹 Video (ITA)](https://www.youtube.com/watch?v=-Zuftu_Fpqo)<br/>
