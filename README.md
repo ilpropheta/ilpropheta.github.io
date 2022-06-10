@@ -67,6 +67,11 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2022
+**A gentle introduction to gRPC in C++** (90')<br/>
+[Slides & Demo (ENG)](https://github.com/ilpropheta/hello-grpc) - [📹 Video (ITA)](https://www.youtube.com/watch?v=uZUJOsR8pYM) <br/>
+25 attendees.<br/>
+@[Monthly Italian C++ Meetups Modena](https://italiancpp.org/eventi/2022-06-09-grpc/) -- June 2022
+
 **C++20 per impazienti** (90')<br/>
 [Slides & Snippets (ENG)](https://github.com/italiancpp/meetups/blob/main/C%2B%2B20%20per%20impazienti.pdf) <br/>
 40+ attendees.<br/>
@@ -274,6 +279,10 @@ List of meetups, including speakers and topics discussed:
 - **March 10**: **Marco Arena** speaking about [C++20 for the daily job](https://italiancpp.org/eventi/2022-03-10-cpp20/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=-Zuftu_Fpqo)<br/>
 6 in person + 20 online attendees.
+
+- **June 9**: **Marco Arena** speaking about [A gentle introduction to gRPC in C++](https://italiancpp.org/eventi/2022-06-09-grpc/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=uZUJOsR8pYM)<br/>
+12 in person + 13 online attendees.
 
 ### Italian C++ Meetup at Microsoft House
 
