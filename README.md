@@ -305,11 +305,11 @@ List of meetups, including speakers and topics discussed:
 
 - **June 16**: **Francesco Solera** and **Giovanni Gualdi** speaking about [Deep Learning at the Edge](https://mlmodena.it/eventi/2022-06-16-deep-learning-at-the-edge/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=JROZ4ZWQb2k)<br/>
-50 in person + 10 online attendees.
+55 in person + 10 online attendees.
 
 - **March 31**: **Paolo Bertellini** speaking about [Plantations remote sensing using visible spectrum satellite images](https://mlmodena.it/eventi/2022-03-31-plantation-remote-sensing-using-visible-spectrum-satellite-images/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=pIcUhgDJ2Ag)<br/>
-55 in person + 10 online attendees.
+50 in person + 10 online attendees.
 
 ## 2021
 
