@@ -19,7 +19,7 @@ A professional list of my notable activities.
 # TL;DR -- in a nutshell
 
 I am a 11+ years experienced Computer Engineer from Rome, specialized in **C++ software development**.
-Since the end of **2019**, I have worked at [Tetra Pak](http://tetrapak.com/) as one of the technical leaders of the *AI Software Team*, pioneering the development of AI-based applications and kits, like one for real-time automatic quality checks on the production line. Previously, **from 2011 to 2019**, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a *Performance Software Engineer* and *C++ Specialist*, working on mission-critical internal products, and also driving the adoption of modern C++ and latest standards.
+Since the end of **2019**, I have worked at [Tetra Pak](http://tetrapak.com/) as one of the technical leaders of the *AI Software Team*, pioneering the development of AI-based applications and kits, like one for real-time automatic quality checks on the production line. Previously, **from 2011 to 2019**, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a *Performance Software Engineer* and *C++ Specialist*, working on mission-critical internal products, and also driving the adoption of modern C++ and the latest standards.
 
 Behind the scenes, I define myself a "Community Hacker":
 
@@ -1404,11 +1404,12 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 - 2020
   - founded [ML Modena](https://mlmodena.it)  
   - organized my first online-only [international C++ conference](https://italiancpp.org/itcppcon20)
-  - given a talk at an *online-only* conference for the first time (*Italian Community Managers Summit 2020*)
+  - given my first talk at an *online-only* conference (*Italian Community Managers Summit 2020*)
 - 2021
   - co-chaired my first [C++ class](https://conoscerelinux.org/courses/corso-cpp/) for beginners
-  - given my [first talk](http://www.italiancpp.org/event/meetup-0621) supported by a few basic concepts of game-based learning
+  - given my [first talk](https://italiancpp.org/eventi/2021-06-16-ranges/) supported by a few basic concepts of game-based learning
   - organized my first [hybrid meetup](https://italiancpp.org/eventi/2021-10-14-conan-package-manager/)
+  - given my first talk (online) at a high school
 <br/>
 
 ----
