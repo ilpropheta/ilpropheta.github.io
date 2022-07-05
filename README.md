@@ -19,7 +19,7 @@ A professional list of my notable activities.
 # TL;DR -- in a nutshell
 
 I am a 11+ years experienced Computer Engineer from Rome, specialized in **C++ software development**.
-Since the end of **2019**, I have worked at [Tetra Pak](http://tetrapak.com/) as one of the technical leaders of the *AI Software Team*, pioneering the development of AI-based applications and kits, like one for real-time automatic quality checks on the production line. Previously, **from 2011 to 2019**, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a *Performance Software Engineer* and *C++ Specialist*, working on mission-critical internal products, and also driving the adoption of modern C++ and the latest standards.
+Since the end of **2019**, I have worked at [Tetra Pak](http://tetrapak.com/) as one of the technical leaders of the *AI Engineering Team*, pioneering the development of AI-based applications and kits, like one for real-time automatic quality checks on the production line. Previously, **from 2011 to 2019**, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a *Performance Software Engineer* and *C++ Specialist*, working on mission-critical internal products, and also driving the adoption of modern C++ and the latest standards.
 
 Behind the scenes, I define myself a "Community Hacker":
 
