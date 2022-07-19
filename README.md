@@ -1331,9 +1331,9 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
   - written my first line of Pascal, at school
   - written my first line of HTML, at school
 - 2004
-  - seen some C++ code, from a classmate who was developing an RPG
+  - seen some C++ code, from a classmate who was developing a computer game
 - 2005
-  - started BSc in Computer Engineering
+  - started BSc in Computer Engineering in Rome
   - written my first line of Java
 - 2006
   - attended *Java Day 2006* - my first software conference ever
@@ -1343,13 +1343,14 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 - 2008
   - studied object oriented patterns (GoF and GRASP) for the first time
   - discovered Functional Programming: practiced with OCaml for a few months and taken an exam with full mark
-  - got my BSc in Computer Engineering
-  - started MSc in Computer Engineering
+  - got my BSc in Computer Engineering in Rome
+  - started MSc in Computer Engineering in Rome
 - 2009 
-  - practiced with OpenGL and graphics programming
+  - used OpenGL for the first time and practiced graphics programming
   - written my first line of C++
 - 2010
   - used Qt and boost for the first time
+  - written a glsl shader for the first time
   - got my MSc in Computer Engineering in Rome
 - 2011
   - started a [professional blog](https://marcoarena.wordpress.com)
@@ -1357,11 +1358,11 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
   - started working at *Reply*
   - quit *Reply*
   - started working at *Ferrari*
-  - started developing in C++ professionally
+  - started using C++ professionally
   - written my first line of C#
-  - my first time working at the track, in Abu Dhabi
+  - workied at the track for the first time, in Abu Dhabi
 - 2012
-  - founded two Facebook and LinkedIn groups: **++it, Italian C++ Community**
+  - founded two Facebook and LinkedIn groups about C++: **++it, Italian C++ Community**
 - 2013
   - founded [++it (Italian C++ Community)](https://italiancpp.org)
   - given my first talk at a professional conference (*AgileDay 2013*)
@@ -1369,7 +1370,7 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
   - organized my first meetup - the first Italian C++ Community meetup, in Milan 
   - facilitated a workshop for the first time, at *AgileDay 2014*
   - attended *Meeting C++* for the first time - my first C++ event ever
-  - signed up for [HackerRank](https://www.hackerrank.com/) for the first time. Started practicing a bit
+  - signed up for [HackerRank](https://www.hackerrank.com/) for the first time
 - 2015
   - recorded my first *podcast*, for *dotNetPodcast*
   - given my first keynote session ever, at *Italian C++ Meetup in Pordenone*
@@ -1416,4 +1417,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **June 2022**
+*Last Update*: **July 2022**
