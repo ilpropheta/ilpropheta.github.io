@@ -502,7 +502,7 @@ Additional references:
 
 - [📹 Videos](https://www.youtube.com/playlist?list=PL0yWIbKoA6BrGsSDSWYkgSETlE8iNWQQf)
 
-### [C++ Day 2020](http://www.italiancpp.org/cppday20)
+### [C++ Day 2020](http://italiancpp.org/cppday20)
 
 <img src="/pics/cppday20.png" alt="C++ Day 2020" width="700">
 
@@ -623,7 +623,7 @@ List of meetups, including speakers and topics discussed:
   [📹 Video (ITA)](https://www.youtube.com/watch?v=JmfHG9B2D5M)<br/>
   8 attendees.
 
-### [C++ Day 2019](http://www.italiancpp.org/cppday19)
+### [C++ Day 2019](http://italiancpp.org/cppday19)
 
 <img src="/pics/cppday19.png" alt="C++ Day 2019" width="700">
 
@@ -742,7 +742,7 @@ List of meetups, including speakers and topics discussed:
 
 <br/>
 
-### [C++ Day 2018](http://www.italiancpp.org/cppday18)
+### [C++ Day 2018](http://italiancpp.org/cppday18)
 
 <img src="/pics/cppday18.png" alt="Italian C++ Conference 2018" width="700">
 
@@ -855,7 +855,7 @@ I co-organized the first Modena Tech Summit, the first free conference in Modena
 
 ## 2017
 
-### [C++ Day 2017](http://www.italiancpp.org/cppday17)
+### [C++ Day 2017](http://italiancpp.org/cppday17)
 
 <img src="/pics/cppday17.png" alt="C++ Day 2017" width="700">
 
@@ -983,7 +983,7 @@ I wrapped up the contents [here](https://github.com/italiancpp/meetup17/blob/mas
 
 ## 2016
 
-### [C++ Day 2016](http://www.italiancpp.org/cppday16)
+### [C++ Day 2016](http://italiancpp.org/cppday16)
 
 <img src="/pics/cppday16.png" alt="C++ Day 2016" width="600">
 
@@ -1382,7 +1382,7 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
   - started monthly Coding Gym sessions in Modena
   - joined the staff of [ConoscereLinux](http://conoscerelinux.it)
   - organized the first "big" [conference about C++ in Italy](https://italiancpp.org/itcppcon16)
-  - organized the first [C++ Day](http://www.italiancpp.org/cppday16)
+  - organized the first [C++ Day](http://italiancpp.org/cppday16)
   - my first time as a staff member at *Meeting C++*
   - went to my first MVP Global Summit in Redmond - my first time in USA
 - 2017
