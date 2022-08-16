@@ -102,7 +102,7 @@ April-May 2021/Online
 **Interoperable AI: ONNX & ONNXRuntime in C++** (90')<br/>
 [Slides](https://github.com/italiancpp/cppday20/blob/main/Interoperable%20AI%20-%20Marco%20Arena%2C%20Mattia%20Verasani.pdf) - [📹 Video (ENG)](https://www.youtube.com/watch?v=exsgNLf-MyY) - [💻 Demo](https://github.com/ilpropheta/onnxruntime-demo)<br/>
 50 live attendees.<br/>
-@[C++ Day 2020](http://www.italiancpp.org/cppday20) -- November 2020/Online
+@[C++ Day 2020](http://italiancpp.org/cppday20) -- November 2020/Online
 
 **Talk a sorpresa...Implementiamo "Slowest Key" in next-gen C++** (90')<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=rXx57cp4G4U) - (snippets in video description)<br/>
@@ -196,7 +196,7 @@ About [Coding Gym](http://coding-gym.com), by examples.
 **With great C++ comes great responsibility** (60')<br/>
 [Slides (ENG)](http://www.italiancpp.org/wp-content/uploads/2016/05/Marco-Arena-With-great-C-comes-great-responsibility.pdf) - [📹 Video (ITA)](https://www.youtube.com/watch?v=GuNSstZevr4)<br/>
 100+ attendees. [Feedback <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>](https://joind.in/event/italian-c-conference-2016/da-un-grande-c-derivano-grandi-responsabilit)<br/>
-@[Italian C++ Conference 2016](http://www.italiancpp.org/itcppcon16) -- May 2016/Milan (Italy)
+@[Italian C++ Conference 2016](http://italiancpp.org/itcppcon16) -- May 2016/Milan (Italy)
 
 **Grafici bellissimi plug & play** (60')<br/>
 About how to use [QCustomPlot](http://qcustomplot.com/) ([demo project shown](https://github.com/ilpropheta/anvedi)) - [Slides (ITA)](https://www.dropbox.com/s/t6skwfomgxij1ah/arena.pdf)<br/>
@@ -400,7 +400,7 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=FpytSuRhFwY)<br/>
 20 in person + 19 online attendees.
 
-### [Italian C++ Conference 2021](http://www.italiancpp.org/itcppcon21)
+### [Italian C++ Conference 2021](http://italiancpp.org/itcppcon21)
 
 <img src="/pics/itcppcon21.png" alt="Italian C++ Conference 2021" width="700">
 
@@ -535,7 +535,7 @@ Additional references:
 - [Wrap-up article (including feedback and statistics)](https://italiancpp.org/posts/2020-12-28-cppday20)
 - [📹 Videos](https://www.youtube.com/watch?v=YsdEgfY9rwo&list=PLsCm1Hs016LX6l97Royt5DSYy7V05nZmS)
 
-### [Italian C++ Conference 2020](http://www.italiancpp.org/itcppcon20)
+### [Italian C++ Conference 2020](http://italiancpp.org/itcppcon20)
 
 <img src="/pics/itcppcon20.png" alt="Italian C++ Conference 2020" width="700">
 
@@ -661,7 +661,7 @@ Additional references:
 - [📹 Videos]()
 - [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.2426964104284958)
 
-### [Italian C++ Conference 2019](http://www.italiancpp.org/itcppcon19)
+### [Italian C++ Conference 2019](http://italiancpp.org/itcppcon19)
 
 <img src="/pics/itcppcon19.png" alt="Italian C++ Conference 2019" width="700">
 
@@ -785,7 +785,7 @@ Additional references:
 
 <br/>
 
-### [Italian C++ Conference 2018](http://www.italiancpp.org/itcppcon18)
+### [Italian C++ Conference 2018](http://italiancpp.org/itcppcon18)
 
 <img src="/pics/itcppcon18.png" alt="Italian C++ Conference 2018" width="700">
 
@@ -891,7 +891,7 @@ Additional references:
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWK086XR-QgAKchfclBOL7O)
 - [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.1903164429998264)
 
-### [Italian C++ Conference 2017](http://www.italiancpp.org/itcppcon17)
+### [Italian C++ Conference 2017](http://italiancpp.org/itcppcon17)
 
 <img src="/pics/itcppcon17.png" alt="Italian C++ Conference 2017" width="700">
 
@@ -1020,7 +1020,7 @@ Additional references:
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LW9rB8rKxV0WNP6hNIUgjI4)
 - [📸 Pictures](https://www.facebook.com/media/set/?set=oa.883545501780439&type=3)
 
-### [Italian C++ Conference 2016](http://www.italiancpp.org/itcppcon16)
+### [Italian C++ Conference 2016](http://italiancpp.org/itcppcon16)
 
 <img src="/pics/itcppcon16.png" alt="Italian C++ Conference 2016" width="600">
 
