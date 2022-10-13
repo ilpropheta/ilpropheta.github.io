@@ -312,6 +312,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=JROZ4ZWQb2k)<br/>
 55 in person + 10 online attendees.
 
+- **October 12**: **Emanuele Rodolà** speaking about [Geometric Deep Learning](https://mlmodena.it/eventi/2022-10-12-geometric-deep-learning/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=G2xr0SxVY-E)<br/>
+65 in person + 15 online attendees.
+
 ## 2021
 
 ### Online and Hybrid C++ Meetups - Season 2021
