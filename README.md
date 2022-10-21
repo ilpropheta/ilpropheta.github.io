@@ -285,6 +285,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=uZUJOsR8pYM)<br/>
 12 in person + 13 online attendees.
 
+- **October 20**: I hosted an [AMA (Ask Me Anything)](https://italiancpp.org/eventi/2022-10-20-ama/) with **Maurizio De Pascale** (*CTO at IO Interactive*);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=2MEZqYGaksM)<br/>
+16 in person + 12 online attendees.
+
 ### Italian C++ Meetup at Microsoft House
 
 <img src="/pics/meetup-milano0522.png" alt="Italian C++ Meetup Milano - May 2022" width="700">
@@ -1421,4 +1425,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **July 2022**
+*Last Update*: **October 2022**
