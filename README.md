@@ -289,6 +289,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=2MEZqYGaksM)<br/>
 16 in person + 12 online attendees.
 
+- **December 1**: **Vincenzo Pelosio** speaking about [A sneak peek of Carbon programming language](https://italiancpp.org/eventi/2022-12-01-carbon/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=Q2DfZO4y8pE)<br/>
+10 in person + 10 online attendees.
+
 ### Italian C++ Meetup at Microsoft House
 
 <img src="/pics/meetup-milano0522.png" alt="Italian C++ Meetup Milano - May 2022" width="700">
@@ -1425,4 +1429,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **October 2022**
+*Last Update*: **December 2022**
