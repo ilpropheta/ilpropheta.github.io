@@ -326,6 +326,8 @@ List of meetups, including speakers and topics discussed:
 
 ### [Coding Gym Modena - Season 2022](https://coding-gym.org)
 
+<img src="/pics/cg-2022.jpg" alt="Coding Gym Modena - 2022" width="700">
+
 At this time, I organized 4 sessions in Modena, 1 in Lecce, and 1 in Brianza, attended by 86 people overall.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
@@ -456,6 +458,8 @@ Additional references:
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LV9BRKIqrNWEXfa5ggpiyki)
 
 ### [Coding Gym Modena - Season 2021](https://coding-gym.org)
+
+<img src="/pics/cg-2021.jpg" alt="Coding Gym Modena - 2021" width="700">
 
 I organized 1 session in Modena, attended by 16 people overall. The COVID emergency knocked out Coding Gym in 2021.
 
@@ -600,6 +604,8 @@ Additional references:
 
 ### [Coding Gym Modena - Season 2020](https://coding-gym.org)
 
+<img src="/pics/cg-2020.jpg" alt="Coding Gym Modena - 2020" width="700">
+
 I organized 1 session in Modena and 2 online, attended by 32 people overall. The COVID emergency knocked out Coding Gym in 2020.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
@@ -731,6 +737,8 @@ Additional references:
 - [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.2288400491474654)
 
 ### [Coding Gym Modena - Season 2019](https://coding-gym.org)
+
+<img src="/pics/cg-2019.jpg" alt="Coding Gym Modena - 2019" width="700">
 
 I organized 10 sessions in Modena and 1 in Bologna, attended by 201 people overall. 
 
@@ -891,6 +899,8 @@ I co-organized the first Modena Tech Summit, the first free conference in Modena
 
 ### [Coding Gym Modena - Season 2018](https://coding-gym.org)
 
+<img src="/pics/cg-2018.jpg" alt="Coding Gym Modena - 2018" width="700">
+
 I organized 10 sessions in Modena and 1 in Bologna, Pauda, Milan, Rome, and Turin, attended by 284 people overall. 
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
@@ -1025,6 +1035,8 @@ I wrapped up the contents [here](https://github.com/italiancpp/meetup17/blob/mas
 
 ### [Coding Gym Modena - Season 2017](https://coding-gym.org)
 
+<img src="/pics/cg-2017.jpg" alt="Coding Gym Modena - 2017" width="700">
+
 I organized 10 sessions in Modena, attended by 104 people overall. 
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
@@ -1108,6 +1120,8 @@ Additional references:
 - [📸 Pictures](https://www.facebook.com/media/set/?set=oa.793589927442664&type=3)
 
 ### [Coding Gym Modena - Season 2016](https://coding-gym.org)
+
+<img src="/pics/cg-2016.jpg" alt="Coding Gym Modena - 2016" width="700">
 
 I created Coding Gym and organized 8 sessions in Modena (the very first one in Bologna), attended by 77 people overall. 
 
