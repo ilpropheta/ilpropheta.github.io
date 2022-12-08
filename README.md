@@ -324,6 +324,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=G2xr0SxVY-E)<br/>
 65 in person + 15 online attendees.
 
+- **December 7**: **Maurizio Ipsale** speaking about [MLOps Fundamentals](https://mlmodena.it/eventi/2022-12-07-MLOps-fundamentals/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=0gc4gmgrs1g)<br/>
+70 in person + 18 online attendees.
+
 ### [Coding Gym Modena - Season 2022](https://coding-gym.org)
 
 <img src="/pics/cg-2022.jpg" alt="Coding Gym Modena - 2022" width="700">
