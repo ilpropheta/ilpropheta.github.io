@@ -264,8 +264,9 @@ Every meetup and event I have organized was **totally free to attend**.
 
 I have organized and promoted monthly hybrid C++ meetups, hosted in person at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
 
-Every meetup consisted in 1-hour technical session + pizza and networking.<br/>
-[📹 YouTube Playlist here](https://www.youtube.com/watch?v=59g4SkJuGNQ&list=PLsCm1Hs016LU_uCKIrFvXNa22KtXAlOQ4)
+Every meetup consisted in 1-hour technical session + pizza and networking:
+- [📹 YouTube Playlist here](https://www.youtube.com/watch?v=59g4SkJuGNQ&list=PLsCm1Hs016LU_uCKIrFvXNa22KtXAlOQ4)
+- [📸 Some pictures here](https://www.facebook.com/media/set/?set=a.527895062677455&type=3)
 
 List of meetups, including speakers and topics discussed:
 
@@ -307,8 +308,9 @@ I have organized an [Italian C++ Meetup in Milan](https://italiancpp.org/eventi/
 
 I have organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/channel/UCRPDGO4UQk-rdhjSgG_Q0Tg) and [AirMeet](https://www.airmeet.com/).<br/>
 
-Every meetup consisted in 1-hour technical session + pizza and networking.<br/>
-[📹 YouTube Playlist here](https://www.youtube.com/watch?v=pIcUhgDJ2Ag&list=PL0yWIbKoA6BoVzyQxXgqFt8A7rDWgRRwB)
+Every meetup consisted in 1-hour technical session + pizza and networking:
+- [📹 YouTube Playlist](https://www.youtube.com/watch?v=pIcUhgDJ2Ag&list=PL0yWIbKoA6BoVzyQxXgqFt8A7rDWgRRwB)
+- [📸 Some pictures](https://www.facebook.com/media/set/?set=a.459415625597843&type=3)
 
 List of meetups, including speakers and topics discussed:
 
@@ -344,8 +346,9 @@ More details on each session [here](https://coding-gym.org/events), 📸 picture
 
 I have organized and promoted monthly C++ meetups, hosted online only during the first half of the year (on [Remo](https://remo.co/) and [YouTube](https://www.youtube.com/playlist?list=PLsCm1Hs016LWsjNbgHWGPq4Fk2lyoUML7)) and hosted in person and online from September.<br/>
 
-Every meetup consisted in 1-hour technical session + online networking.<br/>
-[📹 YouTube Playlist here](https://www.youtube.com/playlist?list=PLsCm1Hs016LWsjNbgHWGPq4Fk2lyoUML7)
+Every meetup consisted in 1-hour technical session + online networking:
+- [📹 YouTube Playlist](https://www.youtube.com/playlist?list=PLsCm1Hs016LWsjNbgHWGPq4Fk2lyoUML7)
+- [📸 Some pictures here](https://www.facebook.com/media/set/?set=a.3031574253823937&type=3)
 
 List of meetups, including speakers and topics discussed:
 
@@ -395,8 +398,9 @@ List of meetups, including speakers and topics discussed:
 
 I have organized and promoted monthly Artificial Intelligence online meetups, hosted on [AirMeet](https://www.airmeet.com/).<br/>
 
-Every meetup consisted in 1-hour technical session + online networking.<br/>
-[📹 YouTube Playlist here](https://www.youtube.com/playlist?list=PL0yWIbKoA6BozPd7HalEAgZY-OZBXLi3p)
+Every meetup consisted in 1-hour technical session + online networking:
+- [📹 YouTube Playlist](https://www.youtube.com/playlist?list=PL0yWIbKoA6BozPd7HalEAgZY-OZBXLi3p)
+- [📸 Some pictures](https://www.facebook.com/media/set/?set=a.459415625597843&type=3)
 
 List of meetups, including speakers and topics discussed:
 
@@ -471,15 +475,16 @@ More details on each session [here](https://coding-gym.org/events), 📸 picture
 
 ## 2020
 
-### Modena C++ Meetups - Season 2020
+### Modena/Online C++ Meetups - Season 2020
 
 <img src="/pics/meetup-mo2020.png" alt="Meetup Modena - Feb 2020" width="700">
 
 I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
-[Picures](https://www.facebook.com/italiancpp/photos/?tab=album&album_id=2466863940294974)
+Actually, most of them were hosted online due to COVID-19 emergency.
 
-Every meetup consisted in 2 hours of technical contents (up to the speaker) and networking dinner afterwards.<br/>
-[📹 YouTube Playlist here](https://www.youtube.com/watch?v=89YhaFSCuIw&list=PLsCm1Hs016LW8gzRLE7zt5bDfxo8otetb)
+Every meetup consisted in 2 hours of technical contents (up to the speaker) and networking dinner afterwards:
+- [📹 YouTube Playlist](https://www.youtube.com/watch?v=89YhaFSCuIw&list=PLsCm1Hs016LW8gzRLE7zt5bDfxo8otetb)
+- [📸 Some pictures](https://www.facebook.com/media/set/?set=a.2466863940294974&type=3)
 
 List of meetups, including speakers and topics discussed:
 
@@ -621,10 +626,10 @@ More details on each session [here](https://coding-gym.org/events), 📸 picture
 <img src="/pics/meetup-mo2019.png" alt="Meetup Modena - Feb 2019" width="700">
 
 I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
-[Picures](https://www.facebook.com/italiancpp/photos/?tab=album&album_id=2237022256612478)
 
-Every meetup consisted in 2 hours of technical contents (up to the speaker) and networking dinner afterwards.<br/>
-[📹 YouTube Playlist here](https://www.youtube.com/watch?v=ttcHSm-5dv4&list=PLsCm1Hs016LUK7VPwkNGmmpNDa6u9QQ9e)
+Every meetup consisted in 2 hours of technical contents (up to the speaker) and networking dinner afterwards:
+- [📹 YouTube Playlist](https://www.youtube.com/watch?v=ttcHSm-5dv4&list=PLsCm1Hs016LUK7VPwkNGmmpNDa6u9QQ9e)
+- [📸 Some pictures](https://www.facebook.com/media/set/?set=a.2237022256612478&type=3)
 
 List of meetups, including speakers and topics discussed:
 
@@ -755,7 +760,7 @@ More details on each session [here](https://coding-gym.org/events), 📸 picture
 <img src="/pics/meetup-mo0318.png" alt="Meetup Modena - Feb 2018" width="700">
 
 I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
-[Picures](https://www.facebook.com/1674843996163643/photos/?tab=album&album_id=1938357373145636)
+[Picures](https://www.facebook.com/media/set/?set=a.1938357373145636&type=3)
 
 Every meetup consisted in 2 hours of technical contents (up to the speaker) and networking dinner afterwards.
 
