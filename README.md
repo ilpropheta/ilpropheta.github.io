@@ -300,7 +300,7 @@ List of meetups, including speakers and topics discussed:
 
 I have organized an [Italian C++ Meetup in Milan](https://italiancpp.org/eventi/2022-05-31-milano/), hosted at Microsoft House. The meetup consisted in an interactive session about C++20 with technical contents, games, and quizzes. Afterwards, pizza and networking nearby.<br/>
 40+ attendees.<br/>
-📸 Some pictures [here](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.3201893330125361).
+📸 Some pictures [here](https://www.facebook.com/media/set/?set=a.3201893330125361&type=3).
 
 ### [Hybrid ML Modena Meetups - Season 2022](https://mlmodena.it)
 
@@ -834,7 +834,7 @@ Additional references:
 
 - [Wrap-up article (including feedback and statistics)](https://italiancpp.org/posts/2018-12-08-cppday18)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWco9qjTuwzQtLB2FjGkfHo)
-- [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.2140877512893620)
+- [📸 Pictures](https://www.facebook.com/media/set/?set=a.2023344447980261&type=3)
 
 <br/>
 
@@ -950,7 +950,7 @@ Additional references:
 
 - [Wrap-up article (including feedback and statistics)](https://italiancpp.org/posts/2017-12-11-cppday17)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWK086XR-QgAKchfclBOL7O)
-- [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.1903164429998264)
+- [📸 Pictures](https://www.facebook.com/media/set/?set=a.1903164429998264&type=3)
 
 ### [Italian C++ Conference 2017](http://italiancpp.org/itcppcon17)
 
@@ -995,7 +995,7 @@ Additional references:
 
 - [Wrap-up article (including feedback and statistics)](https://italiancpp.org/posts/2017-07-04-itcppcon17)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWoGAOd9wKvdb1fEqj2olBz)
-- [📸 Pictures](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.1819002205081154)
+- [📸 Pictures](https://www.facebook.com/media/set/?set=a.1819002205081154&type=3)
 
 ### [The Future of Programming with Bartosz Milewski / Modena](https://conoscerelinux.org/courses/the-future-of-programming-con-bartosz-milewski/)
 
@@ -1105,7 +1105,7 @@ Sponsor: [RogueWave Software](http://roguewave.com)<br/>
 
 Information are also on isocpp.org: https://isocpp.org/blog/2016/04/italiancpp-conf-2016
 
-My staff included: Raffaele RIaldi, Franco Milicchio, Alessandro Vergani, Gian Lorenzo Meocci, Marco Foco, Paolo Severini.
+My staff included: Raffaele Rialdi, Franco Milicchio, Alessandro Vergani, Gian Lorenzo Meocci, Marco Foco, Paolo Severini.
 
 **Highlights:**
 
