@@ -334,7 +334,7 @@ List of meetups, including speakers and topics discussed:
 
 <img src="/pics/cg-2022.jpg" alt="Coding Gym Modena - 2022" width="700">
 
-At this time, I organized 4 sessions in Modena, 1 in Lecce, and 1 in Brianza, attended by 86 people overall.
+I organized 5 sessions in Modena, 1 in Lecce, and 1 in Brianza, attended by 101 people overall.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
