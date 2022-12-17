@@ -1403,7 +1403,7 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 - During '90s
   - learned basics of computers and batch scripting
-  - attended an intermediate/advanced class on the Office Suite at school
+  - attended an intermediate class on the Office Suite at school
 - 2000
   - written my first line of Pascal, at school
   - written my first line of HTML, at school
@@ -1423,10 +1423,10 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
   - got my BSc in Computer Engineering in Rome
   - started MSc in Computer Engineering in Rome
 - 2009 
-  - used OpenGL for the first time and practiced graphics programming
+  - coded with OpenGL for the first time and practiced graphics programming
   - written my first line of C++
 - 2010
-  - used Qt and boost for the first time
+  - coded with Qt and boost for the first time
   - written a glsl shader for the first time
   - got my MSc in Computer Engineering in Rome
 - 2011
@@ -1435,11 +1435,11 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
   - started working at *Reply*
   - quit *Reply*
   - started working at *Ferrari*
-  - started using C++ professionally
+  - started developing with C++ professionally
   - written my first line of C#
-  - workied at the track for the first time, in Abu Dhabi
+  - worked at the track for the first time, in Abu Dhabi
 - 2012
-  - founded two Facebook and LinkedIn groups about C++: **++it, Italian C++ Community**
+  - founded Facebook and LinkedIn groups about C++ in Italy: **++it, Italian C++ Community**
 - 2013
   - founded [++it (Italian C++ Community)](https://italiancpp.org)
   - given my first talk at a professional conference (*AgileDay 2013*)
@@ -1457,9 +1457,9 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
   - joined the staff of [Meeting C++](https://meetingcpp.com/)
   - created [Coding Gym](https://coding-gym.org) and organized the very first session in Bologna
   - started monthly Coding Gym sessions in Modena
-  - joined the staff of [ConoscereLinux](http://conoscerelinux.it)
+  - joined the staff of [ConoscereLinux](https://conoscerelinux.it)
   - organized the first "big" [conference about C++ in Italy](https://italiancpp.org/itcppcon16)
-  - organized the first [C++ Day](http://italiancpp.org/cppday16)
+  - organized the first [C++ Day](https://italiancpp.org/cppday16)
   - my first time as a staff member at *Meeting C++*
   - went to my first MVP Global Summit in Redmond - my first time in USA
 - 2017
