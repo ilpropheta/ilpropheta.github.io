@@ -1401,7 +1401,7 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 # Timeline
 
-Here is a list of *some* notable events/milestones possibly influencing my professional life (most of them are sort of "first time I did *X*"). This is mostly a reminder for myself. I am not that kind of person who snobbishly writes "I have started programming at 8" or such, corroborating the idea that exceptional programmers are only those geeks who spent their childhood nights at writing code, obsessed with computers, and bad at sports. Thanks to my family, I had a happy childhood, I practiced several sports, and had genuine cheerful time. I was exposed to computers when I was a child and I immediatly got intrigued, but then I let that seed of passion grow by watering it from time to time without straining. When the time came, I was ready to push and to deliberately learn more.
+Here is a list of *some* notable events/milestones possibly influencing my professional life (most of them are sort of "first time I did *X*"). This is mostly a reminder for myself. I am not that kind of person who snobbishly writes "I have started programming at 8" or such, corroborating the idea that good programmers are only those geeks who spent their childhood nights at writing code, obsessed with computers, and bad at sports. Thanks to my family, I had a happy childhood, I practiced several sports, and had a genuine cheerful time. I was exposed to computers when I was a child and I immediatly got intrigued, but then I let that seed of passion grow by watering it from time to time without straining. When the time came, I was ready to push and to deliberately learn more.
 
 - During '90s
   - learned basics of computers and batch scripting
