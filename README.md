@@ -18,17 +18,19 @@ A professional list of my notable activities.
 
 # TL;DR -- in a nutshell
 
-I am a 11+ years experienced Computer Engineer from Rome, specialized in **C++ software development**.
+I am a 12+ years experienced Computer Engineer from Rome, specialized in **C++ software development**.
 
 Since the end of **2019**, I have worked at [Tetra Pak](http://tetrapak.com/) as one of the technical leaders of the *AI Engineering Team*, pioneering the development of AI-based applications for packaging lines. Previously, **from 2011 to 2019**, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a *Performance Software Engineer* and *C++ Specialist*, working on mission-critical telemetry and simulation software, and driving the adoption of modern C++ and latest standards. In **2020**, I have co-founded the **ISO C++ Italian body**, becoming part of the Standard C++ delegation for Italy.
 
-Behind the scenes, I define myself a "Community Hacker":
+In my spare time, I am also a 10+ years experienced community manager, organizer, blogger, and speaker: I gave birth to *Italian C++ Community* (2013), *Coding Gym* (2016), and *ML Modena* (2020). I have organized more than 150 activities - including meetups, coding laboratories, online events, and international conferences - attended by ~5000 people overall.
+
+In particular:
 
 - in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), or the C++ landmark in Italy, hosting 500+ users on Slack, 300+ subscribers on a dedicated [subreddit](https://reddit.com/r/cppit), 200+ attendees at on-site events, and sending a monthly newsletter targeting 1500+ people. The community hosts monthly local meetups in Modena (hosting 20-25 people), and also two international conferences every year;
 
-- in 2016, I created [Coding Gym](#coding-gym), a programming laboratory format open to any language. Started by me in Modena, I am also leading a group of amazing "trainers" who host the very same format in their cities. Every month, we organize a moderated and inclusive session hosting 25-30 people who work in pair and collaboratively share ideas and solutions;
+- in 2016, I created [Coding Gym](#coding-gym), a programming laboratory format open to any language. Started by me in Modena, I am also leading a group of amazing "trainers" who host the very same format in their cities. Every month, we organize a moderated and inclusive session hosting 25-30 people who work in pair and collaboratively share their solutions and ideas;
 
-- in 2020, I co-founded [ML Modena](https://mlmodena.it/), the first (and unique) community about Artificial Intelligence in the Modena area. Every month we organize a meetup hosting 40-50 people.
+- in 2020, I co-founded [ML Modena](https://mlmodena.it/), the first (and unique) community about Artificial Intelligence in the Modena area. Every month we organize a meetup hosting 60-70 people.
 
 Also, I am involved in some other community activities:
 
@@ -1399,7 +1401,7 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 # Timeline
 
-Here is a list of *some* notable events/milestones possibly influencing my professional life (most of them are sort of "first time I did *X*"). This is mostly a reminder for myself.
+Here is a list of *some* notable events/milestones possibly influencing my professional life (most of them are sort of "first time I did *X*"). This is mostly a reminder for myself. I am not that kind of person who snobbishly writes "I have started programming at 8" or such, corroborating the idea that exceptional programmers are only those geeks who spent their childhood nights at writing code, obsessed with computers, and bad at sports. Thanks to my family, I had a happy childhood, I practiced several sports, and had genuine cheerful time. I was exposed to computers when I was a child and I immediatly got intrigued, but then I let that seed of passion grow by watering it from time to time without straining. When the time came, I was ready to push and to deliberately learn more.
 
 - During '90s
   - learned basics of computers and batch scripting
@@ -1494,4 +1496,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **December 2022**
+*Last Update*: **January 2023**
