@@ -258,6 +258,33 @@ In addition to my community activities ([Italian C++ Community](http://italiancp
 
 Every meetup and event I have organized was **totally free to attend**.
 
+## 2023
+
+### [ML Modena Meetups - Season 2023](https://mlmodena.it)
+
+<img src="/pics/ml-modena-2022.png" alt="ML Modena Meetups" width="700">
+
+I have organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/channel/UCRPDGO4UQk-rdhjSgG_Q0Tg) and [AirMeet](https://www.airmeet.com/).<br/>
+
+Every meetup consisted in 1-hour technical session + pizza and networking:
+- [📹 YouTube Playlist](https://www.youtube.com/playlist?list=PL0yWIbKoA6Br7Q3m00W4-50_HfAxPitg5)
+- [📸 Some pictures](https://www.facebook.com/media/set/?set=a.202478412336111&type=3)
+
+List of meetups, including speakers and topics discussed:
+
+- **February 8**: **Paolo "Nusco" Perrotta** speaking about [Il Machine Learning spiegato agli umani](https://mlmodena.it/eventi/2023-02-08-Il-machine-learning-spiegato-agli-umani/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=DPU_vSPtIpM)<br/>
+70 in person + 15 online attendees.
+
+### [Coding Gym Modena - Season 2023](https://coding-gym.org)
+
+<img src="/pics/cg-2022.jpg" alt="Coding Gym Modena - 2023" width="700">
+
+By now, I have organized one session in Modena attended by 27 people overall.
+
+More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
+
+
 ## 2022
 
 ### Hybrid C++ Meetups - Season 2022
