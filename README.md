@@ -262,7 +262,7 @@ Every meetup and event I have organized was **totally free to attend**.
 
 ### [ML Modena Meetups - Season 2023](https://mlmodena.it)
 
-<img src="/pics/ml-modena-2022.png" alt="ML Modena Meetups" width="700">
+<img src="/pics/mlmodena23.png" alt="ML Modena Meetups" width="700">
 
 I have organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/channel/UCRPDGO4UQk-rdhjSgG_Q0Tg) and [AirMeet](https://www.airmeet.com/).<br/>
 
@@ -278,7 +278,7 @@ List of meetups, including speakers and topics discussed:
 
 ### [Coding Gym Modena - Season 2023](https://coding-gym.org)
 
-<img src="/pics/cg-2022.jpg" alt="Coding Gym Modena - 2023" width="700">
+<img src="/pics/cg-2023.jpg" alt="Coding Gym Modena - 2023" width="700">
 
 By now, I have organized one session in Modena attended by 27 people overall.
 
@@ -1525,4 +1525,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **January 2023**
+*Last Update*: **Februrary 2023**
