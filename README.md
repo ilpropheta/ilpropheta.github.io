@@ -262,7 +262,7 @@ Every meetup and event I have organized was **totally free to attend**.
 
 ### Modena C++ Meetups - Season 2023
 
-<img src="/pics/meetup_mo2023.png" alt="Italian C++ Meetup Modena 2023" width="700">
+<img src="/pics/meetup-mo2023.png" alt="Italian C++ Meetup Modena 2023" width="700">
 
 I have organized and promoted monthly C++ meetups, hosted in person at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>.
 
