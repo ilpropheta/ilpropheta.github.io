@@ -260,6 +260,22 @@ Every meetup and event I have organized was **totally free to attend**.
 
 ## 2023
 
+### Modena C++ Meetups - Season 2023
+
+<img src="/pics/meetup_mo2023.png" alt="Italian C++ Meetup Modena 2023" width="700">
+
+I have organized and promoted monthly C++ meetups, hosted in person at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>.
+
+Every meetup consisted in 1-hour technical session + pizza and networking:
+- [📹 YouTube Playlist here](https://www.youtube.com/playlist?list=PLsCm1Hs016LWy62q6O6MFdk59ndxruygo)
+- [📸 Some pictures here](https://www.facebook.com/media/set/?set=a.633984942068466&type=3)
+
+List of meetups, including speakers and topics discussed:
+
+- **February 16**: **Andrea Battistello** speaking about [Rust for C++ Developers](https://italiancpp.org/eventi/2023-02-16-rust/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=un3WV6FdU0E)<br/>
+25 in person + 15 online attendees.
+
 ### [ML Modena Meetups - Season 2023](https://mlmodena.it)
 
 <img src="/pics/mlmodena23.png" alt="ML Modena Meetups" width="700">
