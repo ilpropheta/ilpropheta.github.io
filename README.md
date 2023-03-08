@@ -1359,6 +1359,8 @@ My professional blogging activity started in **2011** on [Growing Up](https://ma
 
 Some of my blog posts from my [tech blog](https://marcoarena.wordpress.com) have been published on isocpp.org too:
 
+- [Merging intervals in next-gen C++](https://isocpp.org/blog/2023/03/merging-intervals-in-next-gen-cpp-marco-arena) - March **2023**
+
 - [The Toggle Builder](https://isocpp.org/blog/2023/02/the-toggle-builder) - January **2023**
 
 - [The Self-Growing Builder](https://isocpp.org/blog/2021/10/the-self-growing-builder) - October **2021**
@@ -1541,4 +1543,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **Februrary 2023**
+*Last Update*: **March 2023**
