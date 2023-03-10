@@ -551,7 +551,7 @@ List of meetups, including speakers and topics discussed:
 21 live attendees.
 
 - **June 11**: **Augustin Popa (Microsoft)** speaking about [Using vcpkg at work to manage your C/C++ libraries](https://italiancpp.org/eventi/2020-06-11-vcpkg/);<br/>
-[📹 Online-only event due to COVID-19](https://www.youtube.com/watch?v=UOP6JwUxl10)<br/>
+[📹 Online-only event due to COVID-19](https://youtu.be/r1QOUrDvsnc)<br/>
 30 live attendees.
 
 - **September 24**: **Michele Caini** speaking about [EnTT and Entity Component System](https://italiancpp.org/eventi/2020-09-24-entt-perf/);<br/>
