@@ -69,6 +69,12 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 <img src="/pics/talks-cover.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600"><br/>
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
+## 2023
+**Visita guidata a gRPC in C++** (90')<br/>
+[Slides & Demo (ENG)](https://github.com/ilpropheta/hello-grpc) <br/>
+30 attendees.<br/>
+@[XPUG Bologna Monthly](https://www.eventbrite.it/e/biglietti-visita-guidata-a-grpc-in-c-marco-arena-574022846787) -- March 2023
+
 ## 2022
 **A gentle introduction to gRPC in C++** (90')<br/>
 [Slides & Demo (ENG)](https://github.com/ilpropheta/hello-grpc) - [📹 Video (ITA)](https://www.youtube.com/watch?v=uZUJOsR8pYM) <br/>
