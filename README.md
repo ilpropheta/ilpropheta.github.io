@@ -302,7 +302,7 @@ List of meetups, including speakers and topics discussed:
 
 <img src="/pics/cg-2023.jpg" alt="Coding Gym Modena - 2023" width="700">
 
-By now, I have organized one session in Modena attended by 27 people overall.
+By now, I have organized 2 sessions in Modena attended by 49 people overall.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
