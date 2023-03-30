@@ -298,6 +298,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=DPU_vSPtIpM)<br/>
 70 in person + 15 online attendees.
 
+- **March 29**: **Matteo Fabbri** speaking about [Exploiting synthetic data to improve human behaviour understanding](https://mlmodena.it/eventi/2023-03-29-exploiting-synthetic-data-to-improve-human-behaviour-understanding/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=-OFdZhDf5Q4)<br/>
+65 in person + 12 online attendees.
+
 ### [Coding Gym Modena - Season 2023](https://coding-gym.org)
 
 <img src="/pics/cg-2023.jpg" alt="Coding Gym Modena - 2023" width="700">
