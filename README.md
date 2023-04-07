@@ -72,7 +72,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 ## 2023
 *C++ Course:* **Programmare in C++ è facile, se sai come farlo** (4 hours)<br/>
 I proudly developed and recorded the *C++ online course* of the *Enciclopedia Treccani*, the most famous encyclopedia in the Italian language. Basically, [Edulia Masterclass](https://edulia.it/), the digital training platform of *Istituto Treccani* selected me as a C++ expert to host the C++ course on the platform. I designed the course from scratch, deciding the slant and contents. The course is organized in 4 modules and it lasts for 4 hours. <br/>
-[Course page (ITA)](https://edulia.it/prodotto/programmare-in-c-e-facile-se-sai-come-farlo/) <br/>
+[Course page (ITA)](https://edulia.it/prodotto/programmare-in-cpp-e-facile-se-sai-come-farlo/) <br/>
 [Demo used to support the lessons](https://github.com/ilpropheta/guess-it)<br/>
 @[Edulia](https://edulia.it/) -- April 2023
 
