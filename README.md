@@ -70,6 +70,12 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2023
+*C++ Course:* **Programmare in C++ è facile, se sai come farlo** (4 hours)<br/>
+I proudly developed and recorded the *C++ course* of the *Enciclopedia Treccani*, the most famous encyclopedia in the Italian language. Basically, [Edulia Masterclass](https://edulia.it/), the digital training platform of *Istituto Treccani* (publisher of *Enciclopedia Treccani*) selected me as C++ expert to host a 4-hour C++ course on the platform. <br/>
+[Course page (ITA)](https://edulia.it/prodotto/programmare-in-c-e-facile-se-sai-come-farlo/) <br/>
+[Demo used to support the lessons](https://github.com/ilpropheta/guess-it)<br/>
+@[Edulia](https://edulia.it/) -- April 2023
+
 **Visita guidata a gRPC in C++** (90')<br/>
 [Slides & Demo (ENG)](https://github.com/ilpropheta/hello-grpc) <br/>
 30 attendees.<br/>
@@ -1553,4 +1559,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **March 2023**
+*Last Update*: **April 2023**
