@@ -1464,7 +1464,7 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 # Timeline
 
-Here is a list of *some* notable events/milestones possibly influencing my professional life (most of them are sort of "first time I did *X*"). This is mostly a reminder for myself. I am not that kind of person who snobbishly writes "I have started programming at 8" or such, corroborating the idea that good programmers are only those geeks who spent their childhood nights at writing code, obsessed with computers, and bad at sports. Thanks to my family, I had a happy childhood, I practiced several sports, and had a genuine cheerful time. I was exposed to computers when I was a child and I immediatly got intrigued, but then I let that seed of passion grow by watering it from time to time without straining. When the time came, I was ready to push and to deliberately learn more.
+Here is a list of *some* notable events/milestones possibly influencing my professional life, most of which are in the form "first time I did *something*". This is especially a reminder for myself. I am not that kind of person who snobbishly writes "I have started programming at 8" or such, corroborating the idea that good programmers are only those geeks who spent their childhood nights at writing code, obsessed with computers, and bad at sports. Thanks to my family, I had a happy childhood, I practiced several sports, and had a genuine cheerful time. I was exposed to computers when I was a child and I immediatly got intrigued, but then I let that seed of passion grow by watering it from time to time without straining. When the time came, I was ready to push and to make a step forward.
 
 - During '90s
   - learned basics of computers and batch scripting
@@ -1509,6 +1509,7 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
   - founded [++it (Italian C++ Community)](https://italiancpp.org)
   - given my first talk at a professional conference (*AgileDay 2013*)
 - 2014
+  - curated my first technical track about C++ for a professional event (*Community Days 2014*)
   - organized my first meetup - the first Italian C++ Community meetup, in Milan 
   - facilitated a workshop for the first time, at *AgileDay 2014*
   - attended *Meeting C++* for the first time - my first C++ event ever
@@ -1555,6 +1556,8 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
   - given my first talk (online) at a high school
 - 2022
   - co-organized the first Coding Gym in Lecce
+- 2023
+  - recorded my first [professional C++ course](https://edulia.it/prodotto/programmare-in-cpp-e-facile-se-sai-come-farlo/)
 <br/>
 
 ----
