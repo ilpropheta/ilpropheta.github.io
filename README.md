@@ -308,6 +308,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=-OFdZhDf5Q4)<br/>
 65 in person + 12 online attendees.
 
+- **May 10**: **Giuseppe Fiameni** (Nvidia) speaking about [Why ever increasing models and how to handle them](https://mlmodena.it/eventi/2023-05-10-why-ever-increasing-models-and-how-to-handle-them/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=fp57VeMW3zE)<br/>
+96 in person + 15 online attendees.
+
 ### [Coding Gym Modena - Season 2023](https://coding-gym.org)
 
 <img src="/pics/cg-2023.jpg" alt="Coding Gym Modena - 2023" width="700">
@@ -1562,4 +1566,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **April 2023**
+*Last Update*: **May 2023**
