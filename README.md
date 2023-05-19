@@ -288,6 +288,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=un3WV6FdU0E)<br/>
 25 in person + 15 online attendees.
 
+- **May 18**: **Marcello Missiroli** speaking about [Software Quality](https://italiancpp.org/eventi/2023-05-18-quality);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=3tdH_ISxa2Y)<br/>
+16 in person + 10 online attendees.
+
 ### [ML Modena Meetups - Season 2023](https://mlmodena.it)
 
 <img src="/pics/mlmodena23.png" alt="ML Modena Meetups" width="700">
