@@ -316,6 +316,43 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=fp57VeMW3zE)<br/>
 96 in person + 15 online attendees.
 
+### [Italian C++ Conference 2023](http://italiancpp.org/itcppcon23)
+
+<img src="/pics/itcppcon23.png" alt="Italian C++ Conference 2023" width="700">
+
+Rome, June 2023.
+
+I coordinated the organization of the seventh edition of the Italian C++ Conference, the greatest conference in Italy entirely dedicated to C++. The event took place at "Università Roma Tre".<br/>
+**207 attendees** (275 registered people - ~25% drop).
+
+*Speakers*: Vittorio Romeo, Raffaele Rialdi, Maurizio De Pascale, Mohamed Selim, Jonathan Müller, Mike Shah, Conor Hoekstra, Davide Di Gennaro, Marco Manino, Alberto Barbati, Luis Caro Campos, Davide Bianchi.
+
+**Sponsors**: Luxoft, Qubica, AIV, ZURU, think-cell, KDAB, ELT
+
+My staff included: Franco Milicchio, Stefano Saraulli, Vincenzo Pelosio, Alessandro Vergani, Riccardo Brugo, Alberto Barbati, Federico Ficarelli, Federico Pasqua.
+
+**Highlights:**
+
+- 10x50' talks
+- 2x30' short talks
+- 10th anniversary celebration (cake + game)
+- Networking breaks and lunch.
+
+**Topics:**
+
+- C++23 features
+- Unreal Engine in C++
+- Game Development
+- Code optimization
+- Compilation times optimization
+- C++ in safetey-critical environments
+
+Additional references:
+
+- Wrap-up article (including feedback and statistics
+- [📹 Videos](https://www.youtube.com/watch?v=qeLPeuQ5-TI&list=PLsCm1Hs016LWmLbXL7in73BgB9AhMrfDa)
+- [📸 Pictures](https://www.facebook.com/media/set/?set=a.724299043037055&type=3)
+
 ### [Coding Gym Modena - Season 2023](https://coding-gym.org)
 
 <img src="/pics/cg-2023.jpg" alt="Coding Gym Modena - 2023" width="700">
@@ -323,7 +360,6 @@ List of meetups, including speakers and topics discussed:
 By now, I have organized 3 sessions in Modena attended by 70 people overall.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
-
 
 ## 2022
 
