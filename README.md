@@ -26,9 +26,9 @@ In my spare time, I am also a 10+ years experienced community manager, organizer
 
 In particular:
 
-- in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), or the C++ landmark in Italy, hosting 500+ users on Slack, 300+ subscribers on a dedicated [subreddit](https://reddit.com/r/cppit), 200+ attendees at on-site events, and sending a monthly newsletter targeting 1500+ people. The community hosts monthly local meetups in Modena (hosting 20-25 people), and also two international conferences every year;
+- in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), or the C++ landmark in Italy, hosting 200+ users on Discord, 300+ subscribers on a dedicated [subreddit](https://reddit.com/r/cppit), 200+ attendees at on-site events, and sending a monthly newsletter targeting 1500+ people. The community hosts monthly local meetups in Modena (hosting 20-25 people), and also two international conferences every year;
 
-- in 2016, I created [Coding Gym](#coding-gym), a programming laboratory format open to any language. Started by me in Modena, I am also leading a group of amazing "trainers" who host the very same format in their cities. Every month, we organize a moderated and inclusive session hosting 25-30 people who work in pair and collaboratively share their solutions and ideas;
+- in 2016, I created [Coding Gym](#coding-gym), a programming laboratory format open to any language. Started by me in Modena, I am also leading a group of amazing "trainers" who host the very same format in their cities. Every month, I organize a moderated and inclusive session hosting 25-30 people who work in pair and collaboratively share their solutions and ideas. Besides, I have authored and published more than 120 articles on [Coding Gym challenges](https://coding-gym.org/challenges/) using different approaches and programming languages;
 
 - in 2020, I co-founded [ML Modena](https://mlmodena.it/), the first (and unique) community about Artificial Intelligence in the Modena area. Every month we organize a meetup hosting 60-70 people.
 
@@ -42,9 +42,9 @@ Also, I am involved in some other community activities:
 
 - in 2018, I co-founded [Community Crumbs](https://communitycrumbs.org/), a non-profit organization patronizing all my community activities. This adventure ended in 2020.
 
-Sometimes, I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops). I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and *Italian C++ Community* events (however, I tend to avoid going onstage at my own community's conferences to let other people share their stories).
+Sometimes, I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops). I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and *Italian C++ Community* events (however, I tend to avoid going onstage at my own community's conferences to let other people share their stories). Also, I have authored and published [more than 120 articles on coding challenges](https://coding-gym.org/challenges/).
 
-Since 2016, I have received (7 times in a row) the **Microsoft MVP award** for [my community activies](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
+Since 2016, I have received (8 times in a row) the **Microsoft MVP award** for [my community activies](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
 
 ___
 My activites:
