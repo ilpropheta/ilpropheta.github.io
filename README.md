@@ -358,7 +358,7 @@ My staff included: Franco Milicchio, Stefano Saraulli, Vincenzo Pelosio, Alessan
 
 Additional references:
 
-- [Wrap-up article (including feedback and statistics](https://italiancpp.org/posts/2023-06-10-itcppcon23/)
+- [Wrap-up article (including feedback and statistics)](https://italiancpp.org/posts/2023-06-10-itcppcon23/)
 - [📹 Videos](https://www.youtube.com/watch?v=qeLPeuQ5-TI&list=PLsCm1Hs016LWmLbXL7in73BgB9AhMrfDa)
 - [📸 Pictures](https://www.facebook.com/media/set/?set=a.724299043037055&type=3)
 
