@@ -297,6 +297,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=3tdH_ISxa2Y)<br/>
 16 in person + 10 online attendees.
 
+- **September 27**: **Marco Arena** speaking about [Alla scoperta di C++23](https://italiancpp.org/eventi/2023-09-27-cpp23/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=PYoahya-iIk)<br/>
+28 in person + 18 online attendees.
+
 ### [ML Modena Meetups - Season 2023](https://mlmodena.it)
 
 <img src="/pics/mlmodena23.png" alt="ML Modena Meetups" width="700">
