@@ -71,7 +71,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2023
 **Alla scoperta di C++23** (90')<br/>
-[Slides & Demo (ENG)](https://github.com/ilpropheta/cpp23) <br/>
+[Slides & Demo (ENG)](https://github.com/ilpropheta/cpp23) - [📹 Video (ITA)](https://www.youtube.com/watch?v=PYoahya-iIk) <br/>
 28 in person + 18 online attendees.<br/>
 @[Monthly Italian C++ Meetups Modena](https://italiancpp.org/eventi/2023-09-27-cpp23/) -- September 2023
 
