@@ -325,6 +325,11 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=fp57VeMW3zE)<br/>
 96 in person + 15 online attendees.
 
+- **October 19**: **Federico Scaltriti** & **Davide Bedogni** speaking about [Etica e continuous improvement: lavorare con l’AI nel 2023
+](https://mlmodena.it/eventi/2023-10-18-etica-e-continuous-improvement-lavorare-con-IA-nel-2023/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=Ou1rhObJqm4)<br/>
+55 in person + 12 online attendees.
+
 ### [Italian C++ Conference 2023](http://italiancpp.org/itcppcon23)
 
 <img src="/pics/itcppcon23.png" alt="Italian C++ Conference 2023" width="700">
