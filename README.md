@@ -1475,12 +1475,11 @@ Some of my blog posts from my [tech blog](https://marcoarena.wordpress.com) have
 
 - [Learn how to capture by move](https://isocpp.org/blog/2012/11/learn-how-to-capture-by-move) – November **2012**
 
-<br/>
-Every post below have been published on isocpp.org too:
-
 ## C++ in Competitive Programming
 
-In **2016**, I started the blog series *C++ in Competitive Programming*, about algorithms, idioms and usage of C++ for solving programming challenges. Current installments:
+In **2016**, I started the blog series *C++ in Competitive Programming*, about algorithms, idioms and usage of C++ for solving programming challenges. Every post in the series have been published on [isocpp.org](https://isocpp.org/) too.
+
+Current installments:
 
 - [Introduction](https://marcoarena.wordpress.com/2016/02/15/cpp-in-competitive-programming-intro/) - February **2016**
 - [Input and Output](https://marcoarena.wordpress.com/2016/03/13/cpp-competitive-programming-io/) - March **2016** 
@@ -1489,6 +1488,18 @@ In **2016**, I started the blog series *C++ in Competitive Programming*, about a
 - [Associative containers](https://marcoarena.wordpress.com/2016/07/20/cpp-in-competitive-programming-associative-containers/) - July **2016**
 - [Compromises](https://marcoarena.wordpress.com/2016/09/30/cpp-in-competitive-programming-compromises/) - September **2016**
 - [A hidden gem: inner_product](https://marcoarena.wordpress.com/2017/11/14/a-hidden-gem-inner_product/) - November **2017**
+
+## SObjectizer Tales
+
+In **2023**, I started the blog series *SObjectizer Tales*, about concurrent C++, made simple. In this series, I progressively develop a program to acquire and process webcam images while exploring the many features of SObjectizer, a library that simplifies concurrent application development using message passing and the actor model. Every post in the series have been published on [isocpp.org](https://isocpp.org/) too. The series is also available on [dev.to](https://dev.to/ilpropheta/series/24883).
+
+Current installments:
+
+- [Prelude](https://marcoarena.wordpress.com/2023/10/05/sobjectizer-tales-prelude/)
+- [1. Producing images](https://marcoarena.wordpress.com/2023/10/12/sobjectizer-tales-1/)
+- [2. Can you call me back?](https://marcoarena.wordpress.com/2023/10/19/sobjectizer-tales-2/)
+- [3. Acquisition loop revisted](https://marcoarena.wordpress.com/2023/10/26/sobjectizer-tales-3/)
+- [4. Handling commands](https://marcoarena.wordpress.com/2023/11/02/sobjectizer-tales-4/)
 
 # Projects and Repos
 
@@ -1507,6 +1518,12 @@ Some of my projects/experiments follow:
 - [daje](https://github.com/ilpropheta/daje) – Collection of Algorithms and Data Structures
 
 - [PPL Agents](https://github.com/ilpropheta/PPL-Agents) - Some abstractions built on top of Microsoft's PPL `agents`
+
+- [bellamy](https://github.com/ilpropheta/bellamy) - A Rust program to open an URL in a chromeless window (based on WebView2)
+
+- [bonnet](https://github.com/ilpropheta/bonnet) - A Windows program that opens a webpage into a self-hosted window and, optionally, launches a backend process
+
+- [calico](https://github.com/ilpropheta/calico/) - The program behind my blog series "SObjectizer Tales" that acquires and processes webcam images
 
 # Podcasts
 
