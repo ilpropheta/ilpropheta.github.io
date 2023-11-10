@@ -1500,6 +1500,7 @@ Current installments:
 - [2. Can you call me back?](https://marcoarena.wordpress.com/2023/10/19/sobjectizer-tales-2/)
 - [3. Acquisition loop revisted](https://marcoarena.wordpress.com/2023/10/26/sobjectizer-tales-3/)
 - [4. Handling commands](https://marcoarena.wordpress.com/2023/11/02/sobjectizer-tales-4/)
+- [5. Sending commands](https://marcoarena.wordpress.com/2023/11/09/sobjectizer-tales-5/)
 
 # Projects and Repos
 
@@ -1637,4 +1638,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **May 2023**
+*Last Update*: **November 2023**
