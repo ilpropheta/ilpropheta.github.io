@@ -1501,6 +1501,7 @@ Current installments:
 - [3. Acquisition loop revisted](https://marcoarena.wordpress.com/2023/10/26/sobjectizer-tales-3/)
 - [4. Handling commands](https://marcoarena.wordpress.com/2023/11/02/sobjectizer-tales-4/)
 - [5. Sending commands](https://marcoarena.wordpress.com/2023/11/09/sobjectizer-tales-5/)
+- [6. Is the stream still in progress?](https://marcoarena.wordpress.com/2023/11/16/sobjectizer-tales-6/)
 
 # Projects and Repos
 
