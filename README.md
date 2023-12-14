@@ -371,7 +371,7 @@ Additional references:
 
 <img src="/pics/cg-2023.jpg" alt="Coding Gym Modena - 2023" width="700">
 
-By now, I have organized 4 sessions in Modena attended by 96 people overall.
+By now, I have organized 5 sessions in Modena attended by 113 people overall.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
@@ -1502,6 +1502,9 @@ Current installments:
 - [4. Handling commands](https://marcoarena.wordpress.com/2023/11/02/sobjectizer-tales-4/)
 - [5. Sending commands](https://marcoarena.wordpress.com/2023/11/09/sobjectizer-tales-5/)
 - [6. Is the stream still in progress?](https://marcoarena.wordpress.com/2023/11/16/sobjectizer-tales-6/)
+- [7. Agent composition](https://marcoarena.wordpress.com/2023/11/23/sobjectizer-tales-7/)
+- [8. Representing errors](https://marcoarena.wordpress.com/2023/11/30/sobjectizer-tales-8/)
+- [9. Splitting work](https://marcoarena.wordpress.com/2023/12/07/sobjectizer-tales-9/)
 
 # Projects and Repos
 
@@ -1635,6 +1638,7 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
   - co-organized the first Coding Gym in Lecce
 - 2023
   - recorded my first [professional C++ course](https://edulia.it/prodotto/programmare-in-cpp-e-facile-se-sai-come-farlo/)
+  - started my first "long" blog series [SObectizer Tales](#sobjectizer-tales)
 <br/>
 
 ----
