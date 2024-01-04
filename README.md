@@ -18,11 +18,11 @@ A professional list of my notable activities.
 
 # TL;DR -- in a nutshell
 
-I am a 12+ years experienced Computer Engineer from Rome, specialized in **C++ software development**.
+I am a 13+ years experienced Computer Engineer from Rome, specialized in **C++ software development**.
 
-Since the end of **2019**, I have worked at [Tetra Pak](http://tetrapak.com/) as one of the technical leaders of the *AI Engineering Team*, pioneering the development of AI-based applications for packaging lines. Previously, **from 2011 to 2019**, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a *Performance Software Engineer* and *C++ Specialist*, working on mission-critical telemetry and simulation software, and driving the adoption of modern C++ and latest standards. In **2020**, I have co-founded the **ISO C++ Italian body**, becoming part of the Standard C++ delegation for Italy.
+Since the end of **2019**, I have worked at [Tetra Pak](http://tetrapak.com/) as one of the technical leaders of the *AI Engineering Team*, pioneering the development of AI-based applications for packaging lines. Previously, **from 2011 to 2019**, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a *Performance Software Engineer* and *C++ Specialist*, working on mission-critical telemetry and simulation software, and driving the adoption of modern C++ and latest standards. In **2020**, I co-founded the **ISO C++ Italian body**, propelling the evolution of C++ standards in Italy.
 
-In my spare time, I am also a 10+ years experienced community manager, organizer, blogger, and speaker: I gave birth to *Italian C++ Community* (2013), *Coding Gym* (2016), and *ML Modena* (2020). I have organized more than 150 activities - including meetups, coding laboratories, online events, and international conferences - attended by ~5000 people overall.
+Beyond the code, I'm a 11+ years experienced community manager, organizer, blogger, and speaker: I birthed the Italian C++ Community in 2013, Coding Gym in 2016 (a programming laboratory open to all languages), and ML Modena in 2020 (the leading AI community in Modena). Together, these initiatives have attracted thousands, hosting meetups, coding laboratories, online events, and international conferences.
 
 In particular:
 
@@ -42,10 +42,9 @@ Also, I am involved in some other community activities:
 
 - in 2018, I co-founded [Community Crumbs](https://communitycrumbs.org/), a non-profit organization patronizing all my community activities. This adventure ended in 2020.
 
-Sometimes, I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops). I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and *Italian C++ Community* events (however, I tend to avoid going onstage at my own community's conferences to let other people share their stories). Also, I have authored and published [more than 120 articles on coding challenges](https://coding-gym.org/challenges/).
+Sometimes, I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops). I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and *Italian C++ Community* events. Also, I have authored and published [more than 120 articles on coding challenges using idiomatic C++ and sometimes other programming languages](https://coding-gym.org/challenges/).
 
-Since 2016, I have received (8 times in a row) the **Microsoft MVP award** for [my community activies](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
-
+Recognized for my efforts, I've received the prestigious **Microsoft MVP award** eight times since 2016, a testament to my impactful [community contributions](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
 ___
 My activites:
 
@@ -1491,20 +1490,9 @@ Current installments:
 
 ## SObjectizer Tales
 
-In **2023**, I started the blog series *SObjectizer Tales*, about concurrent C++, made simple. In this series, I progressively develop a program to acquire and process webcam images while exploring the many features of SObjectizer, a library that simplifies concurrent application development using message passing and the actor model. Every post in the series have been published on [isocpp.org](https://isocpp.org/) too. The series is also available on [dev.to](https://dev.to/ilpropheta/series/24883).
+In **2023**, I started the blog series [SObjectizer Tales](https://marcoarena.wordpress.com/sobjectizer-tales/), about concurrent C++, made simple. In this series, I progressively develop a program to acquire and process webcam images while exploring the many features of SObjectizer, a library that simplifies concurrent application development using message passing and the actor model. Every post in the series have been published on [isocpp.org](https://isocpp.org/) too. The series is also available on [dev.to](https://dev.to/ilpropheta/series/24883).
 
-Current installments:
-
-- [Prelude](https://marcoarena.wordpress.com/2023/10/05/sobjectizer-tales-prelude/)
-- [1. Producing images](https://marcoarena.wordpress.com/2023/10/12/sobjectizer-tales-1/)
-- [2. Can you call me back?](https://marcoarena.wordpress.com/2023/10/19/sobjectizer-tales-2/)
-- [3. Acquisition loop revisted](https://marcoarena.wordpress.com/2023/10/26/sobjectizer-tales-3/)
-- [4. Handling commands](https://marcoarena.wordpress.com/2023/11/02/sobjectizer-tales-4/)
-- [5. Sending commands](https://marcoarena.wordpress.com/2023/11/09/sobjectizer-tales-5/)
-- [6. Is the stream still in progress?](https://marcoarena.wordpress.com/2023/11/16/sobjectizer-tales-6/)
-- [7. Agent composition](https://marcoarena.wordpress.com/2023/11/23/sobjectizer-tales-7/)
-- [8. Representing errors](https://marcoarena.wordpress.com/2023/11/30/sobjectizer-tales-8/)
-- [9. Splitting work](https://marcoarena.wordpress.com/2023/12/07/sobjectizer-tales-9/)
+Check out all the published installments [here](https://marcoarena.wordpress.com/sobjectizer-tales/).
 
 # Projects and Repos
 
@@ -1643,4 +1631,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **November 2023**
+*Last Update*: **January 2024**
