@@ -45,6 +45,7 @@ Also, I am involved in some other community activities:
 Sometimes, I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops). I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and *Italian C++ Community* events. Also, I have authored and published [more than 120 articles on coding challenges using idiomatic C++ and sometimes other programming languages](https://coding-gym.org/challenges/).
 
 Recognized for my efforts, I've received the prestigious **Microsoft MVP award** eight times since 2016, a testament to my impactful [community contributions](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
+
 ___
 My activites:
 
