@@ -283,7 +283,7 @@ Every meetup and event I have organized was **totally free to attend**.
 
 Modena, January 2024.
 
-I coordinated with [Giorgia Franchini](https://www.linkedin.com/in/giorgia-franchini-a6bba042/) the organization of the first edition of the "La notte dell'Intelligenza Artificiale", a networking event dedicated to Artificial Intelligence. The event took place at "Università di Modena e Reggio Emilia".<br/>
+I coordinated with [Giorgia Franchini](https://www.linkedin.com/in/giorgia-franchini-a6bba042/) the organization of the first edition of "La notte dell'Intelligenza Artificiale", a networking event dedicated to Artificial Intelligence. The event took place at "Università di Modena e Reggio Emilia".<br/>
 **230 attendees** (320 registered people - ~28% drop).
 
 The event was part of [ML Modena](https://mlmodena.it/) events.
