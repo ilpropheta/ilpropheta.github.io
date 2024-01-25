@@ -275,6 +275,37 @@ In addition to my community activities ([Italian C++ Community](http://italiancp
 
 Every meetup and event I have organized was **totally free to attend**.
 
+## 2024
+
+### [La Notte dell'Intelligenza Artificiale](https://mlmodena.it/eventi/2024-01-24-notte-dell-intelligenza-artificiale/)
+
+<img src="/pics/notte-ai-24.png" alt="La notte dell'Intelligenza Artificiale" width="700">
+
+Modena, January 2024.
+
+I coordinated with [Giorgia Franchini](https://www.linkedin.com/in/giorgia-franchini-a6bba042/) the organization of the first edition of the "La notte dell'Intelligenza Artificiale", a networking event dedicated to Artificial Intelligence. The event took place at "Università di Modena e Reggio Emilia".<br/>
+**230 attendees** (320 registered people - ~28% drop).
+
+The event was part of [ML Modena](https://mlmodena.it/) events.
+
+**Schedule:**
+
+- 6:00pm-6:30pm: open doors
+- 6:30pm-7:00pm: event kick-off
+- 7:00pm-9:00pm: buffet, networking and interaction
+- 9:00pm-9:30pm: event closing
+
+Poster sessions and exhibitors:
+- Giuseppe Fiameni (Nvidia)
+- Giovanni Gualdi & Francesco Solera (Deep Vision)
+- Maurizio Ipsale (Datatonic)
+- Matteo Fabbri (GoatAI)
+- Paolo Bertellini (ABACO)
+- Micaela Verucchi (HiPeRT)
+- Team Unimore
+
+We hosted AI-based games and a "networking passport" to foster interaction with speakers and exhibitors.
+
 ## 2023
 
 ### Modena C++ Meetups - Season 2023
