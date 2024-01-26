@@ -306,6 +306,8 @@ Poster sessions and exhibitors:
 
 We hosted AI-based games and a "networking passport" to foster interaction with speakers and exhibitors.
 
+[📸 Some pictures here](https://www.facebook.com/media/set/?vanity=mlmodena.official&set=a.389963786920905)
+
 ## 2023
 
 ### Modena C++ Meetups - Season 2023
