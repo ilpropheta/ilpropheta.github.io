@@ -279,7 +279,7 @@ Every meetup and event I have organized was **totally free to attend**.
 
 ### [ML Modena Meetups - Season 2024](https://mlmodena.it)
 
-<img src="/pics/mlmodena23.png" alt="ML Modena Meetups" width="700">
+<img src="/pics/mlmodena24.png" alt="ML Modena Meetups" width="700">
 
 I have organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/@mlmodena).<br/>
 
