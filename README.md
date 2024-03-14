@@ -69,6 +69,13 @@ Some events I spoke at provided a joind.in page. You can check out my [Joind.in 
 <img src="/pics/talks-cover.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600"><br/>
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
+## 2024
+
+**Intervista a Marco Arena: Tetra Pak, Ferrari, C++, Carriera In Italia, Gestione di Communities** (150')<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=JEnJ24536Gs) <br/>
+500 online attendees.<br/>
+@[Mr. Rip](https://retireinprogress.com/author/retireinprogressgmail-com/) -- March 2024
+
 ## 2023
 **Alla scoperta di C++23** (90')<br/>
 [Slides & Demo (ENG)](https://github.com/ilpropheta/cpp23) - [📹 Video (ITA)](https://www.youtube.com/watch?v=PYoahya-iIk) <br/>
@@ -1681,4 +1688,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **January 2024**
+*Last Update*: **March 2024**
