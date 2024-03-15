@@ -284,6 +284,22 @@ Every meetup and event I have organized was **totally free to attend**.
 
 ## 2024
 
+### Modena C++ Meetups - Season 2024
+
+<img src="/pics/meetup-mo2024.png" alt="Italian C++ Meetup Modena 2024" width="700">
+
+I have organized and promoted monthly C++ meetups, hosted in person at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
+
+Every meetup consisted of 1-hour technical session + pizza and networking:
+- [📹 YouTube Playlist here](https://www.youtube.com/playlist?list=PLsCm1Hs016LUPgZrvIhe2SlFPF_VqsOlL)
+- [📸 Some pictures here](https://www.facebook.com/media/set/?set=a.911735180960106&type=3)
+
+List of meetups, including speakers and topics discussed:
+
+- **March 14**: **Erico Tondelli** and **Mattia Verasani** speaking about [CMake: friend or enemy?](https://italiancpp.org/eventi/2024-03-14-cmake/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=mrZSTckWJlA)<br/>
+15 in person + 10 online attendees.
+
 ### [ML Modena Meetups - Season 2024](https://mlmodena.it)
 
 <img src="/pics/mlmodena24.png" alt="ML Modena Meetups" width="700">
