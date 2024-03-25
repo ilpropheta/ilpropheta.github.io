@@ -296,7 +296,7 @@ Every meetup consisted of 1-hour technical session + pizza and networking:
 
 List of meetups, including speakers and topics discussed:
 
-- **March 14**: **Erico Tondelli** and **Mattia Verasani** speaking about [CMake: friend or enemy?](https://italiancpp.org/eventi/2024-03-14-cmake/);<br/>
+- **March 14**: **Eric Tondelli** and **Mattia Verasani** speaking about [CMake: friend or enemy?](https://italiancpp.org/eventi/2024-03-14-cmake/);<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=mrZSTckWJlA)<br/>
 15 in person + 10 online attendees.
 
@@ -346,6 +346,14 @@ Poster sessions and exhibitors:
 We hosted AI-based games and a "networking passport" to foster interaction with speakers and exhibitors.
 
 [📸 Some pictures here](https://www.facebook.com/media/set/?vanity=mlmodena.official&set=a.389963786920905)
+
+### [Coding Gym Modena - Season 2024](https://coding-gym.org)
+
+<img src="/pics/cg-2024.png" alt="Coding Gym Modena - 2024" width="700">
+
+By now, I have organized 2 sessions in Modena attended by 50 people overall.
+
+More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
 ## 2023
 
