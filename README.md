@@ -71,8 +71,8 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2024
 
-**Intervista a Marco Arena: Tetra Pak, Ferrari, C++, Carriera In Italia, Gestione di Communities** (150')<br/>
-[📹 Video (ITA)](https://www.youtube.com/watch?v=JEnJ24536Gs) <br/>
+**Community C++, Ferrari e Tetra Pak | Chiacchierata con Marco Arena** (150')<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=o8IfzAPbJ0o) <br/>
 500 online attendees.<br/>
 @[Mr. Rip](https://retireinprogress.com/author/retireinprogressgmail-com/) -- March 2024
 
