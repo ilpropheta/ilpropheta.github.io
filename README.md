@@ -351,7 +351,7 @@ We hosted AI-based games and a "networking passport" to foster interaction with 
 
 <img src="/pics/cg-2024.png" alt="Coding Gym Modena - 2024" width="700">
 
-By now, I have organized 2 sessions in Modena attended by 50 people overall.
+By now, I have organized 3 sessions in Modena attended by 79 people overall.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
@@ -1712,4 +1712,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **March 2024**
+*Last Update*: **May 2024**
