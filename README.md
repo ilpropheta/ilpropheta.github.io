@@ -300,7 +300,7 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=mrZSTckWJlA)<br/>
 15 in person + 10 online attendees.
 
-### Italian C++ Meetup at Microsoft House
+### Italian C++ Meetup at Microsoft House 2024
 
 <img src="/pics/meetup-milano0524.png" alt="Italian C++ Meetup Milano - May 2024" width="700">
 
@@ -501,7 +501,7 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=Q2DfZO4y8pE)<br/>
 10 in person + 10 online attendees.
 
-### Italian C++ Meetup at Microsoft House
+### Italian C++ Meetup at Microsoft House 2022
 
 <img src="/pics/meetup-milano0522.png" alt="Italian C++ Meetup Milano - May 2022" width="700">
 
