@@ -71,6 +71,11 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2024
 
+**Alla scoperta di C++23** (90')<br/>
+[Slides & Snippets (ENG)](https://github.com/ilpropheta/cpp23/) <br/>
+60+ attendees.<br/>
+@[Italian C++ Meetup Milan at Microsoft House](https://italiancpp.org/eventi/2024-05-29-milano/) -- May 2024
+
 **Community C++, Ferrari e Tetra Pak | Chiacchierata con Marco Arena** (150')<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=o8IfzAPbJ0o) <br/>
 500 online attendees.<br/>
