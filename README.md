@@ -305,6 +305,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=mrZSTckWJlA)<br/>
 15 in person + 10 online attendees.
 
+- **June 5**: **Giorgio** and **Alberto Bignotti** speaking about [Ottimizzazione e Analisi Geometrica con Indici Spaziali](https://italiancpp.org/eventi/2024-06-05-gis/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=Cnjix7shv00)<br/>
+13 in person + 10 online attendees.
+
 ### Italian C++ Meetup at Microsoft House 2024
 
 <img src="/pics/meetup-milano0524.png" alt="Italian C++ Meetup Milano - May 2024" width="700">
@@ -1725,4 +1729,4 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 
 ----
 
-*Last Update*: **May 2024**
+*Last Update*: **June 2024**
