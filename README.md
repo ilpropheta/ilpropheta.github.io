@@ -317,22 +317,6 @@ I have organized an [Italian C++ Meetup in Milan](https://italiancpp.org/eventi/
 60+ attendees.<br/>
 📸 Some pictures [here](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.965887205544903).
 
-### [ML Modena Meetups - Season 2024](https://mlmodena.it)
-
-<img src="/pics/mlmodena24.png" alt="ML Modena Meetups" width="700">
-
-I have organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/@mlmodena).<br/>
-
-Every meetup consisted of 1-hour technical session + pizza and networking:
-- [📹 YouTube Playlist](https://www.youtube.com/watch?v=Jp6qtmVm3u4&list=PL0yWIbKoA6Bpf5E4mUQBMeRbzG2DjxFKK&pp=iAQB)
-- [📸 Some pictures](https://www.facebook.com/media/set/?set=a.413533771230573&type=3)
-
-List of meetups, including speakers and topics discussed:
-
-- **March 6**: **Giovanni Gualdi** speaking about [A journey through 3D vision in the era of deep learning](https://mlmodena.it/eventi/2024-03-06-3d-vision/);<br/>
-[📹 Video (ITA)](https://www.youtube.com/watch?v=Jp6qtmVm3u4)<br/>
-94 in person + 10 online attendees.
-
 ### [La Notte dell'Intelligenza Artificiale](https://mlmodena.it/eventi/2024-01-24-notte-dell-intelligenza-artificiale/)
 
 <img src="/pics/notte-ai-24.png" alt="La notte dell'Intelligenza Artificiale" width="700">
@@ -363,6 +347,26 @@ Poster sessions and exhibitors:
 We hosted AI-based games and a "networking passport" to foster interaction with speakers and exhibitors.
 
 [📸 Some pictures here](https://www.facebook.com/media/set/?vanity=mlmodena.official&set=a.389963786920905)
+
+### [ML Modena Meetups - Season 2024](https://mlmodena.it)
+
+<img src="/pics/mlmodena24.png" alt="ML Modena Meetups" width="700">
+
+I have organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/@mlmodena).<br/>
+
+Every meetup consisted of 1-hour technical session + pizza and networking:
+- [📹 YouTube Playlist](https://www.youtube.com/watch?v=Jp6qtmVm3u4&list=PL0yWIbKoA6Bpf5E4mUQBMeRbzG2DjxFKK&pp=iAQB)
+- [📸 Some pictures](https://www.facebook.com/media/set/?set=a.413533771230573&type=3)
+
+List of meetups, including speakers and topics discussed:
+
+- **March 6**: **Giovanni Gualdi** speaking about [A journey through 3D vision in the era of deep learning](https://mlmodena.it/eventi/2024-03-06-3d-vision/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=Jp6qtmVm3u4)<br/>
+94 in person + 10 online attendees.
+
+- **June 19**: **Micaela Verucchi** and **Davide Malvezzi** speaking about [Oltre i Limiti della Guida Autonoma: Come Guidare Autonomamente una Macchina da Corsa a oltre 270 KPH](https://mlmodena.it/eventi/2024-06-19-guida-autonoma/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=-6NiDbto2zk)<br/>
+120+ in person + 15 online attendees.
 
 ### [Coding Gym Modena - Season 2024](https://coding-gym.org)
 
