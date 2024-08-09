@@ -1729,7 +1729,7 @@ Here's a quick look at some key moments that have shaped my professional journey
 - 2023
   - recorded my first [professional C++ course](https://edulia.it/prodotto/programmare-in-cpp-e-facile-se-sai-come-farlo/)
   - started my first "long" blog series [SObectizer Tales](#sobjectizer-tales)
-- 2o24
+- 2024
   - co-organized the first Coding Gym in Latina
 <br/>
 
