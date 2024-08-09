@@ -1634,7 +1634,7 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 # Timeline
 
-Here is a list of *some* notable events/milestones possibly influencing my professional life, most of which are in the form "first time I did *something*". This is especially a reminder for myself. I am not that kind of person who snobbishly writes "I have started programming at 8" or such, corroborating the idea that good programmers are only those geeks who spent their childhood nights at writing code, obsessed with computers, and bad at sports. Thanks to my family, I had a happy childhood, I practiced several sports, and had a genuine cheerful time. I was exposed to computers when I was a child and I immediatly got intrigued, but then I let that seed of passion grow by watering it from time to time without straining. When the time came, I was ready to push and to make a step forward.
+Here's a quick look at some key moments that have shaped my professional journey — mostly "firsts" that stand out. This is as much a reminder for myself as it is a snapshot of my path. I'm not the type to say, "I started programming at 8" or such, as if that's the only way to become a good developer. I didn’t spend my childhood glued to a screen, coding all night, avoiding sports, and obsessing over computers and videogames. Instead, I had a balanced and cheerful childhood, thanks to my family. I played sports, had fun, and just enjoyed being a kid. I was introduced to computers early on, and while I was instantly fascinated, I let that seed of passion grow, watering it from time to time without drowning or straining it. When the time was right, I was ready to dive in and take the next big step.
 
 - During '90s
   - learned basics of computers and batch scripting
@@ -1729,8 +1729,10 @@ Here is a list of *some* notable events/milestones possibly influencing my profe
 - 2023
   - recorded my first [professional C++ course](https://edulia.it/prodotto/programmare-in-cpp-e-facile-se-sai-come-farlo/)
   - started my first "long" blog series [SObectizer Tales](#sobjectizer-tales)
+- 2o24
+  - co-organized the first Coding Gym in Latina
 <br/>
 
 ----
 
-*Last Update*: **June 2024**
+*Last Update*: **August 2024**
