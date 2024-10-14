@@ -291,7 +291,7 @@ In addition to my community activities ([Italian C++ Community](http://italiancp
 
 Every meetup and event I have organized was **totally free to attend**.
 
-#### 2024
+## 2024
 
 ### [DevFest Modena 2024](https://devfest.modena.it/)
 
