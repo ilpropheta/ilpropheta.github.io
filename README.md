@@ -299,12 +299,12 @@ Every meetup and event I have organized was **totally free to attend**.
 
 Modena, October 2024.
 
-I co-organized the first GDG "DevFest" in Emilia Romagna, taking place in Modena. The event was hosted at [Laboratorio Aperto](https://laboratorioapertomodena.it/) and got the recognition by the "Comune di Modena". The event was a joint effort among all the local communities of Modena GDG Cloud Modena, Flutter Modena, Modena Full Stack, ML Modena, Reggio Emilia Full Stack, and ConoscereLinux.<br/>
-**350 attendees** (440 registered people - ~20% drop).
+I co-organized the first GDG **DevFest** in Emilia Romagna, held in Modena. The event took place at [Laboratorio Aperto](https://laboratorioapertomodena.it/) and was officially recognized by the *Comune di Modena*. It was a collaborative effort among the local communities: GDG Cloud Modena, Flutter Modena, Modena Full Stack, ML Modena, Reggio Emilia Full Stack, and ConoscereLinux.<br/>
+**350 attendees** (440 registered people - ~20% drop).<br/>
 
-**Sponsors**: Google, ZURU Tech, QubicaAMF, expert.ai, DualBit S.r.l., Credem Banca, Netframe, Tetra Pak, JetBrains, Quix , Juno, Atobit, NetAi, Studio DGP.
+**Sponsors**: Google, ZURU Tech, QubicaAMF, expert.ai, DualBit S.r.l., Credem Banca, Netframe, Tetra Pak, JetBrains, Quix, Juno, Atobit, NetAi, Studio DGP.
 
-Maurizio Ipsale and Davide Muzzarelli were the organizers coordinators, and the rest of the team included Mirko Giglioli, Elia Tolin, Carmine Zaccagnino, Francesco Boschetti and me. Also, the staff included ~25 amazing people who made this event possible.
+The organizing team was led by Maurizio Ipsale and Davide Muzzarelli, with support from Mirko Giglioli, Elia Tolin, Carmine Zaccagnino, Francesco Boschetti, and myself. Additionally, around 25 incredible staff members helped make this event a success.
 
 **Highlights:**
 
