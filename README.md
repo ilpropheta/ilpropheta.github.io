@@ -71,6 +71,10 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2024
 
+**\[Workshop\] Coding Gym** (120')<br/>
+26 attendees.<br/>
+@[DevFest Modena 2024](https://devfest.modena.it/) -- October 2024/Modena (Italy)
+
 **Alla scoperta di C++23** (90')<br/>
 [Slides & Snippets (ENG)](https://github.com/ilpropheta/cpp23/) <br/>
 60+ attendees.<br/>
@@ -287,7 +291,40 @@ In addition to my community activities ([Italian C++ Community](http://italiancp
 
 Every meetup and event I have organized was **totally free to attend**.
 
-## 2024
+#### 2024
+
+### [DevFest Modena 2024](https://devfest.modena.it/)
+
+<img src="/pics/devfestmo24.jpg" alt="DevFest Modena 2024" width="700">
+
+Modena, October 2024.
+
+I co-organized the first GDG "DevFest" in Emilia Romagna, taking place in Modena. The event was hosted at [Laboratorio Aperto](https://laboratorioapertomodena.it/) and got the recognition by the "Comune di Modena". The event was a joint effort among all the local communities of Modena GDG Cloud Modena, Flutter Modena, Modena Full Stack, ML Modena, Reggio Emilia Full Stack, and ConoscereLinux.<br/>
+**350 attendees** (440 registered people - ~20% drop).
+
+**Sponsors**: Google, ZURU Tech, QubicaAMF, expert.ai, DualBit S.r.l., Credem Banca, Netframe, Tetra Pak, JetBrains, Quix , Juno, Atobit, NetAi, Studio DGP.
+
+Maurizio Ipsale and Davide Muzzarelli were the organizers coordinators, and the rest of the team included Mirko Giglioli, Elia Tolin, Carmine Zaccagnino, Francesco Boschetti and me. Also, the staff included ~25 amazing people who made this event possible.
+
+**Highlights:**
+
+- 21 tech talks
+- 3 workshops
+- 1 "maker dojo" for high school boys and girls
+- Networking breaks and lunch.
+
+**Topics:**
+
+- AI
+- Docker, kubernetes and containerization
+- software quality
+- refactoring and app modernization
+- testing
+- software patterns and paradigms
+
+Additional references:
+
+- [📸 Pictures](https://devfest.modena.it/)
 
 ### Modena C++ Meetups - Season 2024
 
@@ -372,7 +409,7 @@ List of meetups, including speakers and topics discussed:
 
 <img src="/pics/cg-2024.png" alt="Coding Gym Modena - 2024" width="700">
 
-By now, I have organized 3 sessions in Modena attended by 79 people overall.
+By now, I have organized 4 sessions in Modena attended by 105 people overall.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
