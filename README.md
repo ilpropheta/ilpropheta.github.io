@@ -1768,8 +1768,9 @@ Here's a quick look at some key moments that have shaped my professional journey
   - started my first "long" blog series [SObectizer Tales](#sobjectizer-tales)
 - 2024
   - co-organized the first Coding Gym in Latina
+  - co-organized the first [DevFest Modena](https://devfest.modena.it/) (first also in Emilia Romagna)
 <br/>
 
 ----
 
-*Last Update*: **August 2024**
+*Last Update*: **October 2024**
