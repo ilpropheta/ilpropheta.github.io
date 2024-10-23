@@ -326,6 +326,22 @@ Additional references:
 
 - [📸 Pictures](https://devfest.modena.it/)
 
+### Milan C++ Meetups - Season 2024
+
+<img src="/pics/meetup-mi2024.jpg" alt="Italian C++ Meetup Milan 2024" width="700">
+
+I have organized and promoted monthly C++ meetups, hosted in person at various locations in Milan.<br/>
+
+Every meetup consisted of 1-hour technical session + pizza and networking:
+- [📹 YouTube Playlist here](https://www.youtube.com/watch?v=fm1OZM2f8iY&list=PLsCm1Hs016LV0_KAvp-OVxXJEC36mzSAC)
+- [📸 Some pictures here](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.965887205544903)
+
+List of meetups, including speakers and topics discussed:
+
+- **October 22**: **Marco Foco** speaking about [The ISO C++ Committee & C++26 Safety](https://italiancpp.org/eventi/2024-10-22-mi/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=fm1OZM2f8iY)<br/>
+47 in person + 10 online attendees.
+
 ### Modena C++ Meetups - Season 2024
 
 <img src="/pics/meetup-mo2024.png" alt="Italian C++ Meetup Modena 2024" width="700">
