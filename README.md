@@ -421,6 +421,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=-6NiDbto2zk)<br/>
 120+ in person + 15 online attendees.
 
+- **October 29**: **Giovanni Tardini**, **Matteo Boschini** and **Luca Belmonte** speaking about [GenAI – Episode II – Beyond Answers](https://mlmodena.it/eventi/2024-10-29-genai/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=rDdEnA-gcws)<br/>
+150+ in person + 15 online attendees.
+
 ### [Coding Gym Modena - Season 2024](https://coding-gym.org)
 
 <img src="/pics/cg-2024.png" alt="Coding Gym Modena - 2024" width="700">
