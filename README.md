@@ -72,6 +72,10 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 ## 2024
 
 **\[Workshop\] Coding Gym** (120')<br/>
+21 attendees.<br/>
+@[DevFest Milano 2024](https://devfestmilano.it/) -- November 2024/Milan (Italy)
+
+**\[Workshop\] Coding Gym** (120')<br/>
 26 attendees.<br/>
 @[DevFest Modena 2024](https://devfest.modena.it/) -- October 2024/Modena (Italy)
 
@@ -1793,4 +1797,4 @@ Here's a quick look at some key moments that have shaped my professional journey
 
 ----
 
-*Last Update*: **October 2024**
+*Last Update*: **November 2024**
