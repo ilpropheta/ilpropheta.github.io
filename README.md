@@ -343,8 +343,14 @@ Every meetup consisted of 1-hour technical session + pizza and networking:
 List of meetups, including speakers and topics discussed:
 
 - **October 22**: **Marco Foco** speaking about [The ISO C++ Committee & C++26 Safety](https://italiancpp.org/eventi/2024-10-22-mi/);<br/>
+Venue: *Prima Assicurazioni* <br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=fm1OZM2f8iY)<br/>
 47 in person + 10 online attendees.
+
+- **November 27**: **Dietmar Kühl** speaking about [Creating a Sender/Receiver HTTP Server](https://italiancpp.org/eventi/2024-11-27-mi/);<br/>
+Venue: *Bloomberg* <br/>
+[📹 Video (ITA) - to be released](tbd)<br/>
+65+ in person.
 
 ### Modena C++ Meetups - Season 2024
 
