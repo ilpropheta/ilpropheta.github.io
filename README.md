@@ -56,7 +56,9 @@ At present, I am actively engaged in the following recurring activities:
 - Serving as on-site staff at *Meeting C++* every year;
 - Occasionally helping organize tech events like *DevFest Modena* or special *ConoscereLinux* meetups;
 - Bringing *Coding Gym* to tech conferences such as *DevFest* or *AgileDay* on occasion;
-- Delivering talks at tech conferences or local meetups from time to time.
+- Delivering talks at tech conferences or local meetups from time to time;
+- Management of the social media of my communities and moderating their online channels such as Telegram and Discord.
+
 ___
 
 Here's a complete record of my speaking, facilitating, and organizing activities:
