@@ -453,11 +453,15 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=rDdEnA-gcws)<br/>
 150+ in person + 15 online attendees.
 
+- **December 12**: **Giorgia Franchini** and **Mattia Verasani** speaking about [Una notte da Nobel: l’intelligenza artificiale che riscrive la scienza](https://mlmodena.it/eventi/2024-12-12-una-notte-da-nobel/);<br/>
+[📹 Video (ITA) - tbd](tbd)<br/>
+60+ in person.
+
 ### [Coding Gym Modena - Season 2024](https://coding-gym.org)
 
 <img src="/pics/cg-2024.png" alt="Coding Gym Modena - 2024" width="700">
 
-By now, I have organized 5 sessions in Modena and 1 in Milan attended by 150 people overall.
+By now, I have organized 6 sessions in Modena and 1 in Milan attended by 172 people overall.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
@@ -1821,4 +1825,4 @@ Here's a quick look at some key moments that have shaped my professional journey
 
 ----
 
-*Last Update*: **November 2024**
+*Last Update*: **December 2024**
