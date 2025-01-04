@@ -1825,4 +1825,4 @@ Here's a quick look at some key moments that have shaped my professional journey
 
 ----
 
-*Last Update*: **December 2024**
+*Last Update*: **January 2025**
