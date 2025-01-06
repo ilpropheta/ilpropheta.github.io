@@ -1769,7 +1769,7 @@ Here's a quick look at some key moments that have shaped my professional journey
   - given my first talk at a professional conference (*AgileDay 2013*)
 - 2014
   - curated my first technical track about C++ for a professional event (*Community Days 2014*)
-  - organized my first meetup - the first Italian C++ Community meetup, in Milan 
+  - organized my first meetup - the first Italian C++ Community meetup - in Milan 
   - facilitated a workshop for the first time, at *AgileDay 2014*
   - attended *Meeting C++* for the first time - my first C++ event ever
   - signed up for [HackerRank](https://www.hackerrank.com/) for the first time
@@ -1789,6 +1789,7 @@ Here's a quick look at some key moments that have shaped my professional journey
   - went to my first MVP Global Summit in Redmond - my first time in USA
 - 2017
   - given my first talk about Coding Gym at *NoSlidesConf 2017*
+  - started organizing recurring C++ meetups in Modena
 - 2018
   - started developing Coding Gym as a "delocalized format"
   - co-organized [Modena Tech Summit](#Modena-Tech-Summit-2018), 
@@ -1808,6 +1809,7 @@ Here's a quick look at some key moments that have shaped my professional journey
   - organized my first online-only [international C++ conference](https://italiancpp.org/itcppcon20)
   - given my first talk at an *online-only* conference (*Italian Community Managers Summit 2020*)
   - co-founded the **ISO C++ Italian body**
+  - started organizing recurring AI meetups in Modena and online
 - 2021
   - co-chaired my first [C++ class](https://conoscerelinux.org/courses/corso-cpp/) for beginners
   - given my [first talk](https://italiancpp.org/eventi/2021-06-16-ranges/) supported by a few basic concepts of game-based learning
@@ -1817,10 +1819,12 @@ Here's a quick look at some key moments that have shaped my professional journey
   - co-organized the first Coding Gym in Lecce
 - 2023
   - recorded my first [professional C++ course](https://edulia.it/prodotto/programmare-in-cpp-e-facile-se-sai-come-farlo/)
-  - started my first "long" blog series [SObectizer Tales](#sobjectizer-tales)
+  - started my first weekly blog series [SObectizer Tales](#sobjectizer-tales)
 - 2024
+  - finished my first blog series [SObectizer Tales](#sobjectizer-tales), consisting of 30 total posts
   - co-organized the first Coding Gym in Latina
   - co-organized the first [DevFest Modena](https://devfest.modena.it/) (first also in Emilia Romagna)
+  - started organizing recurring C++ meetups in Milan
 <br/>
 
 ----
