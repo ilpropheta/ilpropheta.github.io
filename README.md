@@ -28,7 +28,7 @@ Through these activities, I’ve gained hands-on experience in building and mana
 
 In particular:
 
-- in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), the C++ landmark in Italy, hosting 350+ users on Discord, 300+ subscribers on a dedicated [subreddit](https://reddit.com/r/cppit), 250+ attendees at on-site events. The community has hosted monthly local meetups in Modena (20-25 attendees) since 2018, in Milan (50-60 attendees) since 2024, and one international conference every year (before 2020, we used to organize two major conferences every year);
+- in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), the C++ landmark in Italy, hosting 350+ users on Discord, 300+ subscribers on a dedicated [subreddit](https://reddit.com/r/cppit), 250+ attendees at on-site events. The community has hosted monthly local meetups in Modena (20-25 attendees) since 2017, in Milan (50-60 attendees) since 2024, and one international conference every year (before 2020, we used to organize two major conferences every year);
 
 - in 2016, I founded [Coding Gym](#coding-gym), a programming lab open to all languages. Originally launched in *Modena*, I now lead an incredible group of "trainers" who run the same format in their own cities. Each month, I host a moderated, inclusive session with 25–30 participants who pair up to collaborate and share their solutions and ideas. Additionally, I've authored and published over 120 articles on [Coding Gym challenges](https://coding-gym.org/challenges/), exploring a variety of approaches and programming languages, enriched by insights and solutions shared by participants during our sessions;
 
