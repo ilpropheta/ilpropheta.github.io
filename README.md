@@ -44,7 +44,7 @@ Also, I am involved in some other community activities:
 
 - in 2018, I co-founded [Community Crumbs](https://communitycrumbs.org/), a non-profit organization patronizing all my community activities. This adventure ended in 2020.
 
-Sometimes, I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops). I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and *Italian C++ Community* events. Also, I have authored and published [more than 120 articles on coding challenges using idiomatic C++ and sometimes other programming languages](https://coding-gym.org/challenges/).
+Sometimes, I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops). I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *DevFest*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and *Italian C++ Community* events. Also, I have authored and published [more than 120 articles on coding challenges using idiomatic C++ and sometimes other programming languages](https://coding-gym.org/challenges/).
 
 Recognized for my efforts, I've received the prestigious **Microsoft MVP award** nine times since 2016, a testament to my impactful [community contributions](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
 
@@ -72,13 +72,11 @@ Here's a complete record of my speaking, facilitating, and organizing activities
 
 > Feedback by **Andrea Baruzzo** at **Meetup Pordenone 2015**
 
-I love telling *stories* and interacting with people. My stories are not only about *technical* things but also about *personal development* and lessons I have learned.
+I love sharing *stories* and *connecting* with people. My stories aren't just about technical topics-they also touch on personal development and the lessons I've learned along the way.
 
-I have given talks at many popular events such as *Microsoft Community Days*, *Future Decoded*, *Italian Agile Day*, *Codemotion*, *QtDay*. I'm also used to speaking at events organized by my own community, the *Italian C++ Community*.
+I've had the privilege of speaking at renowned events like *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *DevFest*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and *Italian C++ Community* events.
 
-For some of the talks that are listed in this page I got some feedback (generally from 1 to 5 <i class="icon-star"></i>). For the others, the event did not have a way to rate talks or the results are not publicly available.
-
-Some events I spoke at provided a joind.in page. You can check out my [Joind.in public profile](https://joind.in/user/ilpropheta) for a quick overview.
+Some events I spoke at provided a *joind.in* page. You can check out my [Joind.in public profile](https://joind.in/user/ilpropheta) for a quick overview.
 
 <img src="/pics/talks-cover.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600"><br/>
 Speaking about C++ to 150+ people at Codemotion Milan 2015
@@ -304,10 +302,11 @@ Co-Speaker: [Paolo Polce](https://twitter.com/paolopolce)<br/>
 
 # Events & Meetups
 
-I'm used to organizing events, international conferences, meetups, and other activities. <br/>
-In addition to my community activities ([Italian C++ Community](http://italiancpp.org/), [Coding Gym](http://coding-gym.org) and [ML Modena](https://mlmodena.it)), I'm happy to help other user groups. For example, I am a regular "worker" at [ConoscereLinux](http://conoscerelinux.org).
+I have extensive experience organizing events, including international conferences, meetups, and various community activities.
 
-Every meetup and event I have organized was **totally free to attend**.
+In addition to my work with the ([Italian C++ Community](http://italiancpp.org/), [Coding Gym](http://coding-gym.org) and [ML Modena](https://mlmodena.it), I also actively support other user groups. For example, I'm a dedicated volunteer at ConoscereLinux.
+
+Every meetup and event I've organized has been completely free to attend and designed to foster an inclusive environment where people from all backgrounds feel welcome and valued. A core principle of my community philosophy is *embracing spontaneity over imposing*. My approach focuses on creating an environment where people feel at ease and included. I explore this idea further in [this 30-min video](https://www.youtube.com/watch?v=ViTvnI1yTgE) (in Italian).
 
 ## 2024
 
@@ -348,7 +347,7 @@ Additional references:
 
 <img src="/pics/meetup-mi2024.jpg" alt="Italian C++ Meetup Milan 2024" width="700">
 
-I have organized and promoted monthly C++ meetups, hosted in person at various locations in Milan.
+I moved to Milan in April 2024 and started organizing monthly C++ meetups after Summer, hosted in person at various locations in Milan.
 
 With Milan’s size and cultural diversity, I thought it'd be great to rotate meetups across different hosts and venues. That's why I'm teaming up with companies to give attendees awesome experiences and insights by exploring various locations and industries.
 
@@ -372,9 +371,9 @@ Venue: *Bloomberg* <br/>
 
 <img src="/pics/meetup-mo2024.png" alt="Italian C++ Meetup Modena 2024" width="700">
 
-I have organized and promoted monthly C++ meetups, hosted in person at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
+I organized and promoted monthly C++ meetups, hosted in person at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
 
-With my relocation to Milan, in September 2024 I’ve handed the baton to dedicated community members to continue organizing the Modena C++ meetups, which will still be hosted by the Italian C++ Community.<br/>
+With my relocation to Milan, in September 2024 I handed the baton to dedicated community members to continue organizing the Modena C++ meetups, which will still be hosted by the Italian C++ Community.<br/>
 
 Every meetup consisted of 1-hour technical session + pizza and networking:
 - [📹 YouTube Playlist here](https://www.youtube.com/playlist?list=PLsCm1Hs016LUPgZrvIhe2SlFPF_VqsOlL)
@@ -394,7 +393,7 @@ List of meetups, including speakers and topics discussed:
 
 <img src="/pics/meetup-milano0524.png" alt="Italian C++ Meetup Milano - May 2024" width="700">
 
-I have organized an [Italian C++ Meetup in Milan](https://italiancpp.org/eventi/2024-05-29-milano/), hosted at Microsoft House. The meetup consisted of a frontal session about C++23 with technical contents and some interaction with the audience. Afterwards, pizza and networking nearby.<br/>
+I organized an [Italian C++ Meetup in Milan](https://italiancpp.org/eventi/2024-05-29-milano/), hosted at Microsoft House. The meetup consisted of a frontal session about C++23 with technical contents and some interaction with the audience. Afterwards, pizza and networking nearby.<br/>
 60+ attendees.<br/>
 📸 Some pictures [here](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.965887205544903).
 
@@ -433,7 +432,7 @@ We hosted AI-based games and a "networking passport" to foster interaction with 
 
 <img src="/pics/mlmodena24.png" alt="ML Modena Meetups" width="700">
 
-I have organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/@mlmodena).<br/>
+I organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/@mlmodena).<br/>
 
 Every meetup consisted of 1-hour technical session + pizza and networking:
 - [📹 YouTube Playlist](https://www.youtube.com/watch?v=Jp6qtmVm3u4&list=PL0yWIbKoA6Bpf5E4mUQBMeRbzG2DjxFKK&pp=iAQB)
@@ -461,7 +460,7 @@ List of meetups, including speakers and topics discussed:
 
 <img src="/pics/cg-2024.png" alt="Coding Gym Modena - 2024" width="700">
 
-By now, I have organized 6 sessions in Modena and 1 in Milan attended by 172 people overall.
+By now, I organized 6 sessions in Modena and 1 in Milan attended by 172 people overall.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
@@ -471,7 +470,7 @@ More details on each session [here](https://coding-gym.org/events), 📸 picture
 
 <img src="/pics/meetup-mo2023.png" alt="Italian C++ Meetup Modena 2023" width="700">
 
-I have organized and promoted monthly C++ meetups, hosted in person at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
+I organized and promoted monthly C++ meetups, hosted in person at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
 
 Every meetup consisted of 1-hour technical session + pizza and networking:
 - [📹 YouTube Playlist here](https://www.youtube.com/playlist?list=PLsCm1Hs016LWy62q6O6MFdk59ndxruygo)
@@ -495,7 +494,7 @@ List of meetups, including speakers and topics discussed:
 
 <img src="/pics/mlmodena23.png" alt="ML Modena Meetups" width="700">
 
-I have organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/channel/UCRPDGO4UQk-rdhjSgG_Q0Tg) and [AirMeet](https://www.airmeet.com/).<br/>
+I organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/channel/UCRPDGO4UQk-rdhjSgG_Q0Tg) and [AirMeet](https://www.airmeet.com/).<br/>
 
 Every meetup consisted of 1-hour technical session + pizza and networking:
 - [📹 YouTube Playlist](https://www.youtube.com/playlist?list=PL0yWIbKoA6Br7Q3m00W4-50_HfAxPitg5)
@@ -561,7 +560,7 @@ Additional references:
 
 <img src="/pics/cg-2023.jpg" alt="Coding Gym Modena - 2023" width="700">
 
-By now, I have organized 5 sessions in Modena attended by 113 people overall.
+I organized 5 sessions in Modena attended by 113 people overall.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
@@ -571,7 +570,7 @@ More details on each session [here](https://coding-gym.org/events), 📸 picture
 
 <img src="/pics/meetup_mo2022.png" alt="Italian C++ Meetup Hybrid - Jan 2022" width="700">
 
-I have organized and promoted monthly hybrid C++ meetups, hosted in person at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
+I organized and promoted monthly hybrid C++ meetups, hosted in person at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
 
 Every meetup consisted of 1-hour technical session + pizza and networking:
 - [📹 YouTube Playlist here](https://www.youtube.com/watch?v=59g4SkJuGNQ&list=PLsCm1Hs016LU_uCKIrFvXNa22KtXAlOQ4)
@@ -607,7 +606,7 @@ List of meetups, including speakers and topics discussed:
 
 <img src="/pics/meetup-milano0522.png" alt="Italian C++ Meetup Milano - May 2022" width="700">
 
-I have organized an [Italian C++ Meetup in Milan](https://italiancpp.org/eventi/2022-05-31-milano/), hosted at Microsoft House. The meetup consisted of an interactive session about C++20 with technical contents, games, and quizzes. Afterwards, pizza and networking nearby.<br/>
+I organized an [Italian C++ Meetup in Milan](https://italiancpp.org/eventi/2022-05-31-milano/), hosted at Microsoft House. The meetup consisted of an interactive session about C++20 with technical contents, games, and quizzes. Afterwards, pizza and networking nearby.<br/>
 40+ attendees.<br/>
 📸 Some pictures [here](https://www.facebook.com/media/set/?set=a.3201893330125361&type=3).
 
@@ -615,7 +614,7 @@ I have organized an [Italian C++ Meetup in Milan](https://italiancpp.org/eventi/
 
 <img src="/pics/ml-modena-2022.png" alt="ML Modena Meetups" width="700">
 
-I have organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/channel/UCRPDGO4UQk-rdhjSgG_Q0Tg) and [AirMeet](https://www.airmeet.com/).<br/>
+I organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/channel/UCRPDGO4UQk-rdhjSgG_Q0Tg) and [AirMeet](https://www.airmeet.com/).<br/>
 
 Every meetup consisted of 1-hour technical session + pizza and networking:
 - [📹 YouTube Playlist](https://www.youtube.com/watch?v=pIcUhgDJ2Ag&list=PL0yWIbKoA6BoVzyQxXgqFt8A7rDWgRRwB)
@@ -653,7 +652,7 @@ More details on each session [here](https://coding-gym.org/events), 📸 picture
 
 <img src="/pics/meetup-mo2021.png" alt="Italian C++ Meetup Online - Jan 2021" width="700">
 
-I have organized and promoted monthly C++ meetups, hosted online only during the first half of the year (on [Remo](https://remo.co/) and [YouTube](https://www.youtube.com/playlist?list=PLsCm1Hs016LWsjNbgHWGPq4Fk2lyoUML7)) and hosted in person and online from September.<br/>
+I organized and promoted monthly C++ meetups, hosted online only during the first half of the year (on [Remo](https://remo.co/) and [YouTube](https://www.youtube.com/playlist?list=PLsCm1Hs016LWsjNbgHWGPq4Fk2lyoUML7)) and hosted in person and online from September.<br/>
 
 Every meetup consisted of 1-hour technical session + online networking:
 - [📹 YouTube Playlist](https://www.youtube.com/playlist?list=PLsCm1Hs016LWsjNbgHWGPq4Fk2lyoUML7)
@@ -705,7 +704,7 @@ List of meetups, including speakers and topics discussed:
 
 <img src="/pics/meetup-mlmo2021.png" alt="ML Modena Meetup Online - Jan 2021" width="700">
 
-I have organized and promoted monthly Artificial Intelligence online meetups, hosted on [AirMeet](https://www.airmeet.com/).<br/>
+I organized and promoted monthly Artificial Intelligence online meetups, hosted on [AirMeet](https://www.airmeet.com/).<br/>
 
 Every meetup consisted of 1-hour technical session + online networking:
 - [📹 YouTube Playlist](https://www.youtube.com/playlist?list=PL0yWIbKoA6BozPd7HalEAgZY-OZBXLi3p)
@@ -788,7 +787,7 @@ More details on each session [here](https://coding-gym.org/events), 📸 picture
 
 <img src="/pics/meetup-mo2020.png" alt="Meetup Modena - Feb 2020" width="700">
 
-I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
+I organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
 Actually, most of them were hosted online due to COVID-19 emergency.
 
 Every meetup consisted of 2 hours of technical contents (up to the speaker) and networking dinner afterwards:
@@ -934,7 +933,7 @@ More details on each session [here](https://coding-gym.org/events), 📸 picture
 
 <img src="/pics/meetup-mo2019.png" alt="Meetup Modena - Feb 2019" width="700">
 
-I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
+I organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
 
 Every meetup consisted of 2 hours of technical contents (up to the speaker) and networking dinner afterwards:
 - [📹 YouTube Playlist](https://www.youtube.com/watch?v=ttcHSm-5dv4&list=PLsCm1Hs016LUK7VPwkNGmmpNDa6u9QQ9e)
@@ -1068,7 +1067,7 @@ More details on each session [here](https://coding-gym.org/events), 📸 picture
 
 <img src="/pics/meetup-mo0318.png" alt="Meetup Modena - Feb 2018" width="700">
 
-I have organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
+I organized and promoted monthly C++ meetups in Modena, hosted at [MakeIt](https://www.comune.modena.it/makeitmodena) and [ConoscereLinux](http://conoscerelinux.org).<br/>
 [Picures](https://www.facebook.com/media/set/?set=a.1938357373145636&type=3)
 
 Every meetup consisted of 2 hours of technical contents (up to the speaker) and networking dinner afterwards.
@@ -1622,6 +1621,8 @@ My professional blogging activity started in **2011** on [Growing Up](https://ma
 ## isocpp.org Publications
 
 Some of my blog posts from my [tech blog](https://marcoarena.wordpress.com) have been published on isocpp.org too:
+
+- The entire [SObjectizer Tales](https://isocpp.org/search/google?q=sobjectizer) blog series - *30* weekly articles from October *2023* to April *2024*
 
 - [Merging intervals in next-gen C++](https://isocpp.org/blog/2023/03/merging-intervals-in-next-gen-cpp-marco-arena) - March **2023**
 
