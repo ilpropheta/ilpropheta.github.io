@@ -304,7 +304,7 @@ Co-Speaker: [Paolo Polce](https://twitter.com/paolopolce)<br/>
 
 I have extensive experience organizing events, including international conferences, meetups, and various community activities.
 
-In addition to my work with the ([Italian C++ Community](http://italiancpp.org/), [Coding Gym](http://coding-gym.org) and [ML Modena](https://mlmodena.it), I also actively support other user groups. For example, I'm a dedicated volunteer at ConoscereLinux.
+In addition to my work with the [Italian C++ Community](http://italiancpp.org/), [Coding Gym](http://coding-gym.org) and [ML Modena](https://mlmodena.it), I also actively support other user groups. For example, I'm a dedicated volunteer at ConoscereLinux.
 
 Every meetup and event I've organized has been completely free to attend and designed to foster an inclusive environment where people from all backgrounds feel welcome and valued. A core principle of my community philosophy is *embracing spontaneity over imposing*. My approach focuses on creating an environment where people feel at ease and included. I explore this idea further in [this 30-min video](https://www.youtube.com/watch?v=ViTvnI1yTgE) (in Italian).
 
@@ -1832,4 +1832,4 @@ Here's a quick look at some key moments that have shaped my professional journey
 
 ----
 
-*Last Update*: **January 2025**
+*Last Update*: **February 2025**
