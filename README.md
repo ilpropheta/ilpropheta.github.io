@@ -310,6 +310,25 @@ Every meetup and event I've organized has been completely free to attend and des
 
 ## 2025
 
+### Milan C++ Meetups - Season 2025
+
+<img src="/pics/meetup-mi2025.jpg" alt="Italian C++ Meetup Milan 2025" width="700">
+
+I organized monthly C++ meetups, hosted in person at various locations in Milan.
+
+With Milan’s size and cultural diversity, I thought it'd be great to rotate meetups across different hosts and venues. That's why I'm teaming up with companies to give attendees awesome experiences and insights by exploring various locations and industries.
+
+Every meetup consisted of 1-hour technical session + pizza and networking:
+- [📹 YouTube Playlist here](https://www.youtube.com/playlist?list=PLsCm1Hs016LXinT4KL6Zm0mOfBc8H_h88)
+- [📸 Some pictures here](https://www.facebook.com/media/set/?vanity=italiancpp&set=a.1168138661986422)
+
+List of meetups, including speakers and topics discussed:
+
+- **February 20**: **Emanuele Pardini** speaking about [Build a Tower Defense in Unreal Engine 5](https://italiancpp.org/eventi/2025-02-19-unreal/);<br/>
+Venue: *Prima Assicurazioni* <br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=KT2KjtYrF0s)<br/>
+51 in person + 10 online attendees.
+
 ### [Coding Gym Modena - Season 2025](https://coding-gym.org)
 
 <img src="/pics/cg-2024.png" alt="Coding Gym Modena - 2025" width="700">
@@ -317,7 +336,6 @@ Every meetup and event I've organized has been completely free to attend and des
 By now, I organized 1 session in Modena attended by 24 people overall.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
-
 
 ## 2024
 
