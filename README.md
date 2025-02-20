@@ -304,7 +304,7 @@ Co-Speaker: [Paolo Polce](https://twitter.com/paolopolce)<br/>
 
 I have extensive experience organizing events, including international conferences, meetups, and various community activities.
 
-In addition to my work with the [Italian C++ Community](http://italiancpp.org/), [Coding Gym](http://coding-gym.org) and [ML Modena](https://mlmodena.it), I also actively support other user groups. For example, I'm a dedicated volunteer at ConoscereLinux.
+In addition to my primary focus on the [Italian C++ Community](http://italiancpp.org/), [Coding Gym](http://coding-gym.org) and [ML Modena](https://mlmodena.it), I also actively support other user groups. For example, I'm a dedicated volunteer at [ConoscereLinux](https://conoscerelinux.org).
 
 Every meetup and event I've organized has been completely free to attend and designed to foster an inclusive environment where people from all backgrounds feel welcome and valued. A core principle of my community philosophy is *embracing spontaneity over imposing*. My approach focuses on creating an environment where people feel at ease and included. I explore this idea further in [this 30-min video](https://www.youtube.com/watch?v=ViTvnI1yTgE) (in Italian).
 
@@ -484,8 +484,7 @@ List of meetups, including speakers and topics discussed:
 150+ in person + 15 online attendees.
 
 - **December 12**: **Giorgia Franchini** and **Mattia Verasani** speaking about [Una notte da Nobel: l’intelligenza artificiale che riscrive la scienza](https://mlmodena.it/eventi/2024-12-12-una-notte-da-nobel/);<br/>
-[📹 Video (ITA) - tbd](tbd)<br/>
-60+ in person.
+60+ in person attendees.
 
 ### [Coding Gym Modena - Season 2024](https://coding-gym.org)
 
