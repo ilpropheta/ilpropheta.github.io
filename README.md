@@ -329,6 +329,22 @@ Venue: *Prima Assicurazioni* <br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=KT2KjtYrF0s)<br/>
 51 in person + 10 online attendees.
 
+### [ML Modena Meetups - Season 2025](https://mlmodena.it)
+
+<img src="/pics/mlmodena25.png" alt="ML Modena Meetups" width="700">
+
+I organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/@mlmodena).<br/>
+
+Every meetup consisted of 1-hour technical session + pizza and networking:
+- [📹 YouTube Playlist](https://www.youtube.com/watch?v=c7KS1hegUiA&list=PL0yWIbKoA6Bo0XBZ-h23sBSy6P10Xaypw)
+- [📸 Some pictures](https://www.facebook.com/media/set/?set=a.654519923798622&type=3)
+
+List of meetups, including speakers and topics discussed:
+
+- **March 13**: **Gabriele Ientile** and **Lorenzo Baraldi** speaking about [AI Act e Modelli Affidabili: Normative e Pratiche per Costruire un’Intelligenza Artificiale di Fiducia](https://mlmodena.it/eventi/2025-03-13-ai-act/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=c7KS1hegUiA)<br/>
+60+ in person + 12 online attendees.
+
 ### [Coding Gym Modena - Season 2025](https://coding-gym.org)
 
 <img src="/pics/cg-2024.png" alt="Coding Gym Modena - 2025" width="700">
@@ -1860,4 +1876,4 @@ Here's a quick look at some key moments that have shaped my professional journey
 
 ----
 
-*Last Update*: **February 2025**
+*Last Update*: **March 2025**
