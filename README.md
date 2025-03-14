@@ -331,7 +331,7 @@ Venue: *Prima Assicurazioni* <br/>
 
 ### [ML Modena Meetups - Season 2025](https://mlmodena.it)
 
-<img src="/pics/mlmodena25.png" alt="ML Modena Meetups" width="700">
+<img src="/pics/mlmodena25.jpg" alt="ML Modena Meetups" width="700">
 
 I organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/@mlmodena).<br/>
 
