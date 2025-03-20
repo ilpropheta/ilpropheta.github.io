@@ -326,8 +326,13 @@ List of meetups, including speakers and topics discussed:
 
 - **February 20**: **Emanuele Pardini** speaking about [Build a Tower Defense in Unreal Engine 5](https://italiancpp.org/eventi/2025-02-19-unreal/);<br/>
 Venue: *Prima Assicurazioni* <br/>
-[📹 Video (ITA)](https://www.youtube.com/watch?v=KT2KjtYrF0s)<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=krN9WUVjLHE)<br/>
 51 in person + 10 online attendees.
+
+- **March 19**: **Ettore Barattelli** speaking about [C++ per sistemi embedded real-time]https://italiancpp.org/eventi/2025-03-19-mi/);<br/>
+Venue: *Prima Assicurazioni* <br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=KT2KjtYrF0s)<br/>
+60 in person + 12 online attendees.
 
 ### [ML Modena Meetups - Season 2025](https://mlmodena.it)
 
