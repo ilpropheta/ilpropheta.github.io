@@ -334,6 +334,11 @@ Venue: *Prima Assicurazioni* <br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=KT2KjtYrF0s)<br/>
 60 in person + 12 online attendees.
 
+- **April 16**: **Davide Bianchi** facilitating an interactive debate about [Code influencers, the Italian C++ Community reacts](https://italiancpp.org/eventi/2025-04-16-mi/);<br/>
+Venue: *Prima Assicurazioni* <br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=fsB_VLvLD30)<br/>
+35 in person + 10 online attendees.
+
 ### [ML Modena Meetups - Season 2025](https://mlmodena.it)
 
 <img src="/pics/mlmodena25.jpg" alt="ML Modena Meetups" width="700">
@@ -1881,4 +1886,4 @@ Here's a quick look at some key moments that have shaped my professional journey
 
 ----
 
-*Last Update*: **March 2025**
+*Last Update*: **April 2025**
