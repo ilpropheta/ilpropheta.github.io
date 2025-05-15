@@ -339,6 +339,11 @@ Venue: *Prima Assicurazioni* <br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=fsB_VLvLD30)<br/>
 35 in person + 10 online attendees.
 
+- **May 14**: **Alberto Barbati** speaking about [È giunta l'ora di `ranges`](https://italiancpp.org/eventi/2025-05-14-mi/);<br/>
+Venue: *WeHunt* <br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=NTqA1lYKtKw)<br/>
+52 in person + 11 online attendees.
+
 ### [ML Modena Meetups - Season 2025](https://mlmodena.it)
 
 <img src="/pics/mlmodena25.jpg" alt="ML Modena Meetups" width="700">
@@ -1886,4 +1891,4 @@ Here's a quick look at some key moments that have shaped my professional journey
 
 ----
 
-*Last Update*: **April 2025**
+*Last Update*: **May 2025**
