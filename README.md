@@ -22,7 +22,7 @@ I am a 14+ years experienced Computer Engineer from Rome, specialized in **C++ s
 
 Since the end of **2019**, I have worked at [Tetra Pak](http://tetrapak.com/) as one of the technical leaders of the *AI Engineering Team*, pioneering the development of AI-based applications for packaging lines. Previously, **from 2011 to 2019**, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a *Performance Software Engineer* and *C++ Specialist*, working on mission-critical telemetry and simulation software, and driving the adoption of modern C++ and latest standards. In **2020**, I co-founded the **ISO C++ Italian body**, propelling the evolution of C++ standards in Italy.
 
-Beyond the code, I'm a **12+ years experienced community manager**, organizer, blogger, and speaker: I birthed the **Italian C++ Community** in 2013, **Coding Gym** in 2016 (a programming laboratory open to all languages), and **ML Modena** (Machine Learning Modena) in 2020 - the *AI* community in Modena. Together, these initiatives have attracted thousands of attendees, hosting meetups, coding laboratories, online events, and international conferences.
+Beyond the code, I'm a **12+ years experienced community manager**, organizer, blogger, and speaker: I birthed the **Italian C++ Community** in 2013, **Coding Gym** in 2016 (a programming laboratory open to all languages), and **ML Modena** (Machine Learning Modena) in 2020 - the *AI* community in Modena. Together, these initiatives have attracted thousands of attendees, hosting meetups, coding laboratories, online events, and international conferences. I've been a [Microsoft MVP]((https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena)) annually since 2016 for my contributions.
 
 Through these activities, I’ve gained hands-on experience in building and managing relationships, even among companies competing in the same industry, coordinating their collaboration toward shared goals. I’ve also worked on gathering support and resources to keep non-profit events thriving and successfully navigating agreements on sponsorships, venues, and event partnerships.
 
@@ -46,7 +46,7 @@ Also, I am involved in some other community activities:
 
 Sometimes, I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops). I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *DevFest*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and *Italian C++ Community* events. Also, I have authored and published [more than 120 articles on coding challenges using idiomatic C++ and sometimes other programming languages](https://coding-gym.org/challenges/).
 
-Recognized for my efforts, I've received the prestigious **Microsoft MVP award** nine times since 2016, a testament to my impactful [community contributions](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
+Recognized for my efforts, I've received the prestigious **Microsoft MVP award** ten times since 2016, a testament to my impactful [community contributions](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
 
 At present, I am actively engaged in the following recurring activities:  
 
