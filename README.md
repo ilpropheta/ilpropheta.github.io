@@ -20,19 +20,19 @@ A professional list of my notable activities.
 
 I am a 14+ years experienced Computer Engineer from Rome, specialized in **C++ software development**.
 
-Since the end of **2019**, I have worked at [Tetra Pak](http://tetrapak.com/) as one of the technical leaders of the *AI Engineering Team*, pioneering the development of AI-based applications for packaging lines. Previously, **from 2011 to 2019**, I served the [Ferrari F1 Racing Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/) as a *Performance Software Engineer* and *C++ Specialist*, working on mission-critical telemetry and simulation software, and driving the adoption of modern C++ and latest standards. In **2020**, I co-founded the **ISO C++ Italian body**, propelling the evolution of C++ standards in Italy.
+Since the end of **2019**, I have worked on bringing artificial intelligence to [Tetra Pak](http://tetrapak.com/) packgaging machines. Previously, I developed mission-critical data analysis and simulation software for [Ferrari's F1 Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/).
 
-Beyond the code, I'm a **12+ years experienced community manager**, organizer, blogger, and speaker: I birthed the **Italian C++ Community** in 2013, **Coding Gym** in 2016 (a programming laboratory open to all languages), and **ML Modena** (Machine Learning Modena) in 2020 - the *AI* community in Modena. Together, these initiatives have attracted thousands of attendees, hosting meetups, coding laboratories, online events, and international conferences. I've been a [Microsoft MVP]((https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena)) annually since 2016 for my contributions.
+Beyond the code, I'm a **12+ years experienced community manager**, organizer, blogger, and speaker: I birthed the **Italian C++ Community** in 2013, **Coding Gym** in 2016 (a programming laboratory open to all languages), and **ML Modena** (Machine Learning Modena) in 2020 - the *AI* community in Modena. Together, these initiatives have welcomed thousands of attendees, hosting meetups, coding laboratories, online events, and international conferences. I've been a [Microsoft MVP]((https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena)) annually since 2016 for my contributions.
 
-Through these activities, I’ve gained hands-on experience in building and managing relationships, even among companies competing in the same industry, coordinating their collaboration toward shared goals. I’ve also worked on gathering support and resources to keep non-profit events thriving and successfully navigating agreements on sponsorships, venues, and event partnerships.
+Through these activities, I’ve gained hands-on experience in building and managing business relationships, even among companies competing in the same industry, coordinating their collaboration toward shared goals. I’ve also worked on gathering support and resources to keep non-profit events thriving and successfully navigating agreements on sponsorships, venues, and event partnerships.
 
-In particular:
+A few more details about my communities:
 
-- in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), the C++ landmark in Italy, hosting 350+ users on Discord, 300+ subscribers on a dedicated [subreddit](https://reddit.com/r/cppit), 250+ attendees at on-site events. The community has hosted monthly local meetups in Modena (20-25 attendees) since 2017, in Milan (50-60 attendees) since 2024, and one international conference every year (before 2020, we used to organize two major conferences every year);
+- in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), the C++ landmark in Italy, hosting ~400 users on Discord, 250+ attendees at on-site events. The community has hosted monthly local meetups in Modena (20-25 attendees) since 2017, in Milan (50-60 attendees) since 2024, and one international conference every year (before 2020, we used to organize two major conferences every year);
 
-- in 2016, I founded [Coding Gym](#coding-gym), a programming lab open to all languages. Originally launched in *Modena*, I now lead an incredible group of "trainers" who run the same format in their own cities. Each month, I host a moderated, inclusive session with 25–30 participants who pair up to collaborate and share their solutions and ideas. Additionally, I've authored and published over 120 articles on [Coding Gym challenges](https://coding-gym.org/challenges/), exploring a variety of approaches and programming languages, enriched by insights and solutions shared by participants during our sessions;
+- in 2016, I founded [Coding Gym](#coding-gym), a programming lab open to all languages where people pair up and work on coding challenges. Originally launched in *Modena*, I now lead an incredible group of "trainers" who run the same format, even discontinuously, in their cities. At the moment, I personally host a session in Modena every 2 months. In the last decade, I've authored and published over 150 articles on the [Coding Gym challenges website](https://coding-gym.org/challenges/), exploring a variety of approaches and programming languages, enriched by insights and solutions shared by participants during mine and other sessions;
 
-- in 2020, I co-founded [ML Modena](https://mlmodena.it/), the first (and only one) community about *Artificial Intelligence* in the *Modena* area. Every month we organize a meetup hosting ~100 people (our best turnout so far is *150+* attendees at a regular meetup and *230* during a special networking event).
+- in 2020 (before AI was cool 😝), I co-founded [ML Modena](https://mlmodena.it/), the first (and only one) community about *Artificial Intelligence* in the *Modena* area. I lead the staff to organize a meetup every 2-3 months, hosting 80-100 people (our best turnout so far is *150+* attendees at a regular meetup and *230* during a special networking event).
 
 Also, I am involved in some other community activities:
 
@@ -44,16 +44,16 @@ Also, I am involved in some other community activities:
 
 - in 2018, I co-founded [Community Crumbs](https://communitycrumbs.org/), a non-profit organization patronizing all my community activities. This adventure ended in 2020.
 
-Sometimes, I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops). I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *DevFest*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and *Italian C++ Community* events. Also, I have authored and published [more than 120 articles on coding challenges using idiomatic C++ and sometimes other programming languages](https://coding-gym.org/challenges/).
+Sometimes, I [blog](http://marcoarena.wordpress.com) and [speak](#talks--workshops). I have given talks at many popular events such as *Microsoft Community Days*, *Italian Agile Day*, *Codemotion*, *QtDay*, *DevFest*, *Future Decoded*, *NoSlidesConf*, *Italian Community Managers Summit*, local meetups and *Italian C++ Community* events. Also, I have authored and published [more than 150 articles on coding challenges using idiomatic C++ and sometimes other programming languages](https://coding-gym.org/challenges/).
 
-Recognized for my efforts, I've received the prestigious **Microsoft MVP award** ten times since 2016, a testament to my impactful [community contributions](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
+Recognized for my efforts, I've received the **Microsoft MVP award** ten times since 2016, a testament to my impactful [community contributions](https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena).
 
 At present, I am actively engaged in the following recurring activities:  
 
-- Organizing *Italian C++ Community* meetups in Milan monthly or bi-monthly;
-- Hosting *Coding Gym* sessions in Modena monthly or bi-monthly;
-- Supporting the organization of *ML Modena* AI-themed meetups in Modena monthly or bi-monthly;
-- Serving as on-site staff at *Meeting C++* every year;
+- Organizing *Italian C++ Community* meetups in Milan, monthly or bi-monthly;
+- Hosting *Coding Gym* sessions in Modena, bi-monthly;
+- Supporting the organization of *ML Modena* AI-themed meetups in Modena, bi-monthly;
+- Serving as on-site staff at *Meeting C++*, every year;
 - Occasionally helping organize tech events like *DevFest Modena* or special *ConoscereLinux* meetups;
 - Bringing *Coding Gym* to tech conferences such as *DevFest* or *AgileDay* on occasion;
 - Delivering talks at tech conferences or local meetups from time to time;
@@ -1785,7 +1785,7 @@ I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.co
 
 # Timeline
 
-Here's a quick look at some key moments that have shaped my professional journey — mostly "firsts" that stand out. This is as much a reminder for myself as it is a snapshot of my path. I'm not the type to say, "I started programming at 8" or such, as if that's the only way to become a good developer. I didn’t spend my childhood glued to a screen, coding all night, avoiding sports, and obsessing over computers and videogames. Instead, I had a balanced and cheerful childhood, thanks to my family. I played sports, had fun, and just enjoyed being a kid. I was introduced to computers early on, and while I was instantly fascinated, I let that seed of passion grow, watering it from time to time without drowning or straining it. When the time was right, I was ready to dive in and take the next big step.
+Here's a quick look at some key moments that (I think) have shaped my professional journey — mostly "firsts" that stand out. This is as much a reminder for myself as it is a snapshot of my path. I'm not the type to say, "I started programming at 8" or such, as if that's the only way to become a good developer. I didn’t spend my childhood glued to a screen, coding all night, avoiding sports, and obsessing over computers and videogames. Instead, I had a balanced and cheerful childhood, thanks to my family. I played sports, had fun, and just enjoyed being a kid. I was introduced to computers early on, and while I was instantly fascinated, I let that seed of passion grow, watering it from time to time without drowning or straining it. When the time was right, I was ready to dive in and take the next big step.
 
 - During '90s
   - learned basics of computers and batch scripting
@@ -1887,6 +1887,8 @@ Here's a quick look at some key moments that have shaped my professional journey
   - co-organized the first Coding Gym in Latina
   - co-organized the first [DevFest Modena](https://devfest.modena.it/) (first also in Emilia Romagna)
   - started organizing recurring C++ meetups in Milan
+- 2025
+  - successfully merged [my first pull request to SObjectizer](https://github.com/Stiffstream/sobjectizer/pull/99)
 <br/>
 
 ----
