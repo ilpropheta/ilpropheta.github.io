@@ -20,7 +20,7 @@ A professional list of my notable activities.
 
 I am a 14+ years experienced Computer Engineer from Rome, specialized in **C++ software development**.
 
-Since the end of **2019**, I have worked on bringing artificial intelligence to [Tetra Pak](http://tetrapak.com/) packgaging machines. Previously, I developed mission-critical data analysis and simulation software for [Ferrari's F1 Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/).
+Since the end of **2019**, I have worked on bringing artificial intelligence to [Tetra Pak](http://tetrapak.com/) packaging machines. Previously, I developed mission-critical data analysis and simulation software for [Ferrari's F1 Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/).
 
 Beyond the code, I'm a **12+ years experienced community manager**, organizer, blogger, and speaker: I birthed the **Italian C++ Community** in 2013, **Coding Gym** in 2016 (a programming laboratory open to all languages), and **ML Modena** (Machine Learning Modena) in 2020 - the *AI* community in Modena. Together, these initiatives have welcomed thousands of attendees, hosting meetups, coding laboratories, online events, and international conferences. I've been a [Microsoft MVP]((https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena)) annually since 2016 for my contributions.
 
