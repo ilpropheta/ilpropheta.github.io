@@ -1773,15 +1773,15 @@ Some of my projects/experiments follow:
 
 # Podcasts
 
-I recorded a few podcasts (in Italian) for [.netPodcast](http://dotnetpodcast.com), the popular Italian website dedicated to Microsoft technologies:
+I recorded a few podcasts (in Italian) for [.netPodcast](https://dev.to/dotnetpodcast), the popular Italian website dedicated to Microsoft technologies:
 
 - [Intervista su Coding Gym per Officina Agile](https://www.youtube.com/watch?v=U6p2Qxjrfjg) -- November **2019**
 
-- [Coding Gym](http://dotnetpodcast.com/show/card/191) -- September **2018**
+- [Coding Gym](https://dev.to/dotnetpodcast/coding-gym-con-marco-arena) -- September **2018**
 
-- [Perché nel 2015 parliamo ancora di C++?](http://www.dotnetpodcast.com/show/card/52) -- July **2015**
+- [Perché nel 2015 parliamo ancora di C++?](https://dev.to/dotnetpodcast/perche-nel-2015-parliamo-ancora-di-c-marco-arena) -- July **2015**
 
-- [Overview dell'Italian C++ Community](http://www.dotnetpodcast.com/show/card/41) -- May **2015**
+- [Overview dell'Italian C++ Community](https://dev.to/dotnetpodcast/italian-c-community-con-marco-arena) -- May **2015**
 
 # Timeline
 
