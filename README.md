@@ -344,6 +344,11 @@ Venue: *WeHunt* <br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=NTqA1lYKtKw)<br/>
 52 in person + 11 online attendees.
 
+- **September 17**: **Massimiliano Pagani** speaking about [Beyond Assertions](https://italiancpp.org/eventi/2025-09-17-mi/);<br/>
+Venue: *Microsoft House* <br/>
+[📹 Video (ENG)](https://www.youtube.com/watch?v=6SFoZWHGn0E)<br/>
+70 in person + 15 online attendees.
+
 ### [ML Modena Meetups - Season 2025](https://mlmodena.it)
 
 <img src="/pics/mlmodena25.jpg" alt="ML Modena Meetups" width="700">
@@ -1893,4 +1898,4 @@ Here's a quick look at some key moments that (I think) have shaped my profession
 
 ----
 
-*Last Update*: **July 2025**
+*Last Update*: **September 2025**
