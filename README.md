@@ -81,6 +81,13 @@ Some events I spoke at provided a *joind.in* page. You can check out my [Joind.i
 <img src="/pics/talks-cover.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600"><br/>
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
+## 2025
+
+**Multiparadigm concurrency with SObjectizer** (90')<br/>
+[Slides & Snippets (ENG)](https://github.com/ilpropheta/multiparadigm-concurrency) <br/>
+30+ attendees.<br/>
+@[XPUG Bologna Monthly](https://xpugbo1025.eventbrite.it/) -- October 2025
+
 ## 2024
 
 **\[Workshop\] Coding Gym** (120')<br/>
