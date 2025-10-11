@@ -83,10 +83,14 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2025
 
+**\[Workshop\] Coding Gym** (120')<br/>
+20 attendees.<br/>
+@[DevFest Milano 2025](https://devfestmilano.it/) -- October 2025/Milan (Italy)
+
 **Multiparadigm concurrency with SObjectizer** (90')<br/>
 [Slides & Snippets (ENG)](https://github.com/ilpropheta/multiparadigm-concurrency) <br/>
 30+ attendees.<br/>
-@[XPUG Bologna Monthly](https://xpugbo1025.eventbrite.it/) -- October 2025
+@[XPUG Bologna Monthly](https://xpugbo1025.eventbrite.it/) -- October 2025/Bologna (Italy)
 
 ## 2024
 
@@ -101,45 +105,45 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 **Alla scoperta di C++23** (90')<br/>
 [Slides & Snippets (ENG)](https://github.com/ilpropheta/cpp23/) <br/>
 60+ attendees.<br/>
-@[Italian C++ Meetup Milan at Microsoft House](https://italiancpp.org/eventi/2024-05-29-milano/) -- May 2024
+@[Italian C++ Meetup Milan at Microsoft House](https://italiancpp.org/eventi/2024-05-29-milano/) -- May 2024/Milan (Italy)
 
 **Community C++, Ferrari e Tetra Pak | Chiacchierata con Marco Arena** (150')<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=o8IfzAPbJ0o) <br/>
 500 online attendees.<br/>
-@[Mr. Rip](https://retireinprogress.com/author/retireinprogressgmail-com/) -- March 2024
+@[Mr. Rip](https://retireinprogress.com/author/retireinprogressgmail-com/) -- March 2024/Online
 
 ## 2023
 **Alla scoperta di C++23** (90')<br/>
 [Slides & Demo (ENG)](https://github.com/ilpropheta/cpp23) - [📹 Video (ITA)](https://www.youtube.com/watch?v=PYoahya-iIk) <br/>
 28 in person + 18 online attendees.<br/>
-@[Monthly Italian C++ Meetups Modena](https://italiancpp.org/eventi/2023-09-27-cpp23/) -- September 2023
+@[Monthly Italian C++ Meetups Modena](https://italiancpp.org/eventi/2023-09-27-cpp23/) -- September 2023/Modena (Italy)
 
 *C++ Course:* **Programmare in C++ è facile, se sai come farlo** (4 hours)<br/>
 I proudly developed and recorded the *C++ online course* of the *Enciclopedia Treccani*, the most popular encyclopedia in the Italian language. Basically, [Edulia Masterclass](https://edulia.it/), the digital training platform of *Istituto Treccani* selected me as a C++ expert to host the C++ course on the platform. I designed the course from scratch, deciding the slant and contents. The course is organized in 4 modules and it lasts for 4 hours. <br/>
 [Course page (ITA)](https://edulia.it/prodotto/programmare-in-cpp-e-facile-se-sai-come-farlo/) <br/>
 [Demo used to support the lessons](https://github.com/ilpropheta/guess-it)<br/>
-@[Edulia](https://edulia.it/) -- April 2023
+@[Edulia](https://edulia.it/) -- April 2023/Online
 
 **Visita guidata a gRPC in C++** (90')<br/>
 [Slides & Demo (ENG)](https://github.com/ilpropheta/hello-grpc) <br/>
 30 attendees.<br/>
-@[XPUG Bologna Monthly](https://www.eventbrite.it/e/biglietti-visita-guidata-a-grpc-in-c-marco-arena-574022846787) -- March 2023
+@[XPUG Bologna Monthly](https://www.eventbrite.it/e/biglietti-visita-guidata-a-grpc-in-c-marco-arena-574022846787) -- March 2023/Bologna (Italy)
 
 ## 2022
 **A gentle introduction to gRPC in C++** (90')<br/>
 [Slides & Demo (ENG)](https://github.com/ilpropheta/hello-grpc) - [📹 Video (ITA)](https://www.youtube.com/watch?v=uZUJOsR8pYM) <br/>
 25 attendees.<br/>
-@[Monthly Italian C++ Meetups Modena](https://italiancpp.org/eventi/2022-06-09-grpc/) -- June 2022
+@[Monthly Italian C++ Meetups Modena](https://italiancpp.org/eventi/2022-06-09-grpc/) -- June 2022/Modena (Italy)
 
 **C++20 per impazienti** (90')<br/>
 [Slides & Snippets (ENG)](https://github.com/italiancpp/meetups/blob/main/C%2B%2B20%20per%20impazienti.pdf) <br/>
 40+ attendees.<br/>
-@[Italian C++ Meetup Milan at Microsoft House](https://italiancpp.org/eventi/2022-05-31-milano/) -- May 2022
+@[Italian C++ Meetup Milan at Microsoft House](https://italiancpp.org/eventi/2022-05-31-milano/) -- May 2022/Milan (Italy)
 
 **C++20 for the daily job** (90')<br/>
 [Slides & Snippets (ENG)](https://github.com/ilpropheta/cpp20-for-the-daily-job) - [📹 Video (ITA)](https://www.youtube.com/watch?v=-Zuftu_Fpqo)<br/>
 26 attendees.<br/>
-@[Monthly Italian C++ Meetups Modena](https://italiancpp.org/eventi/2022-03-10-cpp20/) -- March 2022
+@[Monthly Italian C++ Meetups Modena](https://italiancpp.org/eventi/2022-03-10-cpp20/) -- March 2022/Modena (Italy)
 
 ## 2021
 **É facile usare i range, se sai come farlo** (90')<br/>
@@ -376,7 +380,7 @@ List of meetups, including speakers and topics discussed:
 
 <img src="/pics/cg-2024.png" alt="Coding Gym Modena - 2025" width="700">
 
-By now, I organized 3 sessions in Modena attended by 70 people overall.
+By now, I organized 3 sessions in Modena and 1 in Milan attended by 90 people overall.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
@@ -1905,4 +1909,4 @@ Here's a quick look at some key moments that (I think) have shaped my profession
 
 ----
 
-*Last Update*: **September 2025**
+*Last Update*: **October 2025**
