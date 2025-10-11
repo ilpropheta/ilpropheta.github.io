@@ -1903,7 +1903,9 @@ Here's a quick look at some key moments that (I think) have shaped my profession
   - co-organized the first Coding Gym in Latina
   - co-organized the first [DevFest Modena](https://devfest.modena.it/) (first also in Emilia Romagna)
   - started organizing recurring C++ meetups in Milan
+  - enrolled in a theatre amateur class for the first time
 - 2025
+  - made my first debut on stage at a local theatre, performing in the end-of-year recital of the theatre amateur class I was part of
   - successfully merged [my first pull request to SObjectizer](https://github.com/Stiffstream/sobjectizer/pull/99)
 <br/>
 
