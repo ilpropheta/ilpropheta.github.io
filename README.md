@@ -376,6 +376,10 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=c7KS1hegUiA)<br/>
 60+ in person + 12 online attendees.
 
+- **October 22**: **Rudy Melli** and **Eric Tondelli** speaking about [Il Controllo Qualità Industriale nell’Era dell’AI](https://mlmodena.it/eventi/2025-10-21-quality/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=pGnEyiCkHoY)<br/>
+90 in person + 15 online attendees.
+
 ### [Coding Gym Modena - Season 2025](https://coding-gym.org)
 
 <img src="/pics/cg-2024.png" alt="Coding Gym Modena - 2025" width="700">
