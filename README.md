@@ -321,6 +321,45 @@ Every meetup and event I've organized has been completely free to attend and des
 
 ## 2025
 
+### [C++ Day 2025](http://italiancpp.org/cppday25)
+
+<img src="/pics/cppday25.jpg" alt="C++ Day 2025" width="700">
+
+Pavia, October 2025.
+
+I coordinated the organization of the sixth edition of the C++ Day, a community-driven C++ event format by the Italian C++ Community, co-organized with external partners like companies and universities. This event was a joint effort between the Italian C++ Community and [SEA Vision](https://seavision-group.it/), who also generously hosted the event at their venue.<br/>
+**165 attendees** (180 registered people - ~9% drop).
+
+*Speakers*: Alberto Barbati, Daniele Pallastrelli, Denis Yaroshevskiy, Stefano Fiorentino, Massimo Fioravanti, Marco Marcello, Jonathan Marriott.
+
+**Sponsors**: SEA Vision, ELT, Develer, SIGEO.
+
+The other co-organizers and staff: Alessandro Vergani, Angelica Ferrari, Aurora Ianna, Paolo Marangolo, Martina Alpeggiani, Gabriele Fagioli.
+
+**Highlights:**
+
+- [Theme song](https://youtu.be/KbCUxxTaNjk)
+- 5x50' talks
+- 1x35' short talk
+- C++ 40th birthday celebration (posters + final game)
+- Networking breaks and lunch.
+
+**Topics:**
+
+- Techniques for returning multiple values
+- Delegating behaviors in C++
+- SIMD substring in a string
+- Mocking the UART in C++ (embedded)
+- Interactive Program Design in C++
+- 8 Queens at Compile Time
+
+Additional references:
+
+- [Theme song](https://youtu.be/KbCUxxTaNjk)
+- [Wrap-up article (including feedback and statistics)](todo)
+- [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWJXZYsOsjBTNL4gf2ZuohJ)
+- [📸 Pictures](https://www.facebook.com/media/set/?set=a.1388905546576398&type=3)
+
 ### Milan C++ Meetups - Season 2025
 
 <img src="/pics/meetup-mi2025.jpg" alt="Italian C++ Meetup Milan 2025" width="700">
