@@ -421,7 +421,7 @@ List of meetups, including speakers and topics discussed:
 
 ### [Coding Gym Modena - Season 2025](https://coding-gym.org)
 
-<img src="/pics/cg-2024.png" alt="Coding Gym Modena - 2025" width="700">
+<img src="/pics/cg-2025.jpg" alt="Coding Gym Modena - 2025" width="700">
 
 By now, I organized 4 sessions in Modena and 1 in Milan attended by 106 people overall.
 
