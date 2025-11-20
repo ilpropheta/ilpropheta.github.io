@@ -399,6 +399,11 @@ Venue: *Microsoft House* <br/>
 [📹 Video (ENG)](https://www.youtube.com/watch?v=6SFoZWHGn0E)<br/>
 70 in person + 15 online attendees.
 
+- **November 19**: **Gennaro Iorio** speaking about [Managing complex development environments in Conan2](https://italiancpp.org/eventi/2025-11-19-mi/);<br/>
+Venue: *Schindler Milan* <br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=ZE3tvpnnTtk)<br/>
+52 in person + 14 online attendees.
+
 ### [ML Modena Meetups - Season 2025](https://mlmodena.it)
 
 <img src="/pics/mlmodena25.jpg" alt="ML Modena Meetups" width="700">
