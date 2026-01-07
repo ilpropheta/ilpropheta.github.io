@@ -18,11 +18,11 @@ A professional list of my notable activities.
 
 # TL;DR -- in a nutshell
 
-I am a 14+ years experienced Computer Engineer from Rome, specialized in **C++ software development**.
+I am a 15+ years experienced Computer Engineer from Rome, specialized in **C++ software development**.
 
 Since the end of **2019**, I have worked on bringing artificial intelligence to [Tetra Pak](http://tetrapak.com/) packaging machines. Previously, I developed mission-critical data analysis and simulation software for [Ferrari's F1 Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/).
 
-Beyond the code, I'm a **12+ years experienced community manager**, organizer, blogger, and speaker: I birthed the **Italian C++ Community** in 2013, **Coding Gym** in 2016 (a programming laboratory open to all languages), and **ML Modena** (Machine Learning Modena) in 2020 - the *AI* community in Modena. Together, these initiatives have welcomed thousands of attendees, hosting meetups, coding laboratories, online events, and international conferences. I've been a [Microsoft MVP]((https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena)) annually since 2016 for my contributions.
+Beyond the code, I'm a **13+ years experienced community manager**, organizer, blogger, and speaker: I birthed the **Italian C++ Community** in 2013, **Coding Gym** in 2016 (a programming laboratory open to all languages), and **ML Modena** (Machine Learning Modena) in 2020 - the *AI* community in Modena. Together, these initiatives have welcomed thousands of attendees, hosting meetups, coding laboratories, online events, and international conferences. I've been a [Microsoft MVP]((https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena)) annually since 2016 for my contributions.
 
 Through these activities, I’ve gained hands-on experience in building and managing business relationships, even among companies competing in the same industry, coordinating their collaboration toward shared goals. I’ve also worked on gathering support and resources to keep non-profit events thriving and successfully navigating agreements on sponsorships, venues, and event partnerships.
 
@@ -1959,4 +1959,4 @@ Here's a quick look at some key moments that (I think) have shaped my profession
 
 ----
 
-*Last Update*: **November 2025**
+*Last Update*: **January 2026**
