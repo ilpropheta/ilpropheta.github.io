@@ -356,7 +356,7 @@ The other co-organizers and staff: Alessandro Vergani, Angelica Ferrari, Aurora 
 Additional references:
 
 - [Theme song](https://youtu.be/KbCUxxTaNjk)
-- [Wrap-up article (including feedback and statistics)](todo)
+- [Wrap-up article (including feedback and statistics)](https://italiancpp.org/posts/2025-10-25-cppday25/)
 - [📹 Videos](https://www.youtube.com/playlist?list=PLsCm1Hs016LWJXZYsOsjBTNL4gf2ZuohJ)
 - [📸 Pictures](https://www.facebook.com/media/set/?set=a.1388905546576398&type=3)
 
