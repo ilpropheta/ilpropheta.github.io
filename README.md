@@ -319,6 +319,18 @@ In addition to my primary focus on the [Italian C++ Community](http://italiancpp
 
 Every meetup and event I've organized has been completely free to attend and designed to foster an inclusive environment where people from all backgrounds feel welcome and valued. A core principle of my community philosophy is *embracing spontaneity over imposing*. My approach focuses on creating an environment where people feel at ease and included. I explore this idea further in [this 30-min video](https://www.youtube.com/watch?v=ViTvnI1yTgE) (in Italian).
 
+## 2026
+
+### [Coding Gym Modena - Season 2026](https://coding-gym.org)
+
+<img src="/pics/cg-2025.jpg" alt="Coding Gym Modena - 2025" width="700">
+
+**10 years of Coding Gym!**
+
+This year, I have organized 1 session in Modena so far, attended by 19 people overall.
+
+More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
+
 ## 2025
 
 ### [C++ Day 2025](http://italiancpp.org/cppday25)
@@ -1959,4 +1971,4 @@ Here's a quick look at some key moments that (I think) have shaped my profession
 
 ----
 
-*Last Update*: **January 2026**
+*Last Update*: **February 2026**
