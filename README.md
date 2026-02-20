@@ -81,6 +81,12 @@ Some events I spoke at provided a *joind.in* page. You can check out my [Joind.i
 <img src="/pics/talks-cover.jpg" alt="Speaking to 150+ people at Codemotion Milan 2015" width="600"><br/>
 Speaking about C++ to 150+ people at Codemotion Milan 2015
 
+## 2026
+
+**\[Game\] C++26: the card game** (120')<br/>
+25 attendees.<br/>
+@[Monthly Italian C++ Meetups Milan](https://italiancpp.org/eventi/2026-02-19-mi/) -- February 2026/Milan (Italy)
+
 ## 2025
 
 **\[Workshop\] Coding Gym** (120')<br/>
@@ -320,6 +326,24 @@ In addition to my primary focus on the [Italian C++ Community](http://italiancpp
 Every meetup and event I've organized has been completely free to attend and designed to foster an inclusive environment where people from all backgrounds feel welcome and valued. A core principle of my community philosophy is *embracing spontaneity over imposing*. My approach focuses on creating an environment where people feel at ease and included. I explore this idea further in [this 30-min video](https://www.youtube.com/watch?v=ViTvnI1yTgE) (in Italian).
 
 ## 2026
+
+### Milan C++ Meetups - Season 2026
+
+<img src="/pics/meetup-mi2025.jpg" alt="Italian C++ Meetup Milan 2026" width="700">
+
+I organized monthly C++ meetups, hosted in person at various locations in Milan.
+
+With Milan’s size and cultural diversity, I thought it'd be great to rotate meetups across different hosts and venues. That's why I'm teaming up with companies to give attendees awesome experiences and insights by exploring various locations and industries.
+
+Every meetup consisted of 1-hour technical session + pizza and networking:
+- [📹 YouTube Playlist here](https://www.youtube.com/playlist?list=PLsCm1Hs016LWtmpn1kSb7G5MRTQ4JWMIW)
+- [📸 Some pictures here](https://www.facebook.com/media/set/?set=a.1492378082895810&type=3)
+
+List of meetups, including speakers and topics discussed:
+
+- **February 19**: **Marco Arena** and **Alberto Barbati** [facilitating a card game to meet C++26](https://italiancpp.org/eventi/2026-02-19-mi/); The game is original and created by Marco Arena with Alberto's review and support.<br/>
+Venue: *WAO Isola Bar & Bistrot* <br/>
+25 in person.
 
 ### [Coding Gym Modena - Season 2026](https://coding-gym.org)
 
