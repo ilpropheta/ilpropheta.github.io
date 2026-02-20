@@ -83,7 +83,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2026
 
-**\[Game\] C++26: the card game** (120')<br/>
+**\[Workshop\] C++26: the card game** (120')<br/>
 25 attendees.<br/>
 @[Monthly Italian C++ Meetups Milan](https://italiancpp.org/eventi/2026-02-19-mi/) -- February 2026/Milan (Italy)
 
