@@ -345,6 +345,42 @@ List of meetups, including speakers and topics discussed:
 Venue: *WAO Isola Bar & Bistrot* <br/>
 25 in person.
 
+### [La Notte dell'Intelligenza Artificiale II](https://mlmodena.it/eventi/2026-02-25-notte-dell-intelligenza-artificiale-2/)
+
+<img src="/pics/notte-ai-26.jpg" alt="La notte dell'Intelligenza Artificiale II" width="700">
+
+Modena, February 2026.
+
+I coordinated with [Giorgia Franchini](https://www.linkedin.com/in/giorgia-franchini-a6bba042/) the organization of the second edition of "La notte dell'Intelligenza Artificiale", a networking event dedicated to Artificial Intelligence. The event took place at "Università di Modena e Reggio Emilia". Theme of this edition: AI and Astronomy (*AstroAI*).<br/>
+**250 attendees** (310 registered people - ~20% drop).
+
+The event was part of [ML Modena](https://mlmodena.it/) events.
+
+**Schedule:**
+
+- 6:00pm-6:15pm: open doors
+- 6:15pm-7:00pm: event kick-off + scientific session by [Davide Borghi](https://www.linkedin.com/in/davideborghi1969/)
+- 7:15pm-9:15pm: buffet, networking and interaction
+- 9:15pm-9:30pm: event closing
+
+Poster sessions and exhibitors:
+- Dipartimento FIM Edificio di Matematica
+- BlackHoleWeather (FIM)
+- DIEF (Dipartimento di Ingegneria “Enzo Ferrari”)
+- DISMI (Dipartimento di Science e Metodi dell’Ingegneria)
+- Deep Vision Consulting: computer vision and AI for industrial-grade solutions
+- Hipert SRL
+- GoatAI
+- Vision-E
+- IT4LIA AI Factory (Cineca)
+- Associazione Il COSMo
+- Associazione GAGBA
+- Planetario di Modena
+
+We hosted AI-based games and a "networking passport" to foster interaction with speakers and exhibitors.
+
+[📸 Some pictures here](https://www.facebook.com/media/set/?vanity=mlmodena.official&set=a.924040516846560)
+
 ### [Coding Gym Modena - Season 2026](https://coding-gym.org)
 
 <img src="/pics/cg-2025.jpg" alt="Coding Gym Modena - 2025" width="700">
