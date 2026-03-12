@@ -381,6 +381,22 @@ We hosted AI-based games and a "networking passport" to foster interaction with 
 
 [📸 Some pictures here](https://www.facebook.com/media/set/?vanity=mlmodena.official&set=a.924040516846560)
 
+### [ML Modena Meetups - Season 2026](https://mlmodena.it)
+
+<img src="/pics/mlmodena25.jpg" alt="ML Modena Meetups" width="700">
+
+I organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/@mlmodena).<br/>
+
+Every meetup consisted of 1-hour technical session + pizza and networking:
+- [📹 YouTube Playlist](https://www.youtube.com/playlist?list=PL0yWIbKoA6BpYX6jYFg7h-KOu-ut2S-hZ)
+- [📸 Some pictures](https://www.facebook.com/media/set/?set=a.934589359125009&type=3)
+
+List of meetups, including speakers and topics discussed:
+
+- **March 11**: **Federico Marchesi** speaking about [ Version control your Data before you Code](https://mlmodena.it/eventi/2026-03-11-version-control-your-data-before-you-code/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=D8IuAVp86wo)<br/>
+50+ in person + 15 online attendees.
+
 ### [Coding Gym Modena - Season 2026](https://coding-gym.org)
 
 <img src="/pics/cg-2025.jpg" alt="Coding Gym Modena - 2025" width="700">
@@ -2031,4 +2047,4 @@ Here's a quick look at some key moments that (I think) have shaped my profession
 
 ----
 
-*Last Update*: **February 2026**
+*Last Update*: **March 2026**
