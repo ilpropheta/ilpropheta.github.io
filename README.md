@@ -329,7 +329,7 @@ Every meetup and event I've organized has been completely free to attend and des
 
 ### Milan C++ Meetups - Season 2026
 
-<img src="/pics/meetup-mi2025.jpg" alt="Italian C++ Meetup Milan 2026" width="700">
+<img src="/pics/meetup-mi2026.jpg" alt="Italian C++ Meetup Milan 2026" width="700">
 
 I organized monthly C++ meetups, hosted in person at various locations in Milan.
 
