@@ -345,6 +345,11 @@ List of meetups, including speakers and topics discussed:
 Venue: *WAO Isola Bar & Bistrot* <br/>
 25 in person.
 
+- **March 18**: **Andrea Griffini** speaking about [C++ metaprogramming, what’s wrong?](https://italiancpp.org/eventi/2026-03-18-mi/);<br/>
+Venue: *Randstad Box* <br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=eU6aGL2JXoQ)<br/>
+38 in person + 8 online attendees.
+
 ### [La Notte dell'Intelligenza Artificiale II](https://mlmodena.it/eventi/2026-02-25-notte-dell-intelligenza-artificiale-2/)
 
 <img src="/pics/notte-ai-26.jpg" alt="La notte dell'Intelligenza Artificiale II" width="700">
