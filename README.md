@@ -84,6 +84,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 ## 2026
 
 **Multiparadigm concurrency with SObjectizer** (90')<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=ccOCEuzXyY4)<br/>
 [Slides & Demo (ENG)](https://lao.bz/mcs) <br/>
 40 in person + 10 online attendees.<br/>
 @[Monthly Italian C++ Meetups Milan](https://italiancpp.org/eventi/2026-04-15-mi/) -- April 2026/Milan (Italy)
@@ -95,7 +96,6 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 ## 2025
 
 **Multiparadigm concurrency with SObjectizer** (90')<br/>
-[📹 Video (ITA)](https://www.youtube.com/watch?v=ccOCEuzXyY4)<br/>
 [Slides & Demo (ENG)](https://github.com/ilpropheta/multiparadigm-concurrency) <br/>
 30+ attendees.<br/>
 @[XPUG Bologna Monthly](https://xpugbo1025.eventbrite.it/) -- October 2025/Bologna (Italy)
