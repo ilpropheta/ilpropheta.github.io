@@ -361,6 +361,28 @@ Venue: *Microsoft* <br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=ccOCEuzXyY4)<br/>
 40 in person + 10 online attendees.
 
+### [MoRe AI - ML Modena a Reggio Emilia](https://mlmodena.it/eventi/2026-04-22-MoRe-AI-MLModena-a-reggio-emilia/)
+
+<img src="/pics/more-ai-26.jpg" alt="MoRe AI" width="700">
+
+Reggio Emilia, April 2026.
+
+I coordinated with [Paolo Scarabelli](https://www.linkedin.com/in/paolo-scarabelli/) the organization of a special event about *Physical AI* and *Robotics* in Reggio Emilia. The event took place at [Parco Reggiane Innovazione](https://parcoinnovazione.it/). The event aimed to raise awareness of AI and Physical AI relevant to the local area, with the goal of inspiring participants to join some locals that are building an AI community in the region. <br/>
+**130 attendees** (185 registered people - ~30% drop).
+
+The event was part of [ML Modena](https://mlmodena.it/) events.
+
+**Schedule:**
+
+- 6:00pm-6:30pm: open doors
+- 7:00pm-7:15pm: event kick-off
+- 7:15pm-7:45pm: tech session "Physical AI: La robotica come il corpo dell’Intelligenza Artificiale" (Cristian Secchi)
+- 7:45pm-8:15pm: tech session "Applicazioni di Large AI Models nel manifatturiero" (Giacomo Piccinini)
+- 8:15pm-8:45pm: tech session "Robot cognitivi e AI: quando l’automazione diventa percezione" (Marco Bassoli)
+- from 9:00pm: dinner
+
+[📸 Some pictures here](https://www.facebook.com/media/set/?set=a.967695652481046&type=3)
+
 ### [La Notte dell'Intelligenza Artificiale II](https://mlmodena.it/eventi/2026-02-25-notte-dell-intelligenza-artificiale-2/)
 
 <img src="/pics/notte-ai-26.jpg" alt="La notte dell'Intelligenza Artificiale II" width="700">
