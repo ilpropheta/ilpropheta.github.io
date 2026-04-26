@@ -441,7 +441,7 @@ List of meetups, including speakers and topics discussed:
 
 **10 years of Coding Gym!**
 
-This year, I have organized 1 session in Modena so far, attended by 19 people overall.
+This year, I have organized 2 sessions in Modena so far, attended by 32 people overall.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
