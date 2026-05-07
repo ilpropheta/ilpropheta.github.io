@@ -711,7 +711,7 @@ List of meetups, including speakers and topics discussed:
 
 <img src="/pics/cg-2024.png" alt="Coding Gym Modena - 2024" width="700">
 
-By now, I organized 6 sessions in Modena and 1 in Milan attended by 172 people overall.
+By now, I organized 5 sessions in Modena and 1 in Milan attended by 172 people overall.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
@@ -1174,7 +1174,7 @@ Additional references:
 
 <img src="/pics/cg-2020.jpg" alt="Coding Gym Modena - 2020" width="700">
 
-I organized 1 session in Modena and 2 online, attended by 32 people overall. The COVID emergency knocked out Coding Gym in 2020.
+I organized 3 sessions in Modena (2 were hosted online), attended by 32 people overall. The COVID emergency knocked out Coding Gym in 2020.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
@@ -1469,7 +1469,7 @@ I co-organized the first Modena Tech Summit, the first free conference in Modena
 
 <img src="/pics/cg-2018.jpg" alt="Coding Gym Modena - 2018" width="700">
 
-I organized 10 sessions in Modena and 1 in Bologna, Pauda, Milan, Rome, and Turin, attended by 284 people overall. 
+I organized 10 sessions in Modena, 1 in Pauda, 1 in Milan, 1 in Rome, and 1 in Turin, attended by 284 people overall. 
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
@@ -1691,7 +1691,7 @@ Additional references:
 
 <img src="/pics/cg-2016.jpg" alt="Coding Gym Modena - 2016" width="700">
 
-I created Coding Gym and organized 8 sessions in Modena (the very first one in Bologna), attended by 77 people overall. 
+I created Coding Gym and organized 8 sessions in Modena (the very first one hosted in Bologna), attended by 77 people overall. 
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
