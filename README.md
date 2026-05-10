@@ -383,7 +383,7 @@ The event was part of [Italian C++ Community](https://italiancpp.org/) events.
 
 Additional references:
 - [📹 Video (ENG)](https://www.youtube.com/live/iu2A3qVkLQY)
-- [📸 Some pictures here](FIXME)
+- [📸 Some pictures here](https://www.facebook.com/media/set/?set=a.1564601942340090&type=3)
 
 ### [MoRe AI - ML Modena a Reggio Emilia](https://mlmodena.it/eventi/2026-04-22-MoRe-AI-MLModena-a-reggio-emilia/)
 
