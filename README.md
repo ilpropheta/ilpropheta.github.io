@@ -361,6 +361,30 @@ Venue: *Microsoft* <br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=ccOCEuzXyY4)<br/>
 40 in person + 10 online attendees.
 
+### [Special C++ Meetup with Bjarne Stroustrup](https://italiancpp.org/eventi/2026-05-09-fi/)
+
+<img src="/pics/meetup-fi26.jpg" alt="Meetup with Bjarne Stroustrup 2026" width="700">
+
+Florence, May 2026.
+
+I coordinated the organization of a special morning with **Bjarne Stroustrup** in Florence, at [Campus Novoli, University of Florence](https://www.unifi.it/it/studia-con-noi/vivere-luniversita/sedi-trasporti-e-mobilita/campus-novoli). The event was organized by Italian C++ Community, University of Florence, University of Pisa. Tiberio Uricchio and Michele "skypjack" Caini co-organized this event with me. The event consisted of a tech talk followed by an *AMA* (Ask Me Anything) session (moderated with [slido](https://www.slido.com/)). <br/>
+**280 attendees** (406 registered people - ~32% drop).
+
+The event was part of [Italian C++ Community](https://italiancpp.org/) events.
+
+**Schedule:**
+
+- 09:30am-10:00am: open doors
+- 10:00am-10:15am: welcome message
+- 10:15am-11:45am: tech session "Concept-based generic programming" by Bjarne Stroustrup
+- 11:45am-12:00pm: quick break
+- 12:00pm-01:00pm: AMA (Ask Me Anything) with Bjarne Stroustrup
+- 01:00pm: the end
+
+Additional references:
+- [📹 Video (ENG)](https://www.youtube.com/live/iu2A3qVkLQY)
+- [📸 Some pictures here](FIXME)
+
 ### [MoRe AI - ML Modena a Reggio Emilia](https://mlmodena.it/eventi/2026-04-22-MoRe-AI-MLModena-a-reggio-emilia/)
 
 <img src="/pics/more-ai-26.jpg" alt="MoRe AI" width="700">
@@ -2081,8 +2105,11 @@ Here's a quick look at some key moments that (I think) have shaped my profession
 - 2025
   - made my first debut on stage at a local theatre, performing in the end-of-year recital of the theatre amateur class I was part of
   - successfully merged [my first pull request to SObjectizer](https://github.com/Stiffstream/sobjectizer/pull/99)
+- 2026
+  - co-organized a [debut event in Reggio Emilia](https://mlmodena.it/eventi/2026-04-22-MoRe-AI-MLModena-a-reggio-emilia/) to kick-start an AI community there
+  - organized an event with *Bjarne Stroustrup* as the special guest in Italy
 <br/>
 
 ----
 
-*Last Update*: **April 2026**
+*Last Update*: **May 2026**
