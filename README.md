@@ -2107,7 +2107,7 @@ Here's a quick look at some key moments that (I think) have shaped my profession
   - successfully merged [my first pull request to SObjectizer](https://github.com/Stiffstream/sobjectizer/pull/99)
 - 2026
   - co-organized a [debut event in Reggio Emilia](https://mlmodena.it/eventi/2026-04-22-MoRe-AI-MLModena-a-reggio-emilia/) to kick-start an AI community there
-  - organized an event with *Bjarne Stroustrup* as the special guest in Italy
+  - organized an [event](https://italiancpp.org/eventi/2026-05-09-fi/) with *Bjarne Stroustrup* as the special guest in Italy
 <br/>
 
 ----
