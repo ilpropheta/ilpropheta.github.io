@@ -1593,6 +1593,8 @@ Modena, June 2017.
 
 I organized a meetup with the special guest **Bartosz Milewski**, hosted by [Conoscere Linux](http://conoscerelinux.org), in Modena. Bartosz shared his vision and predictions on "the Future of Programming".
 **45+ attendees**.
+- [📹 Video (ENG) - part 1](https://www.youtube.com/watch?v=sXdDqOxjKcc)<br/>
+- [📹 Video (ENG) - part 2](https://www.youtube.com/watch?v=XZl5DglVTCs)<br/>
 
 ### [Mini-Meetup May / Modena](https://italiancpp.org/eventi/2017-02-15-cpp17/)
 
