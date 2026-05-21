@@ -361,6 +361,11 @@ Venue: *Microsoft* <br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=ccOCEuzXyY4)<br/>
 40 in person + 10 online attendees.
 
+- **May 20**: **Paolo Verbari** speaking about [Agentic AI: a year in the field](https://italiancpp.org/eventi/2026-05-20-mi/);<br/>
+Venue: *Mollie* <br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=z_TVHdMkMUU)<br/>
+38 in person + 15 online attendees.
+
 ### [Special C++ Meetup with Bjarne Stroustrup](https://italiancpp.org/eventi/2026-05-09-fi/)
 
 <img src="/pics/meetup-fi26.jpg" alt="Meetup with Bjarne Stroustrup 2026" width="700">
