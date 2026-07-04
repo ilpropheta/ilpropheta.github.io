@@ -20,7 +20,7 @@ A professional list of my notable activities.
 
 I am a 15+ years experienced Computer Engineer from Rome, specialized in **C++ software development**.
 
-Since the end of **2019**, I have worked on bringing artificial intelligence to [Tetra Pak](http://tetrapak.com/) packaging machines. Previously, I developed mission-critical data analysis and simulation software for [Ferrari's F1 Team (Scuderia Ferrari)](https://formula1.ferrari.com/en/).
+I recently joined [Nozomi Networks](https://nozominetworks.com/), working on real-time network analysis and inspection. From 2019 to 2026, I served [Tetra Pak](http://tetrapak.com/), introducing AI to industrial packaging machines. Previously, from 2011 to 2019, I worked with the [Ferrari F1 Team](https://formula1.ferrari.com/en/) on mission-critical telemetry and simulation software, enabling engineers to set up the most competitive F1 car on the track.
 
 Beyond the code, I'm a **13+ years experienced community manager**, organizer, blogger, and speaker: I birthed the **Italian C++ Community** in 2013, **Coding Gym** in 2016 (a programming laboratory open to all languages), and **ML Modena** (Machine Learning Modena) in 2020 - the *AI* community in Modena. Together, these initiatives have welcomed thousands of attendees, hosting meetups, coding laboratories, online events, and international conferences. I've been a [Microsoft MVP]((https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena)) annually since 2016 for my contributions.
 
@@ -30,15 +30,15 @@ A few more details about my communities:
 
 - in 2013, I founded [++it, the Italian C++ Community](https://italiancpp.org/), the C++ landmark in Italy, hosting ~400 users on Discord, 250+ attendees at on-site events. The community has hosted monthly local meetups in Modena (20-25 attendees) since 2017, in Milan (50-60 attendees) since 2024, and one international conference every year (before 2020, we used to organize two major conferences every year);
 
-- in 2016, I founded [Coding Gym](#coding-gym), a programming lab open to all languages where people pair up and work on coding challenges. Originally launched in *Modena*, I now lead an incredible group of "trainers" who run the same format, even discontinuously, in their cities. At the moment, I personally host a session in Modena every 2 months. In the last decade, I've authored and published over 150 articles on the [Coding Gym challenges website](https://coding-gym.org/challenges/), exploring a variety of approaches and programming languages, enriched by insights and solutions shared by participants during mine and other sessions;
+- in 2016, I founded [Coding Gym](#coding-gym), a programming lab open to all languages where people pair up and work on coding challenges. Originally launched in *Modena*, I now lead an incredible group of "trainers" who run the same format, even discontinuously, in their cities. I organized Coding Gym Modena for **10 years**, continuously from **2016** to **2026**, facilitating a total of **63** sessions, and a dozen of others at special events like DevFest or in other cities. In the last decade, I've authored and published over 150 articles on the [Coding Gym challenges website](https://coding-gym.org/challenges/), exploring a variety of approaches and programming languages, enriched by insights and solutions shared by participants during mine and other sessions;
 
-- in 2020 (before AI was cool 😝), I co-founded [ML Modena](https://mlmodena.it/), the first (and only one) community about *Artificial Intelligence* in the *Modena* area. I lead the staff to organize a meetup every 2-3 months, hosting 80-100 people (our best turnout so far is *150+* attendees at a regular meetup and *230* during a special networking event).
+- in 2020 (before AI was cool 😝), I co-founded [ML Modena](https://mlmodena.it/), the first (and only one) community about *Artificial Intelligence* in the *Modena* area. I managed the staff team, organizing events and meetups (hosting 80-100 people), from the beginning until May 2026.
 
 Also, I am involved in some other community activities:
 
 - I have been an **editor** of [isocpp.org](http://isocpp.org/) since 2014. I help moderate the International C++ online community;
 
-- since 2016, I have joined the staff of [ConoscereLinux](https://conoscerelinux.org), a non-profit organization making divulgation in the Modena area;
+- from 2016 to 2026 I was a staff member of [ConoscereLinux](https://conoscerelinux.org), a non-profit organization making divulgation in the Modena area;
 
 - since 2016, I have joined the staff of [Meeting C++](https://meetingcpp.com/), volounteering at the conference every year since then;
 
@@ -51,10 +51,8 @@ Recognized for my efforts, I've received the **Microsoft MVP award** ten times s
 At present, I am actively engaged in the following recurring activities:  
 
 - Organizing *Italian C++ Community* meetups in Milan, monthly or bi-monthly;
-- Hosting *Coding Gym* sessions in Modena, bi-monthly;
-- Supporting the organization of *ML Modena* AI-themed meetups in Modena, bi-monthly;
+- Co-organizing *Italian C++ Community*'s *C++ Day* (or other national events) yearly;
 - Serving as on-site staff at *Meeting C++*, every year;
-- Occasionally helping organize tech events like *DevFest Modena* or special *ConoscereLinux* meetups;
 - Bringing *Coding Gym* to tech conferences such as *DevFest* or *AgileDay* on occasion;
 - Delivering talks at tech conferences or local meetups from time to time;
 - Management of the social media of my communities and moderating their online channels such as Telegram and Discord.
@@ -452,7 +450,7 @@ We hosted AI-based games and a "networking passport" to foster interaction with 
 
 <img src="/pics/mlmodena25.jpg" alt="ML Modena Meetups" width="700">
 
-I organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/@mlmodena).<br/>
+I organized and promoted monthly Artificial Intelligence meetups, hosted at Università degli Studi di Modena e Reggio Emilia and online on [YouTube](https://www.youtube.com/@mlmodena). I passed the baton to the rest of the staff in May 2026 when I permanently moved to Milan.<br/>
 
 Every meetup consisted of 1-hour technical session + pizza and networking:
 - [📹 YouTube Playlist](https://www.youtube.com/playlist?list=PL0yWIbKoA6BpYX6jYFg7h-KOu-ut2S-hZ)
@@ -464,13 +462,17 @@ List of meetups, including speakers and topics discussed:
 [📹 Video (ITA)](https://www.youtube.com/watch?v=D8IuAVp86wo)<br/>
 50+ in person + 15 online attendees.
 
+- [*Shadowing*: just supervised the organizing, a sort of handover.] **June 17**: **Luca Flammia** speaking about [Agentic Architectures](https://mlmodena.it/eventi/2026-06-17-architetture-agentiche-enterprise/);<br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=D8IuAVp86wo)<br/>
+50+ in person + 20 online attendees.
+
 ### [Coding Gym Modena - Season 2026](https://coding-gym.org)
 
 <img src="/pics/cg-2026.jpg" alt="Coding Gym Modena - 2025" width="700">
 
 **10 years of Coding Gym!**
 
-This year, I have organized 3 sessions in Modena, attended by 43 people overall.
+I organized 3 sessions in Modena, attended by 53 people overall. Said goodbye to Coding Gym Modena in June after 10 awesome years, all because I moved to Milan permanently.
 
 More details on each session [here](https://coding-gym.org/events), 📸 pictures [here](https://www.facebook.com/media/set/?set=a.1538083799604550).
 
@@ -2115,8 +2117,12 @@ Here's a quick look at some key moments that (I think) have shaped my profession
 - 2026
   - co-organized a [debut event in Reggio Emilia](https://mlmodena.it/eventi/2026-04-22-MoRe-AI-MLModena-a-reggio-emilia/) to kick-start an AI community there
   - organized an [event](https://italiancpp.org/eventi/2026-05-09-fi/) with *Bjarne Stroustrup* as the special guest in Italy
+  - left the ML Modena crew
+  - organized the last session of Coding Gym in Modena
+  - quit *Tetra Pak*
+  - started working at *Nozomi Networks*
 <br/>
 
 ----
 
-*Last Update*: **May 2026**
+*Last Update*: **July 2026**
