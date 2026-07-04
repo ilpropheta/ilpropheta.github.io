@@ -1883,7 +1883,7 @@ People who has attended Coding Gym for some years tell that Coding Gym is a frie
 - learn new algorithms, data structures and coding patterns
 - experiment with programming languages and paradigms they are not fluent with
 
-In 2016, I started up Coding Gym in Modena, and since 2018 I have developed a format that has been adopted by other "trainers" to bring Coding Gym in new places. For coordinating this, I have been leading the community of "trainers" of Coding Gym that operates behind the scenes. Currently, Coding Gym is active in Modena, Padua, Milan, Turin, Bari, Lecce, Bassano del Grappa, and Rome.
+I organized Coding Gym in Modena for 10 years, from 2016 to 2026. Since 2018, I have developed the format that has been adopted by other "trainers" to bring Coding Gym in other cities. For coordinating this, I have been leading the group of "trainers" that operates behind the scenes.
 
 [The official website](https://coding-gym.org) contains more details, next and past events, and pictures.
 
