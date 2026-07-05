@@ -20,7 +20,7 @@ A professional list of my notable activities.
 
 I am a 15+ years experienced Computer Engineer from Rome, specialized in **C++ software development**.
 
-I recently joined [Nozomi Networks](https://nozominetworks.com/), working on real-time network analysis and inspection. From 2019 to 2026, I served [Tetra Pak](http://tetrapak.com/), introducing AI to industrial packaging machines. Previously, from 2011 to 2019, I worked with the [Ferrari F1 Team](https://formula1.ferrari.com/en/) on mission-critical telemetry and simulation software, enabling engineers to set up the most competitive F1 car on the track.
+I recently joined [Nozomi Networks](https://nozominetworks.com/), working on real-time network traffic analysis and inspection. From 2019 to 2026, I served [Tetra Pak](http://tetrapak.com/), introducing AI to industrial packaging machines. Previously, from 2011 to 2019, I worked with the [Ferrari F1 Team](https://formula1.ferrari.com/en/) on mission-critical telemetry and simulation software, enabling engineers to set up the most competitive F1 car on the track.
 
 Beyond the code, I'm a **13+ years experienced community manager**, organizer, blogger, and speaker: I birthed the **Italian C++ Community** in 2013, **Coding Gym** in 2016 (a programming laboratory open to all languages), and **ML Modena** (Machine Learning Modena) in 2020 - the *AI* community in Modena. Together, these initiatives have welcomed thousands of attendees, hosting meetups, coding laboratories, online events, and international conferences. I've been a [Microsoft MVP]((https://mvp.microsoft.com/it-it/PublicProfile/5001726?fullName=Marco%20%20Arena)) annually since 2016 for my contributions.
 
