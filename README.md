@@ -362,6 +362,11 @@ Venue: *Mollie* <br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=z_TVHdMkMUU)<br/>
 38 in person + 15 online attendees.
 
+- **September 16**: **Massimiliano Pagani** speaking about [Functional Programming in C++: from a Scala perspective](https://italiancpp.org/eventi/2026-09-16-mi/);<br/>
+Venue: *Mollie* <br/>
+[📹 Video (ITA)](https://www.youtube.com/watch?v=2PcP0aB_4gY)<br/>
+20 in person + 8 online attendees.
+
 ### [Special C++ Meetup with Bjarne Stroustrup](https://italiancpp.org/eventi/2026-05-09-fi/)
 
 <img src="/pics/meetup-fi26.jpg" alt="Meetup with Bjarne Stroustrup 2026" width="700">
@@ -2122,4 +2127,4 @@ Here's a quick look at some key moments that (I think) have shaped my profession
 
 ----
 
-*Last Update*: **July 2026**
+*Last Update*: **September 2026**
