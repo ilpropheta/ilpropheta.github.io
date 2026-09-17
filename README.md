@@ -363,7 +363,7 @@ Venue: *Mollie* <br/>
 38 in person + 15 online attendees.
 
 - **September 16**: **Massimiliano Pagani** speaking about [Functional Programming in C++: from a Scala perspective](https://italiancpp.org/eventi/2026-09-16-mi/);<br/>
-Venue: *Mollie* <br/>
+Venue: *Randstad Box* <br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=2PcP0aB_4gY)<br/>
 20 in person + 8 online attendees.
 
