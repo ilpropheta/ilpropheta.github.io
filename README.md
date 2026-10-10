@@ -79,6 +79,10 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 ## 2026
 
+**\[Workshop\] Coding Gym** (120')<br/>
+10 attendees.<br/>
+@[DevFest Milano 2026](https://2026.devfestmilano.it/) -- October 2026/Milan (Italy)
+
 **Multiparadigm concurrency with SObjectizer** (90')<br/>
 [📹 Video (ITA)](https://www.youtube.com/watch?v=ccOCEuzXyY4)<br/>
 [Slides & Demo (ENG)](https://lao.bz/mcs) <br/>
@@ -98,13 +102,13 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 
 **\[Workshop\] Coding Gym** (120')<br/>
 20 attendees.<br/>
-@[DevFest Milano 2025](https://devfestmilano.it/) -- October 2025/Milan (Italy)
+@[DevFest Milano 2025](https://2025.devfestmilano.it/) -- October 2025/Milan (Italy)
 
 ## 2024
 
 **\[Workshop\] Coding Gym** (120')<br/>
 21 attendees.<br/>
-@[DevFest Milano 2024](https://devfestmilano.it/) -- November 2024/Milan (Italy)
+@[DevFest Milano 2024](https://2024.devfestmilano.it/) -- November 2024/Milan (Italy)
 
 **\[Workshop\] Coding Gym** (120')<br/>
 26 attendees.<br/>
@@ -121,6 +125,7 @@ Speaking about C++ to 150+ people at Codemotion Milan 2015
 @[Mr. Rip](https://retireinprogress.com/author/retireinprogressgmail-com/) -- March 2024/Online
 
 ## 2023
+
 **Alla scoperta di C++23** (90')<br/>
 [Slides & Demo (ENG)](https://github.com/ilpropheta/cpp23) - [📹 Video (ITA)](https://www.youtube.com/watch?v=PYoahya-iIk) <br/>
 28 in person + 18 online attendees.<br/>
@@ -2127,4 +2132,4 @@ Here's a quick look at some key moments that (I think) have shaped my profession
 
 ----
 
-*Last Update*: **September 2026**
+*Last Update*: **October 2026**
